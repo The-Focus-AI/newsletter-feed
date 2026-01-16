@@ -6,3 +6,9 @@ credentials.json
 *.log
 .DS_Store
 .supabase/
+
+# Gmail skill tokens (per-project auth)
+.claude/*.local.*
+
+# Raw email data (user-specific, regenerate with download-emails.ts)
+raw/

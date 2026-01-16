@@ -1,2 +1,4 @@
 [tools]
-"npm:opencode-ai" = "latest"
+node = "latest"
+"npm:@anthropic-ai/claude-code" = "latest"
+"npm:@beads/bd" = "latest"
