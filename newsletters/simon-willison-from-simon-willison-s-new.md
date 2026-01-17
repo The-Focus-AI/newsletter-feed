@@ -1,6 +1,6 @@
 ---
 name: "Simon Willison from Simon Willison’s Newsletter"
-category: politics
+category: tech-ai
 email_patterns:
   - simonw@substack.com
 ---

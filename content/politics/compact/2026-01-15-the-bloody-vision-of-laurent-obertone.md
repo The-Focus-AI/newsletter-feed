@@ -5,12 +5,14 @@ newsletter_name: "Compact"
 category: politics
 subject: "The Bloody Vision of Laurent Obertone"
 date: Thu, 15 Jan 2026 12:00:15 +0000
+source_url: "https://www.compactmag.com/r/e9e4751f?m=33b1996b-f427-4fb3-88a9-83a2095d7637"
 ---
 
 # The Bloody Vision of Laurent Obertone
 
 **From:** Compact <compact@ghost.io>
 **Date:** Thu, 15 Jan 2026 12:00:15 +0000
+**Source:** [View original](https://www.compactmag.com/r/e9e4751f?m=33b1996b-f427-4fb3-88a9-83a2095d7637)
 
 ---
 

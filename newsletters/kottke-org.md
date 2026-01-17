@@ -1,6 +1,6 @@
 ---
 name: "Kottke.org"
-category: politics
+category: culture
 email_patterns:
   - newsletters@kottke.org
 ---

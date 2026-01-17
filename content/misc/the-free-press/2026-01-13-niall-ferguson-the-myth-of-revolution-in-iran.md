@@ -5,12 +5,14 @@ newsletter_name: "The Free Press"
 category: misc
 subject: "Niall Ferguson: The Myth of Revolution in Iran"
 date: Tue, 13 Jan 2026 21:44:18 +0000
+source_url: "https://substack.com/redirect/b8a1f759-c266-4e32-abb5-a26086bc1060?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8"
 ---
 
 # Niall Ferguson: The Myth of Revolution in Iran
 
 **From:** The Free Press <bariweiss+the-big-read@substack.com>
 **Date:** Tue, 13 Jan 2026 21:44:18 +0000
+**Source:** [View original](https://substack.com/redirect/b8a1f759-c266-4e32-abb5-a26086bc1060?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
 ---
 

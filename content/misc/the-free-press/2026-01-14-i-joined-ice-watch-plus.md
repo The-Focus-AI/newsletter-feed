@@ -5,12 +5,14 @@ newsletter_name: "The Free Press"
 category: misc
 subject: "‘I Joined ICE Watch.’ Plus. . ."
 date: Wed, 14 Jan 2026 11:03:26 +0000
+source_url: "https://substack.com/redirect/683682f8-e74d-4a87-8879-a2db8f022d2a?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8"
 ---
 
 # ‘I Joined ICE Watch.’ Plus. . .
 
 **From:** The Free Press <bariweiss+the-front-page@substack.com>
 **Date:** Wed, 14 Jan 2026 11:03:26 +0000
+**Source:** [View original](https://substack.com/redirect/683682f8-e74d-4a87-8879-a2db8f022d2a?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
 ---
 

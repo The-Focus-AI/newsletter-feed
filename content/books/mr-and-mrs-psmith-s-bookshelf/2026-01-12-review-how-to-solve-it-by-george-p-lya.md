@@ -5,12 +5,14 @@ newsletter_name: "Mr. and Mrs. Psmith’s Bookshelf"
 category: books
 subject: "REVIEW: How to Solve It, by George Pólya"
 date: Mon, 12 Jan 2026 14:04:05 +0000
+source_url: "https://open.substack.com/pub/thepsmiths/p/review-how-to-solve-it-by-george?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app"
 ---
 
 # REVIEW: How to Solve It, by George Pólya
 
 **From:** "Mr. and Mrs. Psmith’s Bookshelf" <thepsmiths@substack.com>
 **Date:** Mon, 12 Jan 2026 14:04:05 +0000
+**Source:** [View original](https://open.substack.com/pub/thepsmiths/p/review-how-to-solve-it-by-george?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "ChinaTalk"
-category: misc
+category: politics
 email_patterns:
   - chinatalk@substack.com
 ---

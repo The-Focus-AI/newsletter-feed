@@ -5,12 +5,14 @@ newsletter_name: "The Free Press"
 category: misc
 subject: "America’s Most Righteous War Produced Its Best Antiwar Novel"
 date: Thu, 15 Jan 2026 18:19:04 +0000
+source_url: "https://substack.com/redirect/27079505-da1d-4669-bc7a-904a4a591e1d?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8"
 ---
 
 # America’s Most Righteous War Produced Its Best Antiwar Novel
 
 **From:** The Free Press <bariweiss+the-big-read@substack.com>
 **Date:** Thu, 15 Jan 2026 18:19:04 +0000
+**Source:** [View original](https://substack.com/redirect/27079505-da1d-4669-bc7a-904a4a591e1d?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
 ---
 

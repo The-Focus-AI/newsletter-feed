@@ -5,12 +5,14 @@ newsletter_name: "The Free Press"
 category: misc
 subject: "Why 2026 Could Prove as Important as 1989. Plus. . ."
 date: Tue, 13 Jan 2026 11:25:25 +0000
+source_url: "https://substack.com/redirect/4be8d837-2bb0-4925-94ae-9091440dc17e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8"
 ---
 
 # Why 2026 Could Prove as Important as 1989. Plus. . .
 
 **From:** The Free Press <bariweiss+the-front-page@substack.com>
 **Date:** Tue, 13 Jan 2026 11:25:25 +0000
+**Source:** [View original](https://substack.com/redirect/4be8d837-2bb0-4925-94ae-9091440dc17e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
 ---
 

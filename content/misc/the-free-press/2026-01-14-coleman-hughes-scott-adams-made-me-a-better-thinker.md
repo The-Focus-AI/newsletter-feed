@@ -5,12 +5,14 @@ newsletter_name: "The Free Press"
 category: misc
 subject: "Coleman Hughes: Scott Adams Made Me a Better Thinker"
 date: Wed, 14 Jan 2026 19:33:42 +0000
+source_url: "https://substack.com/redirect/5cbf9c0a-40de-4653-8d48-125464c694f0?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8"
 ---
 
 # Coleman Hughes: Scott Adams Made Me a Better Thinker
 
 **From:** The Free Press <bariweiss+the-big-read@substack.com>
 **Date:** Wed, 14 Jan 2026 19:33:42 +0000
+**Source:** [View original](https://substack.com/redirect/5cbf9c0a-40de-4653-8d48-125464c694f0?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
 ---
 

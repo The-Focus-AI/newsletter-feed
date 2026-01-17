@@ -5,12 +5,14 @@ newsletter_name: "The Browser"
 category: culture
 subject: "Landfill, Mao, ICE, Whale, Wilson"
 date: Wed, 14 Jan 2026 20:00:28 +0000
+source_url: "https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd"
 ---
 
 # Landfill, Mao, ICE, Whale, Wilson
 
 **From:** The Browser <editor@thebrowser.com>
 **Date:** Wed, 14 Jan 2026 20:00:28 +0000
+**Source:** [View original](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
 
 ---
 

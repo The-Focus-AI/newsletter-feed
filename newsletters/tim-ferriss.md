@@ -1,6 +1,6 @@
 ---
 name: "Tim Ferriss"
-category: uncategorized
+category: misc
 email_patterns:
   - tim@fourhourbody.com
 ---

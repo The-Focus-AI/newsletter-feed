@@ -5,12 +5,14 @@ newsletter_name: "Fix The News"
 category: politics
 subject: "323: Iraq 💙. Cancer ⬇️. Nancy Drew. The Golden Age of Vaccines. Oryx."
 date: Thu, 15 Jan 2026 23:45:47 +0000
+source_url: "https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9maXh0aGVuZXdzLmNvbS9wLzMyMy1pcmFxLWNhbmNlci1uYW5jeS1kcmV3LXRoZS1nb2xkZW4_dXRtX2NhbXBhaWduPWVtYWlsLXBvc3Qmcj0xaWVmeSZ0b2tlbj1leUoxYzJWeVgybGtJam95TlRNNE1UUXlMQ0p3YjNOMFgybGtJam94T0RRMU56VXdOakFzSW1saGRDSTZNVGMyT0RVeU1EYzRPQ3dpWlhod0lqb3hOemN4TVRFeU56ZzRMQ0pwYzNNaU9pSndkV0l0TkRnMk1UazFOU0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLm9Hd0piMXhpSHRRczF4R0ZQNWVaVGxCdzJwNHpGOUtTemJRUERzbVFGenciLCJwIjoxODQ1NzUwNjAsInMiOjQ4NjE5NTUsImYiOmZhbHNlLCJ1IjoyNTM4MTQyLCJpYXQiOjE3Njg1MjA3ODgsImV4cCI6MjA4NDA5Njc4OCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.wuZPaQt6HDCBrqmBy-GVCPrvw4aycDImV7gDo43Pwrw?"
 ---
 
 # 323: Iraq 💙. Cancer ⬇️. Nancy Drew. The Golden Age of Vaccines. Oryx.
 
 **From:** Fix The News <fixthenews@substack.com>
 **Date:** Thu, 15 Jan 2026 23:45:47 +0000
+**Source:** [View original](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9maXh0aGVuZXdzLmNvbS9wLzMyMy1pcmFxLWNhbmNlci1uYW5jeS1kcmV3LXRoZS1nb2xkZW4_dXRtX2NhbXBhaWduPWVtYWlsLXBvc3Qmcj0xaWVmeSZ0b2tlbj1leUoxYzJWeVgybGtJam95TlRNNE1UUXlMQ0p3YjNOMFgybGtJam94T0RRMU56VXdOakFzSW1saGRDSTZNVGMyT0RVeU1EYzRPQ3dpWlhod0lqb3hOemN4TVRFeU56ZzRMQ0pwYzNNaU9pSndkV0l0TkRnMk1UazFOU0lzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLm9Hd0piMXhpSHRRczF4R0ZQNWVaVGxCdzJwNHpGOUtTemJRUERzbVFGenciLCJwIjoxODQ1NzUwNjAsInMiOjQ4NjE5NTUsImYiOmZhbHNlLCJ1IjoyNTM4MTQyLCJpYXQiOjE3Njg1MjA3ODgsImV4cCI6MjA4NDA5Njc4OCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.wuZPaQt6HDCBrqmBy-GVCPrvw4aycDImV7gDo43Pwrw?)
 
 ---
 

@@ -1,0 +1,164 @@
+---
+id: 19bb4fbe84442299
+newsletter: the-atlantic-daily
+newsletter_name: "The Atlantic Daily"
+category: politics
+subject: "The candor of Jerome Powell"
+date: Mon, 12 Jan 2026 20:32:45 -0500 (EST)
+---
+
+# The candor of Jerome Powell
+
+**From:** The Atlantic Daily <newsletters@theatlantic.com>
+**Date:** Mon, 12 Jan 2026 20:32:45 -0500 (EST)
+
+---
+
+The candor of Jerome Powell
+
+96
+
+Plus: Trump’s purge of federal workers
+Monday, January 12, 2026
+
+-->
+
+ 
+
+[Will Gottsegen](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci93aWxsLWdvdHRzZWdlbi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC9ecaf8ab)
+
+Staff writer
+
+The Justice Department has opened a criminal investigation into one of President Trump’s perennial rivals, Jerome Powell. Now, the typically stoic Federal Reserve chair is taking a stand.
+
+First, here are three new stories from The Atlantic:
+
+[Trump’s purge of federal workers](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lLzIwMjYvMDIvdHJ1bXAtZmVkZXJhbC13b3JrZXItbGF5b2Zmcy1pbnRlcnZpZXdzLzY4NTMyMS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB0b26d2ed)
+[David Frum: Why Vance committed so hard to the Minneapolis shooter](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvdmFuY2UtZGVmZW5kcy1taW5uZWFwb2xpcy1zaG9vdGVyLWljZS1tYWdhLXN5bWJvbC82ODU1ODQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB98d01a4d)
+[The court case that is allowing ICE to stop just about anyone it wants](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvc2NvdHVzLWNhc2UtaWNlLWFycmVzdHMtcGVybWlzc2lvbi13aHJlbi82ODU1ODcvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB3a2468ac)
+
+-->
+
+Powell Strikes Back
+
+(Samuel Corum / Sipa USA / AP)
+
+ 
+
+View in browser
+
+Jerome Powell isn’t known for his expressiveness. The chair of the Federal Reserve has kept quiet over the past year as President Trump has repeatedly attacked him—often with crude language (think moron, numbskull, dumb, and loser). That changed yesterday, when Powell announced that he is under criminal investigation by Trump’s Justice Department. In a [video statement](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cuZmVkZXJhbHJlc2VydmUuZ292L25ld3NldmVudHMvc3BlZWNoL3Bvd2VsbDIwMjYwMTExYS5odG0_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB7580741b), he responded to the threat of indictment with remarkable clarity. “This unprecedented action should be seen in the broader context of the administration's threats and ongoing pressure,” he said. “The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the president.”
+
+For the first time, Powell plainly articulated the Fed’s fight to retain independence from a president seeking to sway it. The investigation itself has to do with whether Powell misled Congress last year about the Fed’s renovation project—now estimated to be about [$700 million over budget](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8xMi91cy9wb2xpdGljcy9qZXJvbWUtcG93ZWxsLWludmVzdGlnYXRpb24tZmVkLXJlbm92YXRpb25zLmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB5aa8c3e1). The White House Office of Management and Budget began looking into [those statements](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cucG9saXRpY28uY29tL25ld3MvMjAyNS8wNy8xMS93aGl0ZS1ob3VzZS1pbnZlc3RpZ2F0aW9uLXBvd2VsbC10cnVtcC1yYXRlcy0wMDQ0OTc4OT9uaWQ9MDAwMDAxNGYtMTY0Ni1kODhmLWExY2YtNWY0NmI3YmQwMDAwJm5uYW1lPXBsYXlib29rJm5yaWQ9NzFjMjZiZGYtMWY3Ny00ZDRkLWFjMTEtYWE4ZjgyYzgxZDA2JnV0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB8d8d2f9d) last July; Powell has said that under his leadership, the Fed has “made every effort” to keep Congress informed about the project. It’s hard to ignore the irony here: The administration that demolished the White House’s East Wing without [congressional approval](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9Qb2xpdGljcy9jb3VydC1maWxpbmctb2ZmZXJzLWRldGFpbHMtdHJ1bXBzLXdoaXRlLWhvdXNlLWJhbGxyb29tL3N0b3J5P2lkPTEyODQzMjc5NyZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB9be1b3c7) is now cracking down on construction oversight.
+
+Asked by NBC about the investigation into Powell, [Trump said](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vcG9saXRpY3MvZG9uYWxkLXRydW1wL3RydW1wLWRlbmllcy1pbnZvbHZlbWVudC1kb2otZmVkLXN1YnBvZW5hLWplcm9tZS1wb3dlbGwtcmNuYTI1MzUyNj91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBc507b3c8), “I don’t know anything about it, but he’s certainly not very good at the Fed, and he’s not very good at building buildings.” Yet, as Powell notes, evidence suggests that this move is the culmination of Trump’s monthslong campaign to pressure him into lowering interest rates. Lowering rates would boost the economy in the near term but risk [a bust in the longer term](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2Vjb25vbXkvYXJjaGl2ZS8yMDI1LzA3L3RydW1wLXBvd2VsbC1pbnRlcmVzdC1yYXRlcy82ODM2MzQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB17d95d00). It is the job of the Fed’s Board of Governors, with Powell at the helm, not to accede to any pressure here. The governors are meant to carefully raise and lower the cost of borrowing over time according to jobs and inflation data. The Fed makes these decisions based on what it thinks is best for the American money supply—not what the president wants.
+
+Trump seems to disagree. In August, he made the unprecedented ([and probably illegal](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyNS8wOC90cnVtcC1mZWQtdGFrZW92ZXItc3VwcmVtZS1jb3VydC1saXNhLWNvb2svNjg0MDMzLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBbaea87f5)) decision to fire one of the Fed’s governors, Lisa Cook. The stated reason for Cook’s firing was mortgage fraud, although she has not been charged with any crime and has denied the allegation; the Supreme Court will hear arguments in her case next week. He also elevated a new governor, the MAGA loyalist Stephen Miran, who has been pushing for more dramatic rate cuts than his peers.
+
+Cook’s firing was Trump’s most significant attempt to exert control over the Fed until last night. Even if Powell survives this investigation and serves his full term as chair, which is up in just four months, Trump may still gain access by way of a handpicked successor. The smart money is now on [Kevin Hassett](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2Vjb25vbXkvMjAyNi8wMS9rZXZpbi1oYXNzZXR0LXRydW1wLWZlZGVyYWwtcmVzZXJ2ZS82ODU1MjIvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB790fccb7), whom my colleague Rogé Karma has called a “Trump propagandist.” But the GOP, including some [members of Congress](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cucG9saXRpY28uY29tL2xpdmUtdXBkYXRlcy8yMDI2LzAxLzEyL2NvbmdyZXNzL2dvcC1hbmdzdC1ncm93cy1wb3dlbGwtaW52ZXN0aWdhdGlvbi0wMDcyMTkzOT91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBacd0653f) whose votes could one day confirm Trump’s pick, has been expressing alarm over the investigation into Powell. Senator Thom Tillis said he would [oppose](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly94LmNvbS9TZW5UaG9tVGlsbGlzL3N0YXR1cy8yMDEwNTE0Nzg2NDY3OTU5MjY5P3M9MjAmdXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB8e7b6bb7) the confirmation of any nominee until “this legal matter is fully resolved.” And markets were mostly calm today, suggesting that traders think Powell—and central bank independence—will ultimately win out, the Columbia Law professor and former New York Fed economist Lev Menand told me.
+
+Powell’s future is uncertain, and the broader [erosion](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzL2FyY2hpdmUvMjAyNS8xMC90cnVtcC1yZXRyaWJ1dGlvbi1jb21leS1kb2ovNjg0NTM1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB6f587f29) of [the Department of Justice](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjUvMTIvZG9qLWVwc3RlaW4tYmVuZWZpdC1vZi1kb3VidC1wb2xpdGljaXplZC82ODUzOTYvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBcdf95838) has made it hard to trust the idea of an objective investigation. But the probe itself is a clear threat to the long-standing independence of the Fed. The past three Fed chairs—Janet Yellen, Ben Bernanke, and Alan Greenspan—alongside a bipartisan coalition of top economic officials released a [statement](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly9qb2ludHN0YXRlbWVudC5zdWJzdGFjay5jb20vcC9zdGF0ZW1lbnQtb24tdGhlLWZlZGVyYWwtcmVzZXJ2ZT91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB1379839e) today decrying the move against Powell. “This is how monetary policy is made in emerging markets with weak institutions, with highly negative consequences for inflation and the functioning of their economies more broadly,” it read.
+
+To better understand their concern, look to [Turkey](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvYXJjaGl2ZS8yMDE4LzA4L3R1cmtleS1saXJhLzU2NzM4MC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB97e256b3), [Zimbabwe](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvYXJjaGl2ZS8yMDE2LzA1L3ppbWJhYndlLW1vbmV5LzQ4MTUxOC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB2dc9628a), or any other country where central-bank credibility has been undermined. When faith in central banks fails, so can faith in the value of money, leading to hyperinflation. But unlike the Turkish lira and the now-defunct Zimbabwean dollar, the U.S. dollar anchors the global economy. Any sense from the international community that the Fed no longer pulls the strings could be catastrophic. “The central bank is critical to the functioning of the entire financial system,” Menand said. The Fed’s powers are essential tools in moments of instability, but in the wrong hands, they could do far more than weaken the dollar. All major banks hold accounts at the Fed, and those accounts can be cut off at its discretion. Anyone who uses an American bank, and who finds themselves on the president’s bad side, could be affected.
+
+Powell’s prerecorded video statement distills our current moment in less than two minutes. The Fed’s freedom from partisanship is at the core of its mission; it was created in service of the country’s long-term interests. Now under siege by a sitting president, it has become an unlikely site of resistance.
+
+Related:
+
+[The respected economist turned Trump propagandist](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2Vjb25vbXkvMjAyNi8wMS9rZXZpbi1oYXNzZXR0LXRydW1wLWZlZGVyYWwtcmVzZXJ2ZS82ODU1MjIvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC790fccb7)
+[Trump almost has a point about the Federal Reserve.](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2Vjb25vbXkvMjAyNi8wMS9mZWRlcmFsLXJlc2VydmUtaW5kZXBlbmRlbmNlLWxlbmRpbmcvNjg1NDQ0Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB8b86f474)
+
+ 
+
+[Drew Goins](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kcmV3LWdvaW5zLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC774b8c4c)
+
+Senior editor
+
+Welcome back to Atlantic Trivia! Or, rather: Please welcome back Atlantic Trivia! Today’s three questions have been stewing for weeks; once you have pondered them for some fraction of that time, you can [find their answers here](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvZGFpbHktdHJpdmlhLXF1ZXN0aW9ucy1hbnN3ZXJzLXdlZWstMTQvNjg1NTkxLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB26facbab).
+
+What 19th-century statesman and fighter is known as El Libertador for his independence campaign in northern South America (including in the country that now bears his name)?
+
+— From Vivian Salama’s article on the chance of a domino effect after Nicolás Maduro’s capture
+English settlers who came to colonial America were thrilled to hunt the continent’s bountiful deer; the animals back in Britain could not be freely shot, because they legally belonged to what person?
+
+— From Yasmin Tayag’s essay on venison consumption in the United States
+A Dostoyevsky tale about a character who faces a more talented, more popular look-alike at work is an inspiration for what 2010 psychological thriller that centers on the performance of a different Russian’s work?
+
+— From Faith Hill’s article on the movie’s theme of women navigating hyper-competition
+Today’s News
+
+President Trump said Iran’s leaders reached out to the United States on Sunday “to negotiate” amid the government’s crackdown on protests and the threat of potential U.S. retaliation. He warned that the [U.S. may still take “very strong” action over Tehran’s violent crackdown](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vd29ybGQvaXJhbi90cnVtcC1pcmFuLW5lZ290aWF0ZS1wcm90ZXN0LWNyYWNrZG93bi1kZWF0aC10b2xsLXJpc2VzLXJjbmEyNTM1MTg_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBd4ee10ff) that activists say has killed more than 570 people.
+Trump said yesterday that he is [inclined to block Exxon Mobil from drilling in Venezuela](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cud3NqLmNvbS9wb2xpdGljcy9wb2xpY3kvdHJ1bXAtaW5jbGluZWQtdG8ta2VlcC1leHhvbi1vdXQtb2YtdmVuZXp1ZWxhLTM5ZWE3OGM3P21vZD1ocF9sZWFkX3BvczQmdXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB69e72320) after criticizing CEO Darren Woods for calling Venezuela “uninvestable.”
+[Senator Mark Kelly sued Defense Secretary Pete Hegseth](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDEvMTIvbWFyay1rZWxseS1oZWdzZXRoLWxhd3N1aXQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBe7522a24), seeking to overturn a letter of censure and a Pentagon review that could demote him, arguing the actions unlawfully punish him for protected speech.
+Dispatches
+
+The Wonder Reader: Rafaela Jinich explores stories about the [small, imperfect ways people show up for their loved ones](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvbWVzc2luZXNzLW9mLXNoYXJpbmctZmVlbGluZ3MtZnJpZW5kc2hpcC82ODU1NzUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBf83186e8).
+[Explore all of our newsletters here.](https://link.theatlantic.com/click/29767897.0/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDIyMTEyMQ/61813432e16c7128e42f4628B52865c35)
+
+More From The Atlantic
+
+[Alexandra Petri: Some other things Donald Trump will probably try to buy](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvdGhpbmdzLXRydW1wLWNhbi1idXktaW5zdGVhZC1vZi1ncmVlbmxhbmQvNjg1NTkyLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB334e713d)
+[Jonathan Chait: Trump’s shrinking coalition](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvdHJ1bXAtbWFnYS12b3RlcnMtYmFja2xhc2gvNjg1NTU3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB5d14aa81)
+[The best flu drug Americans aren’t taking](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzAxL2JldHRlci1mbHUtZHJ1Zy10aGFuLXRhbWlmbHUvNjg1NTg1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB3be9c740)
+[David Sims: A sobering awards-season pivot](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS90aW1vdGhlZS1jaGFsYW1ldC1nb2xkZW4tZ2xvYmVzLXNwZWVjaC82ODU1ODEvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBb431ee82)
+[Elizabeth Tsurkov: ‘I was kidnapped by idiots.’](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvMjAyNi8wMS9raWRuYXBwZWQtYmFnaGRhZC82ODU0NzAvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB9588255c)
+[What if there is no domino effect?](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDEvdHJ1bXAtY3ViYS1oYXZhbmEtdmVuZXp1ZWxhLW1hZHVyby82ODU1NzkvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC2f7a161b)
+[The YIMBY hero everyone is shouting at](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvc2NvdHQtd2llbmVyLXlpbWJ5LXNob3V0ZWQtYXQvNjg1NTY2Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBc6a02437)
+
+-->
+
+Evening Read
+
+(Illustration by Colin Hunter. Sources: John Nacion / Getty; Perry Knotts / Getty.)
+
+ 
+
+[How Bad Bunny Did It](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lLzIwMjYvMDIvYmFkLWJ1bm55LXN1cGVyLWJvd2wtY3VsdHVyYWwtc2lnbmlmaWNhbmNlLzY4NTUwOC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCa85238bb)
+
+By [Spencer Kornhaber](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9zcGVuY2VyLWtvcm5oYWJlci8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB19b579bd)
+
+A few years ago, I visited my childhood home and heard a surprising sound: the bright and bouncy music of the Puerto Rican rapper Bad Bunny. My parents are white Baby Boomers who speak no Spanish and have never shown a taste for hip-hop, but they’d somehow gotten into Benito Antonio Martínez Ocasio, whose sex-and-rum-drenched lyrics they couldn’t begin to decipher. The vector of transmission appeared to be the streaming service hooked to their smart speakers. When in need of a pick-me-up, Mom would shout, “Alexa, play Bad Bunny,” and make her Southern California kitchen sound like a San Juan nightclub.
+
+[Read the full article.](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lLzIwMjYvMDIvYmFkLWJ1bm55LXN1cGVyLWJvd2wtY3VsdHVyYWwtc2lnbmlmaWNhbmNlLzY4NTUwOC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcDa85238bb)
+
+Culture Break
+
+(Hamnet wins at the Golden Globes)
+
+ 
+
+Explore. The Golden Globes tried to have it both ways, Shirley Li writes. The night’s two big film winners reflected [a ceremony uncertain of its own message](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS9nb2xkZW4tZ2xvYmVzLTIwMjYtd2lubmVycy1oYW1uZXQtb25lLWJhdHRsZS1hZnRlci1hbm90aGVyLzY4NTU4Mi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBeb52c5ce).
+
+Remember. Bob Weir, who died Saturday, was crucial to [shaping the sound of the world’s greatest jam band](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS9ib2Itd2Vpci1ncmF0ZWZ1bC1kZWFkLW9iaXR1YXJ5LzY4NTU4Ni8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBabd4f65c), David A. Graham writes.
+
+[Play our daily crossword.](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ZyZWUtZGFpbHktY3Jvc3N3b3JkLXB1enpsZS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBb3994574)
+
+Did someone forward you this email? Sign up here.
+
+[Sign up for Inside the Trump Presidency](https://link.theatlantic.com/click/43495577.573870/aHR0cDovL3d3dy50aGVhdGxhbnRpYy5jb20vbmV3c2xldHRlcnMvc2lnbi11cC90cnVtcHMtcmV0dXJuLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBc8d5f08b), a newsletter in which Atlantic writers help you understand America in the second Trump term.
+
+Rafaela Jinich contributed to this newsletter.
+
+When you buy a book using a link in this newsletter, we receive a commission. Thank you for supporting The Atlantic.
+
+Most Popular on The Atlantic
+
+[Why Vance Committed So Hard to the Minneapolis Shooter](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvdmFuY2UtZGVmZW5kcy1taW5uZWFwb2xpcy1zaG9vdGVyLWljZS1tYWdhLXN5bWJvbC82ODU1ODQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC98d01a4d)
+[The Purged](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lLzIwMjYvMDIvdHJ1bXAtZmVkZXJhbC13b3JrZXItbGF5b2Zmcy1pbnRlcnZpZXdzLzY4NTMyMS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC0b26d2ed)
+[Trump’s Shrinking Coalition](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvdHJ1bXAtbWFnYS12b3RlcnMtYmFja2xhc2gvNjg1NTU3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC5d14aa81)
+[The Best Flu Drug Americans Aren’t Taking](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzAxL2JldHRlci1mbHUtZHJ1Zy10aGFuLXRhbWlmbHUvNjg1NTg1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExMiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC3be9c740)
+[I Was Kidnapped by Idiots](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvMjAyNi8wMS9raWRuYXBwZWQtYmFnaGRhZC82ODU0NzAvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC9588255c)
+
+Get a new year of ideas and insight
+
+Get a full year of unlimited access to journalism you can count on—to make you think, unearth mysteries, inspire curiosities, and help you navigate all the news ahead. Start an Atlantic subscription today, for less than $2 a week.
+
+[Subscribe](https://link.theatlantic.com/click/43495577.573870/aHR0cHM6Ly9hY2NvdW50cy50aGVhdGxhbnRpYy5jb20vcHJvZHVjdHMvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWNyJnV0bV9jYW1wYWlnbj1uZXd5ZWFyMjYmdXRtX2NvbnRlbnQ9c3Vic2NyaWJlJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcCc3a0ddd1)
+
+This email was sent to wschenk@gmail.com
+
+You've signed up to receive newsletters from The Atlantic. If you wish to unsubscribe from The Atlantic newsletters, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcpw9eh.casu/97ea9c20).
+
+To update your email preferences, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcpw9eh.casu/97ea9c20).
+
+The Atlantic Monthly Group LLC &middot; 610 Water Street, SW &middot; Washington, DC 20024

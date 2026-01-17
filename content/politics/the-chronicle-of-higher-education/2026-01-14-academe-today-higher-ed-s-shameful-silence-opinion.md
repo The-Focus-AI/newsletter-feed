@@ -5,12 +5,14 @@ newsletter_name: "The Chronicle of Higher Education"
 category: politics
 subject: "Academe Today: Higher ed’s shameful silence (opinion)"
 date: Wed, 14 Jan 2026 10:01:08 +0000
+source_url: "https://links2.newsletter.chronicle.com/s/c/3y6rqwXzdW4wrQUABUxdEl0djDs-Mfg19ZVFR7SQCdhcINNOeup3LhnD0VrAg871SYhz9tPqwWW5JIKBBpI8OcFZW16_yUiJX9MuNtuBM9H4pRlpPYmq0bVPUbO28iq75odFm4U52fFOW2q46gDj7Dlj0r9zDzdYjJvY9IUHgWKONXXZh-Re018kXPRftzkwjDBrMU2W8Azw9cub6cA9NXJhSUL8v2YDeBJQVcltiaLkd70dLgICX5-5hquz_-LIjPe4_3w4CEDpkcq2OfKgY0Yy3VpoLTMIJ-nLriWtAfrvPU_hnuZQ5dVmjzquZEnnxcOCDlho0fvJNRz_qQhylHJSA40e1-Nx9b7tGNllPLjQeBYh_WrjBDe2alf_Z-lf6gDeDvM2La6FXQeTPfJt6xs9HCJPa4i8Bb-YctzxwULdQVGPKuwS/g3knG8z7dZ_vJ8e-LP6rlf6LPp6MoP1y/16"
 ---
 
 # Academe Today: Higher ed’s shameful silence (opinion)
 
 **From:** The Chronicle of Higher Education <newsletter@newsletter.chronicle.com>
 **Date:** Wed, 14 Jan 2026 10:01:08 +0000
+**Source:** [View original](https://links2.newsletter.chronicle.com/s/c/3y6rqwXzdW4wrQUABUxdEl0djDs-Mfg19ZVFR7SQCdhcINNOeup3LhnD0VrAg871SYhz9tPqwWW5JIKBBpI8OcFZW16_yUiJX9MuNtuBM9H4pRlpPYmq0bVPUbO28iq75odFm4U52fFOW2q46gDj7Dlj0r9zDzdYjJvY9IUHgWKONXXZh-Re018kXPRftzkwjDBrMU2W8Azw9cub6cA9NXJhSUL8v2YDeBJQVcltiaLkd70dLgICX5-5hquz_-LIjPe4_3w4CEDpkcq2OfKgY0Yy3VpoLTMIJ-nLriWtAfrvPU_hnuZQ5dVmjzquZEnnxcOCDlho0fvJNRz_qQhylHJSA40e1-Nx9b7tGNllPLjQeBYh_WrjBDe2alf_Z-lf6gDeDvM2La6FXQeTPfJt6xs9HCJPa4i8Bb-YctzxwULdQVGPKuwS/g3knG8z7dZ_vJ8e-LP6rlf6LPp6MoP1y/16)
 
 ---
 

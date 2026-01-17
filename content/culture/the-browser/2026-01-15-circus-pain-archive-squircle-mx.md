@@ -5,12 +5,14 @@ newsletter_name: "The Browser"
 category: culture
 subject: "Circus, Pain, Archive, Squircle, Mx"
 date: Thu, 15 Jan 2026 20:01:03 +0000
+source_url: "https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd"
 ---
 
 # Circus, Pain, Archive, Squircle, Mx
 
 **From:** The Browser <editor@thebrowser.com>
 **Date:** Thu, 15 Jan 2026 20:01:03 +0000
+**Source:** [View original](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
 
 ---
 

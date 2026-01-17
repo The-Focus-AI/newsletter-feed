@@ -163,6 +163,68 @@ function formatDate(dateStr: string): string {
   }
 }
 
+// Extract "View in browser" or similar link from HTML
+function extractViewLink(html: string): string | null {
+  if (!html) return null;
+
+  // Common patterns for "view in browser" links
+  const patterns = [
+    /href="([^"]+)"[^>]*>\s*(?:View|Read)\s+(?:in|this|online|on the web|in browser|email online)[^<]*/i,
+    /(?:View|Read)\s+(?:in|this|online|on the web|in browser)[^<]*<\/[^>]+>\s*<\/[^>]+>\s*<a[^>]+href="([^"]+)"/i,
+    /href="([^"]*(?:view|mailchi|campaign-archive)[^"]*)"/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = html.match(pattern);
+    if (match && match[1]) {
+      // Skip tracking pixels and unsubscribe links
+      const url = match[1];
+      if (!url.includes('unsubscribe') && !url.includes('pixel') && !url.includes('track')) {
+        return url;
+      }
+    }
+  }
+
+  return null;
+}
+
+// Convert HTML to plain text
+function htmlToText(html: string): string {
+  if (!html) return '';
+
+  return html
+    // Remove style and script tags with content
+    .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
+    .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
+    // Convert common block elements to newlines
+    .replace(/<\/p>/gi, '\n\n')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/div>/gi, '\n')
+    .replace(/<\/li>/gi, '\n')
+    .replace(/<\/h[1-6]>/gi, '\n\n')
+    .replace(/<\/tr>/gi, '\n')
+    // Convert links to markdown format
+    .replace(/<a[^>]+href=["']([^"']+)["'][^>]*>([^<]+)<\/a>/gi, '[$2]($1)')
+    // Remove remaining HTML tags
+    .replace(/<[^>]+>/g, '')
+    // Decode HTML entities
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&#x27;/g, "'")
+    .replace(/&#(\d+);/g, (_match, code) => String.fromCharCode(parseInt(code, 10)))
+    // Clean up whitespace
+    .replace(/\r\n/g, '\n')
+    .replace(/[ \t]+/g, ' ')
+    .replace(/\n /g, '\n')
+    .replace(/ \n/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
 // Clean up email body content
 function cleanContent(body: string): string {
   if (!body) return '';
@@ -214,8 +276,22 @@ function processEmail(newsletters: Newsletter[], emlPath: string): { processed: 
     return { processed: false, unknown: false };
   }
 
-  // Clean content
-  const content = cleanContent(data.body || data.text || data.snippet || '');
+  // Get content - prefer body, fall back to htmlBody converted to text, then snippet
+  let rawContent = data.body || data.text || '';
+  if (!rawContent && data.htmlBody) {
+    rawContent = htmlToText(data.htmlBody);
+  }
+  if (!rawContent) {
+    rawContent = data.snippet || '';
+  }
+  const content = cleanContent(rawContent);
+
+  // Extract source link from HTML
+  const viewLink = extractViewLink(data.htmlBody || '');
+
+  // Build source line - prefer view link, fall back to newsletter URL
+  const sourceUrl = viewLink || newsletter.url || '';
+  const sourceLine = sourceUrl ? `\n**Source:** [View original](${sourceUrl})` : '';
 
   // Generate markdown with frontmatter
   const markdown = `---
@@ -224,13 +300,13 @@ newsletter: ${newsletter.id}
 newsletter_name: "${newsletter.name}"
 category: ${newsletter.category}
 subject: "${(data.subject || '').replace(/"/g, '\\"')}"
-date: ${data.date}
+date: ${data.date}${sourceUrl ? `\nsource_url: "${sourceUrl}"` : ''}
 ---
 
 # ${data.subject}
 
 **From:** ${data.from}
-**Date:** ${data.date}
+**Date:** ${data.date}${sourceLine}
 
 ---
 

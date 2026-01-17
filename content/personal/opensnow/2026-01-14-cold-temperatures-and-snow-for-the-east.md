@@ -5,12 +5,14 @@ newsletter_name: "OpenSnow"
 category: personal
 subject: "Cold Temperatures and Snow for the East"
 date: Wed, 14 Jan 2026 16:54:44 +0000
+source_url: "https://lift.opensnow.com/newsletters/east/2026-01-14/index.html"
 ---
 
 # Cold Temperatures and Snow for the East
 
 **From:** OpenSnow <hello@messaging.opensnow.com>
 **Date:** Wed, 14 Jan 2026 16:54:44 +0000
+**Source:** [View original](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html)
 
 ---
 

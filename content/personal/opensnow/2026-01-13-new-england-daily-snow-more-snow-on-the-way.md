@@ -5,12 +5,14 @@ newsletter_name: "OpenSnow"
 category: personal
 subject: "❄️ New England Daily Snow - More snow on the Way"
 date: Tue, 13 Jan 2026 13:06:20 +0000
+source_url: "https://opensnow.com/dailysnow/newengland/post/42321?utm_source=internal&amp;utm_medium=email&amp;utm_term=dailysnowalert&amp;utm_campaign=2025-2026"
 ---
 
 # ❄️ New England Daily Snow - More snow on the Way
 
 **From:** OpenSnow <hello@messaging.opensnow.com>
 **Date:** Tue, 13 Jan 2026 13:06:20 +0000
+**Source:** [View original](https://opensnow.com/dailysnow/newengland/post/42321?utm_source=internal&amp;utm_medium=email&amp;utm_term=dailysnowalert&amp;utm_campaign=2025-2026)
 
 ---
 

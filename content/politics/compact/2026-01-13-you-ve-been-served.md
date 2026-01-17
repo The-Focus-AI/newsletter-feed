@@ -5,12 +5,14 @@ newsletter_name: "Compact"
 category: politics
 subject: "You've Been Served"
 date: Tue, 13 Jan 2026 19:01:14 +0000
+source_url: "https://www.compactmag.com/r/692abaae?m=33b1996b-f427-4fb3-88a9-83a2095d7637"
 ---
 
 # You've Been Served
 
 **From:** Compact <compact@ghost.io>
 **Date:** Tue, 13 Jan 2026 19:01:14 +0000
+**Source:** [View original](https://www.compactmag.com/r/692abaae?m=33b1996b-f427-4fb3-88a9-83a2095d7637)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Warren General Store"
 category: personal
 subject: "Getting Back to It!"
 date: Thu, 15 Jan 2026 14:44:37 +0000
+source_url: "https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd"
 ---
 
 # Getting Back to It!
 
 **From:** Warren General Store <thegeneral@warrengeneral.com>
 **Date:** Thu, 15 Jan 2026 14:44:37 +0000
+**Source:** [View original](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd)
 
 ---
 

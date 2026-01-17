@@ -1,6 +1,6 @@
 ---
 name: "News Minimalist"
-category: tech-ai
+category: misc
 email_patterns:
   - daily@mail.newsminimalist.com
 ---

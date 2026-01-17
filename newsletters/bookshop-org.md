@@ -1,6 +1,6 @@
 ---
 name: "Bookshop.org"
-category: politics
+category: books
 email_patterns:
   - newsletters@bookshop.org
 ---

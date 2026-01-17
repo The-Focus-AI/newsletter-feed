@@ -1,6 +1,6 @@
 ---
 name: "Slavoj Žižek"
-category: politics
+category: philosophy
 email_patterns:
   - slavoj+politics@substack.com
 ---

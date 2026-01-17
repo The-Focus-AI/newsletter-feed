@@ -5,12 +5,14 @@ newsletter_name: "The Browser"
 category: culture
 subject: "Method, Congruence, Trial, Stack, Cut"
 date: Tue, 13 Jan 2026 20:00:44 +0000
+source_url: "https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd"
 ---
 
 # Method, Congruence, Trial, Stack, Cut
 
 **From:** The Browser <editor@thebrowser.com>
 **Date:** Tue, 13 Jan 2026 20:00:44 +0000
+**Source:** [View original](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
 
 ---
 

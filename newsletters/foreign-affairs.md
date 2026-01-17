@@ -1,6 +1,6 @@
 ---
 name: "Foreign Affairs"
-category: tech-ai
+category: politics
 email_patterns:
   - news@foreignaffairs.com
 ---

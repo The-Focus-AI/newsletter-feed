@@ -7,8 +7,27 @@
 import { execSync } from 'child_process';
 import { writeFileSync, existsSync, mkdirSync, readdirSync } from 'fs';
 import { join } from 'path';
+import { homedir } from 'os';
 
-const GMAIL_SCRIPT = '/Users/wschenk/.claude/plugins/cache/focus-marketplace/gmail-skill/0.2.0/scripts/gmail.ts';
+// Find latest google-skill version with installed dependencies
+function findGmailScript(): string {
+  const skillBase = join(homedir(), '.claude/plugins/cache/focus-marketplace/google-skill');
+  if (!existsSync(skillBase)) {
+    throw new Error('google-skill plugin not found');
+  }
+  const versions = readdirSync(skillBase)
+    .filter(v => /^\d+\.\d+\.\d+$/.test(v))
+    .filter(v => existsSync(join(skillBase, v, 'node_modules/googleapis'))) // Only versions with deps installed
+    .sort((a, b) => {
+      const [aMaj, aMin, aPat] = a.split('.').map(Number);
+      const [bMaj, bMin, bPat] = b.split('.').map(Number);
+      return bMaj - aMaj || bMin - aMin || bPat - aPat;
+    });
+  if (versions.length === 0) throw new Error('No google-skill versions with installed dependencies found');
+  return join(skillBase, versions[0], 'scripts/gmail.ts');
+}
+
+const GMAIL_SCRIPT = findGmailScript();
 const RAW_DIR = './raw';
 
 // Parse args

@@ -5,12 +5,14 @@ newsletter_name: "Lenny's Newsletter"
 category: tech-ai
 subject: "How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook | Sam Lessin"
 date: Thu, 15 Jan 2026 13:32:15 +0000
+source_url: "https://substack.com/app-link/post?publication_id=10845&post_id=183005286&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODMwMDUyODYsImlhdCI6MTc2ODQ4NDMyMSwiZXhwIjoxNzcxMDc2MzIxLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.mdc0bJyy4p3M8e1JvDi4nDcqyTvcs-xbdWp-CuxcVoQ&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play"
 ---
 
 # How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook | Sam Lessin
 
 **From:** "Lenny's Newsletter" <lenny@substack.com>
 **Date:** Thu, 15 Jan 2026 13:32:15 +0000
+**Source:** [View original](https://substack.com/app-link/post?publication_id=10845&post_id=183005286&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODMwMDUyODYsImlhdCI6MTc2ODQ4NDMyMSwiZXhwIjoxNzcxMDc2MzIxLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.mdc0bJyy4p3M8e1JvDi4nDcqyTvcs-xbdWp-CuxcVoQ&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play)
 
 ---
 

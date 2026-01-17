@@ -5,12 +5,14 @@ newsletter_name: "Flaming Hydra"
 category: culture
 subject: "Close quarters / Toxic triangle"
 date: Tue, 13 Jan 2026 22:10:31 +0000
+source_url: "https://flaminghydra.com/r/b9e0c903?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122"
 ---
 
 # Close quarters / Toxic triangle
 
 **From:** Flaming Hydra <editors@flaminghydra.com>
 **Date:** Tue, 13 Jan 2026 22:10:31 +0000
+**Source:** [View original](https://flaminghydra.com/r/b9e0c903?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
 
 ---
 

@@ -1,0 +1,103 @@
+---
+id: 19bc7ae0073951ad
+newsletter: emma-tucker-wsj
+newsletter_name: "Emma Tucker, WSJ"
+category: politics
+subject: "Tech Things: How to Prep for the Next Cellular Outage"
+date: Sat, 17 Jan 2026 03:40:20 +1100
+---
+
+# Tech Things: How to Prep for the Next Cellular Outage
+
+**From:** "Joanna Stern, WSJ" <access@interactive.wsj.com>
+**Date:** Sat, 17 Jan 2026 03:40:20 +1100
+
+---
+
+Is this email difficult to read? View it in a web browser. › https://techthings.cmail19.com/t/d-e-giiirly-dknirhluj-a/
+
+Hello! It was definitely not a slow news week. Apple and Google decided to join AI forces, xAI’s Grok landed in deepfake-nudity trouble, Spotify jacked up its prices—and Verizon took a roughly 10-hour nap on Wednesday, leaving many of us (hi, me 🙋♀️) staring at “SOS” icons. More on how to handle a cellular outage in this week’s Big Thing. Plus, how to get your $20 from Verizon if you were impacted. 📵💵
+
+CREDIT: WSJ; Zuma Press
+
+The Big Thing
+
+If  you’ve read my column this week [https://www.wsj.com/business/telecom/verizon-outage-cell-service-4e235500], you know that during Wednesday’s Verizon outage I found myself stranded in Brooklyn. Amid the oat-milk espresso martinis and fixed-gear bikes, calls wouldn’t connect, messages wouldn’t send and neither Google Maps nor Apple Maps would load. I had no idea how to get from unfamiliar Williamsburg back to my home in New Jersey. (Luckily, my car’s built-in navigation system, which uses AT&T, worked just fine.)
+
+Some who read the column pointed out that I could’ve been better prepared. That while Verizon is certainly at fault, a tech columnist should probably have a backup plan. Fair. So here’s what I could have done—and will do next time:
+
+Offline maps
+
+I should have already had offline maps downloaded for the area. Google makes this easy in the Google Maps app: Tap your face in the top right corner, then scroll to “Offline maps,” tap “Select your own map” then pick a map area to download. Apple Maps offers a similar option in its settings.
+
+Dual SIM
+
+Many suggested having a landline or a backup phone on another carrier. There’s an easier, more modern option: dual SIM. Most newer smartphones let you run two cellular plans at once. If one network goes down, you can switch to the other in seconds. It does mean paying for a second plan—or, during an outage, hopping on Wi-Fi and signing up for an eSIM from another carrier on the spot.
+
+Satellite messaging
+
+Newer iPhones and Android phones can send messages over satellite networks. My iPhone even prompted me to try it during the outage, which I did. The catch: you need to be outside with a clear view of the sky. That’s not exactly helpful when you’re in a car. And even when it works, satellite messaging can be slooooow.
+
+But the real solution for us survivors might be looking for another carrier. Verizon had a similar outage last year. Third strike and I’m out!
+
+              CONTENT FROM: TWILIO           Builders Turn Big Ideas Into Legacies
+
+Builders shape the future, because the future won’t wait. Drive innovation and strategic growth with Twilio, your all-in-one customer engagement platform. Combine real-time data, AI and the communication channels your customers love, so you can build memorable and remarkable experiences. Enter your builder era with Twilio, the ultimate toolbox for customer engagement.
+
+Learn More [http://pubads.g.doubleclick.net/gampad/clk?id=7145954110&iu=/2]
+
+                                           More Things                 1.
+
+Spotify’s New Premium 🎵💰
+
+Another day, another dollar. The streaming giant said it was  raising the price of its premium subscription [https://www.wsj.com/business/media/spotify-increases-price-of-premium-subscriptions-92e0dec8] in the U.S., up to $12.99 a month from $11.99. The change will take effect in February, and follows a slew of product updates that rolled out in the fall, including “lossless” audio, playlist mixing, in-app messaging and an app on ChatGPT that lets users get recommendations from the chatbot.
+
+2.
+
+Apple Picks Google 🤝✨
+
+🎶 Siri and Gemini sitting in a tree, U-N-I-T-I-N-G…first comes negotiation, then comes  a joint press release [https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/], then comes Gemini powering a more personalized Siri. 🎶 This week, Apple put the rumors to rest and confirmed the search giant would power its AI features, including a Siri upgrade that it says is coming this year. The union marks a win for Google, which has  gotten its groove back [https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160] in the AI race against OpenAI and others.
+
+3.
+
+California Goes After Grok 🔎🤖
+
+The state’s attorney general launched  an investigation into sexualized images [https://www.wsj.com/tech/ai/california-attorney-general-investigating-xai-over-groks-deepfakes-3db36179] of women and children generated by Elon Musk’s Grok chatbot. California joins a growing chorus of global lawmakers and regulators  calling to rein in deepfakes [https://www.wsj.com/tech/xai-grok-child-sexualized-photos-59cabffe?] made by the bot, which is part of xAI. The company said in places where undressing images of real people is illegal, it would block the use of its chatbot for that purpose.
+
+A Thing to Try: Get Your $20 From Verizon
+
+CREDIT: Joanna Stern
+
+How sorry is Verizon for Wednesday’s outage? Twenty bucks sorry.
+
+The company is offering affected customers a $20 credit on their Verizon bills. To get it, you’ll need the My Verizon app ( iOS [https://apps.apple.com/us/app/my-verizon/id416023011],  Android [https://play.google.com/store/apps/details?id=com.vzw.hss.myverizon&hl=en_US&gl=US&pli=1]). Once logged in, tap the “Mobile actions” button on the main tab. If you were one of the impacted users, you should see an apology and a shiny “Redeem Now” button. Tap it and—if all goes well—you’ll be told the credit has been redeemed. The fine print says the credit will show up in one to two billing cycles. So, join me in checking my bill in a month or two to make sure Verizon follows through on its promise.
+
+And one small (but possibly painful) clarification: Verizon tells me it’s $20 per plan, not $20 per line.
+
+‏‏‎CREDIT: Anthony Caruso
+
+Throwback Thing                 Who?
+
+Anthony Caruso, from Morristown, N.J.
+
+What?
+
+Toshiba T1600 battery-powered portable computer
+
+When?
+
+Introduced in 1989; bought in 1991
+
+Why?
+
+As an independent IT consultant/programmer/trainer, I was constantly traveling to clients and needed a portable PC to work on and deliver my training classes. This 11.4-pound, MS-DOS device “graced” my lap for thousands of air miles (it wouldn’t fit on the tray table) and generated many stares. It came with a power brick, which was literally the size of a brick. The set of manuals alone (3.5 pounds) weighs 50% more than my current laptop! It actually still booted-up in 2005, but soon exhibited a power-supply issue. My late-’90s Motorola StarTAC flip-phone probably had more computing power than the T1600…but I can’t yet part with it.
+
+📷 Got an idea for a throwback? Reply to this email with a photo of your old tech and tell us why you loved—or hated—it. 📷
+
+Reply to this email and share your feedback and suggestions.
+
+This week’s newsletter was curated and written by Joanna Stern and Conor Grant in New York. Got a tip for us? Here's  how to submit [https://www.wsj.com/tips].
+
+Access WSJ.com and our mobile apps.  Subscribe [https://subscribe.wsj.com]                                    Unsubscribe [http://www.wsj.com/newsletters?unsub=486&addr=07f1102e5f01f75324658ce5e1ab1d78a2ddf9eb8c86bde7ed6ab9fee28e8ce709&]   |       Newsletters & Alerts [https://www.wsj.com/newsletters?]   |       Contact Us [https://customercenter.wsj.com/public?url=https://customercenter.wsj.com/view/contactus.html&]   |       Privacy Notice [https://dowjones.com/privacy-notice?]   |       Cookie Notice [https://dowjones.com/cookie-notice?]        Dow Jones & Company, Inc. 4300 U.S. Route 1 North Monmouth Junction, NJ 08852
+
+You are currently subscribed as wschenk@gmail.com. For further assistance, please contact Customer Service at  [support@wsj.com] or 1-800-JOURNAL.     Copyright 2026 Dow Jones & Company, Inc.   |   All Rights Reserved.      Unsubscribe https://techthings.cmail19.com/t/d-u-giiirly-dknirhluj-f/

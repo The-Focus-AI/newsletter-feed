@@ -5,12 +5,14 @@ newsletter_name: "The Chronicle of Higher Education"
 category: politics
 subject: "Academe Today: Inside a GOP megadonor’s red-state feud"
 date: Thu, 15 Jan 2026 10:01:44 +0000
+source_url: "https://links2.newsletter.chronicle.com/s/c/are4-W2kjNIB9Q79LbaLXydq1HmZFwcCPX5onY5Zvm2IV386s2ZKiNnzJjKgu38LRqQvNPdvkLQdpgvgfeBuQvd6lcxWeL15rCEH0YxSVeeau0EDX3Bz5A7TemmksxK9l68_aV8Xi_Xd2D3GcC48YsJX0NjnKsZYyZZgWjVxyewMTl9wFqyGtqozyclGSZPEnqi43LS0o8Ul6qUSxFajgZ88sz54LedFyXuqZz1V3iw46lCvBjBHzS2I35HmvYb9c8LoDbvKj9PTXISwC0TuUf1uY6FqOAAY6Ar5Pk3V66cRLlTT19r--muOLENUectcKI-PGN2fQE8ia8BWBcuswksKHJh6yLcwyTwJ_2Ffs4lU1tMW1fH6wwyZoGRfkjPilTequS-jDlhwveqYr--6JPYjZ30dLFIsOal97ZGTwKplQSvZxnhO/s_g3NG1jkSoxxo5afwirzdBgdsMOPPwm/16"
 ---
 
 # Academe Today: Inside a GOP megadonor’s red-state feud
 
 **From:** The Chronicle of Higher Education <newsletter@newsletter.chronicle.com>
 **Date:** Thu, 15 Jan 2026 10:01:44 +0000
+**Source:** [View original](https://links2.newsletter.chronicle.com/s/c/are4-W2kjNIB9Q79LbaLXydq1HmZFwcCPX5onY5Zvm2IV386s2ZKiNnzJjKgu38LRqQvNPdvkLQdpgvgfeBuQvd6lcxWeL15rCEH0YxSVeeau0EDX3Bz5A7TemmksxK9l68_aV8Xi_Xd2D3GcC48YsJX0NjnKsZYyZZgWjVxyewMTl9wFqyGtqozyclGSZPEnqi43LS0o8Ul6qUSxFajgZ88sz54LedFyXuqZz1V3iw46lCvBjBHzS2I35HmvYb9c8LoDbvKj9PTXISwC0TuUf1uY6FqOAAY6Ar5Pk3V66cRLlTT19r--muOLENUectcKI-PGN2fQE8ia8BWBcuswksKHJh6yLcwyTwJ_2Ffs4lU1tMW1fH6wwyZoGRfkjPilTequS-jDlhwveqYr--6JPYjZ30dLFIsOal97ZGTwKplQSvZxnhO/s_g3NG1jkSoxxo5afwirzdBgdsMOPPwm/16)
 
 ---
 

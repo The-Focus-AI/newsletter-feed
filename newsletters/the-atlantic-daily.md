@@ -1,6 +1,6 @@
 ---
 name: "The Atlantic Daily"
-category: tech-ai
+category: politics
 email_patterns:
   - newsletters@theatlantic.com
 ---

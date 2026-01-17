@@ -5,12 +5,14 @@ newsletter_name: "Bloomberg"
 category: politics
 subject: "The CEO playbook for managing Trump"
 date: Thu, 15 Jan 2026 11:02:05 +0000
+source_url: "https://links.message.bloomberg.com/s/vb/BTtGbreduAtt3--TxpFGFsIeiVYCQAs5fcXNCvWFSQ0CfaJ69lw9Bm42qJGNQHguvyUIUNvg1AA7H4B35kbybE0_a5jjtsHWkj34_JydObGPSxxTDQKtw77MV60oHtcUiQIPeG1o1sA76l4IhYyPyosQQQc6kiasZdYqKw/3KVH7iS8M_66BazT5ACPiIOnERFikbjV/16"
 ---
 
 # The CEO playbook for managing Trump
 
 **From:** Bloomberg <subscriptions@message.bloomberg.com>
 **Date:** Thu, 15 Jan 2026 11:02:05 +0000
+**Source:** [View original](https://links.message.bloomberg.com/s/vb/BTtGbreduAtt3--TxpFGFsIeiVYCQAs5fcXNCvWFSQ0CfaJ69lw9Bm42qJGNQHguvyUIUNvg1AA7H4B35kbybE0_a5jjtsHWkj34_JydObGPSxxTDQKtw77MV60oHtcUiQIPeG1o1sA76l4IhYyPyosQQQc6kiasZdYqKw/3KVH7iS8M_66BazT5ACPiIOnERFikbjV/16)
 
 ---
 

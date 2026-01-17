@@ -5,12 +5,14 @@ newsletter_name: "Flaming Hydra"
 category: culture
 subject: "Head room / Showbiz duo"
 date: Fri, 16 Jan 2026 01:26:25 +0000
+source_url: "https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122"
 ---
 
 # Head room / Showbiz duo
 
 **From:** Flaming Hydra <editors@flaminghydra.com>
 **Date:** Fri, 16 Jan 2026 01:26:25 +0000
+**Source:** [View original](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
 
 ---
 

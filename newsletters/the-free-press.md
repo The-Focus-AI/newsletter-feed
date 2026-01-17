@@ -4,6 +4,8 @@ category: misc
 email_patterns:
   - bariweiss+the-front-page@substack.com
   - bariweiss+the-big-read@substack.com
+  - bariweiss+tgif-a-weekly-humor-column@substack.com
+  - bariweiss+the-weekend-press@substack.com
 ---
 
 # The Free Press

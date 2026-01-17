@@ -5,12 +5,14 @@ newsletter_name: "The Free Press"
 category: misc
 subject: "Trump’s Dangerous Attack on the Fed"
 date: Mon, 12 Jan 2026 20:52:16 +0000
+source_url: "https://substack.com/redirect/303f3f75-d80e-491c-9555-9b62d8c82325?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8"
 ---
 
 # Trump’s Dangerous Attack on the Fed
 
 **From:** The Free Press <bariweiss+the-big-read@substack.com>
 **Date:** Mon, 12 Jan 2026 20:52:16 +0000
+**Source:** [View original](https://substack.com/redirect/303f3f75-d80e-491c-9555-9b62d8c82325?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
 ---
 

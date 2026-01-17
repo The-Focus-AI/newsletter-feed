@@ -1,6 +1,6 @@
 ---
 name: "Mailbrew"
-category: tech-ai
+category: misc
 email_patterns:
   - noreply@mailbrew.com
 ---

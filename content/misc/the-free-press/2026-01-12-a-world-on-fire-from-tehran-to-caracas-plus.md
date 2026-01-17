@@ -5,12 +5,14 @@ newsletter_name: "The Free Press"
 category: misc
 subject: "A World on Fire, from Tehran to Caracas. Plus. . ."
 date: Mon, 12 Jan 2026 11:01:29 +0000
+source_url: "https://substack.com/redirect/c1a6be13-980a-4fa1-8332-43b05b163c4c?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8"
 ---
 
 # A World on Fire, from Tehran to Caracas. Plus. . .
 
 **From:** The Free Press <bariweiss+the-front-page@substack.com>
 **Date:** Mon, 12 Jan 2026 11:01:29 +0000
+**Source:** [View original](https://substack.com/redirect/c1a6be13-980a-4fa1-8332-43b05b163c4c?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "Met Opera"
-category: uncategorized
+category: culture
 email_patterns:
   - noreply@metopera.org
 ---

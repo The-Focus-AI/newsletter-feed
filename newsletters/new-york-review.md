@@ -1,6 +1,6 @@
 ---
 name: "New York Review"
-category: politics
+category: books
 email_patterns:
   - newsletters@nybooks.com
 ---

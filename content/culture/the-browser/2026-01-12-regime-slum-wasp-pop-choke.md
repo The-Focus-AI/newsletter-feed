@@ -5,12 +5,14 @@ newsletter_name: "The Browser"
 category: culture
 subject: "Regime, Slum, WASP, Pop, Choke"
 date: Mon, 12 Jan 2026 20:00:46 +0000
+source_url: "https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd"
 ---
 
 # Regime, Slum, WASP, Pop, Choke
 
 **From:** The Browser <editor@thebrowser.com>
 **Date:** Mon, 12 Jan 2026 20:00:46 +0000
+**Source:** [View original](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
 
 ---
 

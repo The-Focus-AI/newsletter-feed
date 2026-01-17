@@ -1,6 +1,6 @@
 ---
 name: "The Atlantic"
-category: tech-ai
+category: politics
 email_patterns:
   - email@theatlantic.com
 ---

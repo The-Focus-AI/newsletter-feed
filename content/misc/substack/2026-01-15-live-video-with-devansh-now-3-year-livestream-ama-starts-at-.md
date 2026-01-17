@@ -14,4 +14,14 @@ date: Thu, 15 Jan 2026 21:00:39 +0000
 
 ---
 
-Devansh is live on Substack now: &quot;3 year Livestream: AMA. starts at 4:15 pm est&quot;
+Email from SubstackDevansh is live on Substack now: "3 year Livestream: AMA. starts at 4:15 pm est"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+Devansh is live on Substack now: "3 year Livestream: AMA. starts at 4:15 pm est"
+
+Watch the live video
+
+© 2026 Substack Inc.
+548 Market Street PMB 72296, San Francisco, CA 94104
+Unsubscribe
+
+042

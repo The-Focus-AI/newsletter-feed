@@ -1,0 +1,163 @@
+---
+id: 19bc9511d03e42bc
+newsletter: the-atlantic-daily
+newsletter_name: "The Atlantic Daily"
+category: politics
+subject: "The Epstein files never went away"
+date: Fri, 16 Jan 2026 19:16:13 -0500 (EST)
+---
+
+# The Epstein files never went away
+
+**From:** The Atlantic Daily <newsletters@theatlantic.com>
+**Date:** Fri, 16 Jan 2026 19:16:13 -0500 (EST)
+
+---
+
+The Epstein files never went away
+
+96
+
+Plus: The question that the lawyers representing trans athletes didn’t answer
+Friday, January 16, 2026
+
+-->
+
+ 
+
+[Will Gottsegen](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci93aWxsLWdvdHRzZWdlbi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCc8bfc55e)
+
+Staff writer
+
+The Justice Department already missed its December deadline to release the Epstein files. Now it’s struggling to defend the delay.
+
+First, here are three new stories from The Atlantic:
+
+[The question that the lawyers representing trans athletes didn’t answer](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS93b21lbnMtc3BvcnRzLWhlY294LWJwai82ODU2MTQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB856df1ab)
+[Anna Nemtsova: Something is wrong with Russia’s children.](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvMjAyNi8wMS9ydXNzaWEtY2hpbGRyZW4tdmlvbGVuY2Utd2FyLzY4NTYzNS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB3608adbb)
+[Sophie Gilbert: The unspeakable, enabled.](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS9taXNvZ3lueS1yZW5lZS1uaWNvbGUtZ29vZC1ncm9rLzY4NTY0Ni8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBdc6ea881)
+
+-->
+
+Past Deadline
+
+(Heather Diehl / Getty)
+
+ 
+
+View in browser
+
+There was a moment this fall when it seemed like the public might actually get some answers—that the extent of the sex offender Jeffrey Epstein’s crimes might be exposed, and that his victims might see the accountability they’ve been waiting for. On November 19, President Trump [reluctantly](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjUvMTIvdHJ1bXAtZXBzdGVpbi1maWxlcy1qdXN0aWNlLWRlcGFydG1lbnQtcmVkYWN0aW9ucy82ODU0NTUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB1e295a96) signed the Epstein Files Transparency Act, which required the Justice Department to publish a huge number of its unclassified files related to the late financier (and unrelated to ongoing investigations) within 30 days.
+
+But what actually arrived on December 19, the Friday before Christmas, was a relatively small (and [sloppily redacted](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNS8xMi8yMy91cy9wb2xpdGljcy9lcHN0ZWluLWZpbGVzLXJlZGFjdGlvbnMtZG9qLmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB5feb7cac)) tranche of files that raised [far more questions](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNS8xMi9lcHN0ZWluLWZpbGVzLXJlbGVhc2UtdHJ1bXAtY2xpbnRvbi1yZWRhY3Rpb25zLzY4NTM2NC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB0f56cd9a) than it answered. Nearly a month later, not a whole lot has changed. Despite having published a second batch, the DOJ has still released less than 1 percent of the millions of documents now under review.
+
+If the Justice Department has legitimate reasons for its delay, it hasn’t thoroughly explained what they are. In a [letter](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly9zdG9yYWdlLmNvdXJ0bGlzdGVuZXIuY29tL3JlY2FwL2dvdi51c2NvdXJ0cy5ueXNkLjUxODY0OC9nb3YudXNjb3VydHMubnlzZC41MTg2NDguOTQuMC5wZGY_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBeb6a8239) yesterday, Attorney General Pam Bondi and other DOJ officials framed the problem as purely logistical, citing “inevitable glitches due to the sheer volume of materials.” They noted that the department has put “over five hundred reviewers” on the project, even as they declined to clarify when they would release more files. Frank Figliuzzi, a former high-ranking FBI official who has handled nationwide investigations involving massive amounts of raw data, told me he’s skeptical of that defense. During his tenure, he explained, the bureau became highly digitized, bringing in all sorts of new tools to speed up the process of redactions and disclosures. “If we’re led to believe that human beings have to go through all of this, I’m not buying all of that,” he said.
+
+[Legal experts](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly95b3V0dS5iZS9HWkYtb2pJNVhPdz90PTMyMSZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB053a74af) and [legislators](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly94LmNvbS9PdmVyc2lnaHREZW1zL3N0YXR1cy8yMDAyMDY0NTQ4MTgzMDE5ODUzP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB4cc21bfc) maintain that Bondi and her department are now in clear violation of the law. Earlier this week, 19 of Epstein’s victims requested that a Justice Department watchdog [review the agency’s work](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cuY25uLmNvbS8yMDI2LzAxLzE0L3BvbGl0aWNzL2plZmZyZXktZXBzdGVpbi1zdXJ2aXZvcnMtZG9qLWluc3BlY3Rvci1nZW5lcmFsP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB9fa4e490), alleging that the redactions have not adequately concealed survivors’ names and identifiers. Representatives Ro Khanna and Thomas Massie, who introduced the Transparency Act as a bipartisan bill, have suggested that Bondi be held in contempt for missing the deadline. Other lawmakers have batted around the idea of impeaching her. But these moves would require real political willpower—so far, neither of them has come to pass.
+
+In lieu of consistent communication with Congress and the public about the delays, the Justice Department is providing a [slow drip of updates](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cuY25uLmNvbS8yMDI2LzAxLzA2L3BvbGl0aWNzL2Vwc3RlaW4tZmlsZXMtanVzdGljZS1kZXBhcnRtZW50LXJldmlldz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB0686c427) in the form of legal memos and enigmatic new uploads to the existing database of Epstein files. The department has also equivocated about the scope of its documents: Last February, shortly after being confirmed as attorney general, Bondi declared that Epstein’s fabled “client list” was “sitting on my desk right now”—but in July, the DOJ said in a [memo](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cuanVzdGljZS5nb3Yvb3BhL21lZGlhLzE0MDcwMDEvZGw_aW5saW5lJnV0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB6a6cb10f) that no such client list ever existed. That same memo claimed that the department had conducted an “exhaustive review” of the files—but earlier this month, Bondi told a judge that [“more than 2 million documents”](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly9zdG9yYWdlLmNvdXJ0bGlzdGVuZXIuY29tL3JlY2FwL2dvdi51c2NvdXJ0cy5ueXNkLjUzOTYxMi9nb3YudXNjb3VydHMubnlzZC41Mzk2MTIuODI2LjAucGRmP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB18812336) were still in “various phases of review.”
+
+My colleague Sarah Fitzpatrick, who covers the DOJ, explained to me that the Epstein case has been plagued by a long list of issues, omissions, and breaches of Justice Department policy—a pattern that has persisted ever since Epstein became a focus of federal law enforcement. Although the release of the files is purportedly about “transparency,” the Justice Department has been suffering from a [lack of public trust](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjUvMTIvZG9qLWVwc3RlaW4tYmVuZWZpdC1vZi1kb3VidC1wb2xpdGljaXplZC82ODUzOTYvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB0c2c3b46). Trump has used the agency to [investigate](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvamVyb21lLXBvd2VsbC1kb2otY3JpbWluYWwtaW52ZXN0aWdhdGlvbi10cnVtcC1yaXZhbC82ODU1OTQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB18d0afc2) and even [prosecute](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyNS8xMC90cnVtcC1kb2otcG9saXRpY2FsLXByb3NlY3V0aW9ucy1jb21leS1qYW1lcy82ODQ1MTUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB89cb8498) his enemies, and its [employees](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzL2FyY2hpdmUvMjAyNS8xMC90cnVtcC1yZXRyaWJ1dGlvbi1jb21leS1kb2ovNjg0NTM1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB0e78059f) have left by the [thousands](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cucGJzLm9yZy9uZXdzaG91ci9uYXRpb24vaG93LXRoZS10cnVtcC1hZG1pbmlzdHJhdGlvbi1lcmFzZWQtY2VudHVyaWVzLW9mLWp1c3RpY2UtZGVwYXJ0bWVudC1leHBlcmllbmNlP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBcc6e6084) since he took office. This broader transformation of the DOJ has only compounded the communication issues around the Epstein files, and exacerbated [conspiracy theories](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvYXJjaGl2ZS8yMDI1LzA3L2Vwc3RlaW4tZmlsZXMtdHJ1bXAvNjgzNTAzLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBfa15cd5c). (The department did not respond to a request for comment.)
+
+The Epstein saga has also recently entered a new phase of political infighting. This week, the GOP-led House Oversight Committee called on former President Bill Clinton and former Secretary of State Hillary Clinton to testify about Epstein. They refused—and, in a [statement](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vaW50ZXJhY3RpdmUvMjAyNi8wMS8xMy91cy9jbGludG9uLWxldHRlci5odG1sP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB18a75ef5), accused Committee Chair James Comer of selectively enforcing subpoenas. “The decisions you have made, and the priorities you have set as chairman regarding the Epstein investigation, have prevented progress in discovering the facts about the government’s role,” they wrote. There could be an element of truth here—Comer may be using the Clintons as a distraction from Trump’s connections to Epstein—but they, like Bondi, are not above the law, and their refusal to cooperate only hampers the larger process.
+
+Each new revelation about the files seems to multiply the unknowns. The Transparency Act, which passed with overwhelming bipartisan support, represents one path to accountability. If only Congress had the will to enforce it.
+
+Related:
+
+[So this is why Trump didn’t want to release the Epstein files.](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjUvMTIvdHJ1bXAtZXBzdGVpbi1maWxlcy1qdXN0aWNlLWRlcGFydG1lbnQtcmVkYWN0aW9ucy82ODU0NTUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC1e295a96)
+[“They’re delusional if they think this is going to go away.”](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjUvMTIvZXBzdGVpbi12aWN0aW1zLXRydW1wLWJvbmRpLWp1c3RpY2UtZGVwYXJ0bWVudC82ODUzNjkvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB31fc4aa9)
+
+ 
+
+[Drew Goins](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kcmV3LWdvaW5zLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC3c56fcdb)
+
+Senior editor
+
+Do not stand shivering on the banks of today’s Atlantic Trivia—start fording! [Find your answers here.](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvZGFpbHktdHJpdmlhLXF1ZXN0aW9ucy1hbnN3ZXJzLXdlZWstMTQvNjg1NTkxLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB9450f2bd)
+
+What term that rhymes with a similar, more familiar concept has come to describe the replacement of alcohol consumption with cannabis use for the first month of the year?
+
+— From Yasmin Tayag’s article on the weed industry’s new New Year’s proposition
+Describing the ruinous aerial bombing of Guernica during the Spanish Civil War, Archbishop Cosmo Gordon Lang coined what phrase that has since been used to describe atom bombs and, infamously, materiel ultimately not found in Iraq?
+
+— From Conor Friedersdorf’s edition of The Atlantic Daily arguing that Trump sees everything as an existential threat
+A 19th-century Atlantic essayist wrote that at the start of 1776, many Americans metaphorically “stood shivering on the banks” of what river before Thomas Paine’s Common Sense nudged them to irreversibly cross it?
+
+— From Jake Lundberg’s essay on the provocation that helped create America
+Today’s News
+
+President Trump said he might [impose tariffs on countries that oppose U.S. control of Greenland](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vcG9saXRpY3MvZG9uYWxkLXRydW1wL3RydW1wLXNheXMtaW1wb3NlLXRhcmlmZnMtY291bnRyaWVzLW9wcG9zZS1nb2FsLWFjcXVpcmluZy1ncmVlbmxhbmQtcmNuYTI1NDQzMj91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBf6e605dd), escalating his push to acquire the territory.
+CIA Director [John Ratcliffe met with Delcy Rodríguez](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8xNi91cy9wb2xpdGljcy9jaWEtZGlyZWN0b3ItcmF0Y2xpZmZlLXZlbmV6dWVsYS5odG1sP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB6bec0f5b), Venezuela’s interim president, yesterday in Caracas, signaling the Trump administration’s support for her government after the U.S. seizure of Nicolás Maduro.
+[Twelve people were arrested](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cuY25uLmNvbS8yMDI2LzAxLzE2L3VzL3RydW1wLWluc3VycmVjdGlvbi1hY3QtbWlubmVhcG9saXMtcHJvdGVzdHMtaG5rP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB25e99839) last night during continued protests in Minneapolis, and federal officers used tear gas and percussion grenades to disperse crowds. Trump has threatened to invoke the Insurrection Act to quell unrest over federal immigration enforcement.
+Dispatches
+
+The Books Briefing: The author Madeline Cash has tried a [new way to write an engaging novel about screens](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvYm9va3MtYnJpZWZpbmctY2FzaC1pbnRlcm5ldC1ub3ZlbC1vZmZsaW5lLzY4NTY1MS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB7290454a), Maya Chung writes.
+[Explore all of our newsletters here.](https://link.theatlantic.com/click/29767897.0/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDIyMTEyMQ/61813432e16c7128e42f4628B52865c35)
+
+More From The Atlantic
+
+[Jerome Powell’s thankless rescue of Trump](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvamVyb21lLXBvd2VsbC1mZWQtdHJ1bXAtdGhhbmtsZXNzLzY4NTY1My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB5ee17abc)
+[The silence of the left on Iran](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS90aGUtaXJhbmlhbnMtd2hvLWZlZWwtYmV0cmF5ZWQtYnktdGhlLWxlZnQvNjg1NjQ0Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB53646ab3)
+[The sacrifice of the Danes](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDEvZGVubWFyay1hZmdoYW5pc3Rhbi1uYXRvLWFtZXJpY2EtZ3JlZW5sYW5kLzY4NTYyNS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB9b7936f2)
+Autocracy in America: How crypto is used for political corruption
+[Alexandra Petri: Trump-administration officials describe an elementary-school drop-off.](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvdHJ1bXAtYWRtaW5pc3RyYXRpb24tY2hpbGRyZW4tc2Nob29sLzY4NTY0Mi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB38d3ddbc)
+[The new food-stamp rules will make your head spin.](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzAxL3NuYXAtc29kYS1iYW4tZm9vZC1zdGFtcHMvNjg1NjM3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBafde6b70)
+
+-->
+
+Evening Read
+
+(Illustration by Ben Kothe / The Atlantic)
+
+ 
+
+[High January Was Bound to Happen](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzAxL2hpZ2gtamFudWFyeS1hbGNvaG9sLWNhbm5hYmlzLzY4NTYyNC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcD5e1b3bb0)
+
+By [Yasmin Tayag](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci95YXNtaW4tdGF5YWcvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB400b1eae)
+
+Many Americans enthusiastically partake in Dry January, but it is rarely pitched as fun. After the holiday stretch of office parties and family gatherings, Americans have come to use the start of every year to abstain from alcohol in the name of health and auspicious beginnings. It’s a time of discipline, of cleansing, of embodying your mood board, even if it makes you a drag at parties. And it is also, as weed companies have learned, a marketing opportunity.
+
+[Read the full article.](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzAxL2hpZ2gtamFudWFyeS1hbGNvaG9sLWNhbm5hYmlzLzY4NTYyNC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcE5e1b3bb0)
+
+Culture Break
+
+(Illustration by María Medem)
+
+ 
+
+Read. The philosopher Rebecca Newberger Goldstein’s latest book [looks beyond happiness as the goal of a well-lived life](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2Jvb2tzLzIwMjYvMDEvdGhlLW1hdHRlcmluZy1pbnN0aW5jdC1yZWJlY2NhLW5ld2Jlcmdlci1nb2xkc3RlaW4tYm9vay1yZXZpZXcvNjg1NTM2Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB7b4f5f5e), John Kaag writes.
+
+Write. In 2024, Shirley Li recommended [nine underrated movies that are worth your time](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvYXJjaGl2ZS8yMDI0LzAxL3VuZGVycmF0ZWQtbW92aWVzLTIwMjMvNjc3MDEzLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBdd5e1c70).
+
+[Play our daily crossword.](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ZyZWUtZGFpbHktY3Jvc3N3b3JkLXB1enpsZS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB5f7020f6)
+
+Did someone forward you this email? Sign up here.
+
+[Sign up for Inside the Trump Presidency](https://link.theatlantic.com/click/43590216.652817/aHR0cDovL3d3dy50aGVhdGxhbnRpYy5jb20vbmV3c2xldHRlcnMvc2lnbi11cC90cnVtcHMtcmV0dXJuLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB53942fb2), a newsletter in which Atlantic writers help you understand America in the second Trump term.
+
+Rafaela Jinich contributed to this newsletter.
+
+When you buy a book using a link in this newsletter, we receive a commission. Thank you for supporting The Atlantic.
+
+Most Popular on The Atlantic
+
+[The New Food-Stamp Rules Will Make Your Head Spin](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzAxL3NuYXAtc29kYS1iYW4tZm9vZC1zdGFtcHMvNjg1NjM3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcCafde6b70)
+[Rubio Won; Liberty Lost](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDEvbWFyY28tcnViaW8tdmVuZXp1ZWxhLW1hZHVyby82ODU2MjcvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTE2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB1513ea9d)
+[The Unspeakable, Enabled](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS9taXNvZ3lueS1yZW5lZS1uaWNvbGUtZ29vZC1ncm9rLzY4NTY0Ni8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCdc6ea881)
+[How Crypto Is Used for Political Corruption](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvZGNhc3RzLzIwMjYvMDEvY3J5cHRvLWNvcnJ1cHRpb24vNjg1Mjk5Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDExNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcCa0bf645f)
+[Something Is Wrong With Russia’s Children](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvMjAyNi8wMS9ydXNzaWEtY2hpbGRyZW4tdmlvbGVuY2Utd2FyLzY4NTYzNS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC3608adbb)
+
+Get a new year of ideas and insight
+
+Get a full year of unlimited access to journalism you can count on—to make you think, unearth mysteries, inspire curiosities, and help you navigate all the news ahead. Start an Atlantic subscription today, for less than $2 a week.
+
+[Subscribe](https://link.theatlantic.com/click/43590216.652817/aHR0cHM6Ly9hY2NvdW50cy50aGVhdGxhbnRpYy5jb20vcHJvZHVjdHMvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWNyJnV0bV9jYW1wYWlnbj1uZXd5ZWFyMjYmdXRtX2NvbnRlbnQ9c3Vic2NyaWJlJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC002e0370)
+
+This email was sent to wschenk@gmail.com
+
+You've signed up to receive newsletters from The Atlantic. If you wish to unsubscribe from The Atlantic newsletters, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcpyafc.dzpt/45b24249).
+
+To update your email preferences, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcpyafc.dzpt/45b24249).
+
+The Atlantic Monthly Group LLC &middot; 610 Water Street, SW &middot; Washington, DC 20024

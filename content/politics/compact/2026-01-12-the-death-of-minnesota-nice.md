@@ -5,12 +5,14 @@ newsletter_name: "Compact"
 category: politics
 subject: "The Death of ‘Minnesota Nice’"
 date: Mon, 12 Jan 2026 12:00:07 +0000
+source_url: "https://www.compactmag.com/r/6fe3c11c?m=33b1996b-f427-4fb3-88a9-83a2095d7637"
 ---
 
 # The Death of ‘Minnesota Nice’
 
 **From:** Compact <compact@ghost.io>
 **Date:** Mon, 12 Jan 2026 12:00:07 +0000
+**Source:** [View original](https://www.compactmag.com/r/6fe3c11c?m=33b1996b-f427-4fb3-88a9-83a2095d7637)
 
 ---
 

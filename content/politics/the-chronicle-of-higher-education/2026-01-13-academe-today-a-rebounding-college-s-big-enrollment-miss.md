@@ -5,12 +5,14 @@ newsletter_name: "The Chronicle of Higher Education"
 category: politics
 subject: "Academe Today: A rebounding college’s big enrollment miss"
 date: Tue, 13 Jan 2026 10:01:32 +0000
+source_url: "https://links2.newsletter.chronicle.com/s/c/vLkMW7Umqs59dxaABCbQGctAPqNZuP6w5tAfoMu2EqqSnXbWLgxi8TGpe2X0Y3Lngx22_SKsXmb3M5N4JyPy_Q2mSLKxdWTU58E-dPULJV-2P3zERTJKZmBJ82wUDMn8yg7pgjgCzL5o7VHr2f83AIoZaIIvydNtPIpEoG_RusdhvgNI8_ie-kziu7ANsm07VenJ3vs6UJZMIHCWGWL1XYW2kbkO-78U_oDPaYLzHjXifATHxgJEeQ3xl5ZAPtBAKLbiXz3eQ_Orp8CavqfqsdO3ogc1dyGAOq4qDVwkUPeJ4hPm6F75Ch10UC-QY5Lol4YtM5o4PtlKEtvk_zGjfcW2K-qplQgDHCYrj6OFWD1ixDJs50b82JwbHk4rlBpS-vAK98tzBRtZ6DZWHGfJefhDt4mNbIc3JC73N568os-fIs35ywqO/ct3WTIbT8MS4-_cae_Lao8IjOz1kCW3g/16"
 ---
 
 # Academe Today: A rebounding college’s big enrollment miss
 
 **From:** The Chronicle of Higher Education <newsletter@newsletter.chronicle.com>
 **Date:** Tue, 13 Jan 2026 10:01:32 +0000
+**Source:** [View original](https://links2.newsletter.chronicle.com/s/c/vLkMW7Umqs59dxaABCbQGctAPqNZuP6w5tAfoMu2EqqSnXbWLgxi8TGpe2X0Y3Lngx22_SKsXmb3M5N4JyPy_Q2mSLKxdWTU58E-dPULJV-2P3zERTJKZmBJ82wUDMn8yg7pgjgCzL5o7VHr2f83AIoZaIIvydNtPIpEoG_RusdhvgNI8_ie-kziu7ANsm07VenJ3vs6UJZMIHCWGWL1XYW2kbkO-78U_oDPaYLzHjXifATHxgJEeQ3xl5ZAPtBAKLbiXz3eQ_Orp8CavqfqsdO3ogc1dyGAOq4qDVwkUPeJ4hPm6F75Ch10UC-QY5Lol4YtM5o4PtlKEtvk_zGjfcW2K-qplQgDHCYrj6OFWD1ixDJs50b82JwbHk4rlBpS-vAK98tzBRtZ6DZWHGfJefhDt4mNbIc3JC73N568os-fIs35ywqO/ct3WTIbT8MS4-_cae_Lao8IjOz1kCW3g/16)
 
 ---
 

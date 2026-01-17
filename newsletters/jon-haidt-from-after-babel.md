@@ -1,6 +1,6 @@
 ---
 name: "Jon Haidt from After Babel"
-category: tech-ai
+category: culture
 email_patterns:
   - jonathanhaidt@substack.com
 ---

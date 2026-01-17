@@ -5,12 +5,14 @@ newsletter_name: "OpenSnow"
 category: personal
 subject: "Surfy Pow For BC & Alberta, New England Teases"
 date: Mon, 12 Jan 2026 16:39:30 +0000
+source_url: "https://lift.opensnow.com/newsletters/east/2026-01-12/index.html"
 ---
 
 # Surfy Pow For BC & Alberta, New England Teases
 
 **From:** OpenSnow <hello@messaging.opensnow.com>
 **Date:** Mon, 12 Jan 2026 16:39:30 +0000
+**Source:** [View original](https://lift.opensnow.com/newsletters/east/2026-01-12/index.html)
 
 ---
 

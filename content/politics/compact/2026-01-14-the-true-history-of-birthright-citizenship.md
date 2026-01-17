@@ -5,12 +5,14 @@ newsletter_name: "Compact"
 category: politics
 subject: "The True History of Birthright Citizenship"
 date: Wed, 14 Jan 2026 12:00:39 +0000
+source_url: "https://www.compactmag.com/r/bd23848f?m=33b1996b-f427-4fb3-88a9-83a2095d7637"
 ---
 
 # The True History of Birthright Citizenship
 
 **From:** Compact <compact@ghost.io>
 **Date:** Wed, 14 Jan 2026 12:00:39 +0000
+**Source:** [View original](https://www.compactmag.com/r/bd23848f?m=33b1996b-f427-4fb3-88a9-83a2095d7637)
 
 ---
 

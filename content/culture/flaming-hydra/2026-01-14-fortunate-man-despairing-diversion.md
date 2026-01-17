@@ -5,12 +5,14 @@ newsletter_name: "Flaming Hydra"
 category: culture
 subject: "Fortunate man / Despairing diversion"
 date: Wed, 14 Jan 2026 22:41:48 +0000
+source_url: "https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122"
 ---
 
 # Fortunate man / Despairing diversion
 
 **From:** Flaming Hydra <editors@flaminghydra.com>
 **Date:** Wed, 14 Jan 2026 22:41:48 +0000
+**Source:** [View original](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
 
 ---
 

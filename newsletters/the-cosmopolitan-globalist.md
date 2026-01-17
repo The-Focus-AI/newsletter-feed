@@ -1,6 +1,6 @@
 ---
 name: "The Cosmopolitan Globalist"
-category: tech-ai
+category: politics
 email_patterns:
   - claireberlinski@substack.com
 ---

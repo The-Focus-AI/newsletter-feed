@@ -5,12 +5,14 @@ newsletter_name: "Flaming Hydra"
 category: culture
 subject: "See no evil"
 date: Mon, 12 Jan 2026 22:34:03 +0000
+source_url: "https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122"
 ---
 
 # See no evil
 
 **From:** Flaming Hydra <editors@flaminghydra.com>
 **Date:** Mon, 12 Jan 2026 22:34:03 +0000
+**Source:** [View original](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "Joseph from 404 Media"
-category: uncategorized
+category: tech-ai
 email_patterns:
   - 404-media@ghost.io
 ---

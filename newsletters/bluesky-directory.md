@@ -1,6 +1,6 @@
 ---
 name: "Bluesky Directory"
-category: politics
+category: tech-ai
 email_patterns:
   - newsletter@blueskydirectory.com
 ---

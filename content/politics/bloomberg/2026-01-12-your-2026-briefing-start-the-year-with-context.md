@@ -5,12 +5,14 @@ newsletter_name: "Bloomberg"
 category: politics
 subject: "Your 2026 briefing. Start the year with context"
 date: Mon, 12 Jan 2026 23:01:00 +0000
+source_url: "https://links.message.bloomberg.com/s/vb/X_kYFmf_hij8WyGcbb4myV-z50M4cBbwdBNz1nP8o-LjVIEs2NXj01eGehPTBTEYGnTVVfBFEreFZtjJrY9xa4Oc1PJhON-jWNFtwPCnV4lJoe4Ciipo6t6RB1VsatKPlB7TyCXFw-85gWHh35J1DpTdrU0-iDapMOhONw/jqbXvlzbEHWbVse4qBHi93-sbvDTwWmz/16"
 ---
 
 # Your 2026 briefing. Start the year with context
 
 **From:** Bloomberg <subscriptions@message.bloomberg.com>
 **Date:** Mon, 12 Jan 2026 23:01:00 +0000
+**Source:** [View original](https://links.message.bloomberg.com/s/vb/X_kYFmf_hij8WyGcbb4myV-z50M4cBbwdBNz1nP8o-LjVIEs2NXj01eGehPTBTEYGnTVVfBFEreFZtjJrY9xa4Oc1PJhON-jWNFtwPCnV4lJoe4Ciipo6t6RB1VsatKPlB7TyCXFw-85gWHh35J1DpTdrU0-iDapMOhONw/jqbXvlzbEHWbVse4qBHi93-sbvDTwWmz/16)
 
 ---
 

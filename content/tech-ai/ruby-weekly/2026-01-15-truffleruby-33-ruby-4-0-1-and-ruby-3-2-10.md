@@ -5,12 +5,14 @@ newsletter_name: "Ruby Weekly"
 category: tech-ai
 subject: "TruffleRuby 33, Ruby 4.0.1, and Ruby 3.2.10"
 date: Thu, 15 Jan 2026 18:13:46 +0000 (UTC)
+source_url: "https://rubyweekly.com/issues/783"
 ---
 
 # TruffleRuby 33, Ruby 4.0.1, and Ruby 3.2.10
 
 **From:** Ruby Weekly <rw@peterc.org>
 **Date:** Thu, 15 Jan 2026 18:13:46 +0000 (UTC)
+**Source:** [View original](https://rubyweekly.com/issues/783)
 
 ---
 

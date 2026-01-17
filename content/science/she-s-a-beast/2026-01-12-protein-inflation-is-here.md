@@ -5,12 +5,14 @@ newsletter_name: "She's A Beast"
 category: science
 subject: "protein inflation is here"
 date: Mon, 12 Jan 2026 18:16:23 +0000
+source_url: "https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc"
 ---
 
 # protein inflation is here
 
 **From:** "She's A Beast" <casey@shesabeast.co>
 **Date:** Mon, 12 Jan 2026 18:16:23 +0000
+**Source:** [View original](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
 ---
 

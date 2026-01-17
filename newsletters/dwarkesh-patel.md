@@ -1,6 +1,6 @@
 ---
 name: "Dwarkesh Patel"
-category: misc
+category: tech-ai
 email_patterns:
   - dwarkesh+blog@substack.com
 ---

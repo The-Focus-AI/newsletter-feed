@@ -5,12 +5,14 @@ newsletter_name: "Sam Circle"
 category: tech-ai
 subject: "Last Week's New Yorker Review: ⏰ The Weekend Special (January 19)"
 date: Wed, 14 Jan 2026 20:41:03 +0000
+source_url: "https://buttondown.com/lastweeksnewyorker/archive/last-weeks-new-yorker-review-the-weekend-special-9120/"
 ---
 
 # Last Week's New Yorker Review: ⏰ The Weekend Special (January 19)
 
 **From:** Sam Circle <lastweeksnewyorker@buttondown.email>
 **Date:** Wed, 14 Jan 2026 20:41:03 +0000
+**Source:** [View original](https://buttondown.com/lastweeksnewyorker/archive/last-weeks-new-yorker-review-the-weekend-special-9120/)
 
 ---
 

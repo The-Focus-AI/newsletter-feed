@@ -1,6 +1,6 @@
 ---
 name: "Casey Newton"
-category: politics
+category: tech-ai
 email_patterns:
   - casey@platformer.news
 ---

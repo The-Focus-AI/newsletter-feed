@@ -5,12 +5,14 @@ newsletter_name: "The Chronicle of Higher Education"
 category: politics
 subject: "Academe Today: Trump doles out grants to transform accreditation"
 date: Mon, 12 Jan 2026 10:02:00 +0000
+source_url: "https://links2.newsletter.chronicle.com/s/c/gDvnq8pTfzFvOjmgkXPhN-U5w8DHp8UJGfi1mGLUkRPByY9e0yLPoeeFICAtNJX5NIxb-q8alHh5Gmc2N98dzmKon7-r7hlvn2hJEw7gSPz465sZsjFLsc3AAn3ckG_HhihCEUg4F8VRopSyl-3-xmuehsvbuBhy8aBzUZkUD0MlTfAbLbPJxuB7akMRPD-ZGMgurgEGjpCXg29394KYAI3uHT2Icj1ZeXQwNeoyY9HSRvwULGNFsCyziU56XOXwiKfEkp1_4K9Dwuzz65WVYNPbUCcTu0ucIjf5OCK7POZxPsqgk_cLO7x0keoBVs9AxitR0pOtNac-L4eO-aqXmCYM5NCYjM4t7U4ERCBa7xYBDZdDO3-fsYhq60WRmIoL_zfS1AuGoqtDYdpShxvOCedZJLkLkw-n2dNzOt2sDO81CTXmY1tv/x150eC-yB5PoK1awFfEZ6IbSckgfBBSF/16"
 ---
 
 # Academe Today: Trump doles out grants to transform accreditation
 
 **From:** The Chronicle of Higher Education <newsletter@newsletter.chronicle.com>
 **Date:** Mon, 12 Jan 2026 10:02:00 +0000
+**Source:** [View original](https://links2.newsletter.chronicle.com/s/c/gDvnq8pTfzFvOjmgkXPhN-U5w8DHp8UJGfi1mGLUkRPByY9e0yLPoeeFICAtNJX5NIxb-q8alHh5Gmc2N98dzmKon7-r7hlvn2hJEw7gSPz465sZsjFLsc3AAn3ckG_HhihCEUg4F8VRopSyl-3-xmuehsvbuBhy8aBzUZkUD0MlTfAbLbPJxuB7akMRPD-ZGMgurgEGjpCXg29394KYAI3uHT2Icj1ZeXQwNeoyY9HSRvwULGNFsCyziU56XOXwiKfEkp1_4K9Dwuzz65WVYNPbUCcTu0ucIjf5OCK7POZxPsqgk_cLO7x0keoBVs9AxitR0pOtNac-L4eO-aqXmCYM5NCYjM4t7U4ERCBa7xYBDZdDO3-fsYhq60WRmIoL_zfS1AuGoqtDYdpShxvOCedZJLkLkw-n2dNzOt2sDO81CTXmY1tv/x150eC-yB5PoK1awFfEZ6IbSckgfBBSF/16)
 
 ---
 

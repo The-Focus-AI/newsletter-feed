@@ -5,12 +5,14 @@ newsletter_name: "OpenSnow"
 category: personal
 subject: "❄️ New England Daily Snow - Turning Colder"
 date: Thu, 15 Jan 2026 13:06:46 +0000
+source_url: "https://opensnow.com/dailysnow/newengland/post/42360?utm_source=internal&amp;utm_medium=email&amp;utm_term=dailysnowalert&amp;utm_campaign=2025-2026"
 ---
 
 # ❄️ New England Daily Snow - Turning Colder
 
 **From:** OpenSnow <hello@messaging.opensnow.com>
 **Date:** Thu, 15 Jan 2026 13:06:46 +0000
+**Source:** [View original](https://opensnow.com/dailysnow/newengland/post/42360?utm_source=internal&amp;utm_medium=email&amp;utm_term=dailysnowalert&amp;utm_campaign=2025-2026)
 
 ---
 

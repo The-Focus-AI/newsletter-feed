@@ -1,6 +1,6 @@
 ---
 name: "GitHub"
-category: misc
+category: tech-ai
 email_patterns:
   - no-reply@github.com
 ---

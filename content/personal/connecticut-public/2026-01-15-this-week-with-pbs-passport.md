@@ -5,12 +5,14 @@ newsletter_name: "Connecticut Public"
 category: personal
 subject: "This week with PBS Passport"
 date: Thu, 15 Jan 2026 11:01:11 -0500 (EST)
+source_url: "https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401"
 ---
 
 # This week with PBS Passport
 
 **From:** Connecticut Public <audiencecare@ctpublic.org>
 **Date:** Thu, 15 Jan 2026 11:01:11 -0500 (EST)
+**Source:** [View original](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401)
 
 ---
 

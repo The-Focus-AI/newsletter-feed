@@ -1,6 +1,6 @@
 ---
 name: "Bill McKibben from The Crucial Years"
-category: misc
+category: politics
 email_patterns:
   - billmckibben@substack.com
 ---

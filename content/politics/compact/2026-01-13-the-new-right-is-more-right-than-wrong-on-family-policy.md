@@ -5,12 +5,14 @@ newsletter_name: "Compact"
 category: politics
 subject: "The New Right Is More Right than Wrong on Family Policy"
 date: Tue, 13 Jan 2026 12:00:44 +0000
+source_url: "https://www.compactmag.com/r/e34a8f95?m=33b1996b-f427-4fb3-88a9-83a2095d7637"
 ---
 
 # The New Right Is More Right than Wrong on Family Policy
 
 **From:** Compact <compact@ghost.io>
 **Date:** Tue, 13 Jan 2026 12:00:44 +0000
+**Source:** [View original](https://www.compactmag.com/r/e34a8f95?m=33b1996b-f427-4fb3-88a9-83a2095d7637)
 
 ---
 

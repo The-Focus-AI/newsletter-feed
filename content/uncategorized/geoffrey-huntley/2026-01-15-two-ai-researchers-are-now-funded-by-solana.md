@@ -5,12 +5,14 @@ newsletter_name: "Geoffrey Huntley"
 category: uncategorized
 subject: "two AI researchers are now funded by Solana"
 date: Thu, 15 Jan 2026 09:45:03 +0000
+source_url: "https://ghuntley.com/r/a0e555fe?m=6d763223-fea6-4f7b-98af-864085a0f8a1"
 ---
 
 # two AI researchers are now funded by Solana
 
 **From:** Geoffrey Huntley <noreply@ghuntley.com>
 **Date:** Thu, 15 Jan 2026 09:45:03 +0000
+**Source:** [View original](https://ghuntley.com/r/a0e555fe?m=6d763223-fea6-4f7b-98af-864085a0f8a1)
 
 ---
 

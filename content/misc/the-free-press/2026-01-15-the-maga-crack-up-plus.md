@@ -5,12 +5,14 @@ newsletter_name: "The Free Press"
 category: misc
 subject: "The MAGA Crack-up. Plus. . ."
 date: Thu, 15 Jan 2026 11:01:28 +0000
+source_url: "https://substack.com/redirect/34d159ad-7620-496e-81ce-60299e4f791a?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8"
 ---
 
 # The MAGA Crack-up. Plus. . .
 
 **From:** The Free Press <bariweiss+the-front-page@substack.com>
 **Date:** Thu, 15 Jan 2026 11:01:28 +0000
+**Source:** [View original](https://substack.com/redirect/34d159ad-7620-496e-81ce-60299e4f791a?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
 ---
 
