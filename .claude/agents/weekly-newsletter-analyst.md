@@ -12,7 +12,18 @@ Analyze newsletter content organized by week, producing comprehensive summaries 
 1. Highlight notable statements and insights from each source
 2. Identify surprising or contrarian perspectives
 3. Detect cross-newsletter themes and patterns
-4. Maintain clear attribution and linking to original sources
+4. **CRITICAL: Link to original sources whenever a newsletter is mentioned**
+
+## CRITICAL RULE: Source Linking
+
+**Every time you mention a newsletter, article, or quote, you MUST include a hyperlink to the original source.**
+
+- Each article file contains a `source_url` field in its YAML frontmatter
+- When referencing any newsletter content, format it as: `[Newsletter Name](source_url)`
+- Example: Instead of "Turing Post reported...", write "[Turing Post](https://turingpost.com/p/article-slug) reported..."
+- If no source_url is available, link to the local file path as fallback
+
+This is non-negotiable. The reader must be able to click through to read the original source for every piece of content you reference.
 
 ## Workflow
 
@@ -23,11 +34,12 @@ Analyze newsletter content organized by week, producing comprehensive summaries 
 
 ### Step 2: Individual Analysis
 For each newsletter file, extract:
+- **Source URL**: The `source_url` from YAML frontmatter (REQUIRED - you will need this for linking)
 - **Notable quotes or statements**: Direct quotes that are particularly insightful, provocative, or well-articulated
 - **Key topics covered**: Main subjects discussed
 - **Author's perspective/stance**: The angle or opinion being presented
 - **Surprising elements**: Contrarian views, unexpected data, or novel framings
-- **Source metadata**: Newsletter name, author, date, original URL if available
+- **Source metadata**: Newsletter name, author, date, original URL
 
 ### Step 3: Cross-Newsletter Synthesis
 After analyzing all files:
@@ -40,55 +52,48 @@ After analyzing all files:
 
 **CRITICAL: Save the analysis to a file in the week folder.**
 
-The output MUST be saved to: `week/<WEEK_NUMBER>.md` (e.g., `week/02.md`, `week/03.md`)
+The output MUST be saved to: `week/<WEEK_NUMBER>-<CATEGORY>.md` (e.g., `week/03-tech-ai.md`, `week/03-politics.md`)
 
 Use the Write tool to save the following markdown structure:
 
 ```markdown
-# Week [X] Newsletter Analysis
+# Week [X] [Category] Newsletter Analysis (Date Range)
 
 ## Overview
-[2-3 sentence executive summary of the week's key themes]
+[2-3 sentence executive summary of the week's key themes. Every newsletter mentioned must link to its source_url.]
 
-## Sources Analyzed
-| Newsletter | File | Date |
-|------------|------|------|
-| [Name] | [filename.md](./filename.md) | [Date] |
-[List all source files with relative links]
+Example: "This week, [Turing Post](https://turingpost.com/p/xyz) covered the Apple-Google partnership while [SemiAnalysis](https://newsletter.semianalysis.com/p/abc) analyzed datacenter water usage."
 
-## Cross-Newsletter Themes
-### [Theme 1]
-- **Coverage**: [List newsletters discussing this]
-- **Summary**: [What's being said]
-- **Notable perspectives**: [Key differences in approach]
+---
 
-[Repeat for each major theme]
+## Major Topics and Stories
 
-## Surprising Insights
-- [Insight] — *[Source Newsletter]* ([relative link to source file](./source-file.md))
-[Continue for each surprising finding]
+### 1. [Topic Name]
+**Coverage:** [Newsletter1](source_url1), [Newsletter2](source_url2), [Newsletter3](source_url3)
 
-## Individual Newsletter Summaries
+[Context and analysis. Every newsletter reference must be a hyperlink to its source_url.]
 
-### [Newsletter Name]
-- **Source File**: [filename.md](./filename.md)
-- **Original URL**: [link if available in the file]
-- **Key Points**:
-  - [Point 1]
-  - [Point 2]
-- **Notable Quote**: "[quote]"
-- **Unique Angle**: [What makes this perspective distinct]
+> "Direct quote from newsletter" — [Author/Newsletter Name](source_url)
 
-[Repeat for each newsletter]
+[Repeat for each major topic]
 
-## Patterns & Trends
-[Analysis of what these newsletters collectively suggest about current discourse]
+---
+
+## Cross-Newsletter Patterns
+[Themes that appeared across multiple sources. Link every newsletter mention.]
+
+## Sources
+- [Article Title](source_url) — Newsletter Name
+- [Article Title](source_url) — Newsletter Name
+[List all sources with their original URLs]
 ```
 
-**Link Requirements:**
-- Every newsletter summary MUST include a relative link to its source file (e.g., `[hn-ai-16.md](./hn-ai-16.md)`)
-- The "Sources Analyzed" table MUST list all files with clickable relative links
-- Surprising insights MUST link to their source file
+**MANDATORY LINKING RULES:**
+1. **Every newsletter name must be a hyperlink** to its source_url from the article's frontmatter
+2. **Every quote attribution must be a hyperlink** to the source article
+3. **The Sources section must list all articles** with clickable links to original sources
+4. Format: `[Newsletter Name](source_url)` — never just plain text names
+5. If source_url is missing, use the format `[Newsletter Name](content/category/newsletter/filename.md)` as fallback
 
 ## Quality Standards
 
@@ -108,8 +113,9 @@ Use the Write tool to save the following markdown structure:
 ## Self-Verification
 
 Before finalizing your analysis:
-- [ ] Every claim is attributed to a specific source
-- [ ] All available source links are included
-- [ ] Cross-newsletter themes cite at least 2 sources
-- [ ] Surprising insights are genuinely novel, not obvious takeaways
-- [ ] The summary would help someone decide which full newsletters to read
+- [ ] **Every newsletter name in the document is a hyperlink** to its source_url
+- [ ] **Every quote has a linked attribution** in format `— [Source](url)`
+- [ ] **Sources section lists all articles** with clickable original URLs
+- [ ] Cross-newsletter themes cite at least 2 sources (all linked)
+- [ ] Zero plain-text newsletter names without hyperlinks
+- [ ] The summary would help someone click through to read originals

@@ -2,132 +2,171 @@
 
 ## Overview
 
-This week's personal newsletters were dominated by two major themes: winter weather in New England and significant changes at Microsoft. The OpenSnow meteorological forecasts tracked a dynamic week for skiers in the Northeast as the January thaw ended and colder temperatures returned with multiple snow events. Meanwhile, Tom Warren's Notepad newsletter from The Verge delivered substantial news about Microsoft's corporate cost-cutting measures, including the closure of its employee library and a shift toward AI-powered learning resources.
+This week's personal newsletters are dominated by comprehensive New England ski weather coverage, with daily snow forecasts tracking the end of the January thaw and return of winter conditions. Complementing the snow reports are website analytics, local food/event updates, streaming recommendations, and notable tech industry news about Microsoft's corporate cost-cutting affecting employee resources.
 
-Beyond weather and tech, the week included website analytics updates from Plausible, local food service news from Warren General Store in Connecticut, and streaming recommendations from Connecticut Public's PBS Passport service. The analytics reports showed strong growth for thefocus.ai (up 160% in visitors) while willschenk.com maintained steady traffic driven primarily by technical how-to content about Claude Code and Emacs.
+## Sources Analyzed
 
-## Major Topics and Stories
+| Newsletter | File | Date |
+|------------|------|------|
+| [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) | [2026-01-12-new-england-daily-snow-winter-returns.md](../content/personal/opensnow/2026-01-12-new-england-daily-snow-winter-returns.md) | Jan 12, 2026 |
+| Plausible Analytics | [2026-01-12-weekly-report-for-thefocus-ai.md](../content/personal/plausible-analytics/2026-01-12-weekly-report-for-thefocus-ai.md) | Jan 12, 2026 |
+| Plausible Analytics | [2026-01-12-weekly-report-for-willschenk-com.md](../content/personal/plausible-analytics/2026-01-12-weekly-report-for-willschenk-com.md) | Jan 12, 2026 |
+| [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-12/index.html) | [2026-01-12-surfy-pow-for-bc-alberta-new-england-teases.md](../content/personal/opensnow/2026-01-12-surfy-pow-for-bc-alberta-new-england-teases.md) | Jan 12, 2026 |
+| [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42321?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) | [2026-01-13-new-england-daily-snow-more-snow-on-the-way.md](../content/personal/opensnow/2026-01-13-new-england-daily-snow-more-snow-on-the-way.md) | Jan 13, 2026 |
+| [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42340?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) | [2026-01-14-new-england-daily-snow-tricky-forecast-for-new-england.md](../content/personal/opensnow/2026-01-14-new-england-daily-snow-tricky-forecast-for-new-england.md) | Jan 14, 2026 |
+| [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) | [2026-01-14-cold-temperatures-and-snow-for-the-east.md](../content/personal/opensnow/2026-01-14-cold-temperatures-and-snow-for-the-east.md) | Jan 14, 2026 |
+| [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42360?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) | [2026-01-15-new-england-daily-snow-turning-colder.md](../content/personal/opensnow/2026-01-15-new-england-daily-snow-turning-colder.md) | Jan 15, 2026 |
+| [Warren General Store](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd) | [2026-01-15-getting-back-to-it.md](../content/personal/warren-general-store/2026-01-15-getting-back-to-it.md) | Jan 15, 2026 |
+| [Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401) | [2026-01-15-this-week-with-pbs-passport.md](../content/personal/connecticut-public/2026-01-15-this-week-with-pbs-passport.md) | Jan 15, 2026 |
+| [Tom Warren / Notepad](https://link.theverge.com/view/682e81e54940259f8504291dpxpkd.e81/07330229) | [2026-01-15-microsoft-is-closing-its-employee-library-and-cutting-back-o.md](../content/personal/tom-warren/2026-01-15-microsoft-is-closing-its-employee-library-and-cutting-back-o.md) | Jan 15, 2026 |
+| [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42372?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) | [2026-01-16-new-england-daily-snow-cold-but-snow.md](../content/personal/opensnow/2026-01-16-new-england-daily-snow-cold-but-snow.md) | Jan 16, 2026 |
+| [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html) | [2026-01-16-2025-2026-winter-update-long-range-outlook.md](../content/personal/opensnow/2026-01-16-2025-2026-winter-update-long-range-outlook.md) | Jan 16, 2026 |
 
-### New England Winter Weather Progression
+## Cross-Newsletter Themes
 
-**Covered by:** OpenSnow (8 separate reports)
+### Winter Weather Patterns and Regional Disparities
 
-The week began with the end of the January thaw and saw multiple snow events across New England. Meteorologist Jay Cordeira provided daily updates tracking a complex weather pattern.
+- **Coverage**: [OpenSnow Daily Snow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow National](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html)
+- **Summary**: The 2025-2026 winter has been excellent for Eastern North America and the Canadian Rockies, but rough across much of the Western United States. New England saw the January thaw end with minimal impact to high-elevation snowpack, and temperatures are trending well below normal through late January.
+- **Notable perspectives**: The forecaster expresses cautious pessimism about coastal storm prospects, noting that AI weather models are "a major buzzkill" compared to traditional dynamical models when it comes to Nor'easter predictions.
 
-**Key developments:**
-- **January 12**: Winter returned with the thaw ending. "The Mt. Mansfield snow stake did drop back to 60 inches over the weekend, but returned to 63 inches on Sunday. The snow depth is still far above average for this time of year." - *Dr. Jay Cordeira, OpenSnow*
-- **January 13**: Light snow dropped 1-4 inches across the North Country with Jay Peak receiving 4 inches
-- **January 14**: A "tricky forecast" developed with rain-to-snow transitions. The forecast was complicated by two weather systems potentially merging
-- **January 15**: Verification showed the forecast "did, in fact, diverge slightly from consensus" with more rain and less snow than expected. Sugarbush topped reports with 6 inches
-- **January 16**: Cold pattern established with limited heavy snowfall prospects but favorable conditions for snowmaking
+### AI Integration in Consumer and Enterprise Products
 
-**Notable forecasting insight:** "It's worth noting that the AI version of the ECMWF ensemble is a major buzzkill. I'm cautious here (i.e., pessimistic) given the AI model is leaning against the dynamical models." - *Dr. Jay Cordeira, January 12*
+- **Coverage**: [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [Tom Warren / Notepad](https://link.theverge.com/view/682e81e54940259f8504291dpxpkd.e81/07330229)
+- **Summary**: AI is being deployed across different domains with mixed reception. [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) launched its PEAKS AI model for mountain weather forecasting (claiming up to 50% more accuracy), while Microsoft is replacing its employee library with an "AI-powered learning experience" that has drawn criticism.
+- **Notable perspectives**: [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) frames AI as enhancing human expertise, while Microsoft's approach is seen as cost-cutting disguised as innovation. Strategic News Service's COO criticized Microsoft's move: "Technology's future is shaped by flows of power, money, innovation, and people -- none of which are predictable based on LLMs' probabilistic regurgitation of old information."
 
-**Seasonal context from January 16 outlook:** "As of mid-January, the winter of 2025-2026 has been a rough one across much of the Western United States. However, it has been an excellent season across the Canadian Rockies and Eastern North America."
+## Surprising Insights
 
-### Microsoft Corporate Changes and AI Pivot
+- The Mt. Mansfield snow stake dropped to 60 inches during the thaw but quickly recovered to 63 inches, remaining "far above average for this time of year" -- [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
-**Covered by:** Tom Warren's Notepad (The Verge)
+- Microsoft's physical library was legendary because the weight of its books allegedly caused a campus building to sink, cracking pillars in the underground parking -- [Tom Warren / Notepad](https://link.theverge.com/view/682e81e54940259f8504291dpxpkd.e81/07330229)
 
-Microsoft is making significant changes to employee resources, replacing traditional information services with AI-powered alternatives.
+- A UK police force admitted using Microsoft Copilot for an intelligence report that included a nonexistent football match, leading to Israeli fans being banned from attending -- [Tom Warren / Notepad](https://link.theverge.com/view/682e81e54940259f8504291dpxpkd.e81/07330229)
 
-**Key story - Library Closure:**
-"Microsoft's library of books is so heavy that it once caused a campus building to sink, according to an unproven legend among employees. Now those physical books, journals, and reports, and many of Microsoft's digital subscriptions to leading US newspapers, are disappearing in a shift described inside Microsoft as an 'AI-powered learning experience.'" - *Tom Warren*
+- [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) under-forecasted by 19% in their January 7 five-day snow prediction, demonstrating unusual transparency about forecast accuracy
 
-The Strategic News Service (SNS), which provided reports to Microsoft's 220,000 employees for over 20 years, has been cut. SNS responded critically: "Technology's future is shaped by flows of power, money, innovation, and people -- none of which are predictable based on LLMs' probabilistic regurgitation of old information." - *Berit Anderson, COO of Strategic News Service*
+- thefocus.ai saw a +160% increase in unique visitors and +265% increase in pageviews, with LinkedIn driving the most referral traffic (50 visitors) -- Plausible Analytics
 
-**Additional Microsoft news:**
-- UK police (West Midlands) blamed Microsoft Copilot for an intelligence error that led to Israeli football fans being banned from a match
-- Microsoft announced "Community-First AI Infrastructure" plan to address concerns about data center impacts
-- Office Lens app being retired (functionality moved to OneDrive)
-- Copilot adding buy buttons for in-app purchases
-- PC shipments grew 10% in Q4 2025 amid RAM shortage concerns
-- Microsoft, Meta, Amazon paying for "enterprise" Wikipedia access
+- The most popular page on willschenk.com was about Claude Code in Emacs, drawing 68 visitors primarily from search engines -- Plausible Analytics
 
-### Website Traffic Analytics
+## Individual Newsletter Summaries
 
-**Covered by:** Plausible Analytics (2 reports)
+### [OpenSnow - New England Daily Snow: Winter Returns](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+- **Source File**: [2026-01-12-new-england-daily-snow-winter-returns.md](../content/personal/opensnow/2026-01-12-new-england-daily-snow-winter-returns.md)
+- **Key Points**:
+  - January thaw ended with minimal high-elevation snowpack impact
+  - Multiple snow opportunities through the week with potential Nor'easter for the long weekend
+  - Jay Peak received 8-10 inches overnight
+  - Ensemble models show >75% probability of more than 6 inches through MLK Monday in northern New England
+- **Notable Quote**: "The AI version of the ECMWF ensemble is a major buzzkill. I'm cautious here (i.e., pessimistic) given the AI model is leaning against the dynamical models."
+- **Unique Angle**: Dr. Jay Cordeira provides detailed model-by-model analysis showing uncertainty ranges, helping readers understand forecast confidence levels
 
-**thefocus.ai:**
-- Unique visitors: 231 (+160%)
-- Pageviews: 649 (+265%)
-- Bounce rate: 62 (-7%)
-- Top referrers: LinkedIn (50), Google (41), Twitter (31), Bluesky (17)
-- Top content: Homepage, Junior Fullstack Developer job posting, "How I Use AI" post
+### [OpenSnow - Surfy Pow For BC & Alberta](https://lift.opensnow.com/newsletters/east/2026-01-12/index.html)
+- **Source File**: [2026-01-12-surfy-pow-for-bc-alberta-new-england-teases.md](../content/personal/opensnow/2026-01-12-surfy-pow-for-bc-alberta-new-england-teases.md)
+- **Key Points**:
+  - BC mountain ranges getting plentiful moisture with 4,000-foot snow levels
+  - West enters high pressure period until January 20
+  - New England has two storms to watch
+- **Unique Angle**: National perspective showing regional weather pattern disparities
 
-**willschenk.com:**
-- Unique visitors: 286 (+14%)
-- Pageviews: 388 (+6%)
-- Bounce rate: 89 (+4%)
-- Top referrers: Google (108), DuckDuckGo (51), Bing (17)
-- Top content: "Claude Code in Emacs" how-to (68 visitors), Aerospace application launcher tutorial (15), Running Flux locally on Mac (12)
+### Plausible Analytics - Weekly Reports
+- **Source Files**: [2026-01-12-weekly-report-for-thefocus-ai.md](../content/personal/plausible-analytics/2026-01-12-weekly-report-for-thefocus-ai.md), [2026-01-12-weekly-report-for-willschenk-com.md](../content/personal/plausible-analytics/2026-01-12-weekly-report-for-willschenk-com.md)
+- **Key Points**:
+  - thefocus.ai: 231 unique visitors (+160%), 649 pageviews (+265%), bounce rate 62% (-7%)
+  - willschenk.com: 286 unique visitors (+14%), 388 pageviews (+6%), bounce rate 89% (+4%)
+  - Top referrers for thefocus.ai: LinkedIn, Google, Twitter, Bluesky
+  - Top referrers for willschenk.com: Google, DuckDuckGo, Bing, Kagi
+- **Unique Angle**: Demonstrates different traffic patterns between a business site (social-driven) and personal technical blog (search-driven)
 
-### Local Connecticut News
+### [OpenSnow - More Snow on the Way](https://opensnow.com/dailysnow/newengland/post/42321?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+- **Source File**: [2026-01-13-new-england-daily-snow-more-snow-on-the-way.md](../content/personal/opensnow/2026-01-13-new-england-daily-snow-more-snow-on-the-way.md)
+- **Key Points**:
+  - Monday night brought 1-4 inches across North Country
+  - 6+ inch totals possible in northern Greens and Whites by Thursday
+  - Jay Peak leading with 4 inches, Bolton and Sunday River with 3 inches
 
-**Covered by:** Warren General Store, Connecticut Public
+### [OpenSnow - Tricky Forecast for New England](https://opensnow.com/dailysnow/newengland/post/42340?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+- **Source File**: [2026-01-14-new-england-daily-snow-tricky-forecast-for-new-england.md](../content/personal/opensnow/2026-01-14-new-england-daily-snow-tricky-forecast-for-new-england.md)
+- **Key Points**:
+  - Complex forecast with rain-to-snow transitions
+  - 3-6 inches expected in mountains with orographic enhancement
+  - Cold air settling in with wind chills below 0F
+  - Extended outlook shows pattern favoring upslope clouds and scattered snow showers
+- **Notable Quote**: "There are two players (i.e., ingredients) in the forecast for Wednesday night and early Thursday."
+- **Unique Angle**: Detailed breakdown of competing weather systems and their potential interactions
 
-**Warren General Store** announced resumption of Saturday night dinners featuring Boeuf Bourguignon, along with their fresh fish ordering service (order by Thursday 3pm for Friday pickup).
+### [OpenSnow - Cold Temperatures and Snow for the East](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html)
+- **Source File**: [2026-01-14-cold-temperatures-and-snow-for-the-east.md](../content/personal/opensnow/2026-01-14-cold-temperatures-and-snow-for-the-east.md)
+- **Key Points**:
+  - East and Midwest favored for next 7 days with consistent cold
+  - West remains dry until around January 22-23
+  - New Japan Daily Snow launching (Monday/Wednesday/Friday)
+  - [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) admits under-forecasting by 19% in recent storm analysis
+- **Unique Angle**: Launches AI Overview feature while acknowledging forecast limitations through transparent verification
 
-**Connecticut Public PBS Passport** highlighted new streaming content:
-- All Creatures Great and Small Season 6 (Masterpiece)
-- Bookish Season 1 - mystery series set in post-war London featuring a gay bookseller
-- POV: A Mother Apart - documentary about Jamaican-American poet Staceyann Chin
+### [OpenSnow - Turning Colder](https://opensnow.com/dailysnow/newengland/post/42360?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+- **Source File**: [2026-01-15-new-england-daily-snow-turning-colder.md](../content/personal/opensnow/2026-01-15-new-england-daily-snow-turning-colder.md)
+- **Key Points**:
+  - Forecast diverged slightly from consensus -- more rain, less snow than expected
+  - 2-6 inches reported at Vermont resorts (Sugarbush topped with 6 inches)
+  - Models teasing Sunday/Monday snowstorm for southern New England
 
-## Cross-Newsletter Patterns
+### [Warren General Store](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd)
+- **Source File**: [2026-01-15-getting-back-to-it.md](../content/personal/warren-general-store/2026-01-15-getting-back-to-it.md)
+- **Key Points**:
+  - Saturday night dinners resuming with Boeuf Bourguignon
+  - Fresh fish available by the pound (minimum one pound)
+  - Online ordering available for breakfast and lunch sandwiches
+- **Unique Angle**: Local community touchpoint for the Northwest Corner of Connecticut
 
-### AI Integration and Its Discontents
+### [Connecticut Public - PBS Passport](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401)
+- **Source File**: [2026-01-15-this-week-with-pbs-passport.md](../content/personal/connecticut-public/2026-01-15-this-week-with-pbs-passport.md)
+- **Key Points**:
+  - All Creatures Great and Small Season 6 now streaming
+  - Bookish Season 1: Post-war London mystery about a gay bookseller solving murders
+  - POV: A Mother Apart - Documentary about Jamaican-American poet Staceyann Chin
+- **Unique Angle**: Curated streaming recommendations for PBS members
 
-Two newsletters this week touched on AI from different angles, revealing tension between AI adoption and traditional expertise:
+### [Tom Warren / Notepad](https://link.theverge.com/view/682e81e54940259f8504291dpxpkd.e81/07330229)
+- **Source File**: [2026-01-15-microsoft-is-closing-its-employee-library-and-cutting-back-o.md](../content/personal/tom-warren/2026-01-15-microsoft-is-closing-its-employee-library-and-cutting-back-o.md)
+- **Key Points**:
+  - Microsoft closing physical library and cutting digital subscriptions (SNS, The Information)
+  - Transition to "AI-powered learning experience through the Skilling Hub"
+  - UK police blamed Copilot for intelligence report containing nonexistent football match
+  - Microsoft paying to prevent data center energy demands from raising electricity bills
+  - PC shipments up 10% in Q4 2025 amid RAM shortages
+  - Office Lens being retired (functionality moved to OneDrive)
+  - Microsoft, Meta, Amazon paying Wikimedia for enterprise Wikipedia access
+- **Notable Quote**: "Technology's future is shaped by flows of power, money, innovation, and people -- none of which are predictable based on LLMs' probabilistic regurgitation of old information." -- Berit Anderson, COO of Strategic News Service
+- **Unique Angle**: Insider perspective on Microsoft's corporate decisions with critical analysis of AI hype vs. practical utility
 
-**OpenSnow** uses AI positively through their PEAKS model (described as "up to 50% more accurate in mountain terrain") but noted that AI weather models sometimes conflict with traditional forecasting: "the AI version of the ECMWF ensemble is a major buzzkill."
+### [OpenSnow - Cold, but snow?](https://opensnow.com/dailysnow/newengland/post/42372?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+- **Source File**: [2026-01-16-new-england-daily-snow-cold-but-snow.md](../content/personal/opensnow/2026-01-16-new-england-daily-snow-cold-but-snow.md)
+- **Key Points**:
+  - Prolonged below-normal temperatures through next two weeks
+  - Limited prospects for widespread heavy snow; pattern favors light upslope refreshers
+  - Sugarbush reported 6 inches, Cannon 8 inches
+  - Coastal storm hype backed off significantly
+  - Brief window for more snow possible January 23-24
+- **Notable Quote**: "Chances for a significant event are not zero, but they are much closer to zero than 100%."
+- **Unique Angle**: Managing expectations while identifying snowmaking opportunities
 
-**Tom Warren's Notepad** reported on AI replacing human-curated knowledge at Microsoft, with critics arguing AI cannot replace strategic intelligence. The UK police Copilot error story further highlighted risks of uncritical AI reliance.
+### [OpenSnow - 2025-2026 Winter Update](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html)
+- **Source File**: [2026-01-16-2025-2026-winter-update-long-range-outlook.md](../content/personal/opensnow/2026-01-16-2025-2026-winter-update-long-range-outlook.md)
+- **Key Points**:
+  - Winter comparison to 2017-2018 season
+  - West remains dry; East continues cold pattern
+  - Japan experiencing excellent conditions -- "Japanuary is on"
+  - After January 20, snow chances return to Northwest and Northern Rockies
+- **Unique Angle**: Mid-season analysis with historical context and international perspective
 
-### Regional Focus on New England/Connecticut
+## Patterns & Trends
 
-Multiple newsletters served this geographic area:
-- OpenSnow's daily New England forecasts
-- Warren General Store (Warren, CT)
-- Connecticut Public (Hartford, CT)
+The personal category newsletters this week reveal a lifestyle oriented around outdoor activities in the Northeast, with a strong emphasis on ski conditions. The eight [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) updates demonstrate how specialized weather forecasting has become, with daily analysis that rivals professional meteorological services.
 
-This suggests a subscriber with strong ties to the Connecticut/Vermont corridor.
+A notable tension emerges around AI adoption: [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) presents AI as a tool that enhances forecasting by learning from past storms, while [Tom Warren's reporting](https://link.theverge.com/view/682e81e54940259f8504291dpxpkd.e81/07330229) on Microsoft shows AI being used to justify cost-cutting measures that eliminate valuable human-curated resources. The UK police Copilot incident further illustrates the risks of over-reliance on AI without human verification.
 
-## Surprising or Notable Insights
+The analytics data from Plausible shows healthy growth for thefocus.ai driven by social media (particularly LinkedIn), while willschenk.com maintains steady organic search traffic around technical content. The Claude Code in Emacs article being the top performer suggests strong interest in AI-assisted development tools.
 
-1. **AI models disagreeing with traditional forecasting**: OpenSnow's Dr. Jay Cordeira noted that AI weather models were more conservative than traditional dynamical models, leading him to temper expectations - an interesting case of a professional being cautious about AI predictions in his own field.
-
-2. **Microsoft library legend**: The detail that Microsoft's old library was so heavy with books that it allegedly caused Building 4 to sink (with parking garage pillars cracking) is a fascinating piece of corporate history being lost as the library closes.
-
-3. **Strategic News Service's sharp criticism**: A vendor publicly criticizing a major client like Microsoft is unusual, suggesting real frustration with the AI-first pivot: calling LLMs "probabilistic regurgitation of old information."
-
-4. **Japan ski season timing**: OpenSnow's note that "Japanuary is on" with major storm cycles lining up suggests this is the optimal window for Japan ski trips.
-
-5. **Claude Code content driving traffic**: The top-performing content on willschenk.com was about using Claude Code in Emacs, indicating strong interest in AI coding tools among technical audiences.
-
-6. **PBS featuring LGBTQ+ narratives**: Both new PBS shows highlighted (Bookish and A Mother Apart) prominently feature LGBTQ+ storylines, reflecting continued mainstream inclusion.
-
-## Sources
-
-| Newsletter | Author | Files | Date Range |
-|------------|--------|-------|------------|
-| OpenSnow | Dr. Jay Cordeira | 8 files | Jan 12-16, 2026 |
-| Plausible Analytics | - | 2 files | Jan 12, 2026 |
-| Warren General Store | - | 1 file | Jan 15, 2026 |
-| Connecticut Public | - | 1 file | Jan 15, 2026 |
-| Notepad (The Verge) | Tom Warren | 1 file | Jan 15, 2026 |
-
-### Source Files
-
-- [OpenSnow - Winter Returns](./content/personal/opensnow/2026-01-12-new-england-daily-snow-winter-returns.md) | [Original](https://opensnow.com/dailysnow/newengland/post/42299)
-- [OpenSnow - Surfy Pow](./content/personal/opensnow/2026-01-12-surfy-pow-for-bc-alberta-new-england-teases.md) | [Original](https://lift.opensnow.com/newsletters/east/2026-01-12/index.html)
-- [OpenSnow - More Snow](./content/personal/opensnow/2026-01-13-new-england-daily-snow-more-snow-on-the-way.md) | [Original](https://opensnow.com/dailysnow/newengland/post/42321)
-- [OpenSnow - Tricky Forecast](./content/personal/opensnow/2026-01-14-new-england-daily-snow-tricky-forecast-for-new-england.md) | [Original](https://opensnow.com/dailysnow/newengland/post/42340)
-- [OpenSnow - Cold East](./content/personal/opensnow/2026-01-14-cold-temperatures-and-snow-for-the-east.md) | [Original](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html)
-- [OpenSnow - Turning Colder](./content/personal/opensnow/2026-01-15-new-england-daily-snow-turning-colder.md) | [Original](https://opensnow.com/dailysnow/newengland/post/42360)
-- [OpenSnow - Cold but Snow](./content/personal/opensnow/2026-01-16-new-england-daily-snow-cold-but-snow.md) | [Original](https://opensnow.com/dailysnow/newengland/post/42372)
-- [OpenSnow - Winter Update](./content/personal/opensnow/2026-01-16-2025-2026-winter-update-long-range-outlook.md) | [Original](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html)
-- [Plausible - thefocus.ai](./content/personal/plausible-analytics/2026-01-12-weekly-report-for-thefocus-ai.md)
-- [Plausible - willschenk.com](./content/personal/plausible-analytics/2026-01-12-weekly-report-for-willschenk-com.md)
-- [Warren General Store](./content/personal/warren-general-store/2026-01-15-getting-back-to-it.md) | [Original](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082)
-- [Connecticut Public](./content/personal/connecticut-public/2026-01-15-this-week-with-pbs-passport.md) | [Original](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401)
-- [Notepad - Tom Warren](./content/personal/tom-warren/2026-01-15-microsoft-is-closing-its-employee-library-and-cutting-back-o.md) | [Original](https://link.theverge.com/view/682e81e54940259f8504291dpxpkd.e81/07330229)
+Local newsletters like [Warren General Store](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd) and [Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401) provide community anchors -- one through food and local gatherings, the other through curated streaming content that reflects quality public media programming.

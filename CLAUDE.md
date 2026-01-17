@@ -152,32 +152,40 @@ source_url: "https://link-to-view-online"
 
 ## Weekly Report Format
 
-Weekly summaries follow this structure:
+Weekly summaries follow this structure. **CRITICAL: Every newsletter name must be a hyperlink to its source_url.**
+
 ```markdown
 # Week XX {Category} Newsletter Analysis (Date Range)
 
 ## Overview
-Brief synthesis of the week's major themes and developments.
+Brief synthesis linking to sources. Example: "This week, [Turing Post](https://turingpost.com/p/xyz) covered AI partnerships while [SemiAnalysis](https://newsletter.semianalysis.com/p/abc) analyzed infrastructure."
 
 ---
 
 ## Major Topics and Stories
 
 ### 1. Topic Name
-**Coverage:** Newsletter1, Newsletter2, Newsletter3
+**Coverage:** [Newsletter1](source_url1), [Newsletter2](source_url2), [Newsletter3](source_url3)
 
-Context and analysis with quotes from sources.
+Context and analysis. Every newsletter reference is a hyperlink.
 
-> "Direct quote from newsletter" - Author (Newsletter Name)
+> "Direct quote from newsletter" — [Author/Newsletter Name](source_url)
 
 ---
 
 ## Cross-Newsletter Patterns
-Themes that appeared across multiple sources.
+Themes across sources. All newsletter names hyperlinked.
 
 ## Sources
-- [Article Title](source_url) - Newsletter Name
+- [Article Title](source_url) — Newsletter Name
+- [Article Title](source_url) — Newsletter Name
 ```
+
+**Linking Rules:**
+- Every newsletter name = hyperlink to source_url from article frontmatter
+- Every quote attribution = hyperlink to source
+- Sources section = all articles with clickable original URLs
+- Zero plain-text newsletter names allowed
 
 ## Gmail Setup
 

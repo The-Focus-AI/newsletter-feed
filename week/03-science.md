@@ -1,14 +1,14 @@
-# Week 03 Science Newsletter Analysis (January 12-16, 2026)
+# Week 03 Science Newsletter Analysis (January 12-17, 2026)
 
 ## Overview
 
-This week's science category features a single but substantial newsletter from Casey Johnston's "She's A Beast," which delivers an incisive exposé on what Johnston terms "protein inflation" - the practice of food and supplement manufacturers using collagen to artificially inflate protein counts on nutrition labels while providing minimal actual nutritional value.
+This week's science category features a single but substantial newsletter from Casey Johnston's [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc), which delivers an incisive expose on what Johnston terms "protein inflation" - the practice of food and supplement manufacturers using collagen to artificially inflate protein counts on nutrition labels while providing minimal actual nutritional value.
 
 ## Sources Analyzed
 
 | Newsletter | File | Date | Author |
 |------------|------|------|--------|
-| She's A Beast | [2026-01-12-protein-inflation-is-here.md](../content/science/she-s-a-beast/2026-01-12-protein-inflation-is-here.md) | January 12, 2026 | Casey Johnston |
+| [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) | [2026-01-12-protein-inflation-is-here.md](../content/science/she-s-a-beast/2026-01-12-protein-inflation-is-here.md) | January 12, 2026 | Casey Johnston |
 
 ---
 
@@ -49,7 +49,7 @@ Johnston provides concrete examples of products engaged in what she characterize
 
 Johnston explains the nutrition label trick consumers can use:
 
-> "While any essential amino acid content in a food counts toward the number of protein grams on the label, the '% Daily Value' figure only counts complete proteins... This is why, for instance, the grams of protein in milk or cheese or chicken directly correlate—25 grams of protein in those foods will always be 50% of the '% Daily Value.' But 25 grams of beans, say, or rice, contribute significantly less to the % Daily Value than 50%. Collagen, a lot less."
+> "While any essential amino acid content in a food counts toward the number of protein grams on the label, the '% Daily Value' figure only counts complete proteins... This is why, for instance, the grams of protein in milk or cheese or chicken directly correlate--25 grams of protein in those foods will always be 50% of the '% Daily Value.' But 25 grams of beans, say, or rice, contribute significantly less to the % Daily Value than 50%. Collagen, a lot less."
 
 **The tell-tale sign:**
 > "This is why nutrition labels usually won't even bother putting % Daily Value figures on collagen-based products: It makes them look bad."
@@ -104,13 +104,13 @@ Johnston links to a piece arguing that "'Scientific motherhood' promised to crea
 
 ## Key Insights and Surprising Perspectives
 
-1. **The collagen profit motive**: The margins on collagen-based products are "absolutely insane" because collagen is essentially worthless nutritionally but legally counts toward protein totals.
+1. **The collagen profit motive**: The margins on collagen-based products are "absolutely insane" because collagen is essentially worthless nutritionally but legally counts toward protein totals. -- [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
-2. **The %DV hack**: Consumers can detect collagen inflation by checking if the protein grams and %Daily Value correlate properly - a discrepancy reveals incomplete proteins like collagen padding the numbers.
+2. **The %DV hack**: Consumers can detect collagen inflation by checking if the protein grams and %Daily Value correlate properly - a discrepancy reveals incomplete proteins like collagen padding the numbers. -- [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
-3. **Regulatory pessimism**: Johnston suggests the current regulatory environment makes supplement fraud increasingly likely to go unpunished.
+3. **Regulatory pessimism**: Johnston suggests the current regulatory environment makes supplement fraud increasingly likely to go unpunished. -- [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
-4. **"Buy boring" advice**: Counter to influencer culture promoting exciting new supplements, Johnston recommends established, large companies as the safest bet.
+4. **"Buy boring" advice**: Counter to influencer culture promoting exciting new supplements, Johnston recommends established, large companies as the safest bet. -- [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
 ---
 
@@ -136,7 +136,7 @@ This newsletter exemplifies science-adjacent health journalism that:
 
 ## References
 
-- [She's A Beast - protein inflation is here](https://www.shesabeast.co/) by Casey Johnston (Link Letter 185, January 12, 2026)
+- [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) - "protein inflation is here" by Casey Johnston (Link Letter 185, January 12, 2026)
   - Source file: [2026-01-12-protein-inflation-is-here.md](../content/science/she-s-a-beast/2026-01-12-protein-inflation-is-here.md)
 
 ### External Sources Referenced in the Newsletter

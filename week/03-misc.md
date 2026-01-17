@@ -1,221 +1,265 @@
-# Week 03 Misc Newsletter Analysis
-
-**Week of January 12-17, 2026**
+# Week 03 Misc Category Newsletter Analysis
 
 ## Overview
-
-This week's miscellaneous newsletters were dominated by three interconnected crises: the deadly crackdown on protesters in Iran (with estimates ranging from 2,000 to 12,000 killed), the aftermath of the U.S. capture of Venezuelan dictator Nicolas Maduro, and the escalating ICE operations in Minneapolis following the fatal shooting of Renee Good. These events sparked sharp debates about U.S. foreign policy, the limits of state power, and the role of technology companies in enabling or resisting authoritarianism.
-
-Beyond the headlines, newsletters explored the future of artificial intelligence through multiple lenses: a deep-dive transcript from a Chinese AI summit revealed candid assessments of China's position relative to the U.S. frontier, a former Biden AI advisor discussed export controls and national security adoption, and Merge Labs announced a $252 million effort to build less-invasive brain-computer interfaces backed by Sam Altman and OpenAI. Meanwhile, cultural commentators offered perspectives ranging from the design history of civil rights protest posters to philosophical arguments about why "exclusivity" in software conferences actually produces better outcomes.
+A tumultuous week dominated by the ICE shooting of Renee Good in Minneapolis, the ongoing Iranian protests and bloody crackdown, the aftermath of the Maduro capture in Venezuela, and Trump's attacks on the Fed. Amidst the geopolitical chaos, newsletters offered thoughtful commentary on topics ranging from biotech breakthroughs to the philosophy of fashion, from the agricultural revolution to the nature of decay.
 
 ## Sources Analyzed
 
 | Newsletter | File | Date |
 |------------|------|------|
-| The Free Press | [2026-01-12-a-world-on-fire-from-tehran-to-caracas-plus.md](./the-free-press/2026-01-12-a-world-on-fire-from-tehran-to-caracas-plus.md) | Jan 12 |
-| The Free Press | [2026-01-13-why-2026-could-prove-as-important-as-1989-plus.md](./the-free-press/2026-01-13-why-2026-could-prove-as-important-as-1989-plus.md) | Jan 13 |
-| The Free Press | [2026-01-13-niall-ferguson-the-myth-of-revolution-in-iran.md](./the-free-press/2026-01-13-niall-ferguson-the-myth-of-revolution-in-iran.md) | Jan 13 |
-| The Free Press | [2026-01-14-i-joined-ice-watch-plus.md](./the-free-press/2026-01-14-i-joined-ice-watch-plus.md) | Jan 14 |
-| The Free Press | [2026-01-15-the-maga-crack-up-plus.md](./the-free-press/2026-01-15-the-maga-crack-up-plus.md) | Jan 15 |
-| The Free Press | [2026-01-16-tgif-ice-on-ice.md](./the-free-press/2026-01-16-tgif-ice-on-ice.md) | Jan 16 |
-| The Free Press | [2026-01-17-the-weekend-press-totalitarianism-can-be-relaxing.md](./the-free-press/2026-01-17-the-weekend-press-totalitarianism-can-be-relaxing.md) | Jan 17 |
-| ChinaTalk | [2026-01-12-how-china-courted-iran.md](./chinatalk/2026-01-12-how-china-courted-iran.md) | Jan 12 |
-| ChinaTalk | [2026-01-13-the-all-star-chinese-ai-conversation-of-2026.md](./chinatalk/2026-01-13-the-all-star-chinese-ai-conversation-of-2026.md) | Jan 13 |
-| ChinaTalk | [2026-01-14-ben-buchanan-on-ai.md](./chinatalk/2026-01-14-ben-buchanan-on-ai.md) | Jan 14 |
-| ChinaTalk | [2026-01-16-richard-danzig-on-ai-and-cyber.md](./chinatalk/2026-01-16-richard-danzig-on-ai-and-cyber.md) | Jan 16 |
-| Tomas Pueyo | [2026-01-13-is-venezuela-s-oil-worth-the-hassle.md](./tomas-pueyo-from-uncharted-territories/2026-01-13-is-venezuela-s-oil-worth-the-hassle.md) | Jan 13 |
-| Bill McKibben | [2026-01-15-solar-as-solidarity.md](./bill-mckibben-from-the-crucial-years/2026-01-15-solar-as-solidarity.md) | Jan 15 |
-| Brian Merchant | [2026-01-16-abolish-the-senses.md](./brian-merchant/2026-01-16-abolish-the-senses.md) | Jan 16 |
-| Core Memory | [2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md](./core-memory/2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md) | Jan 15 |
-| Beth Mathews | [2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md](./beth-mathews/2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md) | Jan 15 |
-| Ryan from Digital Grove | [2026-01-15-the-magic-of-the-better-software-conference.md](./ryan-from-digital-grove/2026-01-15-the-magic-of-the-better-software-conference.md) | Jan 15 |
-| Blackbird Spyplane | [2026-01-15-bad-advice.md](./blackbird-spyplane/2026-01-15-bad-advice.md) | Jan 15 |
-| Eliza Brooke | [2026-01-16-recs-for-staying-sane-in-january.md](./eliza-brooke/2026-01-16-recs-for-staying-sane-in-january.md) | Jan 16 |
+| [The Free Press](https://www.thefp.com/p/a-world-on-fire-from-tehran-to-caracas) | [2026-01-12-a-world-on-fire-from-tehran-to-caracas-plus.md](./the-free-press/2026-01-12-a-world-on-fire-from-tehran-to-caracas-plus.md) | Jan 12 |
+| [The Free Press](https://www.thefp.com/p/trumps-dangerous-attack-on-the-fed) | [2026-01-12-trump-s-dangerous-attack-on-the-fed.md](./the-free-press/2026-01-12-trump-s-dangerous-attack-on-the-fed.md) | Jan 12 |
+| [The Free Press](https://www.thefp.com/p/why-2026-could-prove-as-important-as-1989) | [2026-01-13-why-2026-could-prove-as-important-as-1989-plus.md](./the-free-press/2026-01-13-why-2026-could-prove-as-important-as-1989-plus.md) | Jan 13 |
+| [The Free Press](https://www.thefp.com/p/niall-ferguson-the-myth-of-revolution-in-iran) | [2026-01-13-niall-ferguson-the-myth-of-revolution-in-iran.md](./the-free-press/2026-01-13-niall-ferguson-the-myth-of-revolution-in-iran.md) | Jan 13 |
+| [The Free Press](https://www.thefp.com/p/i-joined-ice-watch) | [2026-01-14-i-joined-ice-watch-plus.md](./the-free-press/2026-01-14-i-joined-ice-watch-plus.md) | Jan 14 |
+| [The Free Press](https://www.thefp.com/p/coleman-hughes-scott-adams-made-me-a-better-thinker) | [2026-01-14-coleman-hughes-scott-adams-made-me-a-better-thinker.md](./the-free-press/2026-01-14-coleman-hughes-scott-adams-made-me-a-better-thinker.md) | Jan 14 |
+| [The Free Press](https://www.thefp.com/p/the-maga-crack-up) | [2026-01-15-the-maga-crack-up-plus.md](./the-free-press/2026-01-15-the-maga-crack-up-plus.md) | Jan 15 |
+| [The Free Press](https://www.thefp.com/p/americas-most-righteous-war-produced-its-best-antiwar-novel) | [2026-01-15-america-s-most-righteous-war-produced-its-best-antiwar-novel.md](./the-free-press/2026-01-15-america-s-most-righteous-war-produced-its-best-antiwar-novel.md) | Jan 15 |
+| [The Free Press](https://www.thefp.com/p/tgif-ice-on-ice) | [2026-01-16-tgif-ice-on-ice.md](./the-free-press/2026-01-16-tgif-ice-on-ice.md) | Jan 16 |
+| [The Free Press](https://www.thefp.com/p/the-weekend-press-totalitarianism) | [2026-01-17-the-weekend-press-totalitarianism-can-be-relaxing.md](./the-free-press/2026-01-17-the-weekend-press-totalitarianism-can-be-relaxing.md) | Jan 17 |
+| [Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine) | [2026-01-12-exclusive-fridge-magnet-medicine.md](./core-memory/2026-01-12-exclusive-fridge-magnet-medicine.md) | Jan 12 |
+| Core Memory | [2026-01-12-new-more-precise-cancer-therapies-could-soon-be-here-ep-51-r.md](./core-memory/2026-01-12-new-more-precise-cancer-therapies-could-soon-be-here-ep-51-r.md) | Jan 12 |
+| [Core Memory](https://www.corememory.com/p/chinese-peptide-underground) | [2026-01-14-welcome-to-the-chinese-peptide-underground-ep-52-jasmine-sun.md](./core-memory/2026-01-14-welcome-to-the-chinese-peptide-underground-ep-52-jasmine-sun.md) | Jan 14 |
+| [Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci) | [2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md](./core-memory/2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md) | Jan 15 |
+| News Minimalist | [2026-01-12-us-leaves-global-climate-treaty-10-more-stories.md](./news-minimalist/2026-01-12-us-leaves-global-climate-treaty-10-more-stories.md) | Jan 12 |
+| [News Minimalist](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories) | [2026-01-15-nato-sends-troops-to-greenland-10-more-stories.md](./news-minimalist/2026-01-15-nato-sends-troops-to-greenland-10-more-stories.md) | Jan 15 |
+| [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool) | [2026-01-13-the-anchovy-principle.md](./blackbird-spyplane/2026-01-13-the-anchovy-principle.md) | Jan 13 |
+| [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/bad-advice) | [2026-01-15-bad-advice.md](./blackbird-spyplane/2026-01-15-bad-advice.md) | Jan 15 |
+| [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) | [2026-01-13-is-venezuela-s-oil-worth-the-hassle.md](./tomas-pueyo-from-uncharted-territories/2026-01-13-is-venezuela-s-oil-worth-the-hassle.md) | Jan 13 |
+| [Steven Johnson](https://adjacentpossible.substack.com/p/the-agrarian-fall) | [2026-01-13-the-agrarian-fall.md](./steven-johnson-from-adjacent-possible/2026-01-13-the-agrarian-fall.md) | Jan 13 |
+| [The Whirl Of ReOrientation](https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s) | [2026-01-13-network-centric-warfare-from-f-14s-to-wal-mart-and-boyd-s-re.md](./the-whirl-of-reorientation-escape-the-sc/2026-01-13-network-centric-warfare-from-f-14s-to-wal-mart-and-boyd-s-re.md) | Jan 13 |
+| [The Whirl Of ReOrientation](https://thewhirl.substack.com/p/reorienting-after-trauma) | [2026-01-15-reorienting-after-trauma-from-yom-kippur-war-hero-to-ptsd-pi.md](./the-whirl-of-reorientation-escape-the-sc/2026-01-15-reorienting-after-trauma-from-yom-kippur-war-hero-to-ptsd-pi.md) | Jan 15 |
+| [Jodi Ettenberg Legal Nomads](https://jodiettenberg.substack.com/p/fifty-eight) | [2026-01-14-the-curious-about-everything-newsletter-58.md](./jodi-ettenberg-legal-nomads/2026-01-14-the-curious-about-everything-newsletter-58.md) | Jan 14 |
+| [Molly Young](https://mollyyoung.substack.com/p/little-joys-for-2026) | [2026-01-15-little-joys-for-2026.md](./molly-young/2026-01-15-little-joys-for-2026.md) | Jan 15 |
+| [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses) | [2026-01-16-abolish-the-senses.md](./brian-merchant/2026-01-16-abolish-the-senses.md) | Jan 16 |
+| [Tamara](https://museguided.substack.com/p/the-grace-in-withering) | [2026-01-14-the-grace-in-withering.md](./tamara/2026-01-14-the-grace-in-withering.md) | Jan 14 |
+| [Beth Mathews](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am) | [2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md](./beth-mathews/2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md) | Jan 15 |
+| [Ryan from Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software) | [2026-01-15-the-magic-of-the-better-software-conference.md](./ryan-from-digital-grove/2026-01-15-the-magic-of-the-better-software-conference.md) | Jan 15 |
+| [Contraptions](https://contraptions.venkateshrao.com/p/new-nature) | [2026-01-16-new-nature.md](./contraptions/2026-01-16-new-nature.md) | Jan 16 |
+| [Erik Davis](https://www.burningshore.com/p/thar-she-blows) | [2026-01-16-thar-she-blows.md](./erik-davis/2026-01-16-thar-she-blows.md) | Jan 16 |
+| Olga | [2026-01-14-what-normal-looks-like-a-guide-to-baselines-issue-299.md](./olga/2026-01-14-what-normal-looks-like-a-guide-to-baselines-issue-299.md) | Jan 14 |
+| Tim Ferriss | [2026-01-14-new-from-tim-how-to-use-ketosis-for-enhanced-mood-cognition-.md](./tim-ferriss/2026-01-14-new-from-tim-how-to-use-ketosis-for-enhanced-mood-cognition-.md) | Jan 14 |
+| Tim Ferriss | [2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md](./tim-ferriss/2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md) | Jan 17 |
+| John Biggs | [2026-01-13-help-a-national-treasure-pay-his-mortgage.md](./john-biggs/2026-01-13-help-a-national-treasure-pay-his-mortgage.md) | Jan 13 |
+| Blocked and Reported | [2026-01-12-ask-jon-kay-anything.md](./blocked-and-reported/2026-01-12-ask-jon-kay-anything.md) | Jan 12 |
+| [Eliza Brooke](https://elizabrooke.substack.com/p/january-2026-recommendations) | [2026-01-16-recs-for-staying-sane-in-january.md](./eliza-brooke/2026-01-16-recs-for-staying-sane-in-january.md) | Jan 16 |
+| Mailbrew | [2026-01-12 through 2026-01-17](./mailbrew/) | Jan 12-17 |
 
 ## Cross-Newsletter Themes
 
-### 1. Iran Crisis: Revolution or Massacre?
+### The ICE Shooting and Minneapolis Crisis
+- **Coverage**: [The Free Press](https://www.thefp.com/p/tgif-ice-on-ice), [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses), Mailbrew
+- **Summary**: The shooting of Renee Good by ICE agent Jonathan Ross became the dominant domestic story. The video evidence clearly showed Good attempting to drive away, yet the Trump administration declared her a "domestic terrorist."
+- **Notable perspectives**:
+  - [The Free Press](https://www.thefp.com/p/tgif-ice-on-ice) reported that 57% of voters disapprove of ICE's enforcement methods and 53% think the shooting was unjustified
+  - [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses) offered a scathing critique of Silicon Valley's complicity, noting that OpenAI's president Greg Brockman was revealed as the largest donor to Trump's MAGA Inc. Super PAC at $12.5 million
 
-- **Coverage**: The Free Press (multiple), ChinaTalk, Brian Merchant, Bill McKibben
-- **Summary**: Iran dominated international coverage as protests escalated and the regime responded with unprecedented violence. Death toll estimates ranged from the regime's acknowledged 2,000 to Iran International's leaked figure of 12,000.
-- **Notable Perspectives**:
-  - **Niall Ferguson** (Free Press) offered a contrarian historical analysis, arguing these are not "revolutionary" protests but "counterrevolutionary" ones seeking to restore pre-1979 Iran. He cautioned: "The harsh reality is, therefore, that most counterrevolutions fail."
-  - **ChinaTalk** explored China's awkward position, noting Beijing has armed Iran's riot police with surveillance technology and "supplied military-grade jammers" disrupting Starlink access during the protests.
-  - **The Free Press TGIF** criticized progressive silence: "The chair of the DNC says America is just as repressive... Leftist influencer Hasan Piker defended himself: 'You liked a Khamenei tweet when he is responsible for killing so many people? Listen, sometimes you can find poetry in the strangest places.'"
+### Iran Protests and Crackdown
+- **Coverage**: [The Free Press](https://www.thefp.com/p/niall-ferguson-the-myth-of-revolution-in-iran), [News Minimalist](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories)
+- **Summary**: Unprecedented nationwide protests in Iran met with brutal crackdown. Iran International reported 12,000 protesters killed, while the regime acknowledges 2,000.
+- **Notable perspectives**:
+  - Niall Ferguson in [The Free Press](https://www.thefp.com/p/niall-ferguson-the-myth-of-revolution-in-iran) offered a sobering historical analysis: "True restorations are few and far between... the harsh reality is that most counterrevolutions fail"
+  - He noted that Iran has become "more like a Western, secularized society than any other country in the Middle East" with 70% favoring separation of religion and state
 
-### 2. ICE Operations and the Killing of Renee Good
+### Venezuela and U.S. Power Projection
+- **Coverage**: [The Free Press](https://www.thefp.com/p/a-world-on-fire-from-tehran-to-caracas), [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle), [The Free Press](https://www.thefp.com/p/americas-most-righteous-war-produced-its-best-antiwar-novel)
+- **Summary**: The Maduro capture raised questions about oil economics and American power projection.
+- **Notable perspectives**:
+  - [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) detailed the grim economics: Venezuela earns ~$11.7B/year from oil but owes ~$200B, and ExxonMobil's CEO called it "uninvestable" after having assets seized twice
+  - Elliot Ackerman in [The Free Press](https://www.thefp.com/p/americas-most-righteous-war-produced-its-best-antiwar-novel) discussed how Americans have been "insulated from the costs of war" since 9/11 through the all-volunteer military and deficit spending
 
-- **Coverage**: The Free Press (multiple), Brian Merchant, Bill McKibben
-- **Summary**: The fatal shooting of "ICE observer" Renee Good in Minneapolis became the flashpoint for a national debate about immigration enforcement, with 2,000 additional ICE agents deployed to Minnesota.
-- **Notable Perspectives**:
-  - **Brian Merchant** provided the most extensive critique, calling the operation "domination porn tailored to X" and documenting Silicon Valley's complicity: "OpenAI's president Greg Brockman was just revealed to be the single largest donor to Trump's MAGA Inc. Super PAC, to which he gave $12.5 million."
-  - **The Free Press** published multiple viewpoints including Olivia Reingold's embedded reporting with ICE Watch activists and a legal analysis of the shooting, while TGIF noted polling: "57 percent of voters disapprove of the way ICE is enforcing immigration laws... 53 percent think the shooting of Renee Good was not justified."
-  - **Bill McKibben** connected the crisis to his solar advocacy: "This newsletter is being written in the grim shadow of Renee Good's execution in Minneapolis, and the threat this morning of the president to invoke the 'Insurrection Act.'"
+### Trump Administration Actions and Institutional Conflict
+- **Coverage**: [The Free Press](https://www.thefp.com/p/trumps-dangerous-attack-on-the-fed), [News Minimalist](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories), Mailbrew
+- **Summary**: Trump attacked Fed Chair Jerome Powell with a criminal investigation, demanded Greenland, and drove deep partisan rifts.
+- **Notable perspectives**:
+  - Powell's video statement: "The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the president"
+  - NATO allies sent troops to Greenland in response to Trump's "unacceptable" demands
 
-### 3. Venezuela Post-Maduro: Oil Economics and Regime Stability
-
-- **Coverage**: The Free Press, Tomas Pueyo
-- **Summary**: Following the dramatic U.S. capture of Maduro, analysts questioned whether the operation would achieve its stated goals or create new problems.
-- **Notable Perspectives**:
-  - **Tomas Pueyo** provided detailed economic analysis showing Venezuela's oil yields only about $11.7B annually in profit, far less than the country's needs: "Venezuela owes ~$200B, or nearly 20 years worth of production!"
-  - **The Free Press** quoted ExxonMobil CEO Darren Woods: "We have had our assets seized there twice and so you can imagine to re-enter a third time would require some pretty significant changes... Today, it's uninvestable."
-
-### 4. AI Development: U.S.-China Competition and National Security
-
-- **Coverage**: ChinaTalk (multiple), Core Memory
-- **Summary**: Multiple newsletters offered deep dives into AI development, from Chinese industry leaders' candid assessments to former U.S. officials' policy reflections.
-- **Notable Perspectives**:
-  - **Chinese AI Summit** (ChinaTalk transcript) featured Zhipu's Tang Jie admitting: "Our gap might still be widening, because American large models are mostly still closed-source. We're playing in open source to make ourselves feel good."
-  - **Alibaba's Lin Junyang** on resource constraints: "U.S. compute may overall exceed ours by one to two orders of magnitude... a huge amount of their compute is invested into next-generation research. For us, by contrast... just fulfilling delivery requirements already consumes the vast majority of our compute."
-  - **Ben Buchanan** (ChinaTalk) warned about adoption failures: "I am deathly afraid of that happening in AI, where it is America that invents this technology, the American private sector, but it is other nations that figure out how to use it for national security purposes."
-
-### 5. The Fed Under Pressure
-
-- **Coverage**: The Free Press
-- **Summary**: The Trump administration's investigation of Fed Chair Jerome Powell drew sharp criticism.
-- **Notable Quote**: Powell stated: "The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the president."
-- **TGIF's take**: "When a Bohemian Grove member goes on camera, that is actually a sign of extreme distress."
+### Biotech and Medical Breakthroughs
+- **Coverage**: [Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine), [News Minimalist](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories)
+- **Summary**: Major advances in magnetotherapeutics, brain-computer interfaces, and peptide biohacking.
+- **Notable perspectives**:
+  - [Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine) reported on Nonfiction Labs developing "magbodies" - antibodies controllable by magnetic fields for cancer treatment
+  - [Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci) covered Merge Labs raising $252 million for brain-computer interface research using ultrasound and proteins, backed by Sam Altman and OpenAI
 
 ## Surprising Insights
 
-- **China's AI leaders admit their gap with the U.S. may be widening, not narrowing** - Despite open-source successes, Tang Jie candidly stated the real answer is "our gap might still be widening" because American frontier models remain closed-source. -- *ChinaTalk* ([2026-01-13-the-all-star-chinese-ai-conversation-of-2026.md](./chinatalk/2026-01-13-the-all-star-chinese-ai-conversation-of-2026.md))
+- "The independence of a central bank has long been a hallmark of responsible government; control over the money supply is something autocrats routinely covet" - Former Fed chairmen called Trump's investigation "how monetary policy is made in emerging markets with weak institutions" - [The Free Press](https://www.thefp.com/p/trumps-dangerous-attack-on-the-fed)
 
-- **More Americans now want to abolish ICE than keep it** - Brian Merchant reports polling shows this once-radical position has become mainstream. -- *Brian Merchant* ([2026-01-16-abolish-the-senses.md](./brian-merchant/2026-01-16-abolish-the-senses.md))
+- The "I AM A MAN" protest poster from 1968 Memphis was printed by a white Canadian minister in his church basement using Hamilton Wood Type Gothic No. 6243, and the Allied Printing Trades Council union stamp at the bottom represented a white union member supporting a Black-led strike - [Beth Mathews](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am)
 
-- **China armed Iran's protest-busting forces** - ChinaTalk revealed China has supplied "face recognition software" and "riot control and urban warfare weapons" to the Iranian regime since at least the 2022 Mahsa Amini protests. -- *ChinaTalk* ([2026-01-12-how-china-courted-iran.md](./chinatalk/2026-01-12-how-china-courted-iran.md))
+- The agricultural revolution wasn't a sudden ascent but involved "a massive, unexplained gap in the timeline between the first domestication of crops and the emergence of the first agrarian states" - and the key clue "fell out of the sky in the 1960s, ejected from a Cold War spy satellite" - [Steven Johnson](https://adjacentpossible.substack.com/p/the-agrarian-fall)
 
-- **Venezuela's oil may not be worth the trouble** - Tomas Pueyo's analysis shows the country's super-heavy crude requires such extensive processing that annual profits are only about $11.7B, while the country owes $200B. -- *Tomas Pueyo* ([2026-01-13-is-venezuela-s-oil-worth-the-hassle.md](./tomas-pueyo-from-uncharted-territories/2026-01-13-is-venezuela-s-oil-worth-the-hassle.md))
+- More people now want to abolish ICE than keep it, according to recent polling - [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses)
 
-- **"Eternal September" as a framework for organizational decline** - Ryan Fleury's essay on the Better Software Conference argues that growth-at-all-costs destroys the "magic" of organizations, from Usenet to Google to conferences, making a philosophical case for exclusivity. -- *Ryan from Digital Grove* ([2026-01-15-the-magic-of-the-better-software-conference.md](./ryan-from-digital-grove/2026-01-15-the-magic-of-the-better-software-conference.md))
+- "Most technologies are like guns. They tend to get aggregated and captured by those who already have a lot... PKC is one of the few technologies where at least under some conditions, the weak get stronger" - [Contraptions](https://contraptions.venkateshrao.com/p/new-nature)
 
-- **Sam Altman is backing a new brain-computer interface company** - Merge Labs raised $252M to develop ultrasound-based BCIs that could eventually be non-invasive, challenging Neuralink's approach. -- *Core Memory* ([2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md](./core-memory/2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md))
+- "When you're 19, 20, 21 years old and you go to war, you are experiencing this very intense sense of purpose... You go from taking the crystal meth of purpose to sipping the Coors Light of purpose" - Elliot Ackerman on why veterans get depressed - [The Free Press](https://www.thefp.com/p/americas-most-righteous-war-produced-its-best-antiwar-novel)
+
+- Volcanic eruptions in 1345 may have caused the Black Death by triggering crop failures that led to grain imports from the Black Sea, which were brought on ships carrying infected rats - [Jodi Ettenberg](https://jodiettenberg.substack.com/p/fifty-eight)
 
 ## Individual Newsletter Summaries
 
-### The Free Press
-- **Source Files**: Multiple daily editions Jan 12-17
-- **Original URL**: [View original](https://www.thefp.com)
+### [The Free Press](https://www.thefp.com)
+- **Source Files**: Multiple daily editions
 - **Key Points**:
-  - Extensive coverage of Iran protests, comparing 2026 potentially to 1989
-  - Olivia Reingold embedded with ICE Watch activists in Minneapolis
-  - Published Niall Ferguson's contrarian analysis of counterrevolutions
-  - TGIF satirized progressive hypocrisy on Iran and ICE polling numbers
-- **Notable Quote**: "What President Trump will do next, only he knows. The world will have to keep waiting and guessing." - White House Press Secretary
-- **Unique Angle**: Balanced center-right perspective with on-the-ground reporting and multiple viewpoints on contentious issues
+  - Comprehensive coverage of world flashpoints: Iran, Venezuela, Ukraine
+  - Investigative reporting on ICE operations including Olivia Reingold joining ICE watch networks
+  - Niall Ferguson's historical analysis of counterrevolutions
+  - Coleman Hughes tribute to Scott Adams after his death
+  - Elliot Ackerman interview on Catch-22 and modern war
+- **Notable Quote**: "There is one thing [that can restrain my actions]... My own morality. My own mind. It's the only thing that can stop me." - Trump
+- **Unique Angle**: Center-right perspective with heavy emphasis on institutional analysis and foreign policy expertise
 
-### ChinaTalk
-- **Source Files**: Multiple Jan 12-16
-- **Original URL**: [View original](https://www.chinatalk.media)
+### [Core Memory](https://www.corememory.com)
+- **Source Files**: [Fridge Magnet Medicine](./core-memory/2026-01-12-exclusive-fridge-magnet-medicine.md), [Chinese Peptide Underground](./core-memory/2026-01-14-welcome-to-the-chinese-peptide-underground-ep-52-jasmine-sun.md), [Merge Labs](./core-memory/2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md)
 - **Key Points**:
-  - Published translated transcript of major Chinese AI summit with candid industry assessments
-  - Deep dive into China-Iran relationship including surveillance tech transfers
-  - Interview with former Biden AI advisor Ben Buchanan on export controls
-- **Notable Quote**: "What China may still lack is enough people willing to break new paradigms or take very risky bets." - Yao Shunyu (Tencent)
-- **Unique Angle**: Unparalleled access to Chinese tech industry thinking through translated primary sources
+  - Nonfiction Labs developing magnetically controllable cancer therapies
+  - Silicon Valley's peptide biohacking trend explored
+  - Merge Labs BCI startup backed by Sam Altman raises $252M
+- **Notable Quote**: "For billions of years, biology largely ignored magnets. But now, with some protein engineering... that's starting to change"
+- **Unique Angle**: Deep biotech reporting with exclusive access to cutting-edge startups
 
-### Brian Merchant (Blood in the Machine)
+### [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses)
 - **Source File**: [2026-01-16-abolish-the-senses.md](./brian-merchant/2026-01-16-abolish-the-senses.md)
-- **Original URL**: [View original](https://bloodinthemachine.substack.com/p/abolish-the-senses)
 - **Key Points**:
-  - Detailed critique of Silicon Valley's role in enabling ICE operations
-  - Documented that OpenAI's Greg Brockman is largest Trump Super PAC donor ($12.5M)
-  - Personal reporting from LA where ICE staged at a church near his home
-  - Called current moment "the darkest I can remember"
-- **Notable Quote**: "Silicon Valley and AI have, as many have predicted, helped usher in an age where we find ourselves forced to question the nature of reality itself. But not because AI products are so powerful they now fool us."
-- **Unique Angle**: Tech critic perspective connecting industry complicity to authoritarian outcomes
+  - Detailed account of ICE operations in Minnesota and LA
+  - Analysis of Silicon Valley's complicity in authoritarianism
+  - Personal experience with ICE staging at his neighborhood church
+  - Call for general strike and economic blackout
+- **Notable Quote**: "The president of Venezuela is sitting in a Brooklyn jail. The FBI raided the home of a Washington Post journalist... The president of the Minneapolis city council describes it as a military occupation."
+- **Unique Angle**: Tech critic perspective connecting Silicon Valley profits to state violence
 
-### Tomas Pueyo (Uncharted Territories)
+### [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool)
+- **Source Files**: [The Anchovy Principle](./blackbird-spyplane/2026-01-13-the-anchovy-principle.md), [Bad Advice](./blackbird-spyplane/2026-01-15-bad-advice.md)
+- **Key Points**:
+  - "The Anchovy Principle" - how wearing berets (or any bold fashion) is like cooking with anchovies
+  - Critique of "you shouldn't care what other people think" as fashion advice
+  - Clothes as irreducibly social communication
+- **Notable Quote**: "The first few times I put on my beret, I was tasting too much anchovy... With time and heat, the anchovy melts into a luscious, fragrant oil"
+- **Unique Angle**: Fashion philosophy with surprisingly deep thinking about identity and social performance
+
+### [Tamara](https://museguided.substack.com/p/the-grace-in-withering)
+- **Source File**: [2026-01-14-the-grace-in-withering.md](./tamara/2026-01-14-the-grace-in-withering.md)
+- **Key Points**:
+  - Meditation on decay, aging, and the performance of beauty
+  - Critique of "authentic" vulnerability that must still be hot to be palatable
+  - Finding dignity in "disinterest" rather than in the bloom
+- **Notable Quote**: "We are not taught to find beauty in aftermath. We are taught to fear irrelevance, to manage decline like a failing brand, to weaponise positivity against our own pain"
+- **Unique Angle**: Philosophical reflection on mortality and performance through the metaphor of dying flowers
+
+### [Contraptions](https://contraptions.venkateshrao.com/p/new-nature)
+- **Source File**: [2026-01-16-new-nature.md](./contraptions/2026-01-16-new-nature.md)
+- **Key Points**:
+  - "New Nature" defined as "regimes of reality governed by technologically mediated laws that are nearly as inviolable as those of nature"
+  - Public-key cryptography as the first truly strong piece of New Nature
+  - "Can't be evil" technology vs. "don't be evil" sentiment
+- **Notable Quote**: "I'd rather have a bunch of can't-be-evil capture-resistant technologies running amok, in the hands of lots of uncoordinated average humans with average morality, than a bunch of captured death stars"
+- **Unique Angle**: Techno-philosophical analysis of how code-based laws reshape power dynamics
+
+### [Erik Davis](https://www.burningshore.com/p/thar-she-blows)
+- **Source File**: [2026-01-16-thar-she-blows.md](./erik-davis/2026-01-16-thar-she-blows.md)
+- **Key Points**:
+  - Rereading Moby Dick for an upcoming seminar
+  - The Lovecraftian dimension of Melville's whale
+  - "Weird naturalism" - respecting natural fact while piercing into the haunted void
+- **Notable Quote**: "Reading classics... has been grounding, nourishing, illuminating, and, somewhat to my surprise, very entertaining"
+- **Unique Angle**: Literary analysis connecting American canon to cosmic horror and contemporary weirdness
+
+### [Jodi Ettenberg | Legal Nomads](https://jodiettenberg.substack.com/p/fifty-eight)
+- **Source File**: [2026-01-14-the-curious-about-everything-newsletter-58.md](./jodi-ettenberg-legal-nomads/2026-01-14-the-curious-about-everything-newsletter-58.md)
+- **Key Points**:
+  - Extensive year-end link roundups
+  - Deep dives on water tasting competitions, volcanic origins of Black Death, interoception research
+  - Coverage of US sanctions locking ICC judge out of daily life
+- **Notable Quote**: "Parkinson's rates in the US have doubled in 30 years - which is not the way an inherited, genetic disease 'behaves'... TCE was only banned in the US in 2024, and Trump has moved to undo the ban"
+- **Unique Angle**: Eclectic curation with focus on scientific discoveries and chronic illness perspectives
+
+### [Ryan from Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software)
+- **Source File**: [2026-01-15-the-magic-of-the-better-software-conference.md](./ryan-from-digital-grove/2026-01-15-the-magic-of-the-better-software-conference.md)
+- **Key Points**:
+  - Analysis of "Eternal September" and how organizations degrade with growth
+  - Defense of invite-only, exclusive gatherings for maintaining quality
+  - "People are not fungible"
+- **Notable Quote**: "Both the boardroom discussing maximization of growth and the Internet board discussing maximization of inclusivity are fundamentally discussing... the same outcome"
+- **Unique Angle**: Software development culture perspective with controversial defense of exclusivity
+
+### [Molly Young](https://mollyyoung.substack.com/p/little-joys-for-2026)
+- **Source File**: [2026-01-15-little-joys-for-2026.md](./molly-young/2026-01-15-little-joys-for-2026.md)
+- **Key Points**:
+  - Cinnamon-sugar croissant recipe
+  - Building a theremin to understand computers
+  - NYC walking tour from UFO exhibit to Earth Room
+  - Keeping a list of questions without Googling them
+- **Notable Quote**: "Every time I write down a question, I stumble into the answer in the form of a book or expert or other superior-to-Google entity"
+- **Unique Angle**: Whimsical life advice with unexpected depth
+
+### [The Whirl Of ReOrientation](https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s)
+- **Source Files**: [Network Centric Warfare](./the-whirl-of-reorientation-escape-the-sc/2026-01-13-network-centric-warfare-from-f-14s-to-wal-mart-and-boyd-s-re.md), [PTSD Pioneer](./the-whirl-of-reorientation-escape-the-sc/2026-01-15-reorienting-after-trauma-from-yom-kippur-war-hero-to-ptsd-pi.md)
+- **Key Points**:
+  - Connection between F-14 doctrine evolution and Wal-Mart supply chain
+  - Interview with Dr. Yuval Neria on trauma vs. PTSD as disorder
+  - "Trauma is the event; the disorder is the emotional charge welded to memory"
+- **Notable Quote**: "The Navy didn't evolve doctrine fast enough. For six years after the F-14 entered service, the Navy kept using the same rigid, controller-directed tactics"
+- **Unique Angle**: Military strategy through OODA loop lens, connecting combat to business and psychology
+
+### [Beth Mathews](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am)
+- **Source File**: [2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md](./beth-mathews/2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md)
+- **Key Points**:
+  - Origins of "I AM A MAN" slogan from 1968 Memphis sanitation strike
+  - Rev. Malcolm Blackburn printed signs on his church basement press
+  - Type designer Tre Seals identified the font from a 1960 Hamilton Wood Type catalog
+- **Notable Quote**: "Across the south, he can go from boy to uncle to grandfather without ever passing the station of being a man"
+- **Unique Angle**: Design history with civil rights significance
+
+### [Steven Johnson](https://adjacentpossible.substack.com/p/the-agrarian-fall)
+- **Source File**: [2026-01-13-the-agrarian-fall.md](./steven-johnson-from-adjacent-possible/2026-01-13-the-agrarian-fall.md)
+- **Key Points**:
+  - The agricultural revolution as "fall" not "ascent"
+  - Hunter-gatherers worked less and ate better than early farmers
+  - Cold War spy satellites revealed ancient irrigation systems that changed our understanding
+- **Notable Quote**: "The first farmers' remains show signs of crippling arthritis... their skeletons were smaller and their teeth more riddled with cavities"
+- **Unique Angle**: Long-form historical analysis challenging received wisdom about human progress
+
+### [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle)
 - **Source File**: [2026-01-13-is-venezuela-s-oil-worth-the-hassle.md](./tomas-pueyo-from-uncharted-territories/2026-01-13-is-venezuela-s-oil-worth-the-hassle.md)
-- **Original URL**: [View original](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle)
 - **Key Points**:
   - Venezuela's "superheavy" oil sells for $8 less than standard crude
-  - At current production (1.1M barrels/day), annual profit is only ~$11.7B
-  - Would require tens of billions in infrastructure investment to increase production
-  - Oil companies deeply skeptical after having assets seized twice
-- **Notable Quote**: "Either the US makes no money from Venezuela, or it plunders the oil and leaves Venezuelans to starve and die - won't happen - or it invests to decrease costs and increase production."
+  - At current production, annual profit is only ~$11.7B
+  - Country owes ~$200B in debt, making oil an inadequate solution
+- **Notable Quote**: "Either the US makes no money from Venezuela, or it plunders the oil and leaves Venezuelans to starve and die - won't happen - or it invests to decrease costs and increase production"
 - **Unique Angle**: Economic analysis cutting through political rhetoric about oil motivations
 
-### Bill McKibben (The Crucial Years)
-- **Source File**: [2026-01-15-solar-as-solidarity.md](./bill-mckibben-from-the-crucial-years/2026-01-15-solar-as-solidarity.md)
-- **Original URL**: [View original](https://billmckibben.substack.com/p/solar-as-solidarity)
+### [Tim Ferriss](https://tim.blog)
+- **Source Files**: [Ketosis](./tim-ferriss/2026-01-14-new-from-tim-how-to-use-ketosis-for-enhanced-mood-cognition-.md), [5-Bullet Friday](./tim-ferriss/2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md)
 - **Key Points**:
-  - Advocates for plug-in solar as form of resistance and self-sufficiency
-  - Utah is only U.S. state to fully legalize plug-in solar
-  - Connects solar independence to Gandhian concept of "swadeshi" (self-sufficiency)
-  - Notes U.S. carbon emissions rose 2.4% in 2025 under Trump
-- **Notable Quote**: "In an age when our brutish ruler gasses on and on about 'energy dominance,' it is an important act of defiance to make your own power."
-- **Unique Angle**: Climate activism framed as political resistance in authoritarian moment
+  - Promotion of Michel Thomas language learning method
+  - Recommendation of The Secret Life of Walter Mitty for January inspiration
+  - Discussion of prediction markets and their secondary effects
+- **Notable Quote**: "The universe is not only stranger than we suppose, but stranger than we can suppose." - J.B.S. Haldane
+- **Unique Angle**: Curated recommendations with focus on self-improvement and learning
 
-### Core Memory
-- **Source File**: [2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md](./core-memory/2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md)
-- **Original URL**: [View original](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci)
-- **Key Points**:
-  - Merge Labs raised $252M from OpenAI, Bain Capital, and others
-  - Pursuing ultrasound-based brain-computer interfaces with protein reporters
-  - Claims technology could eventually be non-invasive unlike Neuralink
-  - Co-founders include Sam Altman, Alex Blania (World/Tools for Humanity), Caltech researchers
-- **Notable Quote**: "We fundamentally believe that restoration and augmentation live on a continuum. The technologies that restore function today for the people who have lost it are the same technologies that eventually create new functions if people want them."
-- **Unique Angle**: Exclusive access to stealth biotech startup with significant AI industry backing
-
-### Ryan from Digital Grove
-- **Source File**: [2026-01-15-the-magic-of-the-better-software-conference.md](./ryan-from-digital-grove/2026-01-15-the-magic-of-the-better-software-conference.md)
-- **Original URL**: [View original](https://www.rfleury.com/p/the-magic-of-the-better-software)
-- **Key Points**:
-  - Uses "Eternal September" concept to explain organizational decline through growth
-  - Argues invite-only conferences produce better outcomes than inclusive ones
-  - Contends "people are not fungible" and selection matters
-  - Criticizes both corporate growth-obsession and progressive inclusivity as pursuing same outcome
-- **Notable Quote**: "The executive boardroom meeting discussing the maximization of growth - and the Internet 'discussion' board 'discussing' the maximization of inclusivity - are, fundamentally, discussing their desire for exactly the same outcome."
-- **Unique Angle**: Contrarian defense of exclusivity in software culture
-
-### Beth Mathews
-- **Source File**: [2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md](./beth-mathews/2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md)
-- **Original URL**: [View original](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am)
-- **Key Points**:
-  - Chronicles the 1968 Memphis sanitation workers strike and "I AM A MAN" poster
-  - Typeface was Gothic No. 6243 from Hamilton Wood Type catalog
-  - Posters were printed by white union member Rev. Malcolm Blackburn in church basement
-  - Martin Luther King Jr. was assassinated one day after his "Mountaintop" speech in Memphis
-- **Notable Quote**: "We came up with a slogan because across the south, he can go from boy to uncle to grandfather without ever passing the station of being a man."
-- **Unique Angle**: Design history connecting typography to civil rights activism, timely for MLK Day
-
-### Blackbird Spyplane
-- **Source File**: [2026-01-15-bad-advice.md](./blackbird-spyplane/2026-01-15-bad-advice.md)
-- **Original URL**: [View original](https://www.blackbirdspyplane.com/p/bad-advice)
-- **Key Points**:
-  - Argues "you shouldn't care about what other people think" is bad style advice
-  - Clothes are "irreducibly social" and always communicate messages
-  - What you wear speaks to both actual people and "phantasms" in your mind
-- **Notable Quote**: "Anyone who tries to tell you this stuff is simple enough to boil down to 'stop caring what other people think' is either mistaken, blessed with enormous inbuilt swag so rare that their advice is of little use to most mortals, or lying!"
-- **Unique Angle**: Fashion philosophy that takes the social dimension of clothing seriously
-
-### Eliza Brooke
+### [Eliza Brooke](https://elizabrooke.substack.com/p/january-2026-recommendations)
 - **Source File**: [2026-01-16-recs-for-staying-sane-in-january.md](./eliza-brooke/2026-01-16-recs-for-staying-sane-in-january.md)
-- **Original URL**: [View original](https://elizabrooke.substack.com/p/january-2026-recommendations)
 - **Key Points**:
-  - Lifestyle recommendations for managing difficult January news cycle
-  - Advocates for 4 p.m. cheese snacks and pacing oneself
-- **Notable Quote**: "Two weeks in, I'm slowing down a bit, having remembered that it's important to pace oneself in the marathon called life."
-- **Unique Angle**: Gentle self-care perspective amid heavy news
+  - Self-care recommendations for managing January
+  - 4 p.m. cheese snacks as ritual
+  - Importance of pacing oneself
+- **Notable Quote**: "Two weeks in, I'm slowing down a bit, having remembered that it's important to pace oneself in the marathon called life"
+- **Unique Angle**: Gentle lifestyle advice amid overwhelming news
 
 ## Patterns & Trends
 
-**1. Technology as Tool of Both Liberation and Oppression**
+This week's newsletters collectively reveal a society grappling with fundamental questions about power, technology, and truth. Several patterns emerge:
 
-This week's newsletters collectively illustrate technology's dual nature. China exports surveillance tech to Iran to crush protests while American activists use Signal to coordinate ICE Watch. AI companies take government contracts while workers circulate petitions against ICE collaboration. The same platforms (X/Twitter) that spread white supremacist content also allow documentation of state violence. There is no neutral technology - only choices about deployment.
+**The Collapse of Shared Reality**: Multiple newsletters touched on how documentation and evidence no longer function as arbiters of truth. [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses) described the ICE shooting as proof that "consent doesn't even need to be manufactured anymore" - the state can simply declare its preferred narrative regardless of video evidence.
 
-**2. The Question of American Power**
+**Silicon Valley's Political Capture**: The revelation of OpenAI's president as Trump's largest Super PAC donor, combined with Palantir's ICE contracts and Musk's X propaganda platform, suggests the tech industry has become deeply embedded in authoritarian governance - a far cry from its libertarian origins.
 
-From Venezuela to Iran to Minneapolis, newsletters grappled with what American power means in 2026. Some see a confident nation reshaping the world (Maduro captured, Iran threatened). Others see domestic authoritarianism (ICE as "military occupation"). The gap between how America projects power abroad and exercises it at home is narrowing in uncomfortable ways.
+**The Return of History**: From Niall Ferguson's analysis of counterrevolutions at [The Free Press](https://www.thefp.com/p/niall-ferguson-the-myth-of-revolution-in-iran) to Elliot Ackerman's discussion of Catch-22 to [Erik Davis's](https://www.burningshore.com/p/thar-she-blows) Moby Dick seminar, there's a clear hunger for historical frameworks to understand the present chaos. Multiple newsletters compared 2026 to 1989, 1979, or the 1960s.
 
-**3. China's Candid AI Assessment**
+**Biotech's Quiet Revolution**: While geopolitical chaos dominated headlines, [Core Memory](https://www.corememory.com) documented remarkable advances in magnetotherapeutics and brain-computer interfaces that may prove more consequential long-term.
 
-The translated Chinese AI summit transcript is remarkable for its honesty. Top researchers admit their gap with the U.S. may be widening, that they lack risk-taking culture, and that "just fulfilling delivery requirements already consumes the vast majority of our compute." This suggests export controls may be working - but also that Chinese efficiency could pose different competitive advantages.
+**The Philosophy of Decay and Performance**: From [Tamara's](https://museguided.substack.com/p/the-grace-in-withering) meditation on dying flowers to [Blackbird Spyplane's](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool) anchovy principle, several newsletters explored authenticity, aging, and the exhausting performance of being a visible person in a mediated world.
 
-**4. Resistance Takes Many Forms**
-
-Whether it's McKibben promoting plug-in solar as "swadeshi," ICE Watch activists using Signal chats, or faith groups calling for general strikes in Minneapolis, newsletters documented various modes of resistance. The question is whether distributed, small-scale resistance can meaningfully counter centralized state power.
-
-**5. The Collapse of Shared Reality**
-
-Brian Merchant's essay crystallizes a theme running through multiple newsletters: the Trump administration "no longer feels compelled to even gesture towards the truth." The Renee Good shooting video shows one thing; the government claims another. This isn't about AI deepfakes - it's about political will to simply ignore documented reality. As Merchant puts it: "Consent doesn't even need to be manufactured anymore."
+**Institutional Fragility**: The attacks on the Fed, the FBI raid on a Washington Post journalist, the occupation of Minneapolis - this week illustrated how quickly institutional norms can erode when power decides to ignore them.
