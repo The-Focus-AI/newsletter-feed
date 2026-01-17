@@ -1,265 +1,167 @@
-# Week 03 Misc Category Newsletter Analysis
+# Week 03 Miscellaneous Newsletter Analysis (January 13-17, 2026)
 
 ## Overview
-A tumultuous week dominated by the ICE shooting of Renee Good in Minneapolis, the ongoing Iranian protests and bloody crackdown, the aftermath of the Maduro capture in Venezuela, and Trump's attacks on the Fed. Amidst the geopolitical chaos, newsletters offered thoughtful commentary on topics ranging from biotech breakthroughs to the philosophy of fashion, from the agricultural revolution to the nature of decay.
 
-## Sources Analyzed
+Week 03 brought an avalanche of coverage across miscellaneous newsletters, dominated by three major storylines: the Iranian regime's bloody crackdown on protesters (with death tolls reported up to 12,000), the escalating ICE operations in Minneapolis following the shooting of observer Renee Good, and geopolitical maneuvering around Venezuela and Greenland. [The Free Press](https://substack.com/redirect/4be8d837-2bb0-4925-94ae-9091440dc17e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) provided the most comprehensive daily political coverage, while [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool) offered a striking contrast with fashion philosophy, and [Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci) broke exclusive tech news about brain-computer interfaces.
 
-| Newsletter | File | Date |
-|------------|------|------|
-| [The Free Press](https://www.thefp.com/p/a-world-on-fire-from-tehran-to-caracas) | [2026-01-12-a-world-on-fire-from-tehran-to-caracas-plus.md](./the-free-press/2026-01-12-a-world-on-fire-from-tehran-to-caracas-plus.md) | Jan 12 |
-| [The Free Press](https://www.thefp.com/p/trumps-dangerous-attack-on-the-fed) | [2026-01-12-trump-s-dangerous-attack-on-the-fed.md](./the-free-press/2026-01-12-trump-s-dangerous-attack-on-the-fed.md) | Jan 12 |
-| [The Free Press](https://www.thefp.com/p/why-2026-could-prove-as-important-as-1989) | [2026-01-13-why-2026-could-prove-as-important-as-1989-plus.md](./the-free-press/2026-01-13-why-2026-could-prove-as-important-as-1989-plus.md) | Jan 13 |
-| [The Free Press](https://www.thefp.com/p/niall-ferguson-the-myth-of-revolution-in-iran) | [2026-01-13-niall-ferguson-the-myth-of-revolution-in-iran.md](./the-free-press/2026-01-13-niall-ferguson-the-myth-of-revolution-in-iran.md) | Jan 13 |
-| [The Free Press](https://www.thefp.com/p/i-joined-ice-watch) | [2026-01-14-i-joined-ice-watch-plus.md](./the-free-press/2026-01-14-i-joined-ice-watch-plus.md) | Jan 14 |
-| [The Free Press](https://www.thefp.com/p/coleman-hughes-scott-adams-made-me-a-better-thinker) | [2026-01-14-coleman-hughes-scott-adams-made-me-a-better-thinker.md](./the-free-press/2026-01-14-coleman-hughes-scott-adams-made-me-a-better-thinker.md) | Jan 14 |
-| [The Free Press](https://www.thefp.com/p/the-maga-crack-up) | [2026-01-15-the-maga-crack-up-plus.md](./the-free-press/2026-01-15-the-maga-crack-up-plus.md) | Jan 15 |
-| [The Free Press](https://www.thefp.com/p/americas-most-righteous-war-produced-its-best-antiwar-novel) | [2026-01-15-america-s-most-righteous-war-produced-its-best-antiwar-novel.md](./the-free-press/2026-01-15-america-s-most-righteous-war-produced-its-best-antiwar-novel.md) | Jan 15 |
-| [The Free Press](https://www.thefp.com/p/tgif-ice-on-ice) | [2026-01-16-tgif-ice-on-ice.md](./the-free-press/2026-01-16-tgif-ice-on-ice.md) | Jan 16 |
-| [The Free Press](https://www.thefp.com/p/the-weekend-press-totalitarianism) | [2026-01-17-the-weekend-press-totalitarianism-can-be-relaxing.md](./the-free-press/2026-01-17-the-weekend-press-totalitarianism-can-be-relaxing.md) | Jan 17 |
-| [Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine) | [2026-01-12-exclusive-fridge-magnet-medicine.md](./core-memory/2026-01-12-exclusive-fridge-magnet-medicine.md) | Jan 12 |
-| Core Memory | [2026-01-12-new-more-precise-cancer-therapies-could-soon-be-here-ep-51-r.md](./core-memory/2026-01-12-new-more-precise-cancer-therapies-could-soon-be-here-ep-51-r.md) | Jan 12 |
-| [Core Memory](https://www.corememory.com/p/chinese-peptide-underground) | [2026-01-14-welcome-to-the-chinese-peptide-underground-ep-52-jasmine-sun.md](./core-memory/2026-01-14-welcome-to-the-chinese-peptide-underground-ep-52-jasmine-sun.md) | Jan 14 |
-| [Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci) | [2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md](./core-memory/2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md) | Jan 15 |
-| News Minimalist | [2026-01-12-us-leaves-global-climate-treaty-10-more-stories.md](./news-minimalist/2026-01-12-us-leaves-global-climate-treaty-10-more-stories.md) | Jan 12 |
-| [News Minimalist](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories) | [2026-01-15-nato-sends-troops-to-greenland-10-more-stories.md](./news-minimalist/2026-01-15-nato-sends-troops-to-greenland-10-more-stories.md) | Jan 15 |
-| [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool) | [2026-01-13-the-anchovy-principle.md](./blackbird-spyplane/2026-01-13-the-anchovy-principle.md) | Jan 13 |
-| [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/bad-advice) | [2026-01-15-bad-advice.md](./blackbird-spyplane/2026-01-15-bad-advice.md) | Jan 15 |
-| [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) | [2026-01-13-is-venezuela-s-oil-worth-the-hassle.md](./tomas-pueyo-from-uncharted-territories/2026-01-13-is-venezuela-s-oil-worth-the-hassle.md) | Jan 13 |
-| [Steven Johnson](https://adjacentpossible.substack.com/p/the-agrarian-fall) | [2026-01-13-the-agrarian-fall.md](./steven-johnson-from-adjacent-possible/2026-01-13-the-agrarian-fall.md) | Jan 13 |
-| [The Whirl Of ReOrientation](https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s) | [2026-01-13-network-centric-warfare-from-f-14s-to-wal-mart-and-boyd-s-re.md](./the-whirl-of-reorientation-escape-the-sc/2026-01-13-network-centric-warfare-from-f-14s-to-wal-mart-and-boyd-s-re.md) | Jan 13 |
-| [The Whirl Of ReOrientation](https://thewhirl.substack.com/p/reorienting-after-trauma) | [2026-01-15-reorienting-after-trauma-from-yom-kippur-war-hero-to-ptsd-pi.md](./the-whirl-of-reorientation-escape-the-sc/2026-01-15-reorienting-after-trauma-from-yom-kippur-war-hero-to-ptsd-pi.md) | Jan 15 |
-| [Jodi Ettenberg Legal Nomads](https://jodiettenberg.substack.com/p/fifty-eight) | [2026-01-14-the-curious-about-everything-newsletter-58.md](./jodi-ettenberg-legal-nomads/2026-01-14-the-curious-about-everything-newsletter-58.md) | Jan 14 |
-| [Molly Young](https://mollyyoung.substack.com/p/little-joys-for-2026) | [2026-01-15-little-joys-for-2026.md](./molly-young/2026-01-15-little-joys-for-2026.md) | Jan 15 |
-| [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses) | [2026-01-16-abolish-the-senses.md](./brian-merchant/2026-01-16-abolish-the-senses.md) | Jan 16 |
-| [Tamara](https://museguided.substack.com/p/the-grace-in-withering) | [2026-01-14-the-grace-in-withering.md](./tamara/2026-01-14-the-grace-in-withering.md) | Jan 14 |
-| [Beth Mathews](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am) | [2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md](./beth-mathews/2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md) | Jan 15 |
-| [Ryan from Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software) | [2026-01-15-the-magic-of-the-better-software-conference.md](./ryan-from-digital-grove/2026-01-15-the-magic-of-the-better-software-conference.md) | Jan 15 |
-| [Contraptions](https://contraptions.venkateshrao.com/p/new-nature) | [2026-01-16-new-nature.md](./contraptions/2026-01-16-new-nature.md) | Jan 16 |
-| [Erik Davis](https://www.burningshore.com/p/thar-she-blows) | [2026-01-16-thar-she-blows.md](./erik-davis/2026-01-16-thar-she-blows.md) | Jan 16 |
-| Olga | [2026-01-14-what-normal-looks-like-a-guide-to-baselines-issue-299.md](./olga/2026-01-14-what-normal-looks-like-a-guide-to-baselines-issue-299.md) | Jan 14 |
-| Tim Ferriss | [2026-01-14-new-from-tim-how-to-use-ketosis-for-enhanced-mood-cognition-.md](./tim-ferriss/2026-01-14-new-from-tim-how-to-use-ketosis-for-enhanced-mood-cognition-.md) | Jan 14 |
-| Tim Ferriss | [2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md](./tim-ferriss/2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md) | Jan 17 |
-| John Biggs | [2026-01-13-help-a-national-treasure-pay-his-mortgage.md](./john-biggs/2026-01-13-help-a-national-treasure-pay-his-mortgage.md) | Jan 13 |
-| Blocked and Reported | [2026-01-12-ask-jon-kay-anything.md](./blocked-and-reported/2026-01-12-ask-jon-kay-anything.md) | Jan 12 |
-| [Eliza Brooke](https://elizabrooke.substack.com/p/january-2026-recommendations) | [2026-01-16-recs-for-staying-sane-in-january.md](./eliza-brooke/2026-01-16-recs-for-staying-sane-in-january.md) | Jan 16 |
-| Mailbrew | [2026-01-12 through 2026-01-17](./mailbrew/) | Jan 12-17 |
+---
 
-## Cross-Newsletter Themes
+## Major Topics and Stories
 
-### The ICE Shooting and Minneapolis Crisis
-- **Coverage**: [The Free Press](https://www.thefp.com/p/tgif-ice-on-ice), [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses), Mailbrew
-- **Summary**: The shooting of Renee Good by ICE agent Jonathan Ross became the dominant domestic story. The video evidence clearly showed Good attempting to drive away, yet the Trump administration declared her a "domestic terrorist."
-- **Notable perspectives**:
-  - [The Free Press](https://www.thefp.com/p/tgif-ice-on-ice) reported that 57% of voters disapprove of ICE's enforcement methods and 53% think the shooting was unjustified
-  - [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses) offered a scathing critique of Silicon Valley's complicity, noting that OpenAI's president Greg Brockman was revealed as the largest donor to Trump's MAGA Inc. Super PAC at $12.5 million
+### 1. Iran Crisis and the "Myth of Revolution"
 
-### Iran Protests and Crackdown
-- **Coverage**: [The Free Press](https://www.thefp.com/p/niall-ferguson-the-myth-of-revolution-in-iran), [News Minimalist](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories)
-- **Summary**: Unprecedented nationwide protests in Iran met with brutal crackdown. Iran International reported 12,000 protesters killed, while the regime acknowledges 2,000.
-- **Notable perspectives**:
-  - Niall Ferguson in [The Free Press](https://www.thefp.com/p/niall-ferguson-the-myth-of-revolution-in-iran) offered a sobering historical analysis: "True restorations are few and far between... the harsh reality is that most counterrevolutions fail"
-  - He noted that Iran has become "more like a Western, secularized society than any other country in the Middle East" with 70% favoring separation of religion and state
+**Coverage:** [The Free Press](https://substack.com/redirect/b8a1f759-c266-4e32-abb5-a26086bc1060?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [The Free Press (TGIF)](https://substack.com/redirect/e2a7d8d3-2a74-4907-aa91-1ff7e4739262?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
-### Venezuela and U.S. Power Projection
-- **Coverage**: [The Free Press](https://www.thefp.com/p/a-world-on-fire-from-tehran-to-caracas), [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle), [The Free Press](https://www.thefp.com/p/americas-most-righteous-war-produced-its-best-antiwar-novel)
-- **Summary**: The Maduro capture raised questions about oil economics and American power projection.
-- **Notable perspectives**:
-  - [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) detailed the grim economics: Venezuela earns ~$11.7B/year from oil but owes ~$200B, and ExxonMobil's CEO called it "uninvestable" after having assets seized twice
-  - Elliot Ackerman in [The Free Press](https://www.thefp.com/p/americas-most-righteous-war-produced-its-best-antiwar-novel) discussed how Americans have been "insulated from the costs of war" since 9/11 through the all-volunteer military and deficit spending
+Niall Ferguson's essay in The Free Press offered a contrarian historical perspective on the Iranian protests, arguing they are fundamentally counterrevolutionary rather than revolutionary. He traces a pattern of American liberals consistently underestimating the illiberal character of revolutions while disparaging counterrevolutionaries.
 
-### Trump Administration Actions and Institutional Conflict
-- **Coverage**: [The Free Press](https://www.thefp.com/p/trumps-dangerous-attack-on-the-fed), [News Minimalist](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories), Mailbrew
-- **Summary**: Trump attacked Fed Chair Jerome Powell with a criminal investigation, demanded Greenland, and drove deep partisan rifts.
-- **Notable perspectives**:
-  - Powell's video statement: "The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the president"
-  - NATO allies sent troops to Greenland in response to Trump's "unacceptable" demands
+> "There is a difference between a revolution and a counterrevolution. It is a recurrent mistake of the American media to conflate the two." -- [Niall Ferguson, The Free Press](https://substack.com/redirect/b8a1f759-c266-4e32-abb5-a26086bc1060?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
-### Biotech and Medical Breakthroughs
-- **Coverage**: [Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine), [News Minimalist](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories)
-- **Summary**: Major advances in magnetotherapeutics, brain-computer interfaces, and peptide biohacking.
-- **Notable perspectives**:
-  - [Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine) reported on Nonfiction Labs developing "magbodies" - antibodies controllable by magnetic fields for cancer treatment
-  - [Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci) covered Merge Labs raising $252 million for brain-computer interface research using ultrasound and proteins, backed by Sam Altman and OpenAI
+Ferguson notes that Iran International reported 12,000 protesters killed in the regime's crackdown and provides historical context on why counterrevolutions typically fail: "The Cold War made it painfully clear, time and time again, that repression works."
 
-## Surprising Insights
+The TGIF column added a satirical angle, noting Progressive International's bizarre inconsistency: calling to abolish police domestically while defending Iranian security forces as existing "within a radically different context: a state born of popular revolution."
 
-- "The independence of a central bank has long been a hallmark of responsible government; control over the money supply is something autocrats routinely covet" - Former Fed chairmen called Trump's investigation "how monetary policy is made in emerging markets with weak institutions" - [The Free Press](https://www.thefp.com/p/trumps-dangerous-attack-on-the-fed)
+### 2. ICE Operations in Minneapolis and the Renee Good Shooting
 
-- The "I AM A MAN" protest poster from 1968 Memphis was printed by a white Canadian minister in his church basement using Hamilton Wood Type Gothic No. 6243, and the Allied Printing Trades Council union stamp at the bottom represented a white union member supporting a Black-led strike - [Beth Mathews](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am)
+**Coverage:** [The Free Press](https://substack.com/redirect/683682f8-e74d-4a87-8879-a2db8f022d2a?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [Blood in the Machine](https://bloodinthemachine.substack.com/p/abolish-the-senses), [The Free Press (TGIF)](https://substack.com/redirect/e2a7d8d3-2a74-4907-aa91-1ff7e4739262?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
-- The agricultural revolution wasn't a sudden ascent but involved "a massive, unexplained gap in the timeline between the first domestication of crops and the emergence of the first agrarian states" - and the key clue "fell out of the sky in the 1960s, ejected from a Cold War spy satellite" - [Steven Johnson](https://adjacentpossible.substack.com/p/the-agrarian-fall)
+The shooting of Renee Good by an ICE agent and the subsequent federal escalation in Minneapolis generated extensive and divergent coverage.
 
-- More people now want to abolish ICE than keep it, according to recent polling - [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses)
+[Brian Merchant's Blood in the Machine](https://bloodinthemachine.substack.com/p/abolish-the-senses) provided the most extensive critique, connecting the ICE operations to Silicon Valley's role in enabling authoritarianism. He describes the week as "particularly unmooring" and argues that tech platforms have created conditions where "consent doesn't even need to be manufactured anymore."
 
-- "Most technologies are like guns. They tend to get aggregated and captured by those who already have a lot... PKC is one of the few technologies where at least under some conditions, the weak get stronger" - [Contraptions](https://contraptions.venkateshrao.com/p/new-nature)
+> "The Trump administration simply declaring what it would like to have transpired, even in the face of ample and obvious documentation to the contrary, works." -- [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses)
 
-- "When you're 19, 20, 21 years old and you go to war, you are experiencing this very intense sense of purpose... You go from taking the crystal meth of purpose to sipping the Coors Light of purpose" - Elliot Ackerman on why veterans get depressed - [The Free Press](https://www.thefp.com/p/americas-most-righteous-war-produced-its-best-antiwar-novel)
+Merchant also provided personal reporting from LA, describing ICE staging at a local church near his home and detailing community rapid-response networks.
 
-- Volcanic eruptions in 1345 may have caused the Black Death by triggering crop failures that led to grain imports from the Black Sea, which were brought on ships carrying infected rats - [Jodi Ettenberg](https://jodiettenberg.substack.com/p/fifty-eight)
+[The Free Press](https://substack.com/redirect/683682f8-e74d-4a87-8879-a2db8f022d2a?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) offered more ground-level reporting with Olivia Reingold joining "ICE Watch" Signal chats and accessing their license plate databases. The TGIF column cited Quinnipiac polling showing 57% of voters disapprove of ICE enforcement methods and 53% believe the Good shooting was not justified.
 
-## Individual Newsletter Summaries
+### 3. Venezuela, Greenland, and Trump's Foreign Policy
 
-### [The Free Press](https://www.thefp.com)
-- **Source Files**: Multiple daily editions
-- **Key Points**:
-  - Comprehensive coverage of world flashpoints: Iran, Venezuela, Ukraine
-  - Investigative reporting on ICE operations including Olivia Reingold joining ICE watch networks
-  - Niall Ferguson's historical analysis of counterrevolutions
-  - Coleman Hughes tribute to Scott Adams after his death
-  - Elliot Ackerman interview on Catch-22 and modern war
-- **Notable Quote**: "There is one thing [that can restrain my actions]... My own morality. My own mind. It's the only thing that can stop me." - Trump
-- **Unique Angle**: Center-right perspective with heavy emphasis on institutional analysis and foreign policy expertise
+**Coverage:** [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle), [The Free Press](https://substack.com/redirect/4be8d837-2bb0-4925-94ae-9091440dc17e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [The Free Press (Catch-22)](https://substack.com/redirect/27079505-da1d-4669-bc7a-904a4a591e1d?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
-### [Core Memory](https://www.corememory.com)
-- **Source Files**: [Fridge Magnet Medicine](./core-memory/2026-01-12-exclusive-fridge-magnet-medicine.md), [Chinese Peptide Underground](./core-memory/2026-01-14-welcome-to-the-chinese-peptide-underground-ep-52-jasmine-sun.md), [Merge Labs](./core-memory/2026-01-15-exclusive-openai-and-sam-altman-back-a-bold-new-take-on-fusi.md)
-- **Key Points**:
-  - Nonfiction Labs developing magnetically controllable cancer therapies
-  - Silicon Valley's peptide biohacking trend explored
-  - Merge Labs BCI startup backed by Sam Altman raises $252M
-- **Notable Quote**: "For billions of years, biology largely ignored magnets. But now, with some protein engineering... that's starting to change"
-- **Unique Angle**: Deep biotech reporting with exclusive access to cutting-edge startups
+[Tomas Pueyo's Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) offered detailed economic analysis of Venezuela's oil viability, concluding that extracting significant value would require massive investment that oil companies are reluctant to make after being "stripped of their Venezuelan investments not once, but twice."
 
-### [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses)
-- **Source File**: [2026-01-16-abolish-the-senses.md](./brian-merchant/2026-01-16-abolish-the-senses.md)
-- **Key Points**:
-  - Detailed account of ICE operations in Minnesota and LA
-  - Analysis of Silicon Valley's complicity in authoritarianism
-  - Personal experience with ICE staging at his neighborhood church
-  - Call for general strike and economic blackout
-- **Notable Quote**: "The president of Venezuela is sitting in a Brooklyn jail. The FBI raided the home of a Washington Post journalist... The president of the Minneapolis city council describes it as a military occupation."
-- **Unique Angle**: Tech critic perspective connecting Silicon Valley profits to state violence
+> "We have had our assets seized there twice and so you can imagine to re-enter a third time would require some pretty significant changes from what we've historically seen. Today, it's uninvestable." -- ExxonMobil CEO Darren Woods, quoted in [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle)
 
-### [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool)
-- **Source Files**: [The Anchovy Principle](./blackbird-spyplane/2026-01-13-the-anchovy-principle.md), [Bad Advice](./blackbird-spyplane/2026-01-15-bad-advice.md)
-- **Key Points**:
-  - "The Anchovy Principle" - how wearing berets (or any bold fashion) is like cooking with anchovies
-  - Critique of "you shouldn't care what other people think" as fashion advice
-  - Clothes as irreducibly social communication
-- **Notable Quote**: "The first few times I put on my beret, I was tasting too much anchovy... With time and heat, the anchovy melts into a luscious, fragrant oil"
-- **Unique Angle**: Fashion philosophy with surprisingly deep thinking about identity and social performance
+Multiple Free Press editions covered the Maduro capture and Trump's Greenland ambitions, with Matt Pottinger and Roy Eakin arguing "2026 could prove to be the most consequential year in world history since 1989."
 
-### [Tamara](https://museguided.substack.com/p/the-grace-in-withering)
-- **Source File**: [2026-01-14-the-grace-in-withering.md](./tamara/2026-01-14-the-grace-in-withering.md)
-- **Key Points**:
-  - Meditation on decay, aging, and the performance of beauty
-  - Critique of "authentic" vulnerability that must still be hot to be palatable
-  - Finding dignity in "disinterest" rather than in the bloom
-- **Notable Quote**: "We are not taught to find beauty in aftermath. We are taught to fear irrelevance, to manage decline like a failing brand, to weaponise positivity against our own pain"
-- **Unique Angle**: Philosophical reflection on mortality and performance through the metaphor of dying flowers
+Elliot Ackerman's podcast on Catch-22 in [The Free Press](https://substack.com/redirect/27079505-da1d-4669-bc7a-904a4a591e1d?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) provided timely commentary on war's absurdity, noting that Americans have been "shielded for the past few decades from the true costs of war" through an all-volunteer military and deficit spending.
 
-### [Contraptions](https://contraptions.venkateshrao.com/p/new-nature)
-- **Source File**: [2026-01-16-new-nature.md](./contraptions/2026-01-16-new-nature.md)
-- **Key Points**:
-  - "New Nature" defined as "regimes of reality governed by technologically mediated laws that are nearly as inviolable as those of nature"
-  - Public-key cryptography as the first truly strong piece of New Nature
-  - "Can't be evil" technology vs. "don't be evil" sentiment
-- **Notable Quote**: "I'd rather have a bunch of can't-be-evil capture-resistant technologies running amok, in the hands of lots of uncoordinated average humans with average morality, than a bunch of captured death stars"
-- **Unique Angle**: Techno-philosophical analysis of how code-based laws reshape power dynamics
+### 4. Scott Adams Death and Legacy
 
-### [Erik Davis](https://www.burningshore.com/p/thar-she-blows)
-- **Source File**: [2026-01-16-thar-she-blows.md](./erik-davis/2026-01-16-thar-she-blows.md)
-- **Key Points**:
-  - Rereading Moby Dick for an upcoming seminar
-  - The Lovecraftian dimension of Melville's whale
-  - "Weird naturalism" - respecting natural fact while piercing into the haunted void
-- **Notable Quote**: "Reading classics... has been grounding, nourishing, illuminating, and, somewhat to my surprise, very entertaining"
-- **Unique Angle**: Literary analysis connecting American canon to cosmic horror and contemporary weirdness
+**Coverage:** [The Free Press](https://substack.com/redirect/5cbf9c0a-40de-4653-8d48-125464c694f0?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [Mailbrew](content/misc/mailbrew/2026-01-14-daily-digest-1769.md), [The Free Press (TGIF)](https://substack.com/redirect/e2a7d8d3-2a74-4907-aa91-1ff7e4739262?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [The Free Press (Weekend)](https://substack.com/redirect/9c3a6daa-ee44-42c6-8752-ccf2876f611e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
-### [Jodi Ettenberg | Legal Nomads](https://jodiettenberg.substack.com/p/fifty-eight)
-- **Source File**: [2026-01-14-the-curious-about-everything-newsletter-58.md](./jodi-ettenberg-legal-nomads/2026-01-14-the-curious-about-everything-newsletter-58.md)
-- **Key Points**:
-  - Extensive year-end link roundups
-  - Deep dives on water tasting competitions, volcanic origins of Black Death, interoception research
-  - Coverage of US sanctions locking ICC judge out of daily life
-- **Notable Quote**: "Parkinson's rates in the US have doubled in 30 years - which is not the way an inherited, genetic disease 'behaves'... TCE was only banned in the US in 2024, and Trump has moved to undo the ban"
-- **Unique Angle**: Eclectic curation with focus on scientific discoveries and chronic illness perspectives
+Coleman Hughes wrote a nuanced tribute in [The Free Press](https://substack.com/redirect/5cbf9c0a-40de-4653-8d48-125464c694f0?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), acknowledging Adams' controversial statements while crediting him with intellectual influence. Hughes applied Adams' persuasion framework to Trump's "cats and dogs" comments about Haitian immigrants.
 
-### [Ryan from Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software)
-- **Source File**: [2026-01-15-the-magic-of-the-better-software-conference.md](./ryan-from-digital-grove/2026-01-15-the-magic-of-the-better-software-conference.md)
-- **Key Points**:
-  - Analysis of "Eternal September" and how organizations degrade with growth
-  - Defense of invite-only, exclusive gatherings for maintaining quality
-  - "People are not fungible"
-- **Notable Quote**: "Both the boardroom discussing maximization of growth and the Internet board discussing maximization of inclusivity are fundamentally discussing... the same outcome"
-- **Unique Angle**: Software development culture perspective with controversial defense of exclusivity
+> "An easily debunkable lie in the text can be an honest signal in the subtext. ('I care so much about curbing immigration that I'm willing to make a fool of myself.')" -- [Coleman Hughes, The Free Press](https://substack.com/redirect/5cbf9c0a-40de-4653-8d48-125464c694f0?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
-### [Molly Young](https://mollyyoung.substack.com/p/little-joys-for-2026)
-- **Source File**: [2026-01-15-little-joys-for-2026.md](./molly-young/2026-01-15-little-joys-for-2026.md)
-- **Key Points**:
-  - Cinnamon-sugar croissant recipe
-  - Building a theremin to understand computers
-  - NYC walking tour from UFO exhibit to Earth Room
-  - Keeping a list of questions without Googling them
-- **Notable Quote**: "Every time I write down a question, I stumble into the answer in the form of a book or expert or other superior-to-Google entity"
-- **Unique Angle**: Whimsical life advice with unexpected depth
+The TGIF column contrasted the New York Times' Adams obituary headline ("whose comic strip Dilbert was a sensation until he made racist comments on his podcast") with their Stalin obituary ("Rose From Czarist Oppression to Transform Russia Into Mighty Socialist State").
 
-### [The Whirl Of ReOrientation](https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s)
-- **Source Files**: [Network Centric Warfare](./the-whirl-of-reorientation-escape-the-sc/2026-01-13-network-centric-warfare-from-f-14s-to-wal-mart-and-boyd-s-re.md), [PTSD Pioneer](./the-whirl-of-reorientation-escape-the-sc/2026-01-15-reorienting-after-trauma-from-yom-kippur-war-hero-to-ptsd-pi.md)
-- **Key Points**:
-  - Connection between F-14 doctrine evolution and Wal-Mart supply chain
-  - Interview with Dr. Yuval Neria on trauma vs. PTSD as disorder
-  - "Trauma is the event; the disorder is the emotional charge welded to memory"
-- **Notable Quote**: "The Navy didn't evolve doctrine fast enough. For six years after the F-14 entered service, the Navy kept using the same rigid, controller-directed tactics"
-- **Unique Angle**: Military strategy through OODA loop lens, connecting combat to business and psychology
+### 5. Brain-Computer Interface Breakthrough: Merge Labs
 
-### [Beth Mathews](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am)
-- **Source File**: [2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md](./beth-mathews/2026-01-15-the-design-history-behind-the-i-am-a-man-protest-poster.md)
-- **Key Points**:
-  - Origins of "I AM A MAN" slogan from 1968 Memphis sanitation strike
-  - Rev. Malcolm Blackburn printed signs on his church basement press
-  - Type designer Tre Seals identified the font from a 1960 Hamilton Wood Type catalog
-- **Notable Quote**: "Across the south, he can go from boy to uncle to grandfather without ever passing the station of being a man"
-- **Unique Angle**: Design history with civil rights significance
+**Coverage:** [Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci)
 
-### [Steven Johnson](https://adjacentpossible.substack.com/p/the-agrarian-fall)
-- **Source File**: [2026-01-13-the-agrarian-fall.md](./steven-johnson-from-adjacent-possible/2026-01-13-the-agrarian-fall.md)
-- **Key Points**:
-  - The agricultural revolution as "fall" not "ascent"
-  - Hunter-gatherers worked less and ate better than early farmers
-  - Cold War spy satellites revealed ancient irrigation systems that changed our understanding
-- **Notable Quote**: "The first farmers' remains show signs of crippling arthritis... their skeletons were smaller and their teeth more riddled with cavities"
-- **Unique Angle**: Long-form historical analysis challenging received wisdom about human progress
+[Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci) broke exclusive news about Merge Labs, a $252 million BCI startup backed by Sam Altman, OpenAI, and others. The company aims to create brain-computer interfaces using ultrasound technology and protein reporters rather than invasive electrodes.
 
-### [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle)
-- **Source File**: [2026-01-13-is-venezuela-s-oil-worth-the-hassle.md](./tomas-pueyo-from-uncharted-territories/2026-01-13-is-venezuela-s-oil-worth-the-hassle.md)
-- **Key Points**:
-  - Venezuela's "superheavy" oil sells for $8 less than standard crude
-  - At current production, annual profit is only ~$11.7B
-  - Country owes ~$200B in debt, making oil an inadequate solution
-- **Notable Quote**: "Either the US makes no money from Venezuela, or it plunders the oil and leaves Venezuelans to starve and die - won't happen - or it invests to decrease costs and increase production"
-- **Unique Angle**: Economic analysis cutting through political rhetoric about oil motivations
+> "One of our core beliefs is that we can build brain computer interfaces that can interface with many more neurons in the brain than is possible with existing technologies in a form factor that is much less invasive." -- Mikhail Shapiro, quoted in [Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci)
 
-### [Tim Ferriss](https://tim.blog)
-- **Source Files**: [Ketosis](./tim-ferriss/2026-01-14-new-from-tim-how-to-use-ketosis-for-enhanced-mood-cognition-.md), [5-Bullet Friday](./tim-ferriss/2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md)
-- **Key Points**:
-  - Promotion of Michel Thomas language learning method
-  - Recommendation of The Secret Life of Walter Mitty for January inspiration
-  - Discussion of prediction markets and their secondary effects
-- **Notable Quote**: "The universe is not only stranger than we suppose, but stranger than we can suppose." - J.B.S. Haldane
-- **Unique Angle**: Curated recommendations with focus on self-improvement and learning
+The article notes this could eventually become consumer technology rather than purely medical devices, with co-founder Sumner Norman stating: "We fundamentally believe that restoration and augmentation live on a continuum."
 
-### [Eliza Brooke](https://elizabrooke.substack.com/p/january-2026-recommendations)
-- **Source File**: [2026-01-16-recs-for-staying-sane-in-january.md](./eliza-brooke/2026-01-16-recs-for-staying-sane-in-january.md)
-- **Key Points**:
-  - Self-care recommendations for managing January
-  - 4 p.m. cheese snacks as ritual
-  - Importance of pacing oneself
-- **Notable Quote**: "Two weeks in, I'm slowing down a bit, having remembered that it's important to pace oneself in the marathon called life"
-- **Unique Angle**: Gentle lifestyle advice amid overwhelming news
+### 6. Style and Culture Philosophy
 
-## Patterns & Trends
+**Coverage:** [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool), [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/bad-advice)
 
-This week's newsletters collectively reveal a society grappling with fundamental questions about power, technology, and truth. Several patterns emerge:
+[Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool) offered an extended meditation on wearing berets through what they call "The Anchovy Principle" -- the idea that bold fashion choices, like anchovies, must be carefully integrated into one's overall "sauce" before they stop overwhelming the whole.
 
-**The Collapse of Shared Reality**: Multiple newsletters touched on how documentation and evidence no longer function as arbiters of truth. [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses) described the ICE shooting as proof that "consent doesn't even need to be manufactured anymore" - the state can simply declare its preferred narrative regardless of video evidence.
+> "Somewhere down the line, your clothes melt into your whole mf gestalt. In turn, your sense of self expands to accommodate garments that once seemed too potent." -- [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool)
 
-**Silicon Valley's Political Capture**: The revelation of OpenAI's president as Trump's largest Super PAC donor, combined with Palantir's ICE contracts and Musk's X propaganda platform, suggests the tech industry has become deeply embedded in authoritarian governance - a far cry from its libertarian origins.
+A follow-up piece argued against the common advice to "not care what other people think" about fashion, noting: "Clothes are how we speak to others without actually speaking to them... you can't step outside of clothes."
 
-**The Return of History**: From Niall Ferguson's analysis of counterrevolutions at [The Free Press](https://www.thefp.com/p/niall-ferguson-the-myth-of-revolution-in-iran) to Elliot Ackerman's discussion of Catch-22 to [Erik Davis's](https://www.burningshore.com/p/thar-she-blows) Moby Dick seminar, there's a clear hunger for historical frameworks to understand the present chaos. Multiple newsletters compared 2026 to 1989, 1979, or the 1960s.
+### 7. Agriculture, History, and Human Origins
 
-**Biotech's Quiet Revolution**: While geopolitical chaos dominated headlines, [Core Memory](https://www.corememory.com) documented remarkable advances in magnetotherapeutics and brain-computer interfaces that may prove more consequential long-term.
+**Coverage:** [Adjacent Possible](https://adjacentpossible.substack.com/p/the-agrarian-fall)
 
-**The Philosophy of Decay and Performance**: From [Tamara's](https://museguided.substack.com/p/the-grace-in-withering) meditation on dying flowers to [Blackbird Spyplane's](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool) anchovy principle, several newsletters explored authenticity, aging, and the exhausting performance of being a visible person in a mediated world.
+[Steven Johnson's Adjacent Possible](https://adjacentpossible.substack.com/p/the-agrarian-fall) examined the "Agrarian Fall" -- the scholarly consensus that agriculture was initially a downgrade for humanity rather than progress. Johnson notes a "massive, unexplained gap in the timeline between the first domestication of crops and the emergence of the first agrarian states."
 
-**Institutional Fragility**: The attacks on the Fed, the FBI raid on a Washington Post journalist, the occupation of Minneapolis - this week illustrated how quickly institutional norms can erode when power decides to ignore them.
+> "If we were expelled from the Garden, it appears we spent several thousand years loitering by the exit." -- [Steven Johnson](https://adjacentpossible.substack.com/p/the-agrarian-fall)
+
+### 8. Trauma, PTSD, and Military Psychology
+
+**Coverage:** [The Whirl of ReOrientation](https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s), [The Whirl of ReOrientation](https://thewhirl.substack.com/p/yuval-neria-ptsd-trauma-equine-psychedelics-ooda)
+
+[The Whirl of ReOrientation](https://thewhirl.substack.com/p/yuval-neria-ptsd-trauma-equine-psychedelics-ooda) featured Dr. Yuval Neria, a Yom Kippur War Medal of Valor recipient turned PTSD researcher, discussing innovative treatments including psychedelics and equine-assisted therapy. A related piece explored Network Centric Warfare and the F-14 Tomcat's influence on military doctrine.
+
+> "Trauma is the event; the disorder is the emotional charge welded to memory. The job of recovery is to separate the two, restore meaning, and rebuild trust." -- Dr. Yuval Neria, quoted in [The Whirl of ReOrientation](https://thewhirl.substack.com/p/yuval-neria-ptsd-trauma-equine-psychedelics-ooda)
+
+### 9. Technology and Philosophy
+
+**Coverage:** [Contraptions](https://contraptions.venkateshrao.com/p/new-nature), [Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software)
+
+[Venkatesh Rao's Contraptions](https://contraptions.venkateshrao.com/p/new-nature) introduced "New Nature" -- technological regimes governed by laws as inviolable as nature itself, with public-key cryptography as the Genesis event. He proposes a "Central Dogma": creating mechanisms for human regulation of technology necessarily creates attack surfaces for capture by the worst actors.
+
+[Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software) reflected on the Better Software Conference and "Eternal September" -- the phenomenon where organizational quality necessarily diminishes as membership grows and exclusivity decreases.
+
+> "People are not fungible... the initial formulation of an organization -- who is in it -- is critical." -- [Ryan Fleury, Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software)
+
+### 10. Personal Essays and Reflections
+
+**Coverage:** [Tamara](https://museguided.substack.com/p/the-grace-in-withering), [Molly Young](https://mollyyoung.substack.com/p/little-joys-for-2026), [Erik Davis](https://www.burningshore.com/p/thar-she-blows)
+
+[Tamara's "The Grace in Withering"](https://museguided.substack.com/p/the-grace-in-withering) offered a meditation on decay and authenticity, pushing back against filtered beauty standards.
+
+> "Beauty, finally, is just biology relaxing." -- [Tamara](https://museguided.substack.com/p/the-grace-in-withering)
+
+[Molly Young](https://mollyyoung.substack.com/p/little-joys-for-2026) shared "little joys for 2026" including cinnamon-sugar croissants and building theremins. [Erik Davis](https://www.burningshore.com/p/thar-she-blows) wrote about rereading Moby Dick and its "Lovecraftian dimension."
+
+---
+
+## Cross-Newsletter Patterns
+
+**The Erosion of Truth**: Multiple newsletters grappled with epistemological breakdown. [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses) argued we're "well beyond epistemic closure" where documentation doesn't matter. [Niall Ferguson](https://substack.com/redirect/b8a1f759-c266-4e32-abb5-a26086bc1060?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) noted American liberals' persistent misreading of revolutions. [Coleman Hughes](https://substack.com/redirect/5cbf9c0a-40de-4653-8d48-125464c694f0?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) explored how lies can function as "honest signals."
+
+**Technology's Double Edge**: [Core Memory](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci) celebrated BCI advances while [Brian Merchant](https://bloodinthemachine.substack.com/p/abolish-the-senses) documented tech's role in authoritarian operations. [Contraptions](https://contraptions.venkateshrao.com/p/new-nature) sought a middle path, arguing for "capture-resistant" technologies.
+
+**The Value of Exclusivity vs. Inclusion**: [Digital Grove's](https://www.rfleury.com/p/the-magic-of-the-better-software) defense of selective conferences echoed [Blackbird Spyplane's](https://www.blackbirdspyplane.com/p/bad-advice) argument that style is irreducibly social. Both push back against the growth-at-all-costs mentality.
+
+**War Returns to Center Stage**: [The Free Press](https://substack.com/redirect/27079505-da1d-4669-bc7a-904a4a591e1d?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) invoked Pope Leo XIV's warning that "war is back in vogue." Multiple newsletters addressed Venezuela, Iran, Greenland, and domestic ICE operations as manifestations of renewed conflict.
+
+---
+
+## Notable Curated Content
+
+[Jodi Ettenberg's Legal Nomads](https://jodiettenberg.substack.com/p/fifty-eight) provided an exceptionally comprehensive link roundup including year-end lists, Parkinson's research linking the disease to water contamination, and a Canadian water-tasting competition profile.
+
+[Beth Mathews](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am) delivered design history on the "I AM A MAN" protest poster from the 1968 Memphis sanitation workers' strike, relevant for Martin Luther King Jr. Day.
+
+---
+
+## Sources
+
+- [Why 2026 Could Prove as Important as 1989](https://substack.com/redirect/4be8d837-2bb0-4925-94ae-9091440dc17e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) -- The Free Press
+- [Niall Ferguson: The Myth of Revolution in Iran](https://substack.com/redirect/b8a1f759-c266-4e32-abb5-a26086bc1060?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) -- The Free Press
+- [I Joined ICE Watch](https://substack.com/redirect/683682f8-e74d-4a87-8879-a2db8f022d2a?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) -- The Free Press
+- [Coleman Hughes: Scott Adams Made Me a Better Thinker](https://substack.com/redirect/5cbf9c0a-40de-4653-8d48-125464c694f0?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) -- The Free Press
+- [The MAGA Crack-up](https://substack.com/redirect/34d159ad-7620-496e-81ce-60299e4f791a?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) -- The Free Press
+- [America's Most Righteous War Produced Its Best Antiwar Novel](https://substack.com/redirect/27079505-da1d-4669-bc7a-904a4a591e1d?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) -- The Free Press
+- [TGIF: ICE on Ice](https://substack.com/redirect/e2a7d8d3-2a74-4907-aa91-1ff7e4739262?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) -- The Free Press
+- [The Weekend Press: Totalitarianism Can Be Relaxing](https://substack.com/redirect/9c3a6daa-ee44-42c6-8752-ccf2876f611e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) -- The Free Press
+- [Is Venezuela's Oil Worth the Hassle?](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) -- Uncharted Territories
+- [The Anchovy Principle](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool) -- Blackbird Spyplane
+- [Bad Advice](https://www.blackbirdspyplane.com/p/bad-advice) -- Blackbird Spyplane
+- [Network Centric Warfare](https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s) -- The Whirl of ReOrientation
+- [Reorienting After Trauma](https://thewhirl.substack.com/p/yuval-neria-ptsd-trauma-equine-psychedelics-ooda) -- The Whirl of ReOrientation
+- [The Agrarian Fall](https://adjacentpossible.substack.com/p/the-agrarian-fall) -- Adjacent Possible
+- [Help a National Treasure Pay His Mortgage](https://johnbiggs.substack.com/p/help-a-national-treasure-pay-his) -- John Biggs
+- [The Curious About Everything Newsletter #58](https://jodiettenberg.substack.com/p/fifty-eight) -- Legal Nomads
+- [What Normal Looks Like: A Guide to Baselines](https://dataanalysis.substack.com/p/what-normal-looks-like-a-guide-to) -- Olga
+- [Welcome to the Chinese Peptide Underground](https://www.corememory.com/p/welcome-to-the-chinese-peptide-underground) -- Core Memory
+- [OpenAI and Sam Altman Back A Bold New Take on Fusing Humans and Machines](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci) -- Core Memory
+- [The Grace in Withering](https://museguided.substack.com/p/the-grace-in-withering) -- Tamara
+- [Little Joys for 2026](https://mollyyoung.substack.com/p/little-joys-for-2026) -- Molly Young
+- [The Design History Behind the I AM A MAN Protest Poster](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am) -- Beth Mathews
+- [The Magic of the Better Software Conference](https://www.rfleury.com/p/the-magic-of-the-better-software) -- Digital Grove
+- [Abolish the Senses](https://bloodinthemachine.substack.com/p/abolish-the-senses) -- Blood in the Machine
+- [Recs for Staying Sane in January](https://elizabrooke.substack.com/p/january-2026-recommendations) -- Eliza Brooke
+- [New Nature](https://contraptions.venkateshrao.com/p/new-nature) -- Contraptions
+- [Thar She Blows](https://www.burningshore.com/p/thar-she-blows) -- Erik Davis
+- [5-Bullet Friday](content/misc/tim-ferriss/2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md) -- Tim Ferriss
+- [Daily Digest #1768-1772](content/misc/mailbrew/) -- Mailbrew

@@ -1,6 +1,6 @@
 ---
 name: "Tom Warren"
-category: personal
+category: tech-ai
 email_patterns:
   - notepad@theverge.com
 ---

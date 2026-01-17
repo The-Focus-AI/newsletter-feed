@@ -1,0 +1,118 @@
+---
+id: 19bcc42e187e9596
+newsletter: in-pursuit-of-tea
+newsletter_name: "In Pursuit of Tea"
+category: culture
+subject: "Our pu-erh tea-cher"
+date: Sat, 17 Jan 2026 14:01:32 +0000 (UTC)
+---
+
+# Our pu-erh tea-cher
+
+**From:** In Pursuit of Tea <info@inpursuitoftea.com>
+**Date:** Sat, 17 Jan 2026 14:01:32 +0000 (UTC)
+
+---
+
+Unique aged brews from an industry veteran
+
+                                                                                                                                            
+
+Wing-Chi Ip, pu-erh tea sage
+
+If you've sipped from our collection of [pu-erh teas](https://inpursuitoftea.com/_t/c/v3/AADzK2wR0XjOZTlD5z-21-j6PaXDAGUrq-3tI6VEeBiBHB1NwNqIwZkvJQMGMIOe_kbPITSEjiMJ9QAKAowqJV6PlKgH0ROgVc7SrqQ7cBKxFmPWUboh3qbkHy487c7zMpOE4c8niTAmGOrudcuEZmH1hdA77cQxvCVL7wP1irxVamGW1EqnxFSXHkvlePBzqirFQS6O_U1LwAHsiJL8-dV8jPART8xgZtrejV860NtXJd1IpiZ03CSpQt4hrpNghNmcAu988nMbrC2eg2vr1ykg0Nt5sya8wdBsLhPqNE0O8PFMHQBif44ZobvF3rPgomJ3Lm0JFiD79JPCwscZ3ATDySAAAs5rpmXBChvjcTD6su6yrJpP085G_iUNraBXliBAmb7mI-7YLqWFvYz4IICEjX2g3O-tvWE9KUpLGRUSBTiMuePrth8iH3PW4RARYB-E-TWi5j8xUScoCTLJaWsLQzlqvTqcJiF_KDRMs45P), you may have tasted the work of our friend Wing-Chi Ip. Ip is the founder of LockCha teahouse in Hong Kong and has been an important player in the industry since the 1980s. The teas he personally sources and presses, like our [Lotus Tuocha](https://inpursuitoftea.com/_t/c/v3/AAC8hI8CdniW9rl3PX6APjNLo4D_2C0VyAlm90UXIwPafJzXM0c_1ltRrF9BYSA3nPjliWGDwq3xKwzWTwDzGzwpIWqes57f_1it6xSlRiipzW3NVhZJC4VUg_7yeOMw9Mz2SGpvi4TMB8FCD9GcMQ6VfuWrmOPAgH5TDXFaAl83h0uV0X6cL7aX18aEToW4bvi_6WwTRa7O9k32v4RYgV7VCo_CP1V_sTPXOnyp96yO8VIrIZjw4qRbbnGmWl26v-0YoUXnOfHG5CKKcWEcMKqCEMyjfwdH9ab8FJINuBc7ePIopUvUTVJGSroRAUJFUeUlSvXsL3MZpRWG4Sniuw4BP10EJlfqon5w23pxHArLhVIm0p3Izcm4Qi5p1DOLHQusL3J9Fqy_HjVjKp-BsAiu7oCRa2gUo4-2lsY1BiY-ivky8rgI29RHZ-reM1FTMNpNj6iriX1iqUuEnQl4Hc-cQpuD0uDiyYJHzbMSJtQ=) and [Blessed Forever Banzhai Bingcha](https://inpursuitoftea.com/_t/c/v3/AAB3ISArGDEkGxL0rgqZydRJZgG-ND4XSs4HlaQKBH8N6xuWueqhNFzDUQxhEijY3G4C7ZeDWSTXJikgDBzyqoMmjaH45zexS6WdvW4VwLxxm-QdLzbGcMElyIpWdPSDSY-Ue1cxN3E5WlmlNvu00SMKyiTP7R65Z-1ypviWwG3LCESn21gyW0PcFoxT-YsK-Coush4PdfKSW2vLrbvfG5agh8JL9iXJF0hAjyBgHnFJ1UcVtFsoIM3H680ijj1QWHChMXJTUFpAAqeNX0OnCqRhOFtbeVNEwV3bs1KbRvUAcRuydPDkc1nPogbc-8YiDCH3HN7ATEMKSPELuAnCjkNtfDcNwkDxpx3011x78Lek83DsGcqG6cpu_3fDna3fSr70GUbbRpabZFF4ZY26PmfeDBLlTDE_sE2ur5wGjhTmRSZ_wuS65RFEp77-iiba3DlUq4IFFetIuxZvLvSTeWFNfES67k-GecE85GLZL8EwSAtQNu2wWXbfqomJ7KYHesI9PBK_jA==), have aged into drinkable antiques with vivid flavors and distinctive personalities. We're grateful to consider him one of our tea scholars, and a good friend.
+
+While working on IPOT's own pu-erh storage room, Sebastian dug up a transcript of an old conversation he had with Ip about sourcing quality pu-erh and how his industry has changed over the decades. Check out [the IPOT Journal](https://inpursuitoftea.com/_t/c/v3/AADnSZ9WrJmALphKju4--R8XV88kX3hLVW4vqPntqneW2KgbzQoGG4oi1qeWREZH_W30q6WLEYJ1u9l9v7Fg8bfdBjlkHjB7MSDRPrs4JCtzBQlH4XuWvghZT5S7AsnIIl9XKmIr6K36u09zLd0c3w3s4KVYZi1z8quVlEMy1Bqevaaf_Mu0SSBrGJmd4fo1jiEtqUBNA71-xLI7EaZkb0_uRAJ82NV2XTElyX8gKzPnLnvA7LjAwtMGC8hgK_aBVQwsnVRH-hHlBuMcprtnLVJjsbuQYGYRPxLX5lsFE2K3a7xsSBRwi6UStKjp-f8jWMYpSFXHv8Fjhr9goeC6ESiHgJSDzbuszvph6IwqZH9REA_QEeXESNvOQ66eqShGwSHEGxFYpwrs2-O51U1liM532b0t_rnTR2YB1jUu8k4_gvr2jw7F3z8U-pwVaPx4Y3sHXJKdpJtl3H_EbLvVytdckEjM3EDzp6C1bmX15woKllVuDZehapk4eixIyeEFgcKyTixx4o5PWRy3dA==) to get a sense of what work goes into finding and aging tea that stands the test of time.
+
+[
+Read more on our blog
+](https://inpursuitoftea.com/_t/c/v3/AAB5FP9W-BMbIboiHTrBbaIUfs5Rn0Y1fOpwhid7JXb5KWZTTJyoGws3HkPeR7idtKtVLn_d4v986ozUU7d9ZgnEHRCsktjpdkES113EFMXai44u_FGz9-bh6g0ZXgDTNM4j4IY8Fl4q7p4LlFgtehJhHmuvUtdmgyo8uWPwzZpdgOOabq13QVwuNy1a-fqcy-R31rfSFpp8EnlREWZq5Mj2cezDaZhbPI__gZKnN0S4KE94RwYvsH8CXm4ZRoovh2qSGULHFhS36bLJ-FOBmxS5Lk4LVmLTn192W2ogf3WtOsqe4o9-yEUn9VsyoC_B76l1E4aNEa7OIJ0707j3noAgq96Lc-TkH88p4haIb-ygbDRcwpkNuoFSGmRs9APhWgw8auw0wrujPaKNl1Khm6AkPUDKy2EIak9qLTYYutNZBw2p_etCTKT__1zwtn93lhGsixrjHF0eL1SdGR3hSRsZ1OMCW16mZ3MZfOWo1FUEDb2ncFw4mqHiAPRxSBdZVNlFT4aFlN9KmoEx6A==)
+
+Shop the Wing-Chi Ip collection
+
+Enjoy these unique aged teas from LockCha. Each was sourced by Ip and stored in clean, natural conditions in Hong Kong until being shipped to the United States. We store our pu-erh in a [climate-controlled aging room](https://inpursuitoftea.com/_t/c/v3/AAD1LRdK6FevihSAE6FPM6HFMPB0PtvFMjKcAXDUaC3pUMgYLPfOIdJRBBkDKXCs7GsPnQ4_OiFyjk0WRVaa6Fx4g6TSLnZc3M8RwmpRWNz3GPr4-bYTa7_WLCNEUyW5BFJteQTrc5zsFZfzkS2CeUp54_Bv2DWsr-4dAMaqgYQasQmu87svawGuNifTX5CaUts0XBrzwsgj12RjN5KZL1_WDny9lZzXe0mwpwnsnq1MH-2Fho5ZQXO1Ysu_L76dEpo5Ue77GP0VTmH9huxShCo3nr9k1NbQwOJcTn3LyauVKnRJB3E7lQbpCZ7a7RYgz1t9r4ovA1JrMDQUojamMcko0wzWXB5X82qEvNDIWXRAs_cMorJ4-JvTOxC2hk88rEf-PCJEN7pGNbhJLz_cTFx5H_yieEMP4zxO35oiyJIuaclF6MLLy15H6rfTzTfBT98aGxiC8TlpwgxoVVjBsRPG1J-lChWZ4jx9Vc8ifWbGPjnDUDW4LphBhQGKJYfZX4eSs8Ny) of our own design to keep them in prime drinking condition.
+
+This style of tea should be considered an investment: age can add further complexity, and with standard-size bingchas weighing in at about 3/4 lb, the leaves are gradually flaked off to enjoy over a long period of time—plus each drinking session can extend for a dozen or more infusions. Settle in and savor the experience!
+
+ 
+
+ 
+
+[
+
+Blessed Forever Daxue Bingcha
+
+](https://inpursuitoftea.com/_t/c/v3/AAA741lki8VIn-LYlVa86g4IjCYuCWD9JQ0SJQJPDann5l4UmxHMG45z_BGcCIvMhUs_Vri8aVgRu92bQcts9tYc72Rj0Fo94MpTNAAP1uvibCw8qSDYi3rMq__hbUmdIO5Lk12UlGesEwLzpFMwlc4d34-54bxzZcFXgnsjXIlr_Kcl_NKbrlWln9JUYdKZTcEVl5D9zWtMxuZwA5jR3iUPibrD4LElI_5y7awIiaVUWlHKMsrVqNWpeBW6gDB-UuEm8njr2pydJBrjc-ZXPGCSA-iC5H-0jKANRy1OQGns9J5MGpDWuh6qaXmdHKdw2BojWaNxgLZmuKRMx022SQxc5QdQHhe5ZdHnLa77leMK2NupPH_FhkZxOahZCxbciid-Q1WMFF45TL8ZHHULb1YRm0Av4L6BjFVDB_VL5Bwezesg78P2DyXT_7GjYnv3McnwZxaTnflNNZSjaLdkMLtfIoy0fNMkpyS-iNBtP4tEOQkqxVpLne6XxUHHYXA4Xw==)
+
+ 
+
+[
+
+Tsunami Daxue Bingcha
+
+](https://inpursuitoftea.com/_t/c/v3/AAB-YOCDZfDF3wbn25EDz3R2_2jMYgAwXhXgVuA5s0eFVjblzt7IGdv65WnxwRrJVgDdEMHlVDu9B43LZ7mfuJAgd3rzrXD-SDdP9PuqudkzfO2ZvZijCEy6n8F87hSgV7NreIrtjTciz8so4OECfh4366t-_BaoyZs1cZcK_58hzmAZbyXSZ_UL6W2Kk4dSnadQw5oOh0vsklHUH1uqG6NKm6lOtPC7sqctKxRLnQSqyxiV6cVWzRj9vomEjk8-3201vbETH8Fhzyru1n3-n4V0W2N-0P3Jo5WcJASG3YB__hlvTXc-xZVgR68j59kARr3famF2y7ncvSrxG95FznGsGCjRNJ8O7tPDiHzmvWIPlJnvCIlsfxVMBRI0deQ5z5vDibeF1lVzGjVQVy-qnxjs1ZLhsXTXkwtzIrPyqfwZvVfHEp7ZLFu-oqpWxznAan3x_64ZexF4K0KtTFtU-4AZfitgTCSg1eXIprxSr1glx34ORkFt3Nk=)
+
+ 
+
+[
+
+Moon-Shaped Sheng Bingcha
+
+](https://inpursuitoftea.com/_t/c/v3/AAD0U9mbPiT0ly8nc3GvTqcLsljg1cZrFjQYx9Kyju6zoQ46VyUPF_tOXoM5GhCWgh_L6XCAC3ajDCUNlSpx-LGdxQCDQokmw5fz_DZce8T0_8ntIxuDz1EgkuJ1vyAxsbJ6pR2BbUjbwBkTccyQeXY-vrywP2MBuRcBY4182us-ZLWMrTBSxCUMJ9rekFmBNObm61aBSmUBZW-jcpdG5KdPEmXQLSRb3hJrqb34P1vpDSzwwrI3JDziTeR_aESrP8lBN9P7h9zp7TxCwHuAe2lfgyyXhmpOMLMB2iee6dUL7hhDldlBO0aotujNdEdmlYvUC8DezaT6Ov6ZDR8cFgWQMtWGPssZWS0VG_l-YEMR9hbOK5SxGhWn_EB85cgAyckV7RK8ueSEfdvfuKbmzrmYFeK22x_1p9-JLTSamX8jmbB9w8SirT0qHF3PQNu9ms3aediB73ZlDOvaRnIdZCO-GFhJB5nGJ_BpATvu71yq1RLIUo7ySb6Ue2uz)
+
+ 
+
+[
+
+Blessed Forever Banzhai Bingcha
+
+](https://inpursuitoftea.com/_t/c/v3/AACTLttAEoJSzS_aGQ-csY1TNAD5eV3OGHw8dUbZcs7D49KCpQl5ZIUc7K2hTEcCVaWuZDZj04-yrye-jGIa75x51_hCYOYhwz-pCkYJxEqjuuyS30Vduh3M7L36UzqG4zSv4ZvQwO-MCl5qfPz9FHWuNfbKq9r0GigWY12DV6Ol49lyizZtJIjCAVHzsUHHQ6CALPeyLaAqkF4FFtrrvEk9e-Z6qJMjPH6XJEAjW5rUf0CJtVSU0gZJHfolln0A_dwQ7g0OWULDeuOPMhrWsrlZqS-eJ-mBtLY7M0LzWJ_xqMznWlyvEm1mzI0tXa47nvuoolGDaUacO9nfsRW-5y2hhh2NfszS0rVR6fTKGCB7IPGdnymFru_FuPaRuMwgW2SvRYr9AwX6AdHcpc5MZ9RgUb_ndJ_cl8rJjrM8fZwrpqaqJF1JltfJh4RVeziuFSjcC-P4wiCcxAyb4E-4-Tu4aJ4jaanra8y5bFYbJXhg3Hffkdz8eW_jKW8LuL75PUaieDaVgg==)
+
+ 
+
+[
+
+Yi Chang Hao Tuocha
+
+](https://inpursuitoftea.com/_t/c/v3/AABlj-WHtBnZRtK8YZoXLBH6AbkMTtPDMM5S1rzF9bsCcqPbifm6J-Fe40-q02PxlPKexZXe1pm-HalqgDjxWE5Y1ZQ1D-4URJK_YtEGGlTnZ3RgtgS9iTwXS_OgaesUNI3AkC5uW8q3Q8FziCuYi7J8hftbX0wlr11puDIRCS06OazMg9MNctuuV-Qf-6mRIqBmE2K30PSI7wAJWoWzSiOYzQ0QNplE-uIwYn2KXLCJYGz1MfkfMrsPj4JyeGKAN-P-TbzRXGcd6N3u7Bh6SGqxSS1kHzz03srPUFfaWmBi7DhGr_V3x0z2gmZ11Rr98ZTbGbeJI8kAlj5L793xsvoBzdTlv9QnYMeqPoW42CRnOR4yr934-k4IXkfTVGosaalaIJXvpZjaY0c316VHQMJlMzdVR7Cal4X7q2T0I9Zc6bMmUcKUxVbm2UFjGZ12pbK4j6YeXL-xsKpEuw9aMnjnO8UCc56uUYDetiN9I4yW3cb58Dkpe9n4nBIC)
+
+ 
+
+[
+
+Lotus Tuocha
+
+](https://inpursuitoftea.com/_t/c/v3/AAAzuLg3pDE69sxhwNXmL6Ga2G1HiHGMOA0PtbawiZ3zfTF75hU6YGrbPhQIzmNE6U_uFCB9M0_CVHPkUlYR9-0kbnLS46OBwmOJJLVnQU2XNnPQMWSv6QI1l_ZeebtsM2F-G_YIytTafk2zBXs_tK3tF5UlbOhnClOPxXxsKyKjQjX4WwBGoWOJgRknRMwFbbjwYEhHE6EIWRgUOTH_V6CYOyDvDJo-zU4mzsiy4q65J4_Z4er8S8Wi88P3Kkdeu_5rIR4TOwCQkfN6FH_lPb-qj6QIV2yRiN2ZQA2M1MoyZykMskqDcm2Z80BBrq28SkKkB5C7KKBiBFWF_tusXeN4691zyk2OFS9jC5au0TyrLJKTldf0Nw_P7Y6tjn0fHRc9XRpv6SwmHi3fm_MNtu_P5RKvjl3EwDfvECGUeTWmrwOVdoX8YxENIFWR1LQbk2fyqyBwC-_4fTBty0SSZwH13GvZIf6CDcEB9zll7jY=)
+
+ 
+
+[
+
+Purple Tips Brick
+
+](https://inpursuitoftea.com/_t/c/v3/AABzUCQzGRjrioULqDgSjqc-Mo_KGIL3cd3uwOX_4ZPjIjuFAk6itdWJXSwsHtnQR3GolrVRZUak4LTLW6pOYvpt1IVW58TqwXanqWt5CngqV36l4cUDjP1f0lEUOOaoJHRwhsFwedPlWCR8IJcpp86QJXtSYmjIDilYmkivcfEAQDDAOAjCTXPMozt3Pxd7WUCU65TAa6DOMgbObtcqnSKy7DQzRpW7c34AdYVX9iawWnRfyv6xpYPev0KcfAKxu66yTK8DVO8KMBp6h7P2Do0sPcp0Uof84eELdOPnm5V2ZGTMQodUjdQQ4wCmehvMLKITGi-hTPNQeKxswgq21-vjsUqwOPH34ui9pKLM6sqZLXNRBYov8BhLPjhSwV4O50SmbnVf36O8YMcmFNhyBiGvKh2sNvhaFOsmdEpPBqKQmT6SV-k04dQ9jnBNbDheQ6nXkblQtA0wCZmT6VvnQEOf4gPKJ9zOcF6JUtwbw1lyf3BrUw==)
+
+ 
+
+[
+☕️ Explore all of our pu-erh teas ☕️
+](https://inpursuitoftea.com/_t/c/v3/AAA8CevSNG_EvghtOpU-bouFNVy-6Yp9ykfl-buzkuxNwP8gXA_6_AEjF_oZ2hlUzexymikNsatbVdlJNFi7iTLQR29VY0XDe-x5wfHlDtaHudRfE6RxMvryu8qzTA3g687q6ZUNpqfzT890BTWGofGu28W04BfuK6Xot5M085G5LOxk7r75p08ScMXlHlHKgeyn9UM_q9t40pQX7Wq0MInoT8oXJTnShtayUFhNNTjHA0NGBBuddu0phy-Bkpk-JR5yLPiyBN2p6c5CzZPZUEJpQohYtvEMNJ1kyIXZAchlO3UX2pvqsJ5ngAlZ1p2QP3ZEYAK1bAnSezmgL_Gvv72Qb6VMOGZ8-gCqLWRoUEZFdEhko3IRw8ToWqwUxdBejMJnMNiNA9hM6nHyWvde3TDNs4i4gZE2GjewMtGepCQ4CHZa97TVZxyXe6wZgqIbh-01M7MTxByGSv1O-1wMsgGpIVRb4XEyqiIk_fXWQ_gG)
+
+In Pursuit of Tea
+
+910 Main StreetWakefield MA 01880United States
+
+[860-672-4768](tel:860-672-4768)
+
+[
+info@inpursuitoftea.com
+](mailto:info@inpursuitoftea.com)
+
+No longer want to receive these emails?
+
+[
+Unsubscribe
+](https://inpursuitoftea.com/account/unsubscribe?token=JZ07qN2X1HfCKmyQJzuAzURWchVnQbP1GiVJHzB6HkuaANGff7SrU-873-9EjCDQAmsUC76_HHTVwyVXRDZf-V7XXgWlP-A5N7PCWvryJZjgGnlaDfFmjt2ssbeI0x0Rb1_Yomzt3ity0CuEL_EsDQ%3D%3D&se_activity_id=167695843551&utm_source=shopify_email&utm_medium=email&utm_campaign=Our+pu-erh+tea-cher_167695843551)
+
+© 2026
+In Pursuit of Tea

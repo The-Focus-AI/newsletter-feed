@@ -7,6 +7,9 @@ A system for downloading, organizing, and processing newsletter emails from Gmai
 ### Sync Newsletters (Full Workflow)
 When asked to "sync newsletters" or "update newsletters", run this complete workflow:
 
+0. **Load required skills first**
+   Before running any scripts, invoke the `/gmail` skill to ensure the google-skill plugin is loaded and dependencies are installed. This guarantees the Gmail API is available for the download script.
+
 1. **Download new emails**
    ```bash
    npx tsx scripts/download-emails.ts --days=7 --max=200

@@ -1,0 +1,26 @@
+---
+id: 19bcc5b158f6418a
+newsletter: semianalysis
+newsletter_name: "SemiAnalysis"
+category: tech-ai
+subject: "Your gift subscription ends tomorrow."
+date: Sat, 17 Jan 2026 14:27:59 +0000
+---
+
+# Your gift subscription ends tomorrow.
+
+**From:** SemiAnalysis <semianalysis@substack.com>
+**Date:** Sat, 17 Jan 2026 14:27:59 +0000
+
+---
+
+Your gift subscription for [SemiAnalysis](https://email.mg-d0.substack.com/c/eJxskLGSgyAQhp9GujiwEpGC4pq8hrPAapgIOoDn-fY35poUV-_s_33zOaw0r_k0c5jqjX62kM9bWmtwxLzpO5zunpERqh_6nnOlGUUMyzhTooyV_Ij14zqojj2NhqkXEjV4tKrTXjprvXAwkHfOImfBAIeeC6GEBHXXbdc6EKiVBq6cVb3yLT_CEc9JNJLH-eZ5W3ZbKrpX69bIQhmnTG8XU_NObDHPWrfSdF8NPBp4JDrKQrVSbgvFgAmXs4RyPTfwYNtuR7fGuKdQz5ES2oX839K22yU4rGFNY7gaSC01sGyO4p6UXo3k88V9e5Td-jViSOaTwup_PfdC-VqEezcICezbwG8AAAD__-Tof-0) is almost over.
+
+If you'd like to continue subscribing, just tap the link below:
+
+[Continue subscribing](https://email.mg-d0.substack.com/c/eJxskl9vmzAUxT8NvAUZY_498BA1jUaWP2ubps1ekDEXcgGbyDZLyaefkm1SpfXZx-cend8R3EIz6ClrsLYz-DijnmZqsCjArbIo4HVYuZD5cZREESFx6oLk2BcNKNDcQlVw--k1iQP3lMVxIlKSQhKypOZJGUJCOatoXZZJGbHaxYwSGhHfj31G4zD1Ak9Qn6dxSkksyjiKK49c8CKn2ncYkc2sIp4ZS2O56DwxSBdNUWu4Z8msHsHts5O1Z-MEc4cuHbpUcDE9WAvaMyCRK95PBs3ts0OXNy-hsQQnWNqhA-UEC5hWvqCH6Z32Xd4O03a_YZv907R-WJ2P70-4ax-DbdvQbTu_bK-dyeWBiYc82uxFsNnn_qadB7uXC_L37TVvBxTfDrjeH6_bRUd2-xzXD6tr9ZbjDldtSUPC30L_58sq9SI4vm7Cw-774xv5IXTInxf643XOjqdDtBba-M_kSVQh--heHRqNVhaCyzPH5p76VsFMDMqiGsGhkXaChY9QT3-1Eioc5T_l_wZfgD-PZSEGKUeFdipA8bKH6k_N57HsUXCLgyrwNhCWspS6OrsYcQLVOYw0tzt3SGYsq0FyVNlnBK79amyjAX1zpGGQ-Iy6vzL6OwAA__89YeAr)
+
+If you’d like to pay it forward, you can also [buy a gift for somebody else](https://email.mg-d0.substack.com/c/eJxskl9vmzAUxT8NvAVhAwYeeIiaRiPLn7VN02YvyNg35AKGyDZLyaefyDap0vp8dc49OucnuIWq12NW4cnO4OOCepx1vUUBrsxYwE-RdCEjMUsY8_04dUFxbIsKOtDcgiy4_XRN4sA9Z-VJxhEDGZeUioQFkoQkTZKEsZiVVBAXM-pT5hMSk5DGUeoFnqCEp3FK_ViUMYul51_xqsYTcUJfVTPpe2YojeWi8USvXDTFScM9S2b1AG6bna29GCeYO3Tp0GUHV9OCtaA9Awp5x9vRoJnEDl1OXkJjCU6wtH0DnRMsYFwRQQ_jO22bvO7H7X4TbvZP4_phdTm-P-Gufgy2dUW39fy6vTUmV4dQPORssxfBZp-TTT0Pdi9X5O_bW173KL4dcL0_3raLxt_tc1w_rG7yLccdruqSRj5_i8jPl1XqMTi-bqLD7vvjm_9D6Ig_L_TH6zw8ng9sLbQhz_6TkFH40bw6lA1WFYKrC8fqnnqqYCb6zmI3gEOZdoIFQTiNDmXTqE6wmAr6q1QgcVD_dP_bfYHBZSgL0Ss1dGjHAjpetiD_lH4ZyhYFt9h3BU64hGmYUldnVyPO0DVO6FfTn_tkZihlrzh22edBXPsVeoMBPTnSKEhISN1fGf0dAAD___NP5CU).
+
+© 2026 Dylan Patel
+548 Market Street PMB 72296, San Francisco, CA 94104

@@ -1,136 +1,150 @@
-# Week 03 Culture Newsletter Analysis
-## January 12-17, 2026
+# Week 03 Culture Newsletter Analysis (January 13-17, 2026)
 
 ## Overview
-A week dominated by two intertwined concerns: the ICE raids in Minneapolis generating widespread coverage and commentary across multiple newsletters, and the ongoing cultural reckoning with technology's role in our lives, from AI in education to social media's effects on youth. Alongside these urgent matters, the newsletters delivered thoughtful meditations on photojournalism ethics, the nature of "congruence" in personality, speculative fiction about economic dystopia, and the quiet pleasures of opera, poetry, and skiing.
 
-## Sources Analyzed
+This week's culture newsletters converged on several urgent themes: the ongoing debate about social media's harm to adolescents, the intersection of technology and human embodiment, the specter of state violence and ICE raids in Minneapolis, and reflections on authenticity in the age of AI. [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16) continued its campaign for social media age limits, while [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email) offered a nuanced exploration of how technology shapes our bodies and relationships. Meanwhile, [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) and [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd) both featured reportage on the Trump administration's immigration raids, and [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) grappled with AI's encroachment on academic integrity.
 
-| Newsletter | Articles This Week | Key Focus |
-|------------|-------------------|-----------|
-| [The Browser](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd) | 7 | Curated long-form articles on Iran, homelessness, WASPs, congruence, mastery, and ICE |
-| [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) | 6 | Original essays on Twitter addiction, speculative fiction, photojournalism ethics, AI in education, poetry |
-| [Kottke.org](https://kottke.org) | 3 | Link curation spanning archaeology, media criticism, science, and current events |
-| [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email) | 5 | Interviews and community threads on digital bodies, self-knowledge systems |
-| [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16) | 2 | Jon Haidt on social media age limits and evidence of harm |
-| [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) | 2 | Tech commentary on "vibe coding" and media criticism |
-| [Met Opera](https://www.metopera.org) | 2 | Performance announcements for I Puritani and Porgy and Bess |
+---
 
-## Cross-Newsletter Themes
+## Major Topics and Stories
 
-### ICE Raids in Minneapolis
-- **Coverage**: [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122), [Kottke.org](https://kottke.org), [Culture Study](https://open.patreon.com/posts/what-have-self-148137146?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148137146&utm_id=40e538e6-fdc8-420d-bbff-cb47d3ec0289&utm_medium=email), [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil)
-- **Summary**: Multiple newsletters covered the federal immigration enforcement actions in Minneapolis, with each taking a distinct angle. [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd) featured Ryan Broderick's firsthand account of how "brutal state violence and hysterical right-wing internet content work together in lockstep." [Kottke.org](https://kottke.org) linked to a crowd-sourced database of ICE abuses. [Culture Study](https://open.patreon.com/posts/what-have-self-148137146?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148137146&utm_id=40e538e6-fdc8-420d-bbff-cb47d3ec0289&utm_medium=email) opened posts with fundraising calls for affected communities. [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s Ian Williams connected the violence to deeper patterns of authoritarian behavior, referencing Klaus Theweleit's "Male Fantasies."
-- **Notable perspectives**: Rusty Foster at [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil) acknowledged the limits of commentary from afar, noting "I don't have anything useful to add" while amplifying local voices. [Kottke.org](https://kottke.org)'s Jason Kottke called for abolishing ICE outright.
+### 1. Social Media and Youth Mental Health: The Case for Age Limits
 
-### Technology and Human Agency
-- **Coverage**: [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email), [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122), [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town), [After Babel](https://www.afterbabel.com/p/mountains-of-evidence)
-- **Summary**: The week saw sustained engagement with questions about technology's effects on humanity. [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email)'s interview with Vanessa Chang reframed "the digital body" as something we should approach asking whether technology "expands or contracts our horizons." [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s Jide Salawu grappled with AI in the classroom, concluding "to use it ethically is the key. Never to surrender human agency to it." [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) delivered an extensive, skeptical examination of "vibe coding" and AI orchestration tools like Gas Town.
-- **Notable perspectives**: The newsletters diverge on optimism. [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email) sees possibility in design that serves human values. [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) quotes Anthony Moser calling AI "a rude technology" that "deserves a rude response."
+**Coverage:** [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16), [After Babel](https://www.afterbabel.com/p/mountains-of-evidence)
 
-### Social Media's Harms to Youth
-- **Coverage**: [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16), [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
-- **Summary**: Jon Haidt at [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16) published two substantial pieces making the case for 16 as the minimum age for social media accounts, releasing a preview of a World Happiness Report chapter with "seven lines of evidence" of harm. His argument centers on protecting puberty as a "sensitive period" of brain development. [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s Ian Williams took a different angle, focusing on Twitter's AI-generated child abuse imagery problem and the media class's "crippling addiction" that prevents them from leaving the platform.
-- **Notable perspectives**: [After Babel](https://www.afterbabel.com/p/mountains-of-evidence) distinguishes "product safety" questions from "historical trends" questions, arguing the former is more urgent for policy. [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) connects the refusal to leave Twitter to broader patterns of tech addiction leading to "some version of psychosis."
+Jon Haidt's After Babel newsletter published two significant pieces this week making the case that social media is demonstrably unsafe for adolescents. The first argued that Australia's decision to set 16 as the minimum age for social media accounts should become a global standard, emphasizing the biological vulnerability of puberty.
 
-### The Nature of Authenticity and Mastery
-- **Coverage**: [The Browser](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [Flaming Hydra](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
-- **Summary**: [The Browser](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd) featured Sasha Chapin's meditation on "congruence" - rare individuals who "disown none of their experience" and achieve a kind of wholeness. Later in the week, [The Browser](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd) highlighted Tam Hussein's lament about "the death of mastery at the hands of entertainment" via Logan Paul's boxing match with Anthony Joshua. [Flaming Hydra](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s Jonathan Katz reflected on photojournalism's pursuit of recognition through the lens of the disputed authorship of "Napalm Girl," examining how "credit" and "prizes" shape careers and lives.
-- **Notable perspectives**: [Flaming Hydra](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s piece stands out for its self-examination of the "world of The Stringer, whose totems - authorship, credit, and above all, the quest for recognition - were so central to our identities that they were worth risking our lives for."
+> "Half or more of all girls are still in puberty on their 15th birthday, and half or more of all boys are still in puberty on their 16th birthday. This is a major reason why 16 is a much better choice for a minimum age than 15." -- [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16)
 
-## Surprising Insights
+The second piece presented what Haidt calls "mountains of evidence" from seven lines of research, including Meta's own internal studies that were leaked through litigation. The newsletter revealed that Meta conducted its own randomized control trial (Project Mercury) which found that "people who stopped using Facebook for a week reported lower feelings of depression, anxiety, loneliness, and social comparison."
 
-- The em dash is now treated as "an AI tell" by some professors, leading to accusations that student work "might not be fully human" - a development that would have astonished Emily Dickinson. -- [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+The newsletter proposes four features for effective age-limit policies: set the minimum at 16 or higher, make no exceptions for parental consent, focus on account creation rather than content access, and define social media by design features that cause harm.
 
-- Meta conducted its own randomized control trial (Project Mercury) that found "people who stopped using Facebook for a week reported lower feelings of depression, anxiety, loneliness, and social comparison" - then tried to hide the results. -- [After Babel](https://www.afterbabel.com/p/mountains-of-evidence)
+---
 
-- The ratio of words written by Kafka to words written about Kafka is estimated at 1:10,000,000 - "A symbolic punishment for a man who himself claimed to be 'made of literature.'" -- [The Browser](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
+### 2. Technology and the Body: A Philosophical Reckoning
 
-- Gas Town, a new AI code orchestration tool, includes a subsystem where an AI agent named "the Deacon" reminds other AI agents to do their jobs, because they otherwise forget. A "special upper-level Dog" reminds the Deacon to do its job of reminding others. -- [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town)
+**Coverage:** [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email)
 
-- Hummingbird feeders have become "a major evolutionary force" - over just a few generations, Anna's hummingbird beaks "have dramatically changed in size and shape." -- [Kottke.org](https://kottke.org)
+Anne Helen Petersen's Culture Study featured an extensive interview with Dr. Vanessa Chang about her book "The Body Digital." The conversation explored how technologies have always choreographed our bodies -- from keyboards training our hands to smartphones scripting our attention.
 
-- There's a 400-foot-long underwater wall composed of 60 granite monoliths, built 7,000+ years ago, now 30 feet underwater, discovered via lidar. -- [Kottke.org](https://kottke.org)
+> "Technologies have long choreographed our bodies and primed our senses: keyboards train our hands, smartphones script our attention, earbuds filter our soundscapes, and chatbots train us to write and think in new patterns." -- [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email)
 
-- Bari Weiss's CBS Evening News relaunch with Tony Dokoupil lost over a million viewers compared to the same week last year while generating a blooper reel of technical failures. Her stated goal: "We need to be the news for these 10 days." -- [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil)
+Chang offered a compelling framework for evaluating technology: whether it "expands or contracts our horizons" and whether it makes us more curious or reduces us "to what can be measured and predicted." The interview included a fascinating discussion of the Situationists' concept of the "derive" (drift) as a model for reclaiming agency from optimization-driven technology.
 
-## Individual Newsletter Summaries
+---
 
-### [The Browser](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
-- **Key Points**:
-  - Featured Ryan Broderick's firsthand reportage from Minneapolis on how ICE raids become propaganda content
-  - Highlighted Sasha Chapin's essay on "congruence" - rare psychological wholeness
-  - Curated pieces on the Iranian regime's resilience, homelessness in America vs. Mumbai, and the revisionist history of WASPs
-  - Explored the mathematics of Apple's "squircle" design and the origins of knowledge in pain
-  - Covered the decline of mastery via celebrity boxing
-- **Notable Quote**: "If you are highly congruent, you disown none of your experience... Although congruence is a source of endless happiness, the path there can be devastating. You may have to finally give up on experiencing a better past." - Sasha Chapin
-- **Unique Angle**: [The Browser](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd)'s curation spans continents and centuries while maintaining thematic coherence, this week linking questions of authenticity, power structures, and human resilience.
+### 3. AI, Vibe Coding, and the Future of Programming
 
-### [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
-- **Key Points**:
-  - Ian Williams argued forcefully for leaving Twitter, connecting Grok's AI child abuse imagery to broader tech addiction
-  - Nathan Munn published dystopian speculative fiction about "re-homing" - merging multiple consciousnesses into one body to survive economic precarity
-  - Jonathan Katz examined photojournalism ethics through the disputed authorship of "Napalm Girl"
-  - Jide Salawu reflected on AI's disruption of pedagogy while defending human agency in education
-  - Carrie Frye contributed two witch poems touching on loss and transformation
-- **Notable Quote**: "The connective tissue here is simply that the people who run the world cannot, will not, get off Twitter." - Ian Williams
-- **Unique Angle**: [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) delivers consistently original writing that connects immediate crises (ICE, AI, Twitter) to deeper historical and psychological patterns, often through unexpected forms like speculative fiction and poetry.
+**Coverage:** [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town)
 
-### [Kottke.org](https://kottke.org)
-- **Key Points**:
-  - Curated links on the ICE raids, including a crowd-sourced database of abuses
-  - Shared archaeological discoveries (underwater wall, Catalan Atlas, Florentine Codex)
-  - Featured commentary on paywalls, polycrisis psychology, and China's green energy transition
-  - Linked to Gourmet magazine's resurrection as a worker-owned co-op
-  - Covered science stories on hummingbird evolution, starless galaxies, and lensed supernovas
-- **Notable Quote**: "Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. 'ICE acts more like the Gestapo than it does any kind of legitimate law enforcement agency.'"
-- **Unique Angle**: [Kottke.org](https://kottke.org) combines eclectic curiosity with pointed political commentary, ranging from ancient history to urgent present without losing its distinctive voice.
+Rusty Foster's Today in Tabs delivered an in-depth exploration of Steve Yegge's "Gas Town" -- a new development environment for managing multiple AI coding agents. The piece served as a meditation on "vibe coding," the practice of letting AI write code without necessarily reading or understanding it.
 
-### [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email)
-- **Key Points**:
-  - Published an extensive interview with Vanessa Chang on "the digital body" and how technologies choreograph our embodiment
-  - Hosted community threads on self-knowledge systems (tarot, enneagram, astrology)
-  - Opened multiple posts with calls to support Minneapolis communities affected by ICE
-  - Explored the Situationist concept of the "derive" as a model for resisting algorithmic optimization
-- **Notable Quote**: "We are not data. I'm always amused checking my step count after a music festival; the watch can't distinguish steps taken while dancing from steps taken while walking. It quantifies movement but can't understand meaning." - Vanessa Chang
-- **Unique Angle**: [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email) excels at connecting academic theory to lived experience, making concepts like "design justice" and "the extended mind" feel personally relevant.
+> "If vibe coders are trying to level themselves up to engineering manager, Gas Town is trying to skip its users all the way to CEO, with the entire management and workflow structure of a software development company recreated in AI." -- [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town)
 
-### [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16)
-- **Key Points**:
-  - Made the case for 16 as the minimum age for social media, arguing "15 is still puberty"
-  - Released preview of World Happiness Report chapter with seven lines of evidence of social media harm
-  - Documented Meta's internal research, including experiments showing causal harm that the company tried to hide
-  - Argued against parental consent exceptions as they "plunge everyone back into the collective action trap"
-- **Notable Quote**: "Countries around the world ran a giant uncontrolled experiment on their own children in the 2010s by giving them smartphones and social media accounts at young ages. The evidence is in: the experiment has harmed them. It is time to call it off."
-- **Unique Angle**: [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16) provides the most data-dense, policy-focused treatment of tech harms, distinguishing "product safety" from "historical trends" questions in ways useful for legislators.
+Foster positioned himself as an "AI hater," quoting Anthony Moser: "the makers of AI aren't damned by their failures, they're damned by their goals. They want to build a genie to grant them wishes, and their wish is that nobody ever has to make art again."
 
-### [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town)
-- **Key Points**:
-  - Delivered an extensive, skeptical analysis of Steve Yegge's "Gas Town" AI orchestration tool and "vibe coding"
-  - Documented the spectacular failure of Bari Weiss's CBS Evening News relaunch
-  - Covered the University of Austin's devolution into "Joe Lonsdale's Purity of Essence Anticommunist University"
-  - Curated a roundup of AI takes from Robin Sloan, Cory Doctorow, Casey Newton, and others
-  - Addressed ICE raids with restraint, amplifying local voices rather than adding distant commentary
-- **Notable Quote**: "Programming agents get stuck, neglect to perform essential steps, or just run out of context and forget what they were supposed to do... If you've worked in software this might sound familiar, because it's roughly the same experience as assigning tasks to a junior developer."
-- **Unique Angle**: Rusty Foster's irreverent voice and deep software background make [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) uniquely positioned to deflate AI hype while remaining genuinely curious about what these tools can and cannot do.
+---
 
-### [Met Opera](https://www.metopera.org)
-- **Key Points**:
-  - Promoted encore cinema screenings of Bellini's I Puritani
-  - Announced final performances of Porgy and Bess
-- **Notable Quote**: "A new golden age of bel canto singing" - Financial Times on I Puritani
-- **Unique Angle**: [Met Opera](https://www.metopera.org) provides a cultural counterweight to the week's political urgency, offering the enduring pleasures of live performance.
+### 4. ICE Raids and State Violence in Minneapolis
 
-## Patterns and Trends
+**Coverage:** [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [Culture Study](https://open.patreon.com/posts/what-have-self-148137146?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148137146&utm_id=40e538e6-fdc8-420d-bbff-cb47d3ec0289&utm_medium=email), [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil), [Kottke.org](https://kottke.org/26/01/0048163-north-america-kind-of-suc)
 
-This week's culture newsletters collectively suggest several currents in contemporary discourse:
+Multiple newsletters addressed the Trump administration's immigration raids in Minneapolis. The Browser highlighted Ryan Broderick's Garbage Day reporting on how "brutal state violence and hysterical right-wing internet content work together in lockstep," with Substackers and YouTubers given ringside seats to document the operations.
 
-**The tech reckoning deepens but splinters.** While there's broad consensus that something is wrong with our relationship to technology, the prescriptions vary wildly - from [After Babel](https://www.afterbabel.com/p/why-every-country-should-set-16)'s policy focus on age limits, to [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s call to simply leave Twitter, to [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email)'s call for "infrastructures of care" that serve human values. The debate is no longer about whether tech is harmful but about where to direct energy and what solutions are feasible.
+[Culture Study](https://open.patreon.com/posts/what-have-self-148137146?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148137146&utm_id=40e538e6-fdc8-420d-bbff-cb47d3ec0289&utm_medium=email) opened its thread on self-knowledge systems with an acknowledgment of the crisis: "I know it feels weird to have mini-bulletins like this before talking about pop culture or personality tests or WHATEVER but this is what life is like right now: constant compartmentalization and negotiation."
 
-**Economic precarity haunts even speculative fiction.** Nathan Munn's "Welcome Home" in [Flaming Hydra](https://flaminghydra.com/r/b9e0c903?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) imagines people merging consciousnesses to afford survival - a premise that feels less like science fiction than extrapolation. The piece resonates with broader anxieties about housing, healthcare, and the prospect of growing old in a hostile economy.
+[Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil) linked to Winston Hearn's first-hand account from Minnesota, noting that despite "the ongoing risks presented by untrained clowns who will deploy weapons of war against literal children when they get scared," community response has been "so fucking powerful and beautiful."
 
-**Journalism continues examining itself.** [Flaming Hydra](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s Katz reflection on photojournalism's prize culture, the Bari Weiss/CBS disaster in [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil), and ongoing debates about paywalls all point to an industry in existential crisis, uncertain of its economic model, its authority, and its purpose.
+[Kottke.org](https://kottke.org/26/01/0048163-north-america-kind-of-suc) linked to a website documenting ICE abuses in Minnesota (mn-ice-witness.org).
 
-**Local solidarity responds to federal violence.** The ICE coverage revealed a pattern: national commentators acknowledging their limitations while amplifying local voices and fundraising calls. The newsletters modeled a kind of ethical restraint - speaking about what you know, supporting those closer to the ground.
+---
 
-**Poetry and fiction persist.** Amid the urgent commentary, [Flaming Hydra](https://flaminghydra.com/r/82e98546?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s Carrie Frye witch poems and Nathan Munn's speculative fiction offered alternative registers for processing difficult times - a reminder that art remains essential even (especially) when the news is overwhelming.
+### 5. AI in Education and Questions of Authenticity
+
+**Coverage:** [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+
+Jide Salawu's essay in Flaming Hydra grappled with AI's disruption of academic integrity. Writing from his experience teaching at the University of Alberta, Salawu pushed back against AI paranoia while acknowledging the genuine challenges.
+
+> "Em dashes are beautiful; they are the pillar of emphasis in writing. They help put the crown on your phrases. But as Hajra Ghuman says that the em dash is accused, not of bad grammar, but of being an 'AI tell,' with the result that 'some professors and editors now treat this punctuation choice as forbidden fruit.'" -- [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+
+The piece concluded with a call for ethical engagement: "To use it ethically is the key. Never to surrender human agency to it."
+
+---
+
+### 6. Journalism, Attribution, and the Question of Credit
+
+**Coverage:** [Flaming Hydra](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+
+Jonathan M. Katz's essay on Netflix's "The Stringer" documentary offered a deeply personal meditation on photojournalism, credit, and the neocolonial dynamics of international news gathering. The documentary challenges the attribution of the famous "Napalm Girl" photograph to Nick Ut, suggesting the image may have been taken by a Vietnamese stringer named Nguyen Thanh Nghe.
+
+> "The power of a photograph lies in its ability to compress reality into a single moment -- to capture the scattered attention of billions of viewers and concentrate it onto a single point, a laser beam cutting through time. This power doesn't belong to anyone, but the demands of the world we live in mean it has value." -- [Flaming Hydra](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+
+Katz drew on his own experience covering the 2010 Haiti earthquake for the AP, reflecting on the seductive power of prizes and recognition -- and their ultimate arbitrariness.
+
+---
+
+### 7. Bari Weiss and the Collapse of CBS News Relaunch
+
+**Coverage:** [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil)
+
+The Friday edition of Today in Tabs documented the spectacular failure of Bari Weiss's CBS Evening News relaunch with anchor Tony Dokoupil. The "spectacularly expensive" national tour generated "a humiliating blooper reel" and lost over a million viewers compared to the same week last year.
+
+> "'The goal for this road show is not to deliver the news so much as it is to drive the news,' Ms. Weiss wrote in a note obtained by The New York Times. 'We need to be the news for these 10 days.'" -- [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil)
+
+The newsletter also highlighted Politico's reporting on the University of Austin (UATX), revealing internal conflicts at the institution founded by Weiss and others as a free-speech alternative to mainstream universities.
+
+---
+
+### 8. Notable Curated Readings
+
+**Coverage:** [The Browser](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [Kottke.org](https://kottke.org/26/01/0048163-north-america-kind-of-suc)
+
+The Browser's curation highlighted several thought-provoking pieces:
+
+- On psychological congruence: "If you are highly congruent, you disown none of your experience. You accept the stubborn approach of death, the arbitrariness of your fortune, your unimportance on the cosmic timescale, your potential importance for the local environment."
+
+- On the history of scientific methods sections and how financial pressures changed academic publishing
+
+- On medieval pig trials: "A pig eating a child was 'an unbearable inversion of the natural order.' The trial and public execution were seen as a 'surefire way to restore what was broken.'"
+
+- On the death of mastery in boxing: Logan Paul vs. Anthony Joshua as "circus act, not a contest of skill"
+
+[Kottke.org](https://kottke.org/26/01/0048163-north-america-kind-of-suc) featured links on North American elevator costs, the discovery of a starless "almost-galaxy" called Cloud-9, and the worker-owned relaunch of Gourmet magazine after Conde Nast forgot to renew the trademark.
+
+---
+
+## Cross-Newsletter Patterns
+
+**Technology and Human Agency**: Multiple newsletters wrestled with the relationship between technology and human flourishing. [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email) offered philosophical frameworks, [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) explored AI coding tools with skepticism, [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) addressed AI in education, and [After Babel](https://www.afterbabel.com/p/mountains-of-evidence) argued for regulatory intervention to protect youth.
+
+**State Violence and Community Response**: The Minneapolis ICE raids appeared across multiple sources, with newsletters providing both reportage links and personal reflections on how to acknowledge ongoing crises while continuing normal cultural coverage.
+
+**Authenticity and Credit**: Questions of authenticity ran through the week -- from AI-generated writing to disputed photo credits to the manufactured spectacle of the CBS News relaunch.
+
+**Epistemic Uncertainty**: [The Browser](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd) highlighted pieces on "the first type of knowledge to exist on Earth" (consciousness of pain) and the Internet Archive's mission to preserve digital memory. [Culture Study](https://open.patreon.com/posts/what-have-self-148137146?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148137146&utm_id=40e538e6-fdc8-420d-bbff-cb47d3ec0289&utm_medium=email) invited readers to discuss "self-knowledge systems" from astrology to the Enneagram.
+
+---
+
+## Sources
+
+- [Why Every Country Should Set 16 (or Higher) as the Minimum Age for Social Media Accounts](https://www.afterbabel.com/p/why-every-country-should-set-16) -- After Babel
+- [Mountains of Evidence](https://www.afterbabel.com/p/mountains-of-evidence) -- After Babel
+- [A Much More Interesting Way To Think About "The Digital Body"](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email) -- Culture Study
+- [What Have "Self Knowledge" Systems Taught You?](https://open.patreon.com/posts/what-have-self-148137146?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148137146&utm_id=40e538e6-fdc8-420d-bbff-cb47d3ec0289&utm_medium=email) -- Culture Study
+- [Let's Collectively Fantasize About a Family-Friendly Society](https://open.patreon.com/posts/lets-fantasize-148003309?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148003309&utm_id=75fe9e59-ff37-45ae-8404-f5fd64cc4457&utm_medium=email) -- Culture Study
+- [Friday Thread: What Broke Your Shelf?](https://open.patreon.com/posts/friday-thread-148340941?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148340941&utm_id=95177cab-0118-4eac-9802-27b526e0359f&utm_medium=email) -- Culture Study
+- [All Gas Town, No Brakes Town](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) -- Today in Tabs
+- [Thank God It's Whiskey Friday With Tony Dokoupil](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil) -- Today in Tabs
+- [Method, Congruence, Trial, Stack, Cut](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Landfill, Mao, ICE, Whale, Wilson](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Circus, Pain, Archive, Squircle, Mx](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Crane, Magnum, Brass, Kafka, Peshawar](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Top Of The Week: Congruence, Regime, Squircle, Pop, ICE](https://thebrowser.com/r/1c374683?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Close quarters / Toxic triangle](https://flaminghydra.com/r/b9e0c903?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
+- [Fortunate man / Despairing diversion](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
+- [Head room / Showbiz duo](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
+- [Spellbound solitude](https://flaminghydra.com/r/82e98546?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
+- [Kottke.org Posts and Links for January 14, 2026](https://kottke.org/26/01/0048163-north-america-kind-of-suc) -- Kottke.org
+- [Kottke.org Posts and Links for January 16, 2026](https://kottke.org/26/01/0048163-north-america-kind-of-suc) -- Kottke.org
+- [Final Performances! Porgy and Bess](https://www.metopera.org/season/2025-26-season/porgy-and-bess/) -- Met Opera
