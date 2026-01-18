@@ -1,6 +1,6 @@
 ---
 name: "Thorsten Ball"
-category: misc
+category: tech-ai
 email_patterns:
   - thorstenball@substack.com
 ---

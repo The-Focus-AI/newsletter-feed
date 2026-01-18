@@ -1,6 +1,6 @@
 ---
 name: "The Pragmatic Engineer"
-category: tech-ai
+category: business
 email_patterns:
   - pragmaticengineer+deepdives@substack.com
 ---

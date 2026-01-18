@@ -1,6 +1,6 @@
 ---
 name: "Patrick Tanguay (Sentiers)"
-category: uncategorized
+category: culture
 email_patterns:
   - noreply@sentiers.media
 ---

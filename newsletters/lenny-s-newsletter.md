@@ -1,6 +1,6 @@
 ---
 name: "Lenny's Newsletter"
-category: tech-ai
+category: business
 email_patterns:
   - lenny+how-i-ai@substack.com
   - lenny@substack.com

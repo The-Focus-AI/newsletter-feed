@@ -1,6 +1,6 @@
 ---
 name: "Jay Clouse"
-category: science
+category: business
 email_patterns:
   - jay@creatorscience.com
 ---

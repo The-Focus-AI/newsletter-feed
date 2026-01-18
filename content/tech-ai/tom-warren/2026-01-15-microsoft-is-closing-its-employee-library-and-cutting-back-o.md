@@ -2,7 +2,7 @@
 id: 19bc29a518ef29fd
 newsletter: tom-warren
 newsletter_name: "Tom Warren"
-category: personal
+category: tech-ai
 subject: "Microsoft is closing its employee library and cutting back on subscriptions"
 date: Thu, 15 Jan 2026 12:00:22 -0500 (EST)
 source_url: "https://link.theverge.com/view/682e81e54940259f8504291dpxpkd.e81/07330229"

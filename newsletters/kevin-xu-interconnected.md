@@ -1,6 +1,6 @@
 ---
 name: "Kevin Xu @ Interconnected"
-category: uncategorized
+category: business
 email_patterns:
   - kevin@interconnected.blog
 ---

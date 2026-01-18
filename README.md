@@ -32,6 +32,7 @@ See [CLAUDE.md](CLAUDE.md) for workflow documentation and sync instructions.
 - **politics** — Political news, policy, government
 - **culture** — Arts, media, social commentary
 - **books** — Literary reviews, publishing
+- **business** — Entrepreneurship, product management, strategy
 - **philosophy** — Ideas, history, classical thought
 - **science** — Research, health, nature
 - **misc** — General interest, lifestyle

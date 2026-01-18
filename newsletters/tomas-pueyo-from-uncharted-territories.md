@@ -1,6 +1,6 @@
 ---
 name: "Tomas Pueyo from Uncharted Territories"
-category: misc
+category: business
 email_patterns:
   - unchartedterritories@substack.com
 ---
