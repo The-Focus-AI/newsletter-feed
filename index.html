@@ -83,6 +83,22 @@
       border-bottom: 1px solid var(--void);
     }
     .meta a { color: var(--rand-blue); }
+    .meta-row { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; align-items: center; }
+    .meta-links { margin-top: 0.5rem; display: flex; gap: 1rem; flex-wrap: wrap; }
+    .meta-links a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 0.3rem 0.6rem;
+      background: var(--rand-blue);
+      color: white;
+      text-decoration: none;
+      font-size: 10px;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .meta-links a:hover { opacity: 0.9; }
 
     #content { padding: 2rem; line-height: 1.7; }
     #content h1 { font-size: 2rem; font-weight: 900; margin: 1.5rem 0 1rem; }
@@ -182,10 +198,20 @@
 
         // Show metadata
         meta.style.display = 'block';
+        const repoUrl = `https://github.com/${file.owner}/${file.repo}`;
+        const fileUrl = `${repoUrl}/blob/${file.branch}/${file.path}`;
+        const copilotUrl = `https://github.com/copilot?repo=${encodeURIComponent(file.owner + '/' + file.repo)}`;
+
         meta.innerHTML = `
-          <strong>REPO:</strong> <a href="https://github.com/${file.owner}/${file.repo}" target="_blank">${file.owner}/${file.repo}</a> ·
-          <strong>BRANCH:</strong> ${file.branch} ·
-          <strong>PATH:</strong> ${file.path}
+          <div class="meta-row">
+            <span><strong>REPO:</strong> <a href="${repoUrl}" target="_blank">${file.owner}/${file.repo}</a></span>
+            <span><strong>BRANCH:</strong> ${file.branch}</span>
+            <span><strong>PATH:</strong> ${file.path}</span>
+          </div>
+          <div class="meta-links">
+            <a href="${fileUrl}" target="_blank">View on GitHub</a>
+            <a href="${copilotUrl}" target="_blank">Ask Copilot</a>
+          </div>
         `;
 
         // Render markdown
