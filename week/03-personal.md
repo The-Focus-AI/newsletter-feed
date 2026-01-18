@@ -1,90 +1,117 @@
-# Week 03 Personal Newsletter Analysis (January 13-17, 2026)
+# Week 03 Personal Newsletter Analysis (January 12-16, 2026)
 
 ## Overview
 
-This week's personal newsletters were dominated by winter weather coverage from [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42321), which provided daily forecasts and analysis for New England ski conditions. The region transitioned from a "tricky forecast" with mixed precipitation to a sustained cold pattern expected to last through late January. Local community updates came from [Warren General Store](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd) announcing the return of Saturday night dinners, while [Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401) highlighted new PBS Passport programming.
+This week's personal newsletters centered on New England winter weather, website analytics, local community updates, and streaming entertainment. [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) dominated coverage with 8 newsletters tracking the end of the January thaw and return of cold, snowy conditions, while [Plausible Analytics](content/personal/plausible-analytics/2026-01-12-weekly-report-for-thefocus-ai.md) delivered encouraging traffic metrics showing significant growth for thefocus.ai. Local updates came from [Warren General Store](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd) and [Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401).
 
 ---
 
 ## Major Topics and Stories
 
-### 1. New England Winter Weather and Ski Conditions
-**Coverage:** [OpenSnow (Jan 13)](https://opensnow.com/dailysnow/newengland/post/42321), [OpenSnow (Jan 14 - Daily)](https://opensnow.com/dailysnow/newengland/post/42340), [OpenSnow (Jan 14 - East)](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html), [OpenSnow (Jan 15)](https://opensnow.com/dailysnow/newengland/post/42360), [OpenSnow (Jan 16 - Daily)](https://opensnow.com/dailysnow/newengland/post/42372), [OpenSnow (Jan 16 - Winter Update)](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html)
+### 1. New England Winter Weather Returns
 
-The week began with fresh snow from Monday night dropping 1-4 inches across the North Country, with Jay Peak (VT) leading at 4 inches. [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42321) forecasted a more significant event Wednesday night through Thursday with "6+ inch total snows possible in the northern Greens and Whites."
+**Coverage:** [OpenSnow - Winter Returns](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow - BC/Alberta Update](https://lift.opensnow.com/newsletters/east/2026-01-12/index.html), [OpenSnow - More Snow](https://opensnow.com/dailysnow/newengland/post/42321?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow - Tricky Forecast](https://opensnow.com/dailysnow/newengland/post/42340?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow - Turning Colder](https://opensnow.com/dailysnow/newengland/post/42360?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow - Cold Pattern](https://opensnow.com/dailysnow/newengland/post/42372?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
-By Wednesday, meteorologist Dr. Jay Cordeira acknowledged the forecast complexity, describing it as a "tricky forecast" with multiple possible outcomes. He outlined the interplay between a cold front and a developing low pressure system:
+The January thaw officially ended across New England, with winter conditions returning in full force. Dr. Jay Cordeira's daily forecasts tracked multiple rounds of snow throughout the week, though accumulations varied widely by location.
 
-> "Will the storm track farther west, slow down the progression of the cold front with the first player and bring more rain into portions of the coastal plain? Maybe. Will the storm be weaker and/or track farther east, allowing for the cold front with the first player to move through quicker, but with overall less precipitation? Maybe." — [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42340)
+> "The January thaw has come to an end across most of central and northern New England with minimal impact to the high-elevation snowpack across northern Vermont." — [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
-Thursday's post-storm analysis revealed the forecast had "diverged slightly from consensus" with the low pressure tracking farther west than anticipated, resulting in "a little more rain, a little less snow." However, Vermont resorts still reported 2-6 inches, with Sugarbush topping the list at 6 inches.
+Key snowfall totals included 8-10 inches at Jay Peak early in the week, with subsequent storms bringing 2-6 inches across Vermont resorts. The Mt. Mansfield snow stake remained well above average at 63 inches. The week featured "tricky" forecasting conditions with multiple weather systems interacting:
 
-By Friday, [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42372) reported Cannon with 8 inches and confirmed a sustained cold pattern ahead:
+> "Will the storm track farther west, slow down the progression of the cold front with the first player and bring more rain into portions of the coastal plain? Maybe. Will the storm be weaker and/or track farther east, allowing for the cold front with the first player to move through quicker, but with overall less precipitation? Maybe." — [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42340?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
-> "The forecast turns colder over the next two weeks with limited prospects for widespread heavy snowfall. The pattern instead supports plenty of light, scattered, and upslope snow showers." — [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42372)
+Thursday's post-storm analysis revealed the forecast had "diverged slightly from consensus" with the low pressure tracking farther west than anticipated:
 
-The coastal storm hype for Sunday night was walked back significantly: "Chances for a significant event are not zero, but they are much closer to zero than 100%."
+> "The tricky forecast that we were following for New England did, in fact, diverge slightly from consensus. Rain did go over to snow on Wednesday night across the region; however, the low pressure responsible for the rain ended up going farther west than anticipated." — [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42360?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
-### 2. 2025-2026 Winter Season Analysis
-**Coverage:** [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html)
+The extended forecast calls for persistently cold temperatures through the Martin Luther King Jr. holiday weekend and into the following week, with temperatures struggling to reach the teens. While this limits powder prospects, it creates excellent snowmaking conditions.
 
-[OpenSnow's](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html) mid-January seasonal analysis revealed a stark regional divide:
+> "The forecast turns colder over the next two weeks with limited prospects for widespread heavy snowfall. The pattern instead supports plenty of light, scattered, and upslope snow showers." — [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42372?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+
+### 2. Regional Winter Season Assessment
+
+**Coverage:** [OpenSnow Winter Update](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html), [OpenSnow Cold Temperatures](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html)
+
+The broader 2025-2026 winter season has shown stark regional contrasts. While the Western United States has experienced disappointing conditions, Eastern North America and the Canadian Rockies have enjoyed an excellent season.
 
 > "As of mid-January, the winter of 2025-2026 has been a rough one across much of the Western United States. However, it has been an excellent season across the Canadian Rockies and Eastern North America." — [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html)
 
-The newsletter drew comparisons to the 2017-2018 winter and offered insights on what the second half of the season may bring.
+The pattern analysis draws comparisons to the 2017-2018 winter season. Looking ahead, the West is expected to remain dry until around January 20-23, while the East will continue to see cold temperatures with multiple snow opportunities.
 
-### 3. Japan Snow Season Update
-**Coverage:** [OpenSnow (Jan 14)](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html), [OpenSnow (Jan 16)](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html)
+[OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html) also highlighted the Japan powder season, noting "Japanuary is on, and the storms are lining up for the next ten days" with a new Japan Daily Snow forecast launching Monday/Wednesday/Friday.
 
-[OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) launched a new Japan Daily Snow forecast (Monday/Wednesday/Friday) just in time for what they described as "one of the best storm cycles of the season" following "one of the deepest single 24-hour dumps of the season."
+### 3. Website Analytics Growth
 
-> "Japanuary is on, and the storms are lining up for the next ten days... if you were wondering when to pull the trigger for that Japan trip, now is the time." — [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html)
+**Coverage:** [Plausible - thefocus.ai](content/personal/plausible-analytics/2026-01-12-weekly-report-for-thefocus-ai.md), [Plausible - willschenk.com](content/personal/plausible-analytics/2026-01-12-weekly-report-for-willschenk-com.md)
 
-### 4. OpenSnow AI Overview Feature
-**Coverage:** [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html)
+Website traffic showed encouraging growth patterns across both tracked properties. thefocus.ai saw particularly strong performance:
+
+- **231 unique visitors** (+160% week-over-week)
+- **649 pageviews** (+265% week-over-week)
+- **62% bounce rate** (-7%, improved)
+
+Top referrers included LinkedIn (50 visitors), Google (41), Twitter (31), and Bluesky (17). The most popular content was the job posting for a junior fullstack developer (60 visitors) and a post about AI usage in January 2026 (38 visitors).
+
+willschenk.com maintained steady organic traffic with 286 unique visitors (+14%), driven primarily by Google (108) and DuckDuckGo (51). The top-performing content was the "Claude Code in Emacs" howto guide (68 visitors), followed by a piece on turning Aerospace into an application launcher.
+
+### 4. OpenSnow AI and Forecast Features
+
+**Coverage:** [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html), [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
 [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) announced a new AI-powered feature providing written summaries for ski resorts globally:
 
 > "The human forecasters at OpenSnow can't cover all places at all times, so we created written summaries with our forecast data using AI to provide an easy-to-digest overview of what skiers or riders will likely experience on the mountain." — [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html)
 
-### 5. Forecast Verification Transparency
-**Coverage:** [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html)
+Additionally, [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) promoted their PEAKS AI model, describing it as "an AI (machine learning) model that is up to 50% more accurate in mountain terrain" that "learns from past storms and transforms normal weather models into sharper, more location-specific forecasts."
 
-[OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) demonstrated notable forecast transparency by publishing verification of their January 7 five-day snowfall forecast:
+The company also demonstrated notable forecast transparency by publishing verification of their January 7 predictions, acknowledging they "under-forecasted by 19% against the total snowfall."
 
-> "We looked back at the 5-day snow forecast from January 7, 2026, to compare against how much snow fell through January 11, 2025, at popular ski resorts with reliable snow reporting data. The result? We under-forecasted by 19% against the total snowfall." — [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html)
+### 5. Local Community and Entertainment
 
-### 6. Local Community Updates
 **Coverage:** [Warren General Store](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd), [Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401)
 
 [Warren General Store](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd) in Connecticut's Northwest Corner announced the resumption of Saturday Night Dinners, with Boeuf Bourguignon on the menu. They also promoted their online ordering system for breakfast and lunch sandwiches and fresh fish availability (order Thursday for Friday pickup, Friday for Saturday).
 
-[Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401) highlighted new PBS Passport programming including:
-- **All Creatures Great and Small (Season 6)** — James Herriot's veterinary adventures in 1930s Yorkshire
-- **Bookish (Season 1)** — A mystery series set in post-war London featuring a gay bookseller who helps solve murder cases
-- **POV: A Mother Apart** — Documentary following poet Staceyann Chin's journey exploring motherhood and forgiveness
+[Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401) highlighted new PBS Passport streaming content including:
+- **All Creatures Great and Small** Season 6 - James Herriot's veterinary adventures in 1930s Yorkshire
+- **Bookish** Season 1 - Post-war London mystery series featuring a gay bookseller who helps solve murder cases
+- **POV: A Mother Apart** - Documentary following Jamaican-American poet Staceyann Chin's exploration of motherhood and forgiveness
 
 ---
 
 ## Cross-Newsletter Patterns
 
+**Weather Dominance**: [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42372?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) sent 8 newsletters this week (both daily regional forecasts and broader updates), reflecting an active weather pattern worth tracking closely for ski conditions.
+
+**AI Integration in Services**: [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) announced their PEAKS AI forecasting model and new AI Overview feature for resort conditions, while the analytics data from [Plausible](content/personal/plausible-analytics/2026-01-12-weekly-report-for-thefocus-ai.md) showed interest in AI-related content ("How I Use AI Jan 2026" post attracting 38 visitors).
+
 **Regional Focus**: The personal newsletter category this week was heavily oriented toward New England and Connecticut specifically, with weather forecasts, local dining, and regional public broadcasting all centered on the area.
 
-**Winter Lifestyle**: Multiple [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42372) updates emphasized not just snow quantities but the skiing experience — noting when "exposed lifts will be unpleasant" due to cold, tracking snowmaking conditions, and providing practical guidance for planning ski trips.
-
-**AI Integration**: [OpenSnow's](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) announcement of AI-generated resort overviews reflects broader trends in using AI to scale content production while maintaining human expertise for high-value forecasts.
-
 **Forecast Accountability**: [OpenSnow](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) demonstrated a commitment to transparency by publishing forecast verification data, acknowledging where predictions fell short and building trust with readers.
+
+**Traffic Diversity**: thefocus.ai's traffic sources showed meaningful distribution across LinkedIn, Twitter, Google, and Bluesky, suggesting content resonating across professional and tech-focused platforms.
+
+---
+
+## Notable Insights
+
+**Cold Pattern Duration**: The extended forecast suggests below-normal temperatures persisting through at least January 25, with the cold pattern favoring snowmaking over natural snowfall in the coming weeks. Slope-side temperatures at Killington are expected to drop to near or below 0F twice and remain below 20F over the next 15 days.
+
+**Coastal Storm Deflation**: The Sunday night coastal storm hype was walked back significantly: "Chances for a significant event are not zero, but they are much closer to zero than 100%." The best chance for accumulating snow from this system will be on Cape Cod, where there are "exactly zero lift-serviced places to ski."
 
 ---
 
 ## Sources
-- [New England Daily Snow - More snow on the Way](https://opensnow.com/dailysnow/newengland/post/42321) — OpenSnow (Jan 13)
-- [New England Daily Snow - Tricky Forecast for New England](https://opensnow.com/dailysnow/newengland/post/42340) — OpenSnow (Jan 14)
+
+- [New England Daily Snow - Winter Returns](https://opensnow.com/dailysnow/newengland/post/42299?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) — OpenSnow (Jan 12)
+- [Surfy Pow For BC & Alberta, New England Teases](https://lift.opensnow.com/newsletters/east/2026-01-12/index.html) — OpenSnow (Jan 12)
+- [Weekly report for thefocus.ai](content/personal/plausible-analytics/2026-01-12-weekly-report-for-thefocus-ai.md) — Plausible Analytics (Jan 12)
+- [Weekly report for willschenk.com](content/personal/plausible-analytics/2026-01-12-weekly-report-for-willschenk-com.md) — Plausible Analytics (Jan 12)
+- [New England Daily Snow - More snow on the Way](https://opensnow.com/dailysnow/newengland/post/42321?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) — OpenSnow (Jan 13)
+- [New England Daily Snow - Tricky Forecast for New England](https://opensnow.com/dailysnow/newengland/post/42340?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) — OpenSnow (Jan 14)
 - [Cold Temperatures and Snow for the East](https://lift.opensnow.com/newsletters/east/2026-01-14/index.html) — OpenSnow (Jan 14)
-- [New England Daily Snow - Turning Colder](https://opensnow.com/dailysnow/newengland/post/42360) — OpenSnow (Jan 15)
+- [New England Daily Snow - Turning Colder](https://opensnow.com/dailysnow/newengland/post/42360?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) — OpenSnow (Jan 15)
 - [Getting Back to It!](https://mailchi.mp/c6b5f6467ee7/greetings-from-warren-general-5827082?e=09e14693dd) — Warren General Store (Jan 15)
 - [This week with PBS Passport](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=493186&templateId=440401) — Connecticut Public (Jan 15)
-- [New England Daily Snow - Cold, but snow?](https://opensnow.com/dailysnow/newengland/post/42372) — OpenSnow (Jan 16)
+- [New England Daily Snow - Cold, but snow?](https://opensnow.com/dailysnow/newengland/post/42372?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) — OpenSnow (Jan 16)
 - [2025-2026 Winter Update, Long-Range Outlook](https://lift.opensnow.com/newsletters/east/2026-01-16/index.html) — OpenSnow (Jan 16)

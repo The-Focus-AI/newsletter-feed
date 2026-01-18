@@ -1,4 +1,4 @@
-# Week 03 Miscellaneous Newsletter Analysis (January 13-17, 2026)
+# Week 03 Miscellaneous Newsletter Analysis (January 12-17, 2026)
 
 ## Overview
 
@@ -44,6 +44,8 @@ Merchant also provided personal reporting from LA, describing ICE staging at a l
 
 Multiple Free Press editions covered the Maduro capture and Trump's Greenland ambitions, with Matt Pottinger and Roy Eakin arguing "2026 could prove to be the most consequential year in world history since 1989."
 
+[PJ Vogt's Search Engine podcast](https://pjvogt.substack.com/p/the-venezuelan-curse-part-1) launched a multi-part investigation featuring Venezuelan historian Alejandro Velasco, seeking "to understand why a country with so much promise has proven so difficult to govern."
+
 Elliot Ackerman's podcast on Catch-22 in [The Free Press](https://substack.com/redirect/27079505-da1d-4669-bc7a-904a4a591e1d?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) provided timely commentary on war's absurdity, noting that Americans have been "shielded for the past few decades from the true costs of war" through an all-volunteer military and deficit spending.
 
 ### 4. Scott Adams Death and Legacy
@@ -66,7 +68,17 @@ The TGIF column contrasted the New York Times' Adams obituary headline ("whose c
 
 The article notes this could eventually become consumer technology rather than purely medical devices, with co-founder Sumner Norman stating: "We fundamentally believe that restoration and augmentation live on a continuum."
 
-### 6. Style and Culture Philosophy
+### 6. Magnetotherapeutics: A New Paradigm in Cancer Treatment
+
+**Coverage:** [Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine-nonfiction-labs-cancer)
+
+[Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine-nonfiction-labs-cancer) broke news on Nonfiction Labs, developing magnetically-controlled therapeutics that can be switched on or off by external magnetic fields.
+
+> "A magbody therapeutic could circulate for weeks, inert, activating only where and when it's needed. Local activation allows for safely hitting tumor cells at doses that would be lethal if engaged body-wide." -- [Core Memory](https://www.corememory.com/p/exclusive-fridge-magnet-medicine-nonfiction-labs-cancer)
+
+This could represent a paradigm shift in how cancer therapies are delivered, offering precision activation rather than systemic toxicity.
+
+### 7. Style and Culture Philosophy
 
 **Coverage:** [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool), [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/bad-advice)
 
@@ -76,7 +88,7 @@ The article notes this could eventually become consumer technology rather than p
 
 A follow-up piece argued against the common advice to "not care what other people think" about fashion, noting: "Clothes are how we speak to others without actually speaking to them... you can't step outside of clothes."
 
-### 7. Agriculture, History, and Human Origins
+### 8. Agriculture, History, and Human Origins
 
 **Coverage:** [Adjacent Possible](https://adjacentpossible.substack.com/p/the-agrarian-fall)
 
@@ -84,7 +96,7 @@ A follow-up piece argued against the common advice to "not care what other peopl
 
 > "If we were expelled from the Garden, it appears we spent several thousand years loitering by the exit." -- [Steven Johnson](https://adjacentpossible.substack.com/p/the-agrarian-fall)
 
-### 8. Trauma, PTSD, and Military Psychology
+### 9. Trauma, PTSD, and Military Psychology
 
 **Coverage:** [The Whirl of ReOrientation](https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s), [The Whirl of ReOrientation](https://thewhirl.substack.com/p/yuval-neria-ptsd-trauma-equine-psychedelics-ooda)
 
@@ -92,7 +104,7 @@ A follow-up piece argued against the common advice to "not care what other peopl
 
 > "Trauma is the event; the disorder is the emotional charge welded to memory. The job of recovery is to separate the two, restore meaning, and rebuild trust." -- Dr. Yuval Neria, quoted in [The Whirl of ReOrientation](https://thewhirl.substack.com/p/yuval-neria-ptsd-trauma-equine-psychedelics-ooda)
 
-### 9. Technology and Philosophy
+### 10. Technology and Philosophy
 
 **Coverage:** [Contraptions](https://contraptions.venkateshrao.com/p/new-nature), [Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software)
 
@@ -102,7 +114,7 @@ A follow-up piece argued against the common advice to "not care what other peopl
 
 > "People are not fungible... the initial formulation of an organization -- who is in it -- is critical." -- [Ryan Fleury, Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software)
 
-### 10. Personal Essays and Reflections
+### 11. Personal Essays and Reflections
 
 **Coverage:** [Tamara](https://museguided.substack.com/p/the-grace-in-withering), [Molly Young](https://mollyyoung.substack.com/p/little-joys-for-2026), [Erik Davis](https://www.burningshore.com/p/thar-she-blows)
 
@@ -164,4 +176,6 @@ A follow-up piece argued against the common advice to "not care what other peopl
 - [New Nature](https://contraptions.venkateshrao.com/p/new-nature) -- Contraptions
 - [Thar She Blows](https://www.burningshore.com/p/thar-she-blows) -- Erik Davis
 - [5-Bullet Friday](content/misc/tim-ferriss/2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md) -- Tim Ferriss
-- [Daily Digest #1768-1772](content/misc/mailbrew/) -- Mailbrew
+- [The Venezuelan Curse (part 1)](https://pjvogt.substack.com/p/the-venezuelan-curse-part-1) -- PJ Vogt
+- [Fridge Magnet Medicine](https://www.corememory.com/p/exclusive-fridge-magnet-medicine-nonfiction-labs-cancer) -- Core Memory
+- [Daily Digest #1767-1772](content/misc/mailbrew/) -- Mailbrew
