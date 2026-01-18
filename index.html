@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Markdown Viewer</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Courier+Prime&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --paper: #f3f2ea;
+      --void: #1a1a1a;
+      --rand-blue: #0055aa;
+      --alert-red: #d93025;
+      --page-bg: #e8e6df;
+      --surface: #e6e4dc;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--page-bg);
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: var(--paper);
+      border: 1px solid var(--void);
+      box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
+    }
+    header {
+      display: flex;
+      border-bottom: 1px solid var(--void);
+    }
+    .binding {
+      width: 60px;
+      background: var(--rand-blue);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 0;
+    }
+    .binding span {
+      color: white;
+      font-family: 'Courier Prime', monospace;
+      font-size: 10px;
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+      letter-spacing: 0.3em;
+    }
+    .header-content { padding: 1.5rem; flex: 1; }
+    .header-content h1 { font-weight: 900; font-size: 1.5rem; }
+
+    .input-section { padding: 1.5rem; border-bottom: 1px solid var(--void); }
+    .input-section input {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid var(--void);
+      font-family: 'Courier Prime', monospace;
+      font-size: 14px;
+    }
+    .input-section button {
+      margin-top: 0.5rem;
+      background: var(--rand-blue);
+      color: white;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-family: 'Courier Prime', monospace;
+      font-size: 12px;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      cursor: pointer;
+    }
+    .input-section button:hover { opacity: 0.9; }
+
+    .meta {
+      padding: 1rem 1.5rem;
+      background: var(--surface);
+      font-family: 'Courier Prime', monospace;
+      font-size: 12px;
+      border-bottom: 1px solid var(--void);
+    }
+    .meta a { color: var(--rand-blue); }
+
+    #content { padding: 2rem; line-height: 1.7; }
+    #content h1 { font-size: 2rem; font-weight: 900; margin: 1.5rem 0 1rem; }
+    #content h2 { font-size: 1.5rem; font-weight: 900; text-transform: uppercase; margin: 2rem 0 0.5rem; border-bottom: 2px solid var(--void); padding-bottom: 0.5rem; }
+    #content h3 { font-size: 1.2rem; font-weight: 700; margin: 1.5rem 0 0.5rem; }
+    #content p { margin-bottom: 1rem; }
+    #content a { color: var(--rand-blue); text-underline-offset: 4px; }
+    #content blockquote { border-left: 4px solid var(--alert-red); padding-left: 1rem; margin: 1rem 0; }
+    #content code { font-family: 'Courier Prime', monospace; background: var(--surface); padding: 0.2em 0.4em; font-size: 0.9em; }
+    #content pre { background: var(--void); color: var(--paper); padding: 1rem; overflow-x: auto; margin: 1rem 0; }
+    #content pre code { background: none; padding: 0; }
+    #content ul, #content ol { padding-left: 1.5rem; margin-bottom: 1rem; }
+    #content li { margin-bottom: 0.5rem; }
+    #content table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+    #content th, #content td { border: 1px solid var(--void); padding: 0.5rem; text-align: left; }
+    #content th { background: var(--surface); font-family: 'Courier Prime', monospace; font-size: 12px; text-transform: uppercase; }
+    #content img { max-width: 100%; border: 1px solid var(--void); }
+
+    .error { color: var(--alert-red); padding: 2rem; }
+    .loading { padding: 2rem; color: #666; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="binding"><span>FOCUS.AI LABS</span></div>
+      <div class="header-content">
+        <h1>GitHub Markdown Viewer</h1>
+      </div>
+    </header>
+
+    <div class="input-section">
+      <input type="url" id="url-input" placeholder="https://github.com/user/repo/blob/main/README.md">
+      <button onclick="render()">Render</button>
+    </div>
+
+    <div class="meta" id="meta" style="display:none;"></div>
+    <div id="content"></div>
+  </div>
+
+  <script>
+    // Default repo for this project
+    const DEFAULT_REPO = {
+      owner: 'The-Focus-AI',
+      repo: 'newsletter-feed',
+      branch: 'main',
+      path: 'README.md'
+    };
+
+    function parseGitHubUrl(url) {
+      try {
+        const parsed = new URL(url);
+
+        if (parsed.hostname === 'raw.githubusercontent.com') {
+          const [, owner, repo, branch, ...path] = parsed.pathname.split('/');
+          return { owner, repo, branch, path: path.join('/') };
+        }
+
+        if (parsed.hostname === 'github.com') {
+          const [, owner, repo, type, branch, ...path] = parsed.pathname.split('/');
+          if (type === 'blob' || type === 'tree') {
+            return { owner, repo, branch, path: path.join('/') };
+          }
+          if (!type || type === '') {
+            return { owner, repo, branch: 'main', path: 'README.md' };
+          }
+        }
+        return null;
+      } catch { return null; }
+    }
+
+    async function render(file) {
+      const content = document.getElementById('content');
+      const meta = document.getElementById('meta');
+
+      // If no file passed, parse from input
+      if (!file) {
+        const input = document.getElementById('url-input').value.trim();
+        if (!input) return;
+
+        file = parseGitHubUrl(input);
+        if (!file) {
+          content.innerHTML = '<div class="error">Invalid GitHub URL</div>';
+          return;
+        }
+      }
+
+      content.innerHTML = '<div class="loading">Loading...</div>';
+
+      // jsDelivr URL - works client-side, has CORS headers
+      const cdnUrl = `https://cdn.jsdelivr.net/gh/${file.owner}/${file.repo}@${file.branch}/${file.path}`;
+
+      try {
+        const res = await fetch(cdnUrl);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const markdown = await res.text();
+
+        // Show metadata
+        meta.style.display = 'block';
+        meta.innerHTML = `
+          <strong>REPO:</strong> <a href="https://github.com/${file.owner}/${file.repo}" target="_blank">${file.owner}/${file.repo}</a> ·
+          <strong>BRANCH:</strong> ${file.branch} ·
+          <strong>PATH:</strong> ${file.path}
+        `;
+
+        // Render markdown
+        content.innerHTML = marked.parse(markdown);
+      } catch (err) {
+        content.innerHTML = `<div class="error">Failed to fetch: ${err.message}</div>`;
+      }
+    }
+
+    // On load: check URL params, else load default README
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('url')) {
+      document.getElementById('url-input').value = params.get('url');
+      render();
+    } else {
+      // Load this repo's README by default
+      document.getElementById('url-input').value = `https://github.com/${DEFAULT_REPO.owner}/${DEFAULT_REPO.repo}`;
+      render(DEFAULT_REPO);
+    }
+  </script>
+</body>
+</html>
