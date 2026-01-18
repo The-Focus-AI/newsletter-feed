@@ -196,11 +196,11 @@
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const markdown = await res.text();
 
-        // Show metadata
+        // Show metadata and store current file for Copilot button
         meta.style.display = 'block';
         const repoUrl = `https://github.com/${file.owner}/${file.repo}`;
         const fileUrl = `${repoUrl}/blob/${file.branch}/${file.path}`;
-        const copilotUrl = `https://github.com/copilot?repo=${encodeURIComponent(file.owner + '/' + file.repo)}`;
+        window.currentRepoUrl = repoUrl;
 
         meta.innerHTML = `
           <div class="meta-row">
@@ -210,7 +210,7 @@
           </div>
           <div class="meta-links">
             <a href="${fileUrl}" target="_blank">View on GitHub</a>
-            <a href="${copilotUrl}" target="_blank">Ask Copilot</a>
+            <a href="#" onclick="openCopilot(event)">Ask Copilot</a>
           </div>
         `;
 
@@ -223,6 +223,24 @@
 
     // Current file context for resolving relative links
     let currentFile = null;
+
+    // Open Copilot and copy repo URL to clipboard
+    async function openCopilot(e) {
+      e.preventDefault();
+      if (window.currentRepoUrl) {
+        try {
+          await navigator.clipboard.writeText(window.currentRepoUrl);
+          // Brief visual feedback
+          const link = e.target;
+          const originalText = link.textContent;
+          link.textContent = 'URL Copied!';
+          setTimeout(() => { link.textContent = originalText; }, 1500);
+        } catch (err) {
+          console.error('Failed to copy:', err);
+        }
+      }
+      window.open('https://github.com/copilot', '_blank');
+    }
 
     // Resolve a relative path against the current file
     function resolveRelativePath(href, current) {
