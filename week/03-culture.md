@@ -1,8 +1,8 @@
-# Week 03 Culture Newsletter Analysis (January 12-17, 2026)
+# Week 03 Culture Newsletter Analysis (January 12-18, 2026)
 
 ## Overview
 
-This week's culture newsletters converged powerfully on the ICE raids in Minneapolis, with [Kottke.org](https://kottke.org), [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email), [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122), and [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) all addressing the violence and its political ramifications. Beyond the immediate crisis, newsletters explored the ongoing tensions between technology and humanity: AI's disruption of creative work, social media's documented harms to adolescents, and how our digital tools shape our bodies and minds. A week of creative writing ranged from dystopian fiction about economic collapse to witch poetry, while curators surfaced eclectic pieces on medieval pig trials, the Iranian regime, and competitive brass bands.
+This week's culture newsletters converged powerfully on the ICE raids in Minneapolis, with [Kottke.org](https://kottke.org), [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email), [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122), and [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) all addressing the violence and its political ramifications. Beyond the immediate crisis, newsletters explored the ongoing tensions between technology and humanity: AI's disruption of creative work, social media's documented harms to adolescents, and how our digital tools shape our bodies and minds. A week of creative writing ranged from dystopian fiction about economic collapse to witch poetry, while curators surfaced eclectic pieces on medieval pig trials, the Iranian regime, competitive brass bands, and the mathematics of Apple's squircle icons.
 
 ---
 
@@ -23,6 +23,8 @@ The immigration enforcement actions in Minneapolis dominated culture newsletter 
 > "Brutal state violence and hysterical right-wing internet content work together in lockstep." -- [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
 
 [Culture Study](https://open.patreon.com/posts/what-have-self-148137146?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148137146&utm_id=40e538e6-fdc8-420d-bbff-cb47d3ec0289&utm_medium=email) opened with a frank acknowledgment of the moment: "ICE's purpose is surveillance, spectacle, violence, and outright terror." The newsletter provided donation links and noted: "I know it feels weird to have mini-bulletins like this before talking about pop culture or personality tests or WHATEVER but this is what life is like right now: constant compartmentalization and negotiation."
+
+By the week's end, [Culture Study](https://open.patreon.com/posts/introducing-cs-148304237?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148304237&utm_id=7110537a-1e51-4b70-b617-854907855ed5&utm_medium=email) highlighted that hundreds of families in the Twin Cities were unable to leave their homes due to ICE surveillance, directing donations to Neighbors Helping Neighbors for emergency rent assistance. The newsletter also noted that Minneapolis romance bookstore Tropes & Trifles had "opened its doors as a place to rest, recharge, go to the bathroom, and warm up as ICE continues to terrorize the community they call home."
 
 [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil) addressed the raids personally, noting ICE may be coming to Maine next, and quoted reader Winston Hearn from Minnesota:
 
@@ -58,7 +60,9 @@ The second After Babel piece presented "mountains of evidence" from Meta's own i
 
 > "Because the makers of AI aren't damned by their failures, they're damned by their goals. They want to build a genie to grant them wishes, and their wish is that nobody ever has to make art again." -- [Anthony Moser, via Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town)
 
-Yet the newsletter also engages seriously with Paul Ford's experiments and Casey Newton's Claude Code projects, noting the irreplaceable role of "taste" in directing AI tools.
+Yet the newsletter also engages seriously with Paul Ford's experiments and Casey Newton's Claude Code projects, noting the irreplaceable role of "taste" in directing AI tools. Friday's edition cited Struan Donald's counterargument:
+
+> "For me the act of making a thing is partly about noticing. If you are taking a photo it is because something has caught your attention, and in order for that to happen you have to be paying attention. Writing is the same." -- [Struan Donald, via Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil)
 
 [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)'s Jide Salawu wrote from the classroom about AI's disruption to education and creative work:
 
@@ -124,7 +128,7 @@ The newsletter also highlighted Politico's reporting on the University of Austin
 
 ### 8. The Browser's Eclectic Curation
 
-**Coverage:** [The Browser](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
+**Coverage:** [The Browser](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/80059d84?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
 
 [The Browser](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd) delivered its characteristic range of curated reading this week:
 
@@ -135,6 +139,18 @@ The newsletter also highlighted Politico's reporting on the University of Austin
 - On mastery vs. entertainment: "Logan Paul, a YouTuber, should not be boxing against Anthony Joshua... such a fight shows that in many spheres we are living through the death of mastery at the hands of entertainment."
 - On psychological congruence: "If you are highly congruent, you disown none of your experience. You accept the stubborn approach of death, the arbitrariness of your fortune, your unimportance on the cosmic timescale."
 - On crane conservation: If endangered crane chicks are to survive release, "aviculturists don an elaborate costume with a bird's head puppet on one arm and a 'wing' on the other."
+
+[The Browser](https://thebrowser.com/r/80059d84?m=870013e5-9af6-40f5-bf0e-51ce412162bd)'s Sunday Supplement revisited pieces from 8 years prior, including Kevin Laland's "Evolution Unleashed" on how evolution is more complicated than Darwin imagined, and John Bull's account of breaking the Zimmerman Telegram in World War One.
+
+---
+
+### 9. Community and Connection
+
+**Coverage:** [Culture Study](https://open.patreon.com/posts/introducing-cs-148304237?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148304237&utm_id=7110537a-1e51-4b70-b617-854907855ed5&utm_medium=email), [In Pursuit of Tea](content/culture/in-pursuit-of-tea/2026-01-17-our-pu-erh-tea-cher.md)
+
+[Culture Study](https://open.patreon.com/posts/introducing-cs-148304237?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148304237&utm_id=7110537a-1e51-4b70-b617-854907855ed5&utm_medium=email) launched a romance book club, noting that "Romance lowers the bar. I don't mean that romance is lower quality; I mean that the books are far less likely to feel like a slog." The newsletter has been seeking new formats for reader community for years, and landed on the chat-room model with spoiler tags.
+
+[In Pursuit of Tea](content/culture/in-pursuit-of-tea/2026-01-17-our-pu-erh-tea-cher.md) offered a quieter meditation on expertise and aging through their profile of Wing-Chi Ip, a pu-erh tea expert whose sourcing philosophy represents decades of accumulated knowledge: "This style of tea should be considered an investment: age can add further complexity."
 
 ---
 
@@ -147,6 +163,8 @@ The newsletter also highlighted Politico's reporting on the University of Austin
 **3. The Value of Attention and Craft:** Against AI slop and algorithmic curation, multiple writers advocated for slow, deliberate, human attention. Struan Donald, quoted in [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil): "The act of making a thing is partly about noticing... you have to be paying attention."
 
 **4. Economic Precarity as Backdrop:** From speculative fiction about merging bodies to reduce costs, to discussions of journalist stringers vs. staff, to the crisis in journalism funding, economic anxiety permeated the week's cultural commentary.
+
+**5. Community as Refuge:** The Minneapolis crisis prompted newsletters to highlight community resources and mutual aid, from [Culture Study](https://open.patreon.com/posts/introducing-cs-148304237?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148304237&utm_id=7110537a-1e51-4b70-b617-854907855ed5&utm_medium=email)'s spotlight on Tropes & Trifles bookstore serving as shelter, to the launch of new reader community spaces. In a fragmenting media landscape, newsletters are becoming sites of connection.
 
 ---
 
@@ -185,6 +203,7 @@ On vibe coding:
 - [Circus, Pain, Archive, Squircle, Mx](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
 - [Crane, Magnum, Brass, Kafka, Peshawar](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
 - [Top Of The Week: Congruence, Regime, Squircle, Pop, ICE](https://thebrowser.com/r/1c374683?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [The Sunday Supplement: Evolution and Code Breaking](https://thebrowser.com/r/80059d84?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
 - [See no evil](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
 - [Close quarters / Toxic triangle](https://flaminghydra.com/r/b9e0c903?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
 - [Fortunate man / Despairing diversion](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
@@ -198,6 +217,8 @@ On vibe coding:
 - [Let's Collectively Fantasize About a Family-Friendly Society](https://open.patreon.com/posts/lets-fantasize-148003309?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148003309&utm_id=75fe9e59-ff37-45ae-8404-f5fd64cc4457&utm_medium=email) -- Culture Study
 - [A Much More Interesting Way To Think About The Digital Body](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email) -- Culture Study
 - [Friday Thread: What Broke Your Shelf?](https://open.patreon.com/posts/friday-thread-148340941?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148340941&utm_id=95177cab-0118-4eac-9802-27b526e0359f&utm_medium=email) -- Culture Study
+- [Bye Week](https://open.patreon.com/posts/bye-week-148384138?utm_campaign=patron_engagement&utm_source=post_link&post_id=148384138&utm_id=d7fd4c68-b040-4f42-832f-ef220069648a&utm_medium=email) -- Culture Study
+- [Introducing: THE CS ROMANCE BOOK CLUB](https://open.patreon.com/posts/introducing-cs-148304237?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148304237&utm_id=7110537a-1e51-4b70-b617-854907855ed5&utm_medium=email) -- Culture Study
 - [All Gas Town, No Brakes Town](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) -- Today in Tabs
 - [Thank God It's Whiskey Friday With Tony Dokoupil](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil) -- Today in Tabs
 - [Our pu-erh tea-cher](content/culture/in-pursuit-of-tea/2026-01-17-our-pu-erh-tea-cher.md) -- In Pursuit of Tea

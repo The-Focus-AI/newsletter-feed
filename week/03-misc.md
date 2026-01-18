@@ -1,4 +1,4 @@
-# Week 03 Miscellaneous Newsletter Analysis (January 12-17, 2026)
+# Week 03 Miscellaneous Newsletter Analysis (January 12-18, 2026)
 
 ## Overview
 
@@ -114,7 +114,23 @@ A follow-up piece argued against the common advice to "not care what other peopl
 
 > "People are not fungible... the initial formulation of an organization -- who is in it -- is critical." -- [Ryan Fleury, Digital Grove](https://www.rfleury.com/p/the-magic-of-the-better-software)
 
-### 11. Personal Essays and Reflections
+### 11. The Future of Code: AI Agents and the Death of Software Development
+
+**Coverage:** [Joy & Curiosity](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85), [Mailbrew](content/misc/mailbrew/2026-01-18-daily-digest-1773.md)
+
+[Thorsten Ball's Joy & Curiosity #70](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85) delivered the week's most provocative meditation on what AI agents mean for code itself. Ball describes building a Rust program to automate email responses, only to realize the program could be replaced by instructions in a Markdown file for an AI agent.
+
+> "No code, only Markdown. Yes, not every codebase can be turned into instructions for an agent, and yes, it's inefficient and costs money. But, directionally, there are quite a few things that can be deconstructed into simply an agent with the right instructions and tools, are there not?" -- [Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85)
+
+Ball highlights Cursor's extraordinary announcement: they had agents write a web browser from scratch, running for close to a week and producing over 1 million lines of code across 1,000 files. Michael Truell elaborated that it's actually 3M+ lines with a from-scratch rendering engine in Rust including HTML parsing, CSS cascade, layout, and a custom JavaScript VM.
+
+> "The Death of Software Development: While software development as we know it is dead, software engineering is alive and well. The role has transformed. Engineers are no longer writing software -- they're designing higher-order systems." -- quoted in [Joy & Curiosity](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85)
+
+Ball also noted that antirez (creator of Redis) is encouraging developers to not "fall into the anti-AI hype," while Linus Torvalds used Antigravity to help fix his audio visualization tool, commenting: "Is this much better than I could do by hand? Sure is."
+
+The week also saw significant tech news in [Mailbrew](content/misc/mailbrew/2026-01-17-daily-digest-1772.md) including Cloudflare's acquisition of Astro and coverage of Erdos 281 being solved with ChatGPT 5.2 Pro, plus Apple's reported selection of Google's Gemini to power AI-enhanced Siri.
+
+### 12. Personal Essays and Reflections
 
 **Coverage:** [Tamara](https://museguided.substack.com/p/the-grace-in-withering), [Molly Young](https://mollyyoung.substack.com/p/little-joys-for-2026), [Erik Davis](https://www.burningshore.com/p/thar-she-blows)
 
@@ -178,4 +194,5 @@ A follow-up piece argued against the common advice to "not care what other peopl
 - [5-Bullet Friday](content/misc/tim-ferriss/2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md) -- Tim Ferriss
 - [The Venezuelan Curse (part 1)](https://pjvogt.substack.com/p/the-venezuelan-curse-part-1) -- PJ Vogt
 - [Fridge Magnet Medicine](https://www.corememory.com/p/exclusive-fridge-magnet-medicine-nonfiction-labs-cancer) -- Core Memory
-- [Daily Digest #1767-1772](content/misc/mailbrew/) -- Mailbrew
+- [Joy & Curiosity #70](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85) -- Thorsten Ball
+- [Daily Digest #1767-1773](content/misc/mailbrew/) -- Mailbrew

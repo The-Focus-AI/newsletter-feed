@@ -2,7 +2,7 @@
 
 ## Overview
 
-This week's science coverage comes from a single source: [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc), Casey Johnston's newsletter on fitness, nutrition, and physical health. The focus is squarely on nutritional science and supplement industry practices, specifically exposing the "protein inflation" phenomenon where manufacturers pad nutrition labels with nutritionally useless collagen.
+This week's science-adjacent newsletters covered two distinct domains: nutrition science and creator business strategy. [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) delivered an in-depth investigation into "protein inflation" and the collagen supplement scam, while [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md) explored productivity planning and self-publishing economics for creators.
 
 ---
 
@@ -12,7 +12,7 @@ This week's science coverage comes from a single source: [She's A Beast](https:/
 
 **Coverage:** [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
-Johnston delivers a detailed scientific breakdown of how supplement and food manufacturers exploit a labeling loophole to inflate protein claims. The key insight: collagen, while technically countable as protein on nutrition labels, provides almost no useful nutritional value for muscle building.
+Casey Johnston delivers a detailed scientific breakdown of how supplement and food manufacturers exploit a labeling loophole to inflate protein claims. The key insight: collagen, while technically countable as protein on nutrition labels, provides almost no useful nutritional value for muscle building.
 
 The piece explains the science using an accessible analogy:
 
@@ -42,24 +42,52 @@ Her practical advice for navigating the unregulated supplement landscape:
 
 The newsletter touches on broader institutional failures, noting that "the government has stopped caring and no longer collects information" about economics, food, health, and jobs. Johnston also comments skeptically on the 2025 US dietary guidelines, suggesting that in "a completely deregulated country" the best approach may be to "all just ignore it and move on."
 
+### 4. The Self-Publishing Advantage
+
+**Coverage:** [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md)
+
+Jay Clouse featured an interview with Paul Millerd, author of "The Pathless Path," who turned down a $200,000 book deal from Penguin to self-publish. The decision has paid off: Millerd has earned $325,000 in royalties to date, and recently released an ultra-premium hardcover edition.
+
+The episode explores the economics and psychology of traditional vs. self-publishing, covering:
+- The "dark side" of traditional publishing
+- What kind of deal would have been worth taking
+- When traditional publishing actually makes sense
+
+### 5. Productivity Planning for Creators
+
+**Coverage:** [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md)
+
+Clouse shared a personal productivity insight: a task that had loomed on his to-do list for three months (creating a 2026 calendar for his community) took only 30 minutes to complete once he finally tackled it. The lesson is that seemingly "giant" tasks often become mountains in our minds but are manageable once started.
+
+> "It felt like this formalization of my creativity. Plans are constraining! I just want to be punk rock!" — [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md)
+
+The newsletter also explored urgency mechanics for evergreen memberships, noting that without open/close launch cycles, creators must find other ways to motivate fence-sitters to join. Clouse uses invitation-only access and timed events like Town Halls and mastermind matching as urgency drivers.
+
 ---
 
 ## Key Insights and Surprising Elements
 
-**Consumer Protection Gap**: The piece reveals a significant regulatory blind spot—while the FDA requires protein content on labels, the distinction between complete and incomplete proteins allows manufacturers to legally mislead consumers.
+**Consumer Protection Gap**: The [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) piece reveals a significant regulatory blind spot—while the FDA requires protein content on labels, the distinction between complete and incomplete proteins allows manufacturers to legally mislead consumers.
 
 **Follow the Money**: Johnston notes that collagen is "profoundly cheap to make and get" with "insane margins," explaining the economic incentive behind protein inflation.
 
 **Practical Verification**: Readers learn a concrete skill—checking the % Daily Value against gram claims to detect collagen padding.
 
+**Self-Publishing Economics**: Paul Millerd's $325,000 in self-publishing royalties significantly exceeds the $200,000 advance he was offered by Penguin, challenging conventional wisdom about the value of traditional publishing deals.
+
 ---
 
 ## Cross-Newsletter Patterns
 
-With only one science newsletter this week, cross-newsletter analysis is limited. However, the themes of institutional decline, regulatory capture, and consumer vulnerability align with broader cultural conversations about trust in American institutions.
+**Consumer Skepticism and Due Diligence**: Both newsletters share a theme of looking beyond surface claims. [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) urges readers to scrutinize nutrition labels and understand the difference between marketing claims and actual nutritional value. [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md) highlights Millerd's decision to forgo the prestige of a major publishing deal in favor of better economics, suggesting that established industry paths may not always serve creators' interests.
+
+**Anti-Corporate Sentiment**: Johnston explicitly warns against trusting new supplement brands in a deregulated environment, while Millerd's story implicitly critiques the traditional publishing industry's terms for authors.
+
+**Institutional Decline**: The themes of regulatory failure (in supplements) and industry misalignment (in publishing) reflect broader skepticism about whether traditional gatekeepers serve consumer and creator interests.
 
 ---
 
 ## Sources
 
 - [protein inflation is here](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) — She's A Beast (Casey Johnston)
+- [The most useful 30 minutes of my week](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md) — Jay Clouse
