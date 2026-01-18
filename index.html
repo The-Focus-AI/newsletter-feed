@@ -195,14 +195,113 @@
       }
     }
 
+    // Current file context for resolving relative links
+    let currentFile = null;
+
+    // Resolve a relative path against the current file
+    function resolveRelativePath(href, current) {
+      if (!current) return null;
+
+      // Get the directory of the current file
+      const pathParts = current.path.split('/');
+      pathParts.pop(); // Remove filename
+      let dir = pathParts.join('/');
+
+      // Handle ../ and ./ in href
+      const hrefParts = href.split('/');
+      for (const part of hrefParts) {
+        if (part === '..') {
+          const dirParts = dir.split('/');
+          dirParts.pop();
+          dir = dirParts.join('/');
+        } else if (part !== '.') {
+          dir = dir ? `${dir}/${part}` : part;
+        }
+      }
+
+      return {
+        owner: current.owner,
+        repo: current.repo,
+        branch: current.branch,
+        path: dir
+      };
+    }
+
+    // Check if a URL points to a markdown file we can render
+    function isMarkdownUrl(href) {
+      if (!href) return false;
+      const lower = href.toLowerCase();
+      return lower.endsWith('.md') || lower.endsWith('.markdown');
+    }
+
+    // Check if it's a relative link (not absolute URL)
+    function isRelativeLink(href) {
+      if (!href) return false;
+      return !href.startsWith('http://') && !href.startsWith('https://') && !href.startsWith('//');
+    }
+
+    // Intercept clicks on markdown links
+    function handleContentClick(e) {
+      const link = e.target.closest('a');
+      if (!link) return;
+
+      const href = link.getAttribute('href');
+      if (!href) return;
+
+      // Check if it's a GitHub markdown link
+      const parsed = parseGitHubUrl(href);
+      if (parsed && isMarkdownUrl(parsed.path)) {
+        e.preventDefault();
+        const githubUrl = `https://github.com/${parsed.owner}/${parsed.repo}/blob/${parsed.branch}/${parsed.path}`;
+        document.getElementById('url-input').value = githubUrl;
+        history.pushState({}, '', `?url=${encodeURIComponent(githubUrl)}`);
+        currentFile = parsed;
+        render(parsed);
+        return;
+      }
+
+      // Check if it's a relative markdown link
+      if (isRelativeLink(href) && isMarkdownUrl(href) && currentFile) {
+        e.preventDefault();
+        const resolved = resolveRelativePath(href, currentFile);
+        if (resolved) {
+          const githubUrl = `https://github.com/${resolved.owner}/${resolved.repo}/blob/${resolved.branch}/${resolved.path}`;
+          document.getElementById('url-input').value = githubUrl;
+          history.pushState({}, '', `?url=${encodeURIComponent(githubUrl)}`);
+          currentFile = resolved;
+          render(resolved);
+        }
+        return;
+      }
+    }
+
+    // Add click handler to content area
+    document.getElementById('content').addEventListener('click', handleContentClick);
+
+    // Handle browser back/forward
+    window.addEventListener('popstate', () => {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('url')) {
+        document.getElementById('url-input').value = params.get('url');
+        render();
+      } else {
+        document.getElementById('url-input').value = `https://github.com/${DEFAULT_REPO.owner}/${DEFAULT_REPO.repo}`;
+        currentFile = DEFAULT_REPO;
+        render(DEFAULT_REPO);
+      }
+    });
+
     // On load: check URL params, else load default README
     const params = new URLSearchParams(window.location.search);
     if (params.get('url')) {
       document.getElementById('url-input').value = params.get('url');
+      const parsed = parseGitHubUrl(params.get('url'));
+      if (parsed) currentFile = parsed;
       render();
     } else {
       // Load this repo's README by default
       document.getElementById('url-input').value = `https://github.com/${DEFAULT_REPO.owner}/${DEFAULT_REPO.repo}`;
+      currentFile = DEFAULT_REPO;
       render(DEFAULT_REPO);
     }
   </script>
