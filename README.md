@@ -19,6 +19,7 @@ Top stories: Minneapolis ICE shooting of Renee Good, Iran crisis and interventio
 | [Misc](week/03-misc.md) | Iran revolution myth, Merge Labs BCI, Scott Adams legacy |
 | [Personal](week/03-personal.md) | New England winter weather, OpenSnow AI features, analytics reports |
 | [Uncategorized](week/03-uncategorized.md) | DeepSeek funding model, ActivityPub governance, AI layoffs at Tailwind |
+| [Business](week/03-business.md) | Product management, entrepreneurship, startup strategy |
 
 ---
 
