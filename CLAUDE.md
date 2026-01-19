@@ -31,20 +31,20 @@ When asked to "sync newsletters" or "update newsletters", run this complete work
    ```
 
 4. **Generate weekly summaries**
-   Launch parallel `weekly-newsletter-analyst` agents for each category with newsletters in the current week. Categories: tech-ai, politics, culture, books, philosophy, science, personal, misc, uncategorized.
+   Launch parallel `weekly-newsletter-analyst` agents for each category with newsletters in the current week. Categories: tech-ai, politics, culture, books, philosophy, science, personal, misc, uncategorized, business.
 
    Each agent should:
    - Read all articles in `content/{category}/*/` from the current week
    - Generate a comprehensive analysis report with themes, key stories, quotes, and source links
-   - Save to `week/{week_number}-{category}.md` (e.g., `week/03-tech-ai.md`)
+   - Save to `week/{week_number}/{category}.md` (e.g., `week/03/tech-ai.md`)
 
 5. **Generate weekly rollup**
    After all category summaries are complete, create a combined rollup:
-   - Read all `week/{week_number}-*.md` files for the current week
-   - Create `week/{week_number}.md` with:
+   - Read all `week/{week_number}/*.md` files for the current week (except index.md)
+   - Create `week/{week_number}/index.md` with:
      - Executive summary of top stories across all categories
      - Key themes and cross-category patterns
-     - Links to each category report
+     - Links to each category report (e.g., `[Tech & AI](tech-ai.md)`)
 
 6. **Update README.md**
    Update the root `README.md` with links to all weekly reports:
@@ -57,11 +57,11 @@ To email one report:
 ```bash
 npx tsx ~/.claude/plugins/cache/focus-marketplace/google-skill/*/scripts/gmail.ts send-md \
   --to="recipient@example.com" \
-  --file="./week/03-tech-ai.md" \
+  --file="./week/03/tech-ai.md" \
   --style="client"
 ```
 
-To email all reports for a week, iterate through `week/{week_number}-*.md` files and send each one.
+To email all reports for a week, iterate through `week/{week_number}/*.md` files and send each one (except index.md).
 
 **Style options:**
 - `--style=client` - Focus.AI Client brand (warm, professional)
@@ -94,9 +94,11 @@ content/                          # Processed articles by category/newsletter
     ...
 
 week/                             # Weekly synthesis reports
-  03-tech-ai.md                   # Week 03 tech-ai analysis
-  03-politics.md                  # Week 03 politics analysis
-  03.md                           # Week 03 combined rollup (required)
+  03/                             # Week 03 folder
+    index.md                      # Week 03 combined rollup
+    tech-ai.md                    # Week 03 tech-ai analysis
+    politics.md                   # Week 03 politics analysis
+    culture.md                    # Week 03 culture analysis
 ```
 
 ## Scripts

@@ -58,15 +58,15 @@ From [Flaming Hydra](https://flaminghydra.com/r/b9e0c903?m=e1004cfb-97ed-4594-9a
 
 | Category | Report | Key Topics |
 |----------|--------|------------|
-| Tech & AI | [03-tech-ai.md](03-tech-ai.md) | Claude Code/Cowork, Apple-Google Gemini, Grok deepfakes, Palantir ELITE, AI healthcare, Vision Pro critique |
-| Politics | [03-politics.md](03-politics.md) | Powell investigation, Iran crisis, Greenland ambitions, Venezuela, Minneapolis protests, polling analysis |
-| Culture | [03-culture.md](03-culture.md) | ICE raids response, social media age limits, AI and creative work, Twitter moral crisis, CBS News failure |
-| Books | [03-books.md](03-books.md) | Intelligence and problem-solving, publishing insights, global crises through literary lens, poetry translations |
-| Philosophy | [03-philosophy.md](03-philosophy.md) | Bronze Age collapse, political radicalization psychology, Stoic tragedy, gender/education culture wars |
-| Science | [03-science.md](03-science.md) | Protein inflation/collagen scam, supplement industry accountability |
-| Personal | [03-personal.md](03-personal.md) | New England winter weather, website analytics growth, local community updates |
-| Miscellaneous | [03-misc.md](03-misc.md) | Iran "myth of revolution," Scott Adams legacy, brain-computer interfaces, fashion philosophy |
-| Uncategorized | [03-uncategorized.md](03-uncategorized.md) | AI-driven development, DeepSeek no-business-model advantage, Fediverse governance |
+| Tech & AI | [tech-ai.md](tech-ai.md) | Claude Code/Cowork, Apple-Google Gemini, Grok deepfakes, Palantir ELITE, AI healthcare, Vision Pro critique |
+| Politics | [politics.md](politics.md) | Powell investigation, Iran crisis, Greenland ambitions, Venezuela, Minneapolis protests, polling analysis |
+| Culture | [culture.md](culture.md) | ICE raids response, social media age limits, AI and creative work, Twitter moral crisis, CBS News failure |
+| Books | [books.md](books.md) | Intelligence and problem-solving, publishing insights, global crises through literary lens, poetry translations |
+| Philosophy | [philosophy.md](philosophy.md) | Bronze Age collapse, political radicalization psychology, Stoic tragedy, gender/education culture wars |
+| Science | [science.md](science.md) | Protein inflation/collagen scam, supplement industry accountability |
+| Personal | [personal.md](personal.md) | New England winter weather, website analytics growth, local community updates |
+| Miscellaneous | [misc.md](misc.md) | Iran "myth of revolution," Scott Adams legacy, brain-computer interfaces, fashion philosophy |
+| Uncategorized | [uncategorized.md](uncategorized.md) | AI-driven development, DeepSeek no-business-model advantage, Fediverse governance |
 
 ---
 

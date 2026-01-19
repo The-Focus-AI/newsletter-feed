@@ -52,9 +52,14 @@ After analyzing all files:
 
 **CRITICAL: Save the analysis to a file in the week folder.**
 
-The output MUST be saved to: `week/<WEEK_NUMBER>-<CATEGORY>.md` (e.g., `week/03-tech-ai.md`, `week/03-politics.md`)
+The output MUST be saved to: `week/<WEEK_NUMBER>/<CATEGORY>.md` (e.g., `week/03/tech-ai.md`, `week/03/politics.md`)
 
-Use the Write tool to save the following markdown structure:
+**Directory structure:**
+- Week folder: `week/<WEEK_NUMBER>/` (e.g., `week/03/`)
+- Category analysis: `week/<WEEK_NUMBER>/<CATEGORY>.md` (e.g., `week/03/tech-ai.md`)
+- Weekly rollup: `week/<WEEK_NUMBER>/index.md` (e.g., `week/03/index.md`)
+
+Create the week directory if it doesn't exist, then use the Write tool to save the following markdown structure:
 
 ```markdown
 # Week [X] [Category] Newsletter Analysis (Date Range)
