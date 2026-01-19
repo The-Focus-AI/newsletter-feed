@@ -1,8 +1,8 @@
-# Week 03 Philosophy Newsletter Analysis (January 12-18, 2026)
+# Week 03 Philosophy Newsletter Analysis (January 13-19, 2026)
 
 ## Overview
 
-This week's philosophy newsletters presented a striking convergence of concerns about civilizational collapse, political extremism, and the search for meaning in turbulent times. [Rod Dreher's Diary](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag) dominated the conversation with extended meditations on "Weimar America" and the psychology of political radicalization, while [Classical Wisdom](https://classicalwisdom.substack.com/p/when-the-world-collapsed-lessons) explored parallel themes through the lens of ancient civilizations. [Slavoj Zizek](https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5) provided characteristically provocative critiques of both Trump's foreign policy and contemporary gender ideology, finding unexpected common ground between political opposites.
+This week's philosophy newsletters presented a striking convergence of concerns about civilizational collapse, political extremism, and the search for meaning in turbulent times. [Rod Dreher's Diary](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag) dominated the conversation with extended meditations on "Weimar America" and the psychology of political radicalization, culminating in alarming coverage of Minneapolis church invasions and civil war rhetoric. [Classical Wisdom](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor) explored parallel themes through the lens of ancient civilizations, Roman theater, and the enduring wisdom of Homer. [Slavoj Zizek](https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5) provided characteristically provocative critiques of both Trump's foreign policy and contemporary gender ideology, finding unexpected common ground between political opposites.
 
 ---
 
@@ -10,9 +10,9 @@ This week's philosophy newsletters presented a striking convergence of concerns 
 
 ### 1. The Psychology of Political Radicalization and "Weimar America"
 
-**Coverage:** [Rod Dreher's Diary](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag), [Rod Dreher's Diary](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world)
+**Coverage:** [Rod Dreher's Diary](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag), [Rod Dreher's Diary](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world), [Rod Dreher's Diary](https://roddreher.substack.com/p/minnesota-church-attack-and-civil)
 
-Rod Dreher devoted two substantial essays to what he terms "Weimar America" -- drawing explicit parallels between contemporary American political dynamics and 1920s Germany. His analysis centers on the assassination of Charlie Kirk and its aftermath, which he calls "the Radical Right's Reichstag fire."
+Rod Dreher devoted multiple essays to what he terms "Weimar America" -- drawing explicit parallels between contemporary American political dynamics and 1920s Germany. His analysis centers on the assassination of Charlie Kirk and its aftermath, which he calls "the Radical Right's Reichstag fire."
 
 Drawing heavily on Laurence Rees's *The Nazi Mind*, Dreher argues that the conditions for political extremism need not mirror Germany's exact traumas to produce similar psychological effects:
 
@@ -22,7 +22,7 @@ He highlights concerning trends among Gen Z conservatives, citing detailed repor
 
 > "That Texas college student told me last fall in Budapest: that he has friends who get hit daily with a barrage of funny, transgressive anti-Semitic memes, and one day boom, they wake up and hate Jews. Something snaps." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag)
 
-By week's end, in his [January 18 newsletter](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world), Dreher pointed to Nick Fuentes and associates performing Nazi salutes in Miami as confirmation of his concerns, writing:
+By Sunday, in his [January 18 newsletter](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world), Dreher pointed to Nick Fuentes and associates performing Nazi salutes in Miami as confirmation of his concerns:
 
 > "There is not enough irony in the world to legitimize what these scumbags in Miami did. What Fuentes and his growing group of followers among the influencers are doing is conditioning people to see Jews as subhuman." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world)
 
@@ -30,19 +30,21 @@ Drawing on his reading of *The Nazi Mind*, Dreher emphasized how ordinary, educa
 
 > "Two of the four commanders of the Einsatzgruppen, Arthur Nebe, head of the Criminal Police, and Walter Stahlecker, who had led security forces in Norway, volunteered for the job. The others were appointed... In Einsatzgruppe A, eleven of the seventeen most senior leaders were lawyers; nine held academic doctorates." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world)
 
-### 2. Civilizational Collapse and Historical Lessons
+### 2. Minneapolis Church Attack and Civil War Rhetoric
 
-**Coverage:** [Classical Wisdom](https://classicalwisdom.substack.com/p/when-the-world-collapsed-lessons), [Classical Wisdom](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor)
+**Coverage:** [Rod Dreher's Diary](https://roddreher.substack.com/p/minnesota-church-attack-and-civil)
 
-[Classical Wisdom](https://classicalwisdom.substack.com/p/when-the-world-collapsed-lessons) opened the week with a haunting meditation on the Bronze Age Collapse of 1177 BC, drawing uncomfortable parallels to contemporary fragility:
+By Monday, Dreher's warnings about "Weimar America" took on new urgency with his coverage of anti-ICE protesters invading a Minneapolis Baptist church during Sunday services. Former CNN host Don Lemon was present, reportedly directing protesters with the words "Disrupt. Make them uncomfortable."
 
-> "Imagine one day waking up to a world gone...dark. Suddenly there was no internet. No wifi or signal, no electricity, and no gas. Credit cards didn't work and banks were permanently closed." -- [Classical Wisdom](https://classicalwisdom.substack.com/p/when-the-world-collapsed-lessons)
+Dreher draws explicit parallels to the 1931 Spanish church desecrations that preceded the Spanish Civil War:
 
-The newsletter examined the Mycenaean civilization, which rose suddenly to prominence around 1600 BCE only to vanish within 400 years. Author Van Bryan notes that "we may never know what truly killed the Mycenaean civilization so abruptly and with such finality," but suggests multiple cascading factors -- earthquakes, invasions, revolts, famine, climate change, and the mysterious "Sea Peoples" -- may have combined catastrophically.
+> "The beginning of the process that led to the Spanish Civil War in the 1930s was the widespread desecration, in 1931, of churches and convents by left-wing anarchists and other anticlerical groups, shortly after the fall of the monarchy. They even pulled the corpses of dead nuns out of their coffins and dragged them onto the street to mock." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/minnesota-church-attack-and-civil)
 
-Later in the week, [Classical Wisdom explored Mark Antony's birthday](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor), examining the question of leadership qualities and what makes leaders rise or fall:
+He argues the church invasion represents a critical psychological threshold:
 
-> "What sort of leaders do we admire? Are we drawn to discipline or charisma? To patience or passion? Do we forgive flaws if they come wrapped in brilliance?" -- [Classical Wisdom](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor)
+> "The desecration of what one's opponents hold sacred is such a critical event because it is felt, and felt very deeply, as an attack on the target group's very identity." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/minnesota-church-attack-and-civil)
+
+Dreher notes armed anti-ICE protesters on Minneapolis streets, asking pointedly: "He says he's standing on his block 'to protect my people.' OK, but is he ready for Christian men to stand around the perimeter of their churches, with rifles, to protect their people?"
 
 ### 3. US Foreign Policy, Neo-Colonialism, and Venezuela
 
@@ -54,7 +56,9 @@ Zizek argues the intervention represents a return to colonial-era resource extra
 
 > "Trump wants Venezuela to return to the US the nationalized property of US oil companies, but Venezuela did the bulk of nationalizations back in 1976, well before the Chavez era, i.e., at a time when it was still considered a 'normal' Western democratic country." -- [Slavoj Zizek](https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5)
 
-He draws a historical parallel to Haiti's independence, when the newly-freed nation was forced to pay France for the "loss" of its slaves -- a debt that crippled Haiti for over a century.
+He draws a historical parallel to Haiti's independence, when the newly-freed nation was forced to pay France for the "loss" of its slaves -- a debt that crippled Haiti for over a century:
+
+> "At the end of the 19th century, Haiti's payments to France consumed around 80% of the national budget, and the last installment was paid in 1947." -- [Slavoj Zizek](https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5)
 
 Yet Zizek refuses to take Maduro's side, noting the failure of the Bolivarian revolution:
 
@@ -62,17 +66,7 @@ Yet Zizek refuses to take Maduro's side, noting the failure of the Bolivarian re
 
 His conclusion captures his characteristic dialectical approach: "The answer to the question 'Which is worse, Trump or Maduro?' is: both are worse."
 
-### 4. The Benedict Option and Intentional Christian Community
-
-**Coverage:** [Rod Dreher's Diary](https://roddreher.substack.com/p/a-millennial-benedict-option-in-denmark)
-
-Dreher began the week on a hopeful note, highlighting a documentary about young Danish Christians forming intentional community in rural Denmark. The piece features Mikkel Sotbaek, who describes their community:
-
-> "We bought our farm ten years ago, dreaming of a more natural and traditional life, prioritizing nature, tradition, and family. Now my wife and I are 30 years old, and we have five children." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/a-millennial-benedict-option-in-denmark)
-
-Notably, this ecumenical community includes both Lutheran and Catholic families, suggesting the "Benedict Option" need not be confined to a single denomination. Mikkel captures the community's ethos: "I have no money, but I am a rich man."
-
-### 5. Sex, Gender, and Ideological Censorship
+### 4. Sex, Gender, and the Censorship of Plato
 
 **Coverage:** [Slavoj Zizek](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural)
 
@@ -80,11 +74,13 @@ Zizek addressed the bizarre situation at Texas A&M University, where Plato's *Sy
 
 > "The neoconservative patriarchal claim that there are two sexes grounded in biology, dismissing all other combinations as pathological, and the trans celebration of the multiple choices of our gender identity share a key feature -- they both ignore the constitutively traumatic nature of sexuality brought out by psychoanalytic theory and practice." -- [Slavoj Zizek](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural)
 
-He confesses: "When I first heard the news about this prohibition without knowing the details, I wasn't sure if it was a Trumpian rightist act (which it turned out to be) or a politically correct leftist act against patriarchal binary sexuality."
+He confesses: "When I first heard the news about this prohibition without knowing the details, I wasn't sure if it was a Trumpian rightist act (which it turned out to be) or a politically correct leftist act against patriarchal binary sexuality." This uncertainty, Zizek suggests, reveals something true about how both sides fundamentally misunderstand sexuality.
 
-### 6. Art, Suffering, and the Human Condition
+> "The madness of this decision cannot but strike the eye. If we follow its logic to the end, many of the passages from the Bible should also be prohibited." -- [Slavoj Zizek](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural)
 
-**Coverage:** [Rod Dreher's Diary](https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity), [Classical Wisdom](https://classicalwisdom.substack.com/p/just-a-bloody-spectacle)
+### 5. Art, Suffering, and Resistance to Comfortable Tyranny
+
+**Coverage:** [Rod Dreher's Diary](https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity)
 
 Dreher wrote enthusiastically about the Apple TV series *Pluribus*, which updates Aldous Huxley's *Brave New World* for contemporary audiences. He sees it as a meditation on the value of suffering for human freedom:
 
@@ -94,11 +90,33 @@ The show's unlikely alliance between a lesbian novelist and a traditional Cathol
 
 > "There's many kinds of Catholics, but I grew up with the kind of Catholic that accepts that life is hardship and suffering and strife, and in a way, that makes it worth living." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity)
 
-Meanwhile, [Classical Wisdom](https://classicalwisdom.substack.com/p/just-a-bloody-spectacle) explored the world of Roman theater, particularly Seneca's plays. The piece notes that while Greeks kept violence off-stage (giving us the word "obscene" from "ob scene" -- off the scene), Romans made spectacle of bloodshed. Yet Seneca's work transcended mere entertainment:
+Dreher also used this piece to push back against readers criticizing his questions about ICE tactics, warning against ideological purity spirals:
+
+> "This is the kind of purity spiral we associate with the woke Left. If we want the goal of deporting as many illegals as possible to succeed, then we cannot afford to lose the public on this -- and we are losing the public." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity)
+
+### 6. Ancient Leadership and the Question of Character
+
+**Coverage:** [Classical Wisdom](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor)
+
+On Mark Antony's traditional birthday (January 14), Classical Wisdom offered a reassessment of the man who nearly became Rome's first emperor. The analysis challenges the familiar narrative of Antony as a "drunken lover ruined by Cleopatra":
+
+> "Before the legend, there was a man who nearly outplayed Octavian, who used spectacle better than any Roman alive, and who may have understood the future of power more clearly than his famous rival." -- [Classical Wisdom](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor)
+
+The piece asks timeless questions about leadership that resonate with current political debates:
+
+> "What sort of leaders do we admire? Are we drawn to discipline or charisma? To patience or passion? Do we forgive flaws if they come wrapped in brilliance? And what happens when emotion begins to outweigh judgment in public life?" -- [Classical Wisdom](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor)
+
+### 7. Roman Theater and the Philosophy of Spectacle
+
+**Coverage:** [Classical Wisdom](https://classicalwisdom.substack.com/p/just-a-bloody-spectacle)
+
+An exploration of how Roman theater adapted Greek tragedy, with particular attention to Seneca's plays. The Romans preferred blood and spectacle where the Greeks kept violence off-stage (the Greek term *ob scene* -- "off-stage" -- is the root of our word "obscene").
 
 > "Seneca's plays were written to affect the human psyche, and explore the moral and philosophical territory. Like Shakespeare, Seneca did not write for a specific place or time." -- [Classical Wisdom](https://classicalwisdom.substack.com/p/just-a-bloody-spectacle)
 
-### 7. Homer's Enduring Relevance
+The piece notes that Seneca's plays served a unique dual purpose: "The Romans got from Seneca's plays what they could not get anywhere else: the opportunity to be both entertained and to learn from the philosophical master."
+
+### 8. Homer's Enduring Relevance
 
 **Coverage:** [Classical Wisdom](https://classicalwisdom.substack.com/p/the-sea-of-homer-live-conversation)
 
@@ -106,11 +124,13 @@ Classical Wisdom announced an upcoming live conversation with translator Emily W
 
 > "Why do we still read Homer after nearly three thousand years? Homer's stories are filled with monsters, gods, and heroes...but beneath the myth is a deep exploration of human life." -- [Classical Wisdom](https://classicalwisdom.substack.com/p/the-sea-of-homer-live-conversation)
 
-### 8. Trump's Greenland Gambit and International Order
+The newsletter promises Wilson will explore "how these ancient poems speak directly to modern lives...about violence and forgiveness, leadership and failure, loyalty and longing."
+
+### 9. Trump's Greenland Gambit and International Order
 
 **Coverage:** [Rod Dreher's Diary](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world)
 
-In his final newsletter of the week, Dreher addressed Trump's aggressive stance toward European allies over Greenland, warning of catastrophic consequences:
+In his Sunday newsletter, Dreher addressed Trump's aggressive stance toward European allies over Greenland, warning of catastrophic consequences:
 
 > "Europe will immediately demand the closure of every U.S. military base on the continent. Ramstein in Germany, Aviano in Italy, Lakenheath in the UK. The US's ability to project power into the Middle East and Africa vanishes overnight." -- [Rod Dreher's Diary](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world)
 
@@ -122,25 +142,25 @@ He cites James Lindsay's critique that Trump's team is misreading the American m
 
 ## Cross-Newsletter Patterns
 
-**Civilizational Anxiety Across the Political Spectrum**
+**Historical Consciousness as Political Warning**
 
-Both [Rod Dreher's Diary](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world) and [Classical Wisdom](https://classicalwisdom.substack.com/p/when-the-world-collapsed-lessons) grappled with the possibility of civilizational collapse. While Classical Wisdom looked back 3,000 years to the Mycenaeans, Dreher looked back merely 100 to Weimar Germany. Both suggest that complex, interconnected societies can collapse faster than their inhabitants expect, and that the causes are often multiple and cascading rather than singular.
+Both [Rod Dreher's Diary](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag) and [Slavoj Zizek](https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5) drew extensively on historical parallels -- Dreher to Weimar Germany and 1930s Spain, Zizek to 19th-century colonial Haiti and the Opium Wars. Both use history not for simple comparison but to illuminate structural patterns in contemporary politics.
 
 **The Convergence of Opposites**
 
-[Slavoj Zizek](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural) repeatedly found unlikely common ground between supposed opposites -- Trump and Maduro as both "worse," conservative biological essentialism and trans ideology as both avoiding the deeper truth about sexuality. This dialectical approach stands in contrast to the polarization Dreher documents on the American Right.
-
-**The Search for Community and Meaning**
-
-Across all three newsletters, there's a shared recognition that atomized modern life fails to provide meaning. [Dreher's Danish Christians](https://roddreher.substack.com/p/a-millennial-benedict-option-in-denmark) seek it in intentional community; [Classical Wisdom's](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor) exploration of Mark Antony asks what truly makes a meaningful life; [Zizek](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural) suggests both trans identity politics and traditionalist reactions are responses to the same underlying alienation.
-
-**Faith as Bulwark or Battleground**
-
-Religion appears throughout as either solution or problem. [Dreher](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag) argues that "active, serious Christianity is the only barrier" to right-wing extremism. His [review of Pluribus](https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity) presents a Catholic character whose faith enables resistance to comfortable tyranny. Yet the Texas A&M controversy in [Zizek's piece](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural) shows religious and secular ideologies colliding in unexpected ways, with Plato becoming collateral damage.
+[Slavoj Zizek](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural) repeatedly found unlikely common ground between supposed opposites -- Trump and Maduro as both "worse," conservative biological essentialism and trans ideology as both avoiding the deeper truth about sexuality. This dialectical approach stands in contrast to the polarization Dreher documents on both the American Right and Left.
 
 **The Psychology of Extremism**
 
 [Dreher](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag) and [Zizek](https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5) both analyze political extremism, but from radically different frameworks. Dreher draws on neuroscience and social psychology to explain individual radicalization; Zizek deploys Marxist political economy to explain state behavior. Both reject easy partisan framings -- Dreher critiques the Right he belongs to, Zizek refuses to defend Maduro despite opposing U.S. intervention.
+
+**Faith as Bulwark Against Extremism**
+
+Religion appears throughout as potential solution. [Dreher](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag) argues that "active, serious Christianity is the only barrier" to right-wing extremism. His [review of Pluribus](https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity) presents a Catholic character whose faith enables resistance to comfortable tyranny. Yet the Texas A&M controversy in [Zizek's piece](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural) shows how religious-adjacent ideologies can produce their own absurdities.
+
+**The Wisdom of the Ancients**
+
+[Classical Wisdom](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor) provided consistent counterpoint to the week's political turmoil by examining leadership, theater, and philosophy through ancient lenses. Their questions about what makes good leadership, the role of spectacle in society, and why Homer endures offer implicit commentary on contemporary chaos without directly engaging it.
 
 ---
 
@@ -156,8 +176,6 @@ Religion appears throughout as either solution or problem. [Dreher](https://rodd
 
 ## Sources
 
-- [A Millennial Benedict Option In Denmark](https://roddreher.substack.com/p/a-millennial-benedict-option-in-denmark) -- Rod Dreher's Diary
-- [When the World Collapsed: Lessons from 1177 BC](https://classicalwisdom.substack.com/p/when-the-world-collapsed-lessons) -- Classical Wisdom
 - [The Man Who Could Have Been Emperor](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor) -- Classical Wisdom
 - [Donald Vladimirovich Trump's "Limited Military Operation" in Venezuela](https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5) -- Slavoj Zizek
 - [The Sea of Homer: Live Conversation with Emily Wilson](https://classicalwisdom.substack.com/p/the-sea-of-homer-live-conversation) -- Classical Wisdom
@@ -166,3 +184,5 @@ Religion appears throughout as either solution or problem. [Dreher](https://rodd
 - [Neither (Biological) Sex Nor (Cultural) Gender But Sexuation](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural) -- Slavoj Zizek
 - [Noble Lesbian Savage Fights For Humanity](https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity) -- Rod Dreher's Diary
 - [Weimar America & A Smoldering World](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world) -- Rod Dreher's Diary
+- [Weekly Wisdom Quiz](https://classicalwisdom.substack.com/p/weekly-wisdom-quiz-16e) -- Classical Wisdom
+- [Minnesota Church Attack & Civil War](https://roddreher.substack.com/p/minnesota-church-attack-and-civil) -- Rod Dreher's Diary

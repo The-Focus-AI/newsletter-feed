@@ -1,8 +1,8 @@
-# Week 03 Culture Newsletter Analysis (January 12-18, 2026)
+# Week 03 Culture Newsletter Analysis (January 13-19, 2026)
 
 ## Overview
 
-This week's culture newsletters converged powerfully on the ICE raids in Minneapolis, with [Kottke.org](https://kottke.org), [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email), [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122), and [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) all addressing the violence and its political ramifications. Beyond the immediate crisis, newsletters explored the ongoing tensions between technology and humanity: AI's disruption of creative work, social media's documented harms to adolescents, and how our digital tools shape our bodies and minds. A week of creative writing ranged from dystopian fiction about economic collapse to witch poetry, while curators surfaced eclectic pieces on medieval pig trials, the Iranian regime, competitive brass bands, and the mathematics of Apple's squircle icons.
+This week's culture newsletters converged powerfully on the ICE raids in Minneapolis, with [Kottke.org](https://kottke.org), [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email), [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122), and [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) all addressing the violence and its political ramifications. Beyond the immediate crisis, newsletters explored the ongoing tensions between technology and humanity: AI's disruption of creative work, social media's documented harms to adolescents, and how our digital tools shape our bodies and minds. [Sentiers](https://sentiers.media/r/1ce11db3?m=a8fb9fc0-1be9-42e3-a8a8-f807098a7f6b) offered Cory Doctorow's vision for a "post-American internet" built on digital sovereignty and open-source infrastructure. A week of creative writing ranged from dystopian fiction about economic collapse to witch poetry, while curators surfaced eclectic pieces on medieval pig trials, the Iranian regime, competitive brass bands, and the mathematics of Apple's squircle icons.
 
 ---
 
@@ -14,9 +14,7 @@ This week's culture newsletters converged powerfully on the ICE raids in Minneap
 
 The immigration enforcement actions in Minneapolis dominated culture newsletter discourse this week, with writers treating it not merely as news but as a cultural inflection point.
 
-[Kottke.org](https://kottke.org) featured a direct call to action: "Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE." The newsletter linked to coverage of ICE killing a woman and Minneapolis Mayor Jacob Frey's response:
-
-> "Get the fuck out of Minneapolis." -- [Mayor Jacob Frey, via Kottke.org](https://kottke.org)
+[Kottke.org](https://kottke.org) compiled resources and linked to coverage of ICE killing a woman and Minneapolis Mayor Jacob Frey's response. The newsletter featured a sourced list of ICE abuses in Minnesota compiled by mn-ice-witness.org.
 
 [The Browser](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd) highlighted Ryan Broderick's Garbage Day dispatch with this observation:
 
@@ -54,7 +52,7 @@ The second After Babel piece presented "mountains of evidence" from Meta's own i
 
 ### 3. AI and Creative Work: Vibe Coding, Writing, and Authenticity
 
-**Coverage:** [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town), [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122), [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email)
+**Coverage:** [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town), [Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122), [Culture Study](https://open.patreon.com/posts/much-more-way-to-148087465?utm_campaign=patron_engagement&utm_source=post_link&post_id=148087465&utm_id=2585b41d-514a-45f7-accc-26c7b59d86f8&utm_medium=email), [Sentiers](https://sentiers.media/r/1ce11db3?m=a8fb9fc0-1be9-42e3-a8a8-f807098a7f6b)
 
 [Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) delivered a characteristically deep dive into Steve Yegge's "Gas Town," a development environment for managing multiple AI coding agents. Rusty Foster positions himself as "an AI hater," quoting Anthony Moser:
 
@@ -74,17 +72,19 @@ The piece also pushed back against AI detection paranoia, noting that em dashes-
 
 ---
 
-### 4. Twitter/X as Moral Crisis
+### 4. The Post-American Internet and Digital Sovereignty
 
-**Coverage:** [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+**Coverage:** [Sentiers](https://sentiers.media/r/1ce11db3?m=a8fb9fc0-1be9-42e3-a8a8-f807098a7f6b)
 
-Ian Williams at [Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) delivered an impassioned call to leave Twitter after revelations about AI-generated child pornography on the platform. The piece examines how excuses for staying on the platform shifted as each was exposed:
+[Sentiers](https://sentiers.media/r/1ce11db3?m=a8fb9fc0-1be9-42e3-a8a8-f807098a7f6b) featured Cory Doctorow's vision for building a "post-American internet" that reduces "tech debt" and unlocks "America's monopoly trillions" for entrepreneurs and users worldwide. The piece identifies multiple vulnerabilities in the current US-dominated internet architecture:
 
-> "The connective tissue here is simply that the people who run the world cannot, will not, get off Twitter." -- [Ian Williams, Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+> "The US trade representative has forced every one of its trading partners to adopt anticircumvention law, to facilitate the extraction of their own people's data and money by American firms." -- [Sentiers](https://sentiers.media/r/1ce11db3?m=a8fb9fc0-1be9-42e3-a8a8-f807098a7f6b)
 
-Williams connected online addiction to broader cultural malaise, invoking Klaus Theweleit's Male Fantasies:
+Doctorow's solution involves repealing anticircumvention laws and building digital sovereignty on open-source, commons-based software like the EU's Eurostack project. On AI and labor:
 
-> "The world feels poised on the precipice, about to topple over. We made it 100 years with the Bomb without annihilating the planet but it feels as though we may only make it through 15 years of Web 2.0." -- [Ian Williams, Flaming Hydra](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+> "Bosses like to tell themselves that they're in the driver's seat, but really, they fear that they're strapped into the back seat playing with a Fisher Price steering wheel. For them, AI is a way to wire the toy steering wheel directly into the company's drive-train." -- [Sentiers](https://sentiers.media/r/1ce11db3?m=a8fb9fc0-1be9-42e3-a8a8-f807098a7f6b)
+
+The same issue also explored Bryan Alexander's analysis of "polycrisis"--overlapping crises including demographic shifts, climate change, and technological developments that interact and exacerbate one another.
 
 ---
 
@@ -128,17 +128,17 @@ The newsletter also highlighted Politico's reporting on the University of Austin
 
 ### 8. The Browser's Eclectic Curation
 
-**Coverage:** [The Browser](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/80059d84?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
+**Coverage:** [The Browser](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd), [The Browser](https://thebrowser.com/r/80059d84?m=870013e5-9af6-40f5-bf0e-51ce412162bd)
 
-[The Browser](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd) delivered its characteristic range of curated reading this week:
+[The Browser](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd) delivered its characteristic range of curated reading this week:
 
 - On the Iranian regime: "Leaderless protests are brave, but fragile."
-- On housing and community: "Being homeless was perceived as an individual failure. There is, of course, nothing to romanticise about Mumbai's slums. But despite these hardships, they also have a real sense of community."
 - On medieval pig trials: "A pig eating a child was 'an unbearable inversion of the natural order.'"
 - On Apple's design: "A squircle doesn't look like a square with surgery performed on it; it registers as an entity in its own right."
 - On mastery vs. entertainment: "Logan Paul, a YouTuber, should not be boxing against Anthony Joshua... such a fight shows that in many spheres we are living through the death of mastery at the hands of entertainment."
 - On psychological congruence: "If you are highly congruent, you disown none of your experience. You accept the stubborn approach of death, the arbitrariness of your fortune, your unimportance on the cosmic timescale."
 - On crane conservation: If endangered crane chicks are to survive release, "aviculturists don an elaborate costume with a bird's head puppet on one arm and a 'wing' on the other."
+- On brass bands: At the UK's National Brass Band Championships, all the players are amateurs "competing for pride and a 2,000 pound prize. Some of the bands have existed for 150 years. The winners had to be fetched from the pub."
 
 [The Browser](https://thebrowser.com/r/80059d84?m=870013e5-9af6-40f5-bf0e-51ce412162bd)'s Sunday Supplement revisited pieces from 8 years prior, including Kevin Laland's "Evolution Unleashed" on how evolution is more complicated than Darwin imagined, and John Bull's account of breaking the Zimmerman Telegram in World War One.
 
@@ -158,13 +158,15 @@ The newsletter also highlighted Politico's reporting on the University of Austin
 
 **1. Technology as Double-Edged Sword:** Every major newsletter this week grappled with technology's benefits and costs--from social media's harm to youth, to AI's disruption of creative work, to the digital choreography of our bodies. The consensus tilts skeptical but not Luddite.
 
-**2. Institutional Failure:** Whether discussing ICE, Twitter/X, CBS News under Bari Weiss, or academia's AI struggles, newsletters portrayed institutions as failing to meet the moment.
+**2. Institutional Failure:** Whether discussing ICE, CBS News under Bari Weiss, or academia's AI struggles, newsletters portrayed institutions as failing to meet the moment.
 
 **3. The Value of Attention and Craft:** Against AI slop and algorithmic curation, multiple writers advocated for slow, deliberate, human attention. Struan Donald, quoted in [Today in Tabs](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil): "The act of making a thing is partly about noticing... you have to be paying attention."
 
 **4. Economic Precarity as Backdrop:** From speculative fiction about merging bodies to reduce costs, to discussions of journalist stringers vs. staff, to the crisis in journalism funding, economic anxiety permeated the week's cultural commentary.
 
 **5. Community as Refuge:** The Minneapolis crisis prompted newsletters to highlight community resources and mutual aid, from [Culture Study](https://open.patreon.com/posts/introducing-cs-148304237?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148304237&utm_id=7110537a-1e51-4b70-b617-854907855ed5&utm_medium=email)'s spotlight on Tropes & Trifles bookstore serving as shelter, to the launch of new reader community spaces. In a fragmenting media landscape, newsletters are becoming sites of connection.
+
+**6. Digital Sovereignty:** [Sentiers](https://sentiers.media/r/1ce11db3?m=a8fb9fc0-1be9-42e3-a8a8-f807098a7f6b) brought a global perspective to discussions of technology, framing the US tech dominance as something that could--and perhaps should--be challenged through open-source alternatives and regulatory reform.
 
 ---
 
@@ -182,6 +184,9 @@ On congruence:
 On vibe coding:
 > "What if we made the whole software company out of vibe coding?" -- [Rusty Foster, Today in Tabs](https://www.todayintabs.com/p/all-gas-town-no-brakes-town)
 
+On AI and human agency:
+> "To use it ethically is the key. Never to surrender human agency to it." -- [James Yeku, via Flaming Hydra](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122)
+
 ---
 
 ## Creative Writing Highlights
@@ -194,23 +199,6 @@ On vibe coding:
 
 ## Sources
 
-- [Kottke.org Posts and Links for January 12, 2026](content/culture/kottke-org/2026-01-12-kottke-org-posts-and-links-for-january-12-2026.md) -- Kottke.org
-- [Kottke.org Posts and Links for January 14, 2026](content/culture/kottke-org/2026-01-14-kottke-org-posts-and-links-for-january-14-2026.md) -- Kottke.org
-- [Kottke.org Posts and Links for January 16, 2026](content/culture/kottke-org/2026-01-16-kottke-org-posts-and-links-for-january-16-2026.md) -- Kottke.org
-- [Regime, Slum, WASP, Pop, Choke](https://thebrowser.com/r/53ad4247?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
-- [Method, Congruence, Trial, Stack, Cut](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
-- [Landfill, Mao, ICE, Whale, Wilson](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
-- [Circus, Pain, Archive, Squircle, Mx](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
-- [Crane, Magnum, Brass, Kafka, Peshawar](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
-- [Top Of The Week: Congruence, Regime, Squircle, Pop, ICE](https://thebrowser.com/r/1c374683?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
-- [The Sunday Supplement: Evolution and Code Breaking](https://thebrowser.com/r/80059d84?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
-- [See no evil](https://flaminghydra.com/r/4712d231?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
-- [Close quarters / Toxic triangle](https://flaminghydra.com/r/b9e0c903?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
-- [Fortunate man / Despairing diversion](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
-- [Head room / Showbiz duo](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
-- [Spellbound solitude](https://flaminghydra.com/r/82e98546?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
-- [I Puritani Encore in Cinemas](content/culture/met-opera/2026-01-12-i-puritani-encore-in-cinemas.md) -- Met Opera
-- [Final Performances: Porgy and Bess](content/culture/met-opera/2026-01-16-final-performances-porgy-and-bess-tickets-start-at-37.md) -- Met Opera
 - [Why Every Country Should Set 16 as the Minimum Age for Social Media](https://www.afterbabel.com/p/why-every-country-should-set-16) -- Jon Haidt from After Babel
 - [Mountains of Evidence](https://www.afterbabel.com/p/mountains-of-evidence) -- Jon Haidt from After Babel
 - [What Have Self Knowledge Systems Taught You?](https://open.patreon.com/posts/what-have-self-148137146?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148137146&utm_id=40e538e6-fdc8-420d-bbff-cb47d3ec0289&utm_medium=email) -- Culture Study
@@ -219,6 +207,20 @@ On vibe coding:
 - [Friday Thread: What Broke Your Shelf?](https://open.patreon.com/posts/friday-thread-148340941?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148340941&utm_id=95177cab-0118-4eac-9802-27b526e0359f&utm_medium=email) -- Culture Study
 - [Bye Week](https://open.patreon.com/posts/bye-week-148384138?utm_campaign=patron_engagement&utm_source=post_link&post_id=148384138&utm_id=d7fd4c68-b040-4f42-832f-ef220069648a&utm_medium=email) -- Culture Study
 - [Introducing: THE CS ROMANCE BOOK CLUB](https://open.patreon.com/posts/introducing-cs-148304237?utm_campaign=free_member_locked_newsletter&utm_source=post_link&post_id=148304237&utm_id=7110537a-1e51-4b70-b617-854907855ed5&utm_medium=email) -- Culture Study
+- [Method, Congruence, Trial, Stack, Cut](https://thebrowser.com/r/d8737e36?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Landfill, Mao, ICE, Whale, Wilson](https://thebrowser.com/r/97f1ed49?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Circus, Pain, Archive, Squircle, Mx](https://thebrowser.com/r/63dfbc79?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Crane, Magnum, Brass, Kafka, Peshawar](https://thebrowser.com/r/0ce2fdf7?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Top Of The Week: Congruence, Regime, Squircle, Pop, ICE](https://thebrowser.com/r/1c374683?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [The Sunday Supplement: Evolution and Code Breaking](https://thebrowser.com/r/80059d84?m=870013e5-9af6-40f5-bf0e-51ce412162bd) -- The Browser
+- [Close quarters / Toxic triangle](https://flaminghydra.com/r/b9e0c903?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
+- [Fortunate man / Despairing diversion](https://flaminghydra.com/r/31f0be51?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
+- [Head room / Showbiz duo](https://flaminghydra.com/r/d2fb75d1?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
+- [Spellbound solitude](https://flaminghydra.com/r/82e98546?m=e1004cfb-97ed-4594-9a60-f0bcd58e4122) -- Flaming Hydra
 - [All Gas Town, No Brakes Town](https://www.todayintabs.com/p/all-gas-town-no-brakes-town) -- Today in Tabs
 - [Thank God It's Whiskey Friday With Tony Dokoupil](https://www.todayintabs.com/p/thank-god-it-s-whiskey-friday-with-tony-dokoupil) -- Today in Tabs
+- [Kottke.org Posts and Links for January 14, 2026](content/culture/kottke-org/2026-01-14-kottke-org-posts-and-links-for-january-14-2026.md) -- Kottke.org
+- [Kottke.org Posts and Links for January 16, 2026](content/culture/kottke-org/2026-01-16-kottke-org-posts-and-links-for-january-16-2026.md) -- Kottke.org
+- [No.386 -- The post-American internet](https://sentiers.media/r/1ce11db3?m=a8fb9fc0-1be9-42e3-a8a8-f807098a7f6b) -- Sentiers
+- [Final Performances: Porgy and Bess](content/culture/met-opera/2026-01-16-final-performances-porgy-and-bess-tickets-start-at-37.md) -- Met Opera
 - [Our pu-erh tea-cher](content/culture/in-pursuit-of-tea/2026-01-17-our-pu-erh-tea-cher.md) -- In Pursuit of Tea

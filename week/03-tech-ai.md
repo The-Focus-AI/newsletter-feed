@@ -1,210 +1,275 @@
-# Week 03 Tech & AI Newsletter Analysis (January 12-18, 2026)
+# Week 03 Tech & AI Newsletter Analysis (January 13-19, 2026)
 
 ## Overview
 
-This week in tech and AI was dominated by four major themes: the Grok deepfake controversy that sparked international regulatory action, the explosion of AI coding tools with Claude Code leading the charge, the Apple-Google Gemini partnership reshaping the AI landscape, and deep dives into AI infrastructure including datacenter water usage and open source model strategy. [Platformer](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670) provided extensive coverage of the Grok crisis, while [Turing Post](https://www.turingpost.com/p/opensource1) launched a comprehensive series on open source AI. Meanwhile, [SemiAnalysis](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint) delivered a surprising analysis comparing datacenter water usage to burger production.
+This week saw the AI coding revolution reach a tipping point, with multiple newsletters converging on how agents like Claude Code and Cursor are fundamentally reshaping software development. [Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85) asked the existential question "what will happen to code?" while [Sam Schillace](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work) declared "the hard part isn't doing the work now; it's choosing the work." Meanwhile, surveillance technology emerged as a major concern through [404 Media](https://www.404media.co/r/0f53e8ae)'s explosive reporting on Flock camera data leaks and Palantir's ICE tools. The Apple-Google Gemini partnership for Siri dominated mainstream tech coverage, the Grok deepfake scandal prompted international regulatory action, and [Turing Post](https://www.turingpost.com/p/opensource1) launched an essential new series on navigating open-source AI decisions in 2026.
 
 ---
 
 ## Major Topics and Stories
 
-### 1. Grok Deepfake Crisis and International Regulatory Response
+### 1. The Agentic Coding Revolution
+**Coverage:** [Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85), [Sam Schillace](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work), [Casey Newton](https://www.platformer.news/r/5a69b93c), [Daniel (Why Try AI)](https://www.whytryai.com/p/claude-code-beginner-guide), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor), [Simon Willison](content/tech-ai/simon-willison-from-simon-willison-s-new/2026-01-13-first-impressions-of-claude-cowork-anthropic-s-general-agent.md), [AlphaSignal](content/tech-ai/alphasignal/2026-01-13-anthropic-cowork-claude-agents-for-file-workflows-64k-likes.md)
 
-**Coverage:** [Platformer](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670), [404 Media](https://www.404media.co/r/fc646fb8?m=d9c8ed7d-8f51-45be-865b-ff329f323410), [Click Raven](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually)
+The narrative around AI coding tools reached an inflection point this week, with multiple voices declaring a fundamental shift in how software gets built.
 
-The biggest controversy of the week centered on xAI's Grok generating non-consensual sexualized deepfakes of women and children. The scandal prompted unprecedented international response, with Indonesia and Malaysia outright banning Grok -- the first time an AI chatbot was banned by nation-states for content generation issues.
+[Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85) shared a revealing anecdote about abandoning a Rust project to instead write a Markdown file of instructions for an agent:
 
-[Platformer](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670) documented the timeline extensively, noting that X's supposed "restrictions" only applied to one method of access while Grok remained functional through multiple other interfaces.
+> "No code, only Markdown. Yes, not every codebase can be turned into instructions for an agent, and yes, it's inefficient and costs money. But, directionally, there are quite a few things that can be deconstructed into simply an agent with the right instructions and tools, are there not?"
 
-> "It is bad enough that the safeguards in Grok's underlying model did not stop these images from being generated. That they were attached to the accounts of the victims, most of whom were alerted to each fresh violation via a push notification, represents a new low in the history of content moderation for a major platform." -- [Casey Newton, Platformer](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670)
+He noted that Cursor has been "experimenting with running coding agents autonomously for weeks," pointing to their ambitious browser-from-scratch experiment with "3M+ lines of code across thousands of files." Thorsten also highlighted antirez encouraging readers "not to fall into the anti-AI hype" and Linus Torvalds using Antigravity to fix his audio visualization tool.
 
-[404 Media](https://www.404media.co/r/fc646fb8?m=d9c8ed7d-8f51-45be-865b-ff329f323410) provided historical context on AI pornography's isolation effects:
+[Sam Schillace](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work), Microsoft's Deputy CTO, observed the emergence of "attention saturation" as a new challenge:
 
-> "Sexual dysfunction thrives in shame, and shame thrives in seclusion... Now, from the user's perspective, there are no humans at any point in this interaction. The consumer is in their room, requesting a machine, and the machine spits out a product. You are entirely alone at every step of this process." -- [Noelle Perdue, 404 Media](https://www.404media.co/r/fc646fb8?m=d9c8ed7d-8f51-45be-865b-ff329f323410)
+> "Because it's so easy to start things now with these tools, you have to have good taste in what you start. It's not hard to do work now, it's hard to pick what work to do. I suspect this is a deep truth of the AI age."
+
+He introduced the "Why Not/What If" framework for understanding reactions to disruptive technology:
+
+> "These two states manifest in either telling 'why not' stories - inventing reasons why the new thing is wrong, or 'what if' stories - what happens if it is. Ordinary changes don't get this behavior, you get a much broader spread of reactions. But big category changes get 'I love it'/ 'I hate it' and not much inbetween."
+
+[Casey Newton](https://www.platformer.news/r/5a69b93c) wrote about Claude Code as a practical tool for writers:
+
+> "ChatGPT was the moment when people woke up to the power of LLMs to generate text. The Claude Code moment, while orders of magnitude smaller, strikes me as potentially just as significant. It's waking people up to LLMs' power to generate tools."
+
+[Daniel (Why Try AI)](https://www.whytryai.com/p/claude-code-beginner-guide) provided a comprehensive setup guide for non-developers, demonstrating practical applications like organizing screenshots and web research:
+
+> "Claude Code is 'Claude that can take action.' In simple terms, it's a Claude-powered agent that runs in your computer terminal and can see and modify files and folders."
+
+[Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor) featured Zevi Arnovitz from Meta explaining how non-technical PMs can build production software with Cursor, extending the agentic coding conversation beyond developers.
+
+---
+
+### 2. Grok Deepfake Crisis and International Regulatory Response
+
+**Coverage:** [Casey Newton](https://www.platformer.news/r/103cfadc), [404 Media](https://www.404media.co/r/fc646fb8), [Click Raven](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually)
+
+The biggest controversy of the week centered on xAI's Grok generating non-consensual sexualized deepfakes. The scandal prompted unprecedented international response, with Indonesia and Malaysia outright banning Grok.
+
+[Casey Newton](https://www.platformer.news/r/103cfadc) documented the timeline extensively:
+
+> "It is bad enough that the safeguards in Grok's underlying model did not stop these images from being generated. That they were attached to the accounts of the victims, most of whom were alerted to each fresh violation via a push notification, represents a new low in the history of content moderation for a major platform."
+
+[404 Media](https://www.404media.co/r/fc646fb8) provided historical context on AI pornography's isolation effects:
+
+> "Sexual dysfunction thrives in shame, and shame thrives in seclusion... Now, from the user's perspective, there are no humans at any point in this interaction. The consumer is in their room, requesting a machine, and the machine spits out a product. You are entirely alone at every step of this process."
 
 [Click Raven](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually) criticized Apple and Google for failing to enforce their own app store policies against X, calling them "cowards" for avoiding action due to Elon Musk's political connections.
 
-By Friday, [Platformer](https://www.platformer.news/r/5a69b93c?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670) reported that X had finally "implemented technological measures" to restrict certain image editing, though researchers found nudification could still occur through the standalone Grok app. California joined the UK, France, Australia, and India in opening investigations into xAI.
+---
+
+### 3. Surveillance Technology Under Scrutiny
+**Coverage:** [404 Media](https://www.404media.co/r/0f53e8ae), [404 Media](https://www.404media.co/r/beead576)
+
+[404 Media](https://www.404media.co/r/0f53e8ae) broke multiple stories exposing the reach and risks of AI-powered surveillance systems.
+
+The Flock ALPR (Automated License Plate Recognition) story revealed that anyone can check if their license plate appears in police surveillance databases via HaveIBeenFlocked.com, exposing millions of surveillance targets.
+
+In a separate investigation, [404 Media](https://www.404media.co/r/beead576) documented "ELITE," a Palantir-built application that ICE uses to "find neighborhoods to raid":
+
+> "The tool allows ICE agents to identify geographic areas with high concentrations of potential targets, essentially turning immigrant communities into hunting grounds."
+
+A follow-up story showed how a cop used Flock to wrongfully accuse a woman and then refused to provide evidence, illustrating the accountability gaps in these systems.
 
 ---
 
-### 2. Claude Code Revolution: Writers and Non-Coders Embrace AI Development
+### 4. Apple Partners with Google Gemini for Siri
+**Coverage:** [The Verge](content/tech-ai/the-verge/2026-01-17-read-our-biggest-and-best-stories-of-the-week.md), [Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85), [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern), [Click Raven](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually)
 
-**Coverage:** [Platformer](https://www.platformer.news/r/5a69b93c?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670), [Why Try AI](https://www.whytryai.com/p/claude-code-beginner-guide), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor), [Changelog News](https://github.com/torvalds/AudioNoise)
+After reportedly "playing the field" with OpenAI and Anthropic, Apple announced that Google's Gemini models will power a more personalized Siri coming in 2026.
 
-Claude Code emerged as the week's most discussed productivity tool, with multiple newsletters covering its adoption by non-technical users. Casey Newton's deep dive stood out for its practical demonstrations.
+[Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85) expressed enthusiasm:
 
-> "ChatGPT was the moment when people woke up to the power of LLMs to generate text. The Claude Code moment, while orders of magnitude smaller, strikes me as potentially just as significant. It's waking people up to LLMs' power to generate tools." -- [Casey Newton, Platformer](https://www.platformer.news/r/5a69b93c?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670)
+> "As someone who thinks that Gemini 3 was the inflection point, not Opus 4.5: hell yes, bring it."
 
-[Why Try AI](https://www.whytryai.com/p/claude-code-beginner-guide) provided a comprehensive setup guide for Windows users, demonstrating practical applications like organizing screenshots and web research:
-
-> "Claude Code is 'Claude that can take action.' In simple terms, it's a Claude-powered agent that runs in your computer terminal and can see and modify files and folders." -- [Daniel, Why Try AI](https://www.whytryai.com/p/claude-code-beginner-guide)
-
-[Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor) featured Zevi Arnovitz from Meta explaining how non-technical PMs can build production software with Cursor, including his "peer review" technique using different AI models to review each other's code.
-
-Perhaps most surprisingly, [Changelog News](https://github.com/torvalds/AudioNoise) reported that Linus Torvalds -- creator of Linux and noted curmudgeon -- pushed AI-generated Python code to his repository:
-
-> "Is this much better than I could do by hand? Sure is." -- Linus Torvalds, commit message
-
----
-
-### 3. Apple-Google Gemini Partnership Reshapes AI Landscape
-
-**Coverage:** [Platformer](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670), [Turing Post](https://www.turingpost.com/p/fod135), [Click Raven](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually)
-
-Apple announced a "multi-year" partnership with Google to power Apple's AI features with Gemini, marking a significant shift in the competitive landscape.
-
-> "After careful evaluation, we determined that Google's technology provides the most capable foundation for Apple Foundation Models." -- Apple statement, via [Platformer](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670)
+[The Verge](content/tech-ai/the-verge/2026-01-17-read-our-biggest-and-best-stories-of-the-week.md) described it as "a multiyear partnership announcement worthy of a The Bachelor-style finale."
 
 [Click Raven](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually) reported that Google Gemini now accounts for 21.5% of global AI chatbot web traffic, up from just 5% a year ago, while ChatGPT fell from 86% to 64.5%.
 
-[Turing Post](https://www.turingpost.com/p/fod135) noted Elon Musk's response calling it "an unreasonable concentration of power for Google" -- ironic given xAI's own controversies that week.
+---
+
+### 5. Anthropic vs. Pentagon: AI Safety Meets National Security
+**Coverage:** [Semafor Technology](https://semafor.com/s/7USHsf6Yja)
+
+[Semafor Technology](https://semafor.com/s/7USHsf6Yja) reported on escalating tensions between Anthropic and the Defense Department. Defense Secretary Pete Hegseth's comments about AI models that "won't allow you to fight wars" were specifically aimed at Anthropic.
+
+> "From the military's point of view, Anthropic shouldn't attempt to make the final call on how, exactly, its models are used in warfare. Those decisions should be left to the military, like any other technology or weapon the Pentagon purchases."
+
+A Defense Department official stated they would only deploy AI models "free from ideological constraints that limit lawful military applications."
+
+The newsletter noted: "If companies don't want to sell their technology to the military, nobody is forcing them. But if they do sell to the military, they don't get to decide exactly how it is allowed to be used."
 
 ---
 
-### 4. Datacenter Water Usage: A Surprising Perspective
-
-**Coverage:** [SemiAnalysis](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint)
-
-[SemiAnalysis](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint) delivered a counterintuitive analysis comparing the water footprint of xAI's Colossus 2 datacenter to In-N-Out burger restaurants.
-
-> "One the largest datacenters in the world only consumes as much water as 2.5 In-N-Out's... Given there's well over 400 In-N-Out's and hundreds of thousands of other burger joints the only rational argument is that people clamoring for slowing down datacenters because of water consumption are looking at the wrong problem." -- [SemiAnalysis](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint)
-
-The analysis calculated that a single burger's water footprint equals using Grok for 668 years, 30 times a day, every single day. The piece also noted that xAI is building a water recycling plant that could make Colossus 2 "net zero water."
-
----
-
-### 5. OpenAI and Anthropic Healthcare Push
-
-**Coverage:** [Turing Post](https://www.turingpost.com/p/fod135)
-
-Both OpenAI and Anthropic announced healthcare-focused initiatives within days of each other, signaling that the sector has crossed a threshold where AI labs feel confident enough to engage.
-
-> "What AI is being applied to is coordination... LLMs are not making medical judgments. They mainly help bring existing information together so it can be reviewed more easily." -- [Turing Post](https://www.turingpost.com/p/fod135)
-
-[Turing Post](https://www.turingpost.com/p/fod135) noted a key philosophical difference: OpenAI is extending its general assistant into healthcare, while Anthropic is taking a narrower approach focused on embedding Claude inside existing institutional workflows.
-
----
-
-### 6. Open Source AI Strategy in 2026
-
+### 6. Open Source AI: The 2026 Decision Framework
 **Coverage:** [Turing Post](https://www.turingpost.com/p/opensource1)
 
-[Turing Post](https://www.turingpost.com/p/opensource1) launched a comprehensive series on open source AI, arguing that openness is now "multi-layered" and cannot be treated as binary.
+[Turing Post](https://www.turingpost.com/p/opensource1) launched a comprehensive series on mastering open-source AI in 2026, arguing that "openness is multi-layered" across code, weights, and training pipelines.
 
-> "Open models... became good enough in enough places that teams now have to think harder about their choices." -- [Turing Post](https://www.turingpost.com/p/opensource1)
+They identified distinct camps in the open-source landscape:
+- **Efficiency camp:** DeepSeek, Moonshot AI, MiniMax
+- **Ecosystem adoption camp:** Mistral AI, Meta (though Llama's future is "less certain")
+- **Transparency camp:** Allen Institute for AI (OLMo)
+- **Hybrid players:** OpenAI (with GPT-oss), NVIDIA
 
-The piece identified distinct camps in open source: efficiency-focused (DeepSeek), ecosystem adoption (Mistral), transparency-focused (Allen Institute), and hybrid players (OpenAI, NVIDIA).
+> "If you keep using 'open source' as a single binary label, you will make bad procurement decisions, bad architecture decisions, and occasionally a bad legal decision that you discover only after you have traction."
 
----
-
-### 7. AI Measurement and Evaluation Crisis
-
-**Coverage:** [Artificial Intelligence Made Simple](https://www.artificialintelligencemadesimple.com/p/ai-is-hitting-a-measurement-wall)
-
-[AI Made Simple](https://www.artificialintelligencemadesimple.com/p/ai-is-hitting-a-measurement-wall) published a thought-provoking analysis arguing that AI is hitting a "measurement wall" -- not a scaling wall.
-
-> "We've built an entire evaluation infrastructure -- benchmarks, RLHF, interpretability -- on exactly the epistemological assumptions that fail at scale... The models might be improving in dimensions we've defined out of existence." -- [Devansh, AI Made Simple](https://www.artificialintelligencemadesimple.com/p/ai-is-hitting-a-measurement-wall)
-
-The piece argues that binary measurement destroys exponentially more information than it captures, and that the metric that matters is shifting from FLOPS to Joules/Op.
-
----
-
-### 8. Thinking Machines Lab Drama
-
-**Coverage:** [Platformer](https://www.platformer.news/r/5a69b93c?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670), [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern)
-
-Two cofounders of Mira Murati's Thinking Machines Lab -- Barret Zoph and Luke Metz -- left to return to OpenAI in a dramatic departure that included allegations of misconduct.
-
-> "This highlights the extreme talent scarcity in our field. We are effectively watching a 'generative adversarial network' play out between labs, fighting over the few hundred people on Earth who truly understand post-training." -- [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern)
-
-[Platformer](https://www.platformer.news/r/5a69b93c?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670) noted Zoph was reportedly "fired and rehired by OpenAI within 58 minutes."
+The series outlined six key decisions for Q1:
+1. Where dependency is acceptable
+2. Which tasks actually need frontier capability
+3. Which layers of openness matter for what you're building
+4. How provenance and regulation map to your customers
+5. Whether fine-tuning is actually required
+6. How much operational and safety responsibility you're willing to own
 
 ---
 
-### 9. Enterprise AI Transformation: Brex Case Study
+### 7. Chinese AI Labs Surge Forward
+**Coverage:** [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern), [Turing Post](https://www.turingpost.com/p/opensource1)
 
+[TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) described a "ridiculously high-velocity week" from Chinese AI labs:
+
+**DeepSeek Engram:** A "conditional memory" module that offloads static knowledge to hash-map lookups, freeing neural networks for reasoning:
+
+> "For years, we've been forcing Transformers to do two things at once: reason (dynamic computation) and memorize (static knowledge). It's inefficient. It's like using a supercomputer to remember that 'Paris' is the capital of 'France.' You don't need a neural net for that; you need a hash map."
+
+**Baidu Ernie 5.0:** Hit #1 on LMArena for Chinese models and #8 globally, with a "unified auto-regressive native multimodal architecture."
+
+**Zhipu AI GLM-Image:** Trained entirely on Huawei Ascend chips, proving "the localized hardware stack is maturing enough to support SOTA training runs."
+
+---
+
+### 8. Brex's AI Transformation Case Study
 **Coverage:** [Latent.Space](https://www.latent.space/p/brex)
 
-[Latent.Space](https://www.latent.space/p/brex) provided an in-depth look at Brex's AI transformation, which helped the fintech company achieve a dramatic turnaround from 20% layoffs to $500M ARR.
+[Latent.Space](https://www.latent.space/p/brex) published a deep dive into how Brex accomplished "one of the most impressive turnarounds" through aggressive AI adoption, passing $500 million in annualized revenue.
 
-Key insights included Brex's "AI Fluency Levels" program requiring every employee to categorize themselves into fluency tiers, their use of the Mastra framework for TypeScript-based agents, and their new hiring process requiring candidates to use agentic coding tools:
+Key innovations include:
+- **AI Fluency Levels** (User, Aware, Proficient, Native) tied to performance reviews
+- An **"AI-native interview process"** where every engineer, including managers, had to go through it
+- A **"Quitters Welcome" recruiting initiative** targeting future founders
+- Building their **agent platform on TypeScript and the Mastra framework**
 
-> "The top Cursor user is actually an engineering manager." -- [James Reggio, Brex CTO, via Latent.Space](https://www.latent.space/p/brex)
+> "Brex strongly encourages employees to use AI tools and software that will boost their performance... What Brex does instead is to procure a small number of seats of multiple solutions and give employees the ability to pick what they want to use."
 
----
+Their COO "has pushed aggressively to help every member of the operations organization to start rethinking their role as people who are building prompts & evals to become more AI native."
 
-### 10. Chinese AI Surge and DeepSeek Innovation
-
-**Coverage:** [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern), [AlphaSignal](https://app.alphasignal.ai)
-
-[TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) covered the "Eastern Surge" in AI development, highlighting DeepSeek's "Engram" paper introducing conditional memory modules.
-
-> "For years, we've been forcing Transformers to do two things at once: reason and memorize. It's inefficient. It's like using a supercomputer to remember that 'Paris' is the capital of 'France.' You don't need a neural net for that; you need a hash map." -- [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern)
-
-Baidu's Ernie 5.0 hit #1 on the LMArena leaderboard for Chinese models, while Zhipu AI's GLM-Image was trained entirely on Huawei Ascend chips -- proving the localized hardware stack is maturing.
+An expensive initiative that didn't work: using RL for credit decisions & underwriting. After significant investment, "the end performance was actually inferior to a simple web research agent."
 
 ---
 
-### 11. Vision Pro Sports Broadcasting Disappointment
+### 9. AI Infrastructure: Resources and Scale
+**Coverage:** [SemiAnalysis](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint), [Semafor Technology](https://semafor.com/s/7USHsf6Yja), [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern)
 
-**Coverage:** [Stratechery](https://stratechery.com/2026/apple-you-still-dont-understand-the-vision-pro/)
+[SemiAnalysis](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint) published a counterintuitive analysis comparing datacenter water usage to burger production:
 
-Ben Thompson at [Stratechery](https://stratechery.com/2026/apple-you-still-dont-understand-the-vision-pro/) delivered a scathing open letter to Apple about the first live NBA broadcast on Vision Pro, arguing the company fundamentally misunderstands its own product by applying TV production techniques to immersive video.
+> "One of the largest datacenters in the world only consumes as much water as 2.5 In-N-Out's... Given there's well over 400 In-N-Out's and hundreds of thousands of other burger joints the only rational argument is that people clamoring for slowing down datacenters because of water consumption are looking at the wrong problem."
 
-> "When I'm getting yanked around from camera to camera, the experience is flat out worse than just watching on TV. Just think about it: would it be enjoyable to be teleported from sideline to baseline to baseline and back again, completely at the whim of some producer?" -- [Ben Thompson, Stratechery](https://stratechery.com/2026/apple-you-still-dont-understand-the-vision-pro/)
+[Semafor Technology](https://semafor.com/s/7USHsf6Yja) reported on Big Tech's scramble for resources:
+- Amazon buying the first US-mined copper in over a decade
+- Saudi Arabia's Maaden committing $110B in mining investment
+- BlackRock and Microsoft raising $12.5B for AI infrastructure
+- Taiwan's $250B investment deal with the US for semiconductor manufacturing
 
-Thompson argues Vision Pro needs single-camera immersive experiences, not multi-camera productions: "There should be Vision Pro cameras at every NBA game... None of these cameras need a dedicated host or announcers or production crew, because the Vision Pro isn't TV; it's actual presence, and presence is all you need."
+[TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) noted OpenAI's $10B deal with Cerebras and the $252M investment in Merge Labs for brain-computer interfaces:
+
+> "If we want to truly merge with 'Software 3.0,' we need to bypass the keyboard. It's early days--stochastic, for sure--but it's the logical next step in the stack."
 
 ---
 
-### 12. Google Universal Commerce Protocol for AI Shopping
+### 10. Healthcare AI Advances
+**Coverage:** [AlphaSignal](content/tech-ai/alphasignal/2026-01-14-google-medgemma-4b-medical-ai-58-61-ct-accuracy-boost.md), [Turing Post](content/tech-ai/turing-post/2026-01-12-fod-135-what-it-means-when-ai-labs-step-into-healthcare.md)
 
-**Coverage:** [AlphaSignal](https://app.alphasignal.ai)
+[AlphaSignal](content/tech-ai/alphasignal/2026-01-14-google-medgemma-4b-medical-ai-58-61-ct-accuracy-boost.md) covered Google's MedGemma 1.5 release for medical image processing, reporting 58-61% CT accuracy improvements.
 
-[AlphaSignal](https://app.alphasignal.ai) reported Google's launch of the Universal Commerce Protocol (UCP) with partners including Shopify, Etsy, Wayfair, Target, and Walmart. The protocol enables AI agents to complete full shopping transactions, not just make recommendations.
+[Turing Post](content/tech-ai/turing-post/2026-01-12-fod-135-what-it-means-when-ai-labs-step-into-healthcare.md) analyzed the broader implications of AI labs entering healthcare:
 
-Notable statistic: retailers process 90+ trillion tokens per month on Vertex AI, up 11x year over year.
+> "What AI is being applied to is coordination... LLMs are not making medical judgments. They mainly help bring existing information together so it can be reviewed more easily."
+
+OpenAI is extending its general assistant into healthcare, while Anthropic is taking a narrower approach focused on embedding Claude inside existing institutional workflows.
+
+---
+
+### 11. Thinking Machines Lab Drama
+
+**Coverage:** [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern), [Casey Newton](https://www.platformer.news/r/5a69b93c)
+
+Two cofounders of Mira Murati's Thinking Machines Lab -- Barret Zoph and Luke Metz -- left to return to OpenAI in a dramatic departure.
+
+[TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) observed:
+
+> "This highlights the extreme talent scarcity in our field. We are effectively watching a 'generative adversarial network' (GAN) play out between labs, fighting over the few hundred people on Earth who truly understand post-training. The 'bus factor' for AGI is terrifyingly low."
+
+Zoph was reportedly "fired and rehired by OpenAI within 58 minutes."
+
+---
+
+### 12. The Future of Code and Software Development
+
+**Coverage:** [Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85)
+
+[Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85) reflected on broader implications for the software industry, linking to several thought-provoking pieces:
+
+On Amp removing Tab completion: "The post also has a video in which Quinn and I go into a little bit more detail about why we're doing this and how the ratio of hand-written vs. generated code has flipped."
+
+On giving agents a laboratory: "Think of your codebase as an application: can the agent use it? If not, what is it missing? These models will get better, it's time to prepare for the day when you no longer need to babysit them."
+
+On the "Death of Software Development" essay: "While software development as we know it is dead, software engineering is alive and well. The role has transformed. Engineers are no longer writing software -- they're designing higher-order systems."
 
 ---
 
 ## Cross-Newsletter Patterns
 
-**The Grok Story Exposes Platform Governance Failures**: [Platformer](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670), [404 Media](https://www.404media.co/r/fc646fb8?m=d9c8ed7d-8f51-45be-865b-ff329f323410), and [Click Raven](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually) all converged on the same conclusion: Apple and Google's failure to enforce app store policies against X represents a dangerous precedent where political influence overrides safety.
+**The "Why Not" vs "What If" Divide**
+[Sam Schillace](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work) articulated a framework that explains the polarized reactions to AI coding tools:
 
-**AI Coding Tools Crossing the Chasm**: [Platformer](https://www.platformer.news/r/5a69b93c?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670), [Why Try AI](https://www.whytryai.com/p/claude-code-beginner-guide), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor), and [Changelog News](https://github.com/torvalds/AudioNoise) all documented the same phenomenon: AI coding tools are now genuinely useful for non-programmers and even converting skeptical veteran developers.
+> "These two states manifest in either telling 'why not' stories - inventing reasons why the new thing is wrong, or 'what if' stories - what happens if it is. Ordinary changes don't get this behavior, you get a much broader spread of reactions. But big category changes get 'I love it'/ 'I hate it' and not much inbetween."
 
-**Healthcare as AI's Next Frontier**: [Turing Post](https://www.turingpost.com/p/fod135) and [Platformer](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670) both noted the simultaneous moves by OpenAI and Anthropic into healthcare, interpreting it as a signal that AI capabilities have crossed a governability threshold.
+This pattern was visible across newsletters as writers documented their own conversions from skeptics to users.
 
-**Infrastructure Over Hype**: [SemiAnalysis](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint), [Latent.Space](https://www.latent.space/p/brex), and [Turing Post](https://www.turingpost.com/p/opensource1) all focused on practical infrastructure and implementation details rather than capability announcements, suggesting a maturation of the discourse.
+**Geopolitical Dimension of AI Choices**
+Both [Turing Post](https://www.turingpost.com/p/opensource1) and [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) highlighted how model selection now carries geopolitical implications. Chinese labs are producing technically competitive work while facing regulatory restrictions in Western markets. [Semafor Technology](https://semafor.com/s/7USHsf6Yja) noted DeepSeek is prohibited on U.S. government devices.
 
-**Benchmark Skepticism**: [AI Made Simple](https://www.artificialintelligencemadesimple.com/p/ai-is-hitting-a-measurement-wall) and [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) both questioned the value of traditional AI evaluation methods, arguing the industry needs to move beyond static benchmarks.
+**The Talent Wars Continue**
+[TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) described AI talent wars as a "GAN" playing out between labs, while [Latent.Space](https://www.latent.space/p/brex) documented how Brex is positioning itself as a "founder school" with their "Quitters Welcome" initiative.
+
+**Enterprise AI Adoption Maturity**
+[Latent.Space](https://www.latent.space/p/brex)'s Brex coverage and [Semafor Technology](https://semafor.com/s/7USHsf6Yja)'s corporate risk survey both suggest enterprise AI adoption is maturing from experimentation to operational integration, with companies now developing formal frameworks for AI fluency and governance.
+
+**Platform Governance Failures**
+[Casey Newton](https://www.platformer.news/r/103cfadc), [404 Media](https://www.404media.co/r/fc646fb8), and [Click Raven](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually) all converged on the same conclusion: Apple and Google's failure to enforce app store policies against X represents a dangerous precedent where political influence overrides safety.
 
 ---
 
 ## Surprising or Contrarian Takes
 
 - [SemiAnalysis](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint) arguing datacenter water concerns are "looking at the wrong problem" with the burger comparison
-- [AI Made Simple](https://www.artificialintelligencemadesimple.com/p/ai-is-hitting-a-measurement-wall) suggesting AI benchmarks systematically destroy information about capabilities
-- [Stratechery](https://stratechery.com/2026/apple-you-still-dont-understand-the-vision-pro/) arguing Vision Pro needs less production, not more: "$3,499 is a lot of money for physically uncomfortable TV; it's an absolute bargain if it's a way to experience any live experience in the world on demand"
-- [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) describing AI talent wars as a "GAN" playing out between labs
+- [Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85) questioning whether codebases can be replaced by Markdown instruction files for agents
+- [Sam Schillace](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work) predicting we "might well wind up being more busy, not less" with AI tools
+- [Latent.Space](https://www.latent.space/p/brex) revealing that Brex's RL approach for underwriting was "inferior to a simple web research agent"
+- [TheSequence](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) describing the "bus factor for AGI" as "terrifyingly low"
 
 ---
 
 ## Sources
 
-- [Apple: You (Still) Don't Understand the Vision Pro](https://stratechery.com/2026/apple-you-still-dont-understand-the-vision-pro/) -- Stratechery
-- [Grok Is Out of Control. Will Apple and Google Act?](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually) -- Click Raven
-- [AI Porn Chatbots Isolate Us All](https://www.404media.co/r/fc646fb8?m=d9c8ed7d-8f51-45be-865b-ff329f323410) -- 404 Media
-- [Google launches Universal Commerce Protocol for AI shopping agents](https://app.alphasignal.ai) -- AlphaSignal
-- [Linus Torvalds gets the AI coding bug](https://github.com/torvalds/AudioNoise) -- Changelog News
-- [What It Means When AI Labs Step Into Healthcare](https://www.turingpost.com/p/fod135) -- Turing Post
-- [Grok gets blocked](https://www.platformer.news/r/103cfadc?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670) -- Platformer
-- [Claude Code for writers](https://www.platformer.news/r/5a69b93c?m=5fdc9f67-a5ab-42ee-ab4f-91ba7b47c670) -- Platformer
-- [From Tokens to Burgers: A Water Footprint Face-Off](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint) -- SemiAnalysis
-- [Brex's AI Hail Mary](https://www.latent.space/p/brex) -- Latent.Space
-- [AI is Hitting a Measurement Wall](https://www.artificialintelligencemadesimple.com/p/ai-is-hitting-a-measurement-wall) -- Artificial Intelligence Made Simple
+- [Joy & Curiosity #70](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85) -- Thorsten Ball
+- [The hard part isn't doing the work now; it's choosing the work](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work) -- Sam Schillace
+- [Claude Code for Writers](https://www.platformer.news/r/5a69b93c) -- Casey Newton
+- [Grok Gets Blocked](https://www.platformer.news/r/103cfadc) -- Casey Newton
+- [Claude Code for the Rest of Us](https://www.whytryai.com/p/claude-code-beginner-guide) -- Daniel (Why Try AI)
 - [Mastering Open Source AI in 2026](https://www.turingpost.com/p/opensource1) -- Turing Post
-- [The non-technical PM's guide to building with Cursor](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor) -- Lenny's Newsletter
-- [The Eastern Surge & The Silicon Valley Shuffle](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) -- TheSequence
-- [Claude Code for the Rest of Us](https://www.whytryai.com/p/claude-code-beginner-guide) -- Why Try AI
+- [The Sequence Radar #791: The Eastern Surge](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern) -- TheSequence
+- [Brex's AI Hail Mary](https://www.latent.space/p/brex) -- Latent.Space
+- [The Future of War](https://semafor.com/s/7USHsf6Yja) -- Semafor Technology
+- [Police Unmask Millions of Surveillance Targets](https://www.404media.co/r/0f53e8ae) -- 404 Media
+- [ELITE: The Palantir App ICE Uses](https://www.404media.co/r/beead576) -- 404 Media
+- [AI Porn Chatbots Isolate Us All](https://www.404media.co/r/fc646fb8) -- 404 Media
+- [First Impressions of Claude Cowork](content/tech-ai/simon-willison-from-simon-willison-s-new/2026-01-13-first-impressions-of-claude-cowork-anthropic-s-general-agent.md) -- Simon Willison
+- [Anthropic Cowork: Claude Agents for File Workflows](content/tech-ai/alphasignal/2026-01-13-anthropic-cowork-claude-agents-for-file-workflows-64k-likes.md) -- AlphaSignal
+- [Google MedGemma](content/tech-ai/alphasignal/2026-01-14-google-medgemma-4b-medical-ai-58-61-ct-accuracy-boost.md) -- AlphaSignal
+- [From Tokens to Burgers: Water Footprint](https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint) -- SemiAnalysis
+- [The Non-Technical PM's Guide to Cursor](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor) -- Lenny's Newsletter
+- [Read Our Biggest Stories](content/tech-ai/the-verge/2026-01-17-read-our-biggest-and-best-stories-of-the-week.md) -- The Verge
+- [What It Means When AI Labs Step Into Healthcare](content/tech-ai/turing-post/2026-01-12-fod-135-what-it-means-when-ai-labs-step-into-healthcare.md) -- Turing Post
+- [Grok Is Out of Control](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually) -- Click Raven
+- [Interconnects Beyond Copper](content/tech-ai/semianalysis/2026-01-13-interconnects-beyond-copper-1-000-cfets-sk-hynix-next-gen-na.md) -- SemiAnalysis
