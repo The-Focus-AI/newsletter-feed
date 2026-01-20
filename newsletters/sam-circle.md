@@ -1,6 +1,6 @@
 ---
 name: "Sam Circle"
-category: tech-ai
+category: culture
 email_patterns:
   - lastweeksnewyorker@buttondown.email
 ---

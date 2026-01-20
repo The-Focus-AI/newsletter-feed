@@ -2,25 +2,41 @@
 
 ## Executive Summary
 
-Week 04 (still early in the week with limited coverage) was dominated by escalating transatlantic tensions over Trump's Greenland ambitions. [Bloomberg Weekend](https://bloom.bg/3BMztSF) reported gold and silver surging to record highs while US futures tumbled on trade war fears, as Germany warned Trump had "reached a red line" and the EU prepared €93 billion in retaliatory tariffs. Meanwhile, [ChinaTalk](https://www.chinatalk.media/p/zhipu-and-minimax-ipo) provided deep analysis of China's first two AI company IPOs—Zhipu and MiniMax—revealing fundamental differences in their approaches to state involvement and business models.
+Week 04 was dominated by Trump's escalating Greenland gambit, which rattled markets and threatened to tear NATO apart. [Bloomberg Weekend](https://bloom.bg/3BMztSF) reported gold surging to record highs while European stocks tumbled as Germany warned Trump had crossed a "red line." Meanwhile, [Citation Needed](https://www.citationneeded.news/issue-99/) exposed how the cryptocurrency industry has effectively "bought themselves a Congress" through $130M+ in campaign contributions, with Coinbase's CEO able to cancel Senate hearings by withdrawing support.
 
-On the technology front, [Sam Schillace](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work) offered a philosophical meditation on the emerging "attention saturation" problem: as AI makes starting work trivial, the bottleneck shifts to human review capacity. "The hard part isn't doing the work now; it's choosing the work."
+On the technology front, [404 Media](https://www.404media.co/r/be07145c?m=d9c8ed7d-8f51-45be-865b-ff329f323410) exposed critical accuracy failures in ICE's facial recognition app—returning two different wrong names for the same detained woman. [AlphaSignal](https://app.alphasignal.ai) documented xAI's landmark 1-gigawatt Colossus 2 training cluster, drawing more power than San Francisco at peak demand. [ChinaTalk](https://www.chinatalk.media/p/zhipu-and-minimax-ipo) provided deep analysis of China's first two AI IPOs, revealing that "the AI girlfriend business has razor-thin margins."
 
 ---
 
-## Top Stories
+## Top Stories Across All Categories
 
-### 1. Trump's Greenland Gambit Rattles Markets
-Trump's aggressive pursuit of Greenland escalated from rhetoric to concrete economic threats. Treasury Secretary Scott Bessent doubled down on the position, signaling sustained policy direction. The consequences extend beyond Greenland itself—potentially "tearing NATO apart," as The Economist put it.
+### 1. Trump's Greenland Gambit Threatens NATO
+Trump's sustained campaign to acquire Greenland through tariffs rattled allies and markets alike. Germany warned he'd crossed a "red line," the EU prepared €93 billion in retaliation, and some German politicians floated boycotting the World Cup. Chinese officials were reportedly "gleefully anticipating Europe's humiliation."
 
-### 2. China's AI IPO Moment
-Zhipu and MiniMax became the world's first two pure-play AI companies to go public. [ChinaTalk](https://www.chinatalk.media/p/zhipu-and-minimax-ipo) revealed stark differences: Zhipu as a "state-fund darling" with Tsinghua roots targeting B2B/government, versus MiniMax's consumer focus with its 20-million-user AI companion app Talkie. Most striking: "The AI girlfriend business has razor-thin margins. The average customer spent only US$5 in the first nine months of 2025."
+### 2. Crypto Industry's Congressional Capture
+Coinbase CEO Brian Armstrong withdrew support for a Senate crypto bill, and the hearing was immediately canceled. Senator Warren: "Evidently, the industry writes the bill and if anybody has the nerve to slightly amend it, the industry says that the whole thing is off."
 
-### 3. The Attention Saturation Problem
-[Sam Schillace](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work) argued we're at a critical AI inflection point similar to the early internet's maturation. The surprising consequence of effective AI agents isn't reduced workload but attention bottlenecks—"You will have as many things going on as you can pay attention to."
+### 3. ICE Facial Recognition Failures
+Court testimony revealed ICE's Mobile Fortify app returned two different incorrect names when scanning the same detained woman. The EFF noted ICE has treated it "like it's a 100% accurate record retrieval system... when this could never be true from a technical perspective."
 
-### 4. Religious Desecration as Political Threshold
-[Rod Dreher](https://roddreher.substack.com/p/minnesota-church-attack-and-civil) analyzed the disruption of a Minneapolis Baptist church service as a critical escalation point, drawing historical parallels to Weimar Germany and the Spanish Civil War.
+### 4. xAI's Gigawatt-Scale AI Cluster
+xAI activated Colossus 2, the first operational 1-gigawatt AI training cluster with 555,000 GPUs purchased for ~$18B. Training frontier models now bottlenecks on power availability rather than just compute access.
+
+### 5. Elizabeth Tsurkov's Kidnapping Account
+[The Atlantic](https://www.theatlantic.com/international/2026/01/kidnapped-baghdad/685470/) published the researcher's harrowing firsthand account: "I was kidnapped by idiots"—offering rare insight into authoritarian brutality.
+
+---
+
+## Cross-Category Themes
+
+### Institutional Capture
+From crypto's control of Congress to AI's demands on electrical grids, this week highlighted how new industries reshape institutions to serve their interests.
+
+### Verification Failures
+ICE's facial recognition errors and the gap between AI hype and AI reality (China's $5/user AI girlfriend margins) revealed systemic trust problems.
+
+### Transatlantic Fracture
+Trump's Greenland demands, combined with European retaliation threats, suggest a fundamental realignment in US-Europe relations.
 
 ---
 
@@ -28,12 +44,13 @@ Zhipu and MiniMax became the world's first two pure-play AI companies to go publ
 
 | Category | Report | Key Topics |
 |----------|--------|------------|
-| Tech & AI | [tech-ai.md](tech-ai.md) | Attention saturation, AI maturation parallels to early internet, taste as core skill |
-| Politics | [politics.md](politics.md) | Greenland tensions, Chinese AI IPOs, immigration enforcement, media pressure |
-| Philosophy | [philosophy.md](philosophy.md) | Church attack analysis, Weimar parallels, sacred space and identity |
-| Personal | [personal.md](personal.md) | Arctic blast warning, New England ski conditions |
-| Misc | [misc.md](misc.md) | Canadian political culture, transatlantic trade tensions |
-
----
-
-*Note: Week 04 coverage is still early (January 19 only). This rollup will be updated as the week progresses.*
+| Tech & AI | [tech-ai.md](tech-ai.md) | ICE facial recognition failures, xAI's gigawatt cluster, OpenAI ads, agent psychosis |
+| Politics | [politics.md](politics.md) | Greenland crisis, crypto congressional capture, China AI IPOs, Minneapolis ICE clashes |
+| Culture | [culture.md](culture.md) | New Yorker reviews, NYC experimental theater, boredom-creativity myth debunked |
+| Books | [books.md](books.md) | Thriller promotion (limited coverage) |
+| Philosophy | [philosophy.md](philosophy.md) | MLK's Socratic roots, Weimar America warnings, sacred space violations |
+| Science | [science.md](science.md) | Consistency redefined, ice bath research, friction-maxxing trend |
+| Business | [business.md](business.md) | Teresa Torres's Claude Code system, AI productivity workflows |
+| Personal | [personal.md](personal.md) | Arctic blast warning (-55°F windchills), New England ski conditions |
+| Misc | [misc.md](misc.md) | GM's EV push, EU-Mercosur trade deal, Canadian politics |
+| Uncategorized | [uncategorized.md](uncategorized.md) | MLK Day civil rights critique, Claudette Colvin's forgotten story |

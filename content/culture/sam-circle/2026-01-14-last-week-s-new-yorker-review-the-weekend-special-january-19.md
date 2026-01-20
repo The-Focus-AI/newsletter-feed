@@ -2,7 +2,7 @@
 id: 19bbe3d934bc0609
 newsletter: sam-circle
 newsletter_name: "Sam Circle"
-category: tech-ai
+category: culture
 subject: "Last Week's New Yorker Review: ⏰ The Weekend Special (January 19)"
 date: Wed, 14 Jan 2026 20:41:03 +0000
 source_url: "https://buttondown.com/lastweeksnewyorker/archive/last-weeks-new-yorker-review-the-weekend-special-9120/"

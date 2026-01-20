@@ -6,17 +6,20 @@ A system for downloading, organizing, and analyzing newsletter emails from Gmail
 
 ### [Week 04](week/04/index.md) — January 19-25, 2026
 
-*Early week coverage (January 19 only)*
-
-Top stories: Trump's Greenland gambit rattles markets, China's first AI IPOs (Zhipu & MiniMax), attention saturation in the AI age.
+Top stories: Trump's Greenland gambit threatens NATO, crypto industry captures Congress, ICE facial recognition failures exposed, xAI's gigawatt-scale AI cluster, Elizabeth Tsurkov's kidnapping account.
 
 | Category | Summary |
 |----------|---------|
-| [Tech & AI](week/04/tech-ai.md) | Attention saturation problem, AI maturation parallels to early internet |
-| [Politics](week/04/politics.md) | Greenland tensions, Chinese AI IPOs, trade war fears |
-| [Philosophy](week/04/philosophy.md) | Minneapolis church disruption, Weimar parallels |
+| [Tech & AI](week/04/tech-ai.md) | ICE facial recognition failures, xAI gigawatt cluster, OpenAI ads, agent psychosis |
+| [Politics](week/04/politics.md) | Greenland crisis, crypto congressional capture, China AI IPOs, Minneapolis clashes |
+| [Culture](week/04/culture.md) | New Yorker reviews, NYC experimental theater, boredom-creativity myth |
+| [Books](week/04/books.md) | Thriller promotion (limited coverage) |
+| [Philosophy](week/04/philosophy.md) | MLK's Socratic roots, Weimar America warnings |
+| [Science](week/04/science.md) | Consistency redefined, ice bath research |
+| [Business](week/04/business.md) | Teresa Torres's Claude Code system |
 | [Personal](week/04/personal.md) | Arctic blast warning, New England ski conditions |
-| [Misc](week/04/misc.md) | Canadian political culture, transatlantic tensions |
+| [Misc](week/04/misc.md) | GM's EV push, EU-Mercosur trade deal |
+| [Uncategorized](week/04/uncategorized.md) | MLK Day civil rights critique |
 
 ---
 
