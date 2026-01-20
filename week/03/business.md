@@ -1,16 +1,37 @@
-# Week 03 Business Newsletter Analysis (January 13-19, 2026)
+# Week 03 Business Newsletter Analysis (January 12-18, 2026)
 
 ## Overview
 
-This week's business newsletters converged on two major themes: the transformative impact of AI coding tools on product development, and unconventional approaches to building sustainable businesses. [Lenny's Newsletter](https://www.lennysnewsletter.com/p/silicon-valleys-missing-etiquette-playbook) explored how non-technical founders can now build real products using AI, while [Kevin Xu @ Interconnected](https://interconnected.blog/r/5907b444?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) argued that DeepSeek's lack of a business model is actually its greatest competitive advantage. Meanwhile, [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers) provided a deep dive into design systems, and [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) analyzed the economics of Venezuelan oil extraction.
+This week's business newsletters converged on the transformative impact of AI tools and unconventional business strategies. [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users) featured OpenAI's Codex product lead revealing that power users achieve 70% more productivity, while [Kevin Xu @ Interconnected](https://interconnected.blog/r/5907b444?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) argued that DeepSeek's lack of a business model is actually its greatest competitive advantage. [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers) provided a comprehensive guide to design systems that transform product quality, and [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) analyzed why Venezuela's oil remains economically unviable despite geopolitical interest.
 
 ---
 
 ## Major Topics and Stories
 
-### 1. AI-Powered Product Development for Non-Technical People
+### 1. OpenAI Codex Power User Workflows
 
-**Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/silicon-valleys-missing-etiquette-playbook)
+**Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users)
+
+[Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users) featured Alexander Embiricos, the product lead for Codex at OpenAI, revealing how AI coding agents dramatically increase developer productivity. The productivity gap is striking: when roughly half of OpenAI was using Codex, those users produced about 70% more pull requests than non-users.
+
+> "We're now at the point where nearly all of technical staff is using Codex constantly." — [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users)
+
+Key workflows that make Codex effective at scale include:
+- **Structured planning with Plans.md:** A meta-plan template that helps Codex create thorough, milestone-based plans (used to build the Sora Android app in just 28 days)
+- **Parallel development using Git worktrees:** Allows one Git instance to track multiple copies of the codebase
+- **Automated code review:** Now enabled on nearly every OpenAI repo, with high hit rates due to confidence thresholds
+
+The new GPT-5.2 model showed dramatic improvements, solving problems previous models couldn't. Embiricos cited a bug that "fought for 37 minutes" before identifying and fixing it—something earlier models couldn't accomplish.
+
+Perhaps most significantly, the limiting factor has shifted:
+
+> "Now that we can just have ubiquitous code and we can basically prototype things trivially, the hard parts become deciding what actually should make it in, thinking what a product should do, knowing a customer actually." — [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users)
+
+Context matters more than clever prompts, and product managers often make the best prompters because they're used to providing comprehensive context.
+
+### 2. AI-Powered Product Development for Non-Technical People
+
+**Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor)
 
 The democratization of software development through AI tools was a central theme this week. [Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor) featured Zevi Arnovitz, a product manager at Meta with no technical background who has developed a complete workflow for building real products using Cursor. His approach is so effective that his engineering team at Meta asks him to teach them.
 
@@ -23,7 +44,7 @@ Key insights from the episode include:
 
 The episode referenced explosive growth in AI coding tools, including Bolt's rise from near-death to approximately $40M ARR in 5 months, and Lovable's $10M ARR achievement in just 60 days with 15 people.
 
-### 2. DeepSeek's "No Business Model" Advantage
+### 3. DeepSeek's "No Business Model" Advantage
 
 **Coverage:** [Kevin Xu @ Interconnected](https://interconnected.blog/r/5907b444?m=13ee6092-18b4-4710-96ca-c96c6fd588dd)
 
@@ -41,7 +62,7 @@ The organizational benefits of avoiding outside funding include:
 
 Xu cited Ilya Sutskever's observation that breakthrough AI research doesn't necessarily require massive compute: "AlexNet was built on two GPUs... The transformer was built on 8 to 64 GPUs."
 
-### 3. Design Systems for Engineering Teams
+### 4. Design Systems for Engineering Teams
 
 **Coverage:** [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers)
 
@@ -59,7 +80,7 @@ Key benefits of design systems for engineering teams:
 
 The article also addressed AI's limitations in this space: while AI can help with many tasks, generating a consistent design system isn't one of them.
 
-### 4. Silicon Valley's Missing Etiquette Playbook
+### 5. Silicon Valley's Missing Etiquette Playbook
 
 **Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/silicon-valleys-missing-etiquette-playbook)
 
@@ -72,7 +93,7 @@ Lessin's framework centers on "showing up in any room with a low heart rate" to 
 
 The timing reflects a shift: as technology becomes more central to society, the ability to build trust through traditional social graces has become increasingly valuable.
 
-### 5. The Economics of Venezuelan Oil
+### 6. The Economics of Venezuelan Oil
 
 **Coverage:** [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle)
 
@@ -92,7 +113,7 @@ The technical challenges are significant. As Nigel Harris explained:
 
 ExxonMobil CEO Darren Woods was quoted as saying the situation is "uninvestable" given that oil companies have had assets seized there twice.
 
-### 6. Creator Business Strategy and Planning
+### 7. Creator Business Strategy and Planning
 
 **Coverage:** [Jay Clouse](content/business/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md)
 
@@ -104,7 +125,7 @@ The key insight: each scheduled tentpole event (Town Hall, mastermind matching, 
 
 The newsletter also featured an interview with Paul Millerd, author of The Pathless Path, who turned down a $200K book deal from Penguin to self-publish. The book has earned $325,000 in royalties to date.
 
-### 7. Personal Optimization and Productivity
+### 8. Personal Optimization and Productivity
 
 **Coverage:** [Tim Ferriss](content/business/tim-ferriss/2026-01-14-new-from-tim-how-to-use-ketosis-for-enhanced-mood-cognition-.md), [Tim Ferriss](content/business/tim-ferriss/2026-01-17-5-bullet-friday-the-wild-west-of-prediction-markets-learning.md)
 
@@ -148,6 +169,7 @@ AI appeared across multiple contexts: as a coding assistant enabling non-technic
 
 ## Sources
 
+- [This week on How I AI: The power user's guide to Codex](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users) — Lenny's Newsletter
 - [Design Systems for Software Engineers](https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers) — The Pragmatic Engineer
 - [Is Venezuela's Oil Worth the Hassle?](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle) — Uncharted Territories
 - [How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection](content/business/tim-ferriss/2026-01-14-new-from-tim-how-to-use-ketosis-for-enhanced-mood-cognition-.md) — Tim Ferriss

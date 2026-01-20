@@ -1,64 +1,70 @@
-# Week 03 Science Newsletter Analysis (January 13-19, 2026)
+# Week 03 Science Newsletter Analysis (January 12-18, 2026)
 
 ## Overview
 
-Week 03 had limited science-category content, with only one article from [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md) falling within the date range. Notably, this newsletter focuses on creator business and productivity rather than traditional science topics, suggesting a potential category reassignment may be warranted. The week's content centered on productivity planning, calendar management, and self-publishing economics.
+Week 03 science coverage was limited but focused, with [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) exposing the "protein inflation" scam in the supplement industry. Casey Johnston delivered a comprehensive breakdown of how collagen—essentially "meat garbage" with minimal nutritional value—is being used to artificially inflate protein counts on nutrition labels, misleading consumers who are trying to build muscle or meet protein intake goals.
 
 ---
 
 ## Major Topics and Stories
 
-### 1. Productivity Planning and Overcoming Procrastination
+### 1. The Collagen Protein Scam
 
-**Coverage:** [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md)
+**Coverage:** [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
-Jay Clouse shared a personal reflection on overcoming procrastination around annual planning. After avoiding a simple task for three months, he discovered it only took 30 minutes to complete his 2026 calendar for "The Lab" community.
+Casey Johnston exposed a growing trend in the supplement and food industries: using collagen to inflate protein numbers on nutrition labels while providing minimal nutritional benefit. The analysis reveals that collagen, while technically counted as protein on labels due to its amino acid content, cannot meaningfully contribute to muscle synthesis or complete protein intake.
 
-> "It felt like this formalization of my creativity. Plans are constraining! I just want to be punk rock!" — [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md)
+> "Collagen is not only not a complete protein, like most protein powders made of, say, whey. As far as plane parts, it's like a giant pile of the metal panels that make the underside of one part of a wing." — [Casey Johnston, She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
-The newsletter outlined key scheduled events including quarterly mastermind matching, bi-annual Lab Reports, an Offline event (June 8-9), and a first-ever Christmas party. Clouse emphasized that calendar planning enables better marketing campaigns by creating "moments of genuine urgency" for evergreen memberships.
+The investigation highlighted specific products engaging in this practice:
 
-Key insight: Tasks that become "mountains in our minds" often take far less time than anticipated once actually started.
+- **Mel Robbins' "Pure Genius" protein shot**: Claims 23 grams of protein, but 7 grams are collagen, leaving only 16 grams of useful protein
+- **Sturdy Sauce pasta sauce**: Claims 20 grams of protein per serving, but the % Daily Value figure reveals only 7.5 grams are complete protein—the rest is "hydrolyzed bovine bone broth isolate" (collagen)
 
-### 2. Self-Publishing vs Traditional Publishing Economics
+[She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) explained the technical reason why this matters: collagen lacks the balanced amino acid profile needed for muscle protein synthesis. While complementary proteins (like rice and beans) can "complete" each other when consumed together, collagen's amino acid composition means it can only be completed by proteins that already provide all essential amino acids—making the collagen redundant at best.
 
-**Coverage:** [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md)
+The article also referenced a viral YouTube video showing third-party analysis of a protein powder that turned out to be "mainly flour and sugar" rather than the protein claimed on the label.
 
-The newsletter featured a podcast episode with Paul Millerd, author of "The Pathless Path," who turned down a $200K book deal from Penguin to self-publish. The decision has paid off: Millerd has earned $325,000 in royalties to date and recently released an ultra-premium hardcover edition.
+### 2. Understanding Nutrition Labels and Protein Quality
 
-The discussion covered:
-- The economics of traditional vs. self-publishing
-- The "dark side" of traditional publishing
-- What kind of deal would have been worth taking
-- When traditional publishing actually makes sense
+**Coverage:** [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
-**Surprising Element**: Millerd's self-publishing royalties ($325K) significantly exceeded the traditional publishing advance he declined ($200K), challenging conventional wisdom about the value of major publisher deals.
+[She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) provided valuable consumer education on how to read nutrition labels to identify collagen-inflated products. The key insight: while any essential amino acid content counts toward the protein grams on a label, the "% Daily Value" figure only counts complete proteins.
 
-### 3. Membership Business Urgency Mechanics
+> "This is why nutrition labels usually won't even bother putting % Daily Value figures on collagen-based products: It makes them look bad." — [Casey Johnston, She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
 
-**Coverage:** [Jay Clouse](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md)
+For complete proteins like milk, cheese, or chicken, the math is direct: 25 grams of protein equals 50% of the Daily Value. But for incomplete proteins or collagen-heavy products, the % Daily Value will be significantly lower than expected based on the gram count—revealing the deception.
 
-Clouse explored three well-known methods for driving membership signups:
-- **Scarcity**: Limiting the number of people who can join
-- **Urgency**: A looming deadline necessitating immediate decision
-- **Status**: Membership building self-esteem or esteem in others' eyes
+Johnston used the "plane parts" analogy to explain protein completeness: whey protein is like a complete, ready-to-fly plane. Rice and beans are complementary parts that together make a plane. But collagen is just "a giant pile of the metal panels that make the underside of one part of a wing"—useless on its own and only completable by proteins that are already complete anyway.
 
-For evergreen memberships without open/close launch cycles, creating genuine urgency becomes the biggest challenge. Clouse's solution involves invitation-only access and timed events like Town Halls and mastermind matching.
+### 3. Regulatory Failures and Consumer Protection
+
+**Coverage:** [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc)
+
+[She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) outlined the systemic regulatory failures that allow supplement fraud to flourish in the United States. The newsletter noted that it's "far too easy in this country to 'start a company' with a P.O. box and an LLC filing, fill up a bunch of tubs with sawdust, print whatever you want on the nutrition labels, go 'whoops, haha!' when regulators come calling (an increasingly unlikely event these days), and vanish in a puff of smoke."
+
+The analysis connected this to broader governmental dysfunction, referencing a Bloomberg piece about how "America's statistical system is breaking down"—noting that "no one knows what is going on with economics or food or health or jobs anymore, because the government has stopped caring and no longer collects information about these things."
+
+Johnston's recommendation for consumers: stick with "very large, established, old companies" for supplements, or better yet, get protein from whole foods, which remains "very possible" even for those strength training to build muscle.
 
 ---
 
 ## Cross-Newsletter Patterns
 
-With only one newsletter article in the science category for Week 03, no cross-newsletter patterns can be identified. The category would benefit from additional science-focused newsletters to provide meaningful comparative analysis.
+With only one science-focused newsletter in Week 03, cross-newsletter patterns are limited. However, the themes in [She's A Beast](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) connect to broader trends that may appear across other categories this week:
+
+- **Consumer protection failures**: The collagen scam parallels regulatory breakdown themes appearing in political and economic coverage
+- **Data literacy**: The emphasis on reading nutrition labels critically (especially the % Daily Value vs. gram counts) reflects growing need for scientific literacy in everyday consumer decisions
+- **Corporate deception**: The supplement industry's use of technically-legal-but-misleading labeling practices represents a case study in how companies exploit regulatory gaps
 
 ---
 
 ## Editorial Notes
 
-The "Jay Clouse" / "Creator Science" newsletter appears to focus primarily on creator economy topics (content creation, membership businesses, marketing strategies, productivity) rather than traditional science. This content may be better suited for a "business" or "creator-economy" category. Future newsletter categorization should consider whether the publication's primary focus aligns with the assigned category.
+The science category had limited coverage this week. One article from Jay Clouse (Creator Science) was dated January 18 but focuses on creator economy topics rather than traditional science, suggesting that newsletter may benefit from recategorization to business or personal development categories in future weeks.
 
 ---
 
 ## Sources
 
-- [The most useful 30 minutes of my week](content/science/jay-clouse/2026-01-18-the-most-useful-30-minutes-of-my-week.md) — Jay Clouse (January 18, 2026)
+- [protein inflation is here](https://www.shesabeast.co/r/b1c2d016?m=71f42b59-5c9c-43d4-809b-fcdf1c3ac9cc) — She's A Beast, Casey Johnston (January 12, 2026)
