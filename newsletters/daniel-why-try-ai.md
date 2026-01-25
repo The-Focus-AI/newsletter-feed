@@ -3,6 +3,7 @@ name: "Daniel (Why Try AI)"
 category: tech-ai
 email_patterns:
   - whytryai@substack.com
+  - whytryai+10x-ai@substack.com
 ---
 
 # Daniel (Why Try AI)

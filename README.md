@@ -6,19 +6,19 @@ A system for downloading, organizing, and analyzing newsletter emails from Gmail
 
 ### [Week 04](week/04/index.md) — January 19-25, 2026
 
-Top stories: Trump's Greenland gambit threatens NATO, crypto industry captures Congress, ICE facial recognition failures exposed, xAI's gigawatt-scale AI cluster, Elizabeth Tsurkov's kidnapping account.
+Top stories: Minneapolis ICE crisis (two US citizens killed), Trump's Greenland gambit rattles NATO, xAI's 1-gigawatt Colossus 2 cluster, FastRender browser built by 2,000+ AI agents, crypto industry's congressional capture exposed.
 
 | Category | Summary |
 |----------|---------|
-| [Tech & AI](week/04/tech-ai.md) | ICE facial recognition failures, xAI gigawatt cluster, OpenAI ads, agent psychosis |
-| [Politics](week/04/politics.md) | Greenland crisis, crypto congressional capture, China AI IPOs, Minneapolis clashes |
-| [Culture](week/04/culture.md) | New Yorker reviews, NYC experimental theater, boredom-creativity myth |
-| [Books](week/04/books.md) | Thriller promotion (limited coverage) |
-| [Philosophy](week/04/philosophy.md) | MLK's Socratic roots, Weimar America warnings |
+| [Tech & AI](week/04/tech-ai.md) | xAI Colossus 2, FastRender, inference infrastructure race, Claude Code at Microsoft, Qwen3-TTS |
+| [Politics](week/04/politics.md) | Minneapolis ICE crisis, Greenland/Davos, crypto capture, 2026 midterm outlook |
+| [Culture](week/04/culture.md) | Minneapolis resistance, media propaganda analysis, Scott Adams death, influencer creep |
+| [Books](week/04/books.md) | Henry Adams's *Democracy*, defense of humanities, Gertrude Stein coverage |
+| [Philosophy](week/04/philosophy.md) | Socrates to MLK civil disobedience, Weimar America warnings, Electra and letting go |
 | [Science](week/04/science.md) | Consistency redefined, ice bath research |
-| [Business](week/04/business.md) | Teresa Torres's Claude Code system |
-| [Personal](week/04/personal.md) | Arctic blast warning, New England ski conditions |
-| [Misc](week/04/misc.md) | GM's EV push, EU-Mercosur trade deal |
+| [Business](week/04/business.md) | Teresa Torres's Claude Code system, AI productivity paradox, AI in 2026 trajectory |
+| [Personal](week/04/personal.md) | Historic winter storm, -80°F windchills on Mt. Washington |
+| [Misc](week/04/misc.md) | Trump at Davos, deported mother story, GM EVs, deep reading manifesto |
 | [Uncategorized](week/04/uncategorized.md) | MLK Day civil rights critique |
 
 ---

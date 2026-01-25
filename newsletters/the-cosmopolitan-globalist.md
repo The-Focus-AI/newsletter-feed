@@ -3,6 +3,8 @@ name: "The Cosmopolitan Globalist"
 category: politics
 email_patterns:
   - claireberlinski@substack.com
+  - claireberlinski+critical-conditions@substack.com
+  - claireberlinski+middle-east-101@substack.com
 ---
 
 # The Cosmopolitan Globalist

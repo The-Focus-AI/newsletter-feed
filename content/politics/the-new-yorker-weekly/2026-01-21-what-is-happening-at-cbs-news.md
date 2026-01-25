@@ -1,0 +1,159 @@
+---
+id: 19bddf663b099bad
+newsletter: the-new-yorker-weekly
+newsletter_name: "The New Yorker Weekly"
+category: politics
+subject: "What Is Happening at CBS News?"
+date: Tue, 20 Jan 2026 19:31:06 -0500 (EST)
+source_url: "https://link.newyorker.com/view/5bea16dd3f92a40469736b16pzeyl.783k/10a38826"
+---
+
+# What Is Happening at CBS News?
+
+**From:** The New Yorker Weekly <newyorker@newsletter.newyorker.com>
+**Date:** Tue, 20 Jan 2026 19:31:06 -0500 (EST)
+**Source:** [View original](https://link.newyorker.com/view/5bea16dd3f92a40469736b16pzeyl.783k/10a38826)
+
+---
+
+The New Yorker Weekly Newsletter
+
+Clare Malone on Bari Weiss. Plus: how Jennifer Welch became a &#x201C;dark woke&#x201D; hero; and the A.I. porn problem.
+
+[
+View in browser
+](https://link.newyorker.com/view/5bea16dd3f92a40469736b16pzeyl.783k/10a38826)
+|
+[
+Update your preferences
+](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyL21hbmFnZT9zaWQ9TldKbFlURTJaR1F6WmpreVlUUXdORFk1TnpNMllqRTImdXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDEyMDI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16B678ce4cb)
+
+The New Yorker&#x2019;s award-winning journalism is made possible by our subscribers. [Become one today &#xBB;](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS92Mi9vZmZlcnMvbnlyX25ld3NsZXR0ZXJfY21fdW5pdD9zb3VyY2U9RW1haWxfMF9FRFRfTllSX05FV1NMRVRURVJfMF9JTkxJTkVfQ1RBXzAmdXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDEyMDI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16B6eda3cc0)
+
+In today&#x2019;s edition: Clare Malone goes inside a chaotic relaunch at CBS News. Plus: how Jennifer Welch became a &#x201C;dark woke&#x201D; hero; and the A.I. porn problem. [Jump to a complete list of what&#x2019;s in this week&#x2019;s issue](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B7e55e857).
+
+Clare Malone
+
+A contributing writer covering the media business, journalism, and politics.
+
+I was not yet born when Walter Cronkite sat down for his last broadcast as the anchor of the &#x201C;CBS Evening News,&#x201D; in 1981, but, of course, somehow, he has always been famous to me. In high-school history class we covered the seminal moment when, in 1968, he declared Vietnam to be an unwinnable war, an inflection point in the public&#x2019;s souring on the conflict. That lesson would have come near the height of the Iraq War, around the time when Cronkite&#x2019;s successor, Dan Rather, was mired in a journalism scandal; he had relied on what turned out to be false documents to cast doubt on George W. Bush&#x2019;s service in the Texas Air National Guard. More than a decade later, as I reported on Donald Trump&#x2019;s improbable win in the 2016 G.O.P. primary, I talked to one Republican who said that it was the &#x201C;Rathergate&#x201D; scandal that had cemented his distrust of the mainstream media. I was struck that he could pinpoint the moment so precisely.
+
+Photograph by Mark Peterson / Redux for The New Yorker
+
+Last fall, the media mogul David Ellison, the new owner of CBS, announced that he had named Bari Weiss, the forty-one-year-old founder of an anti-woke publication called The Free Press, to be editor-in-chief of CBS News. Even in an era beset with shocking developments, this one shocked people. Weiss had come up in journalism on the opinion side of newspapers&#x2014;not as a traditional reporter&#x2014;and she had only ever managed a small startup. Now she was inheriting the institution not only of Cronkite and Rather but of the news juggernaut &#x201C;60 Minutes,&#x201D; as well. Ellison had complex entertainment mergers that still needed government approval, and was keen to assuage President Trump, who had sued &#x201C;60 Minutes&#x201D; during the last Presidential election, and who later received a sixteen-million-dollar payout from Paramount, the then owner of CBS.
+
+Weiss, [as I report in this week&#x2019;s issue](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzAxLzI2L2luc2lkZS1iYXJpLXdlaXNzcy1ob3N0aWxlLXRha2VvdmVyLW9mLWNicy1uZXdzP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXRueSZ1dG1fbWFpbGluZz1UTllfV2Vla2x5XzAxMjAyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPXRueV93ZWVrbHlfZGlnZXN0JmJ4aWQ9NWJlYTE2ZGQzZjkyYTQwNDY5NzM2YjE2JmNuZGlkPTIyNzY5NjEyJmhhc2hhPWNlZTY4ZWY0OWUxZTA3ZGRhNDcxZGJjNzJhMjA1N2M2Jmhhc2hiPWVjZDkyYjU3ZGE0ODkzNTQ4ZGZlMTA2NTZiZDk0ZDJhN2ZlNzI5YzMmaGFzaGM9NzI1NTZjZDNmNWVkYzM2MDhlNTFmMWYyZDMwNGVjNzE4MDYzMzNlOGNjMTg4OGYzNjQ2OTcyODRkMzgyOGI3ZCZlc3JjPW1lcmdlZnJvbV8xNDUxNjk/5bea16dd3f92a40469736b16Bffad50cd), arrived at CBS News filled with ideas about how to change a place that she saw as hopelessly sclerotic. Ignoring the norms of TV-talent recruitment, she called up anchors at rival networks still under contract and she asked the staff of &#x201C;60 Minutes,&#x201D; the country&#x2019;s most-watched news program, why the country thought its coverage was biased. One person told me that Weiss had said she was pursuing a &#x201C;de-Baathification of CBS.&#x201D; She soon got to work overhauling the tone of CBS coverage, most notably through the &#x201C;Evening News,&#x201D; where she handpicked the correspondent Tony Dokoupil to take over the anchor desk, and helped edit and write his scripts&#x2014;all with the stated goal, as Dokoupil explained it in a social-media video, of no longer putting &#x201C;too much weight in the analysis of academics or &#xE9;lites.&#x201D; Weiss&#x2019;s desire to capture viewers who feel disaffected by mainstream media seems focussed on a territory that Fox News seized decades ago. For all of the upheaval that Weiss&#x2019;s takeover has caused, both inside and outside the network, I was also interested in another question: Is there really anyone left to win over?
+
+[Read the story](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzAxLzI2L2luc2lkZS1iYXJpLXdlaXNzcy1ob3N0aWxlLXRha2VvdmVyLW9mLWNicy1uZXdzP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXRueSZ1dG1fbWFpbGluZz1UTllfV2Vla2x5XzAxMjAyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPXRueV93ZWVrbHlfZGlnZXN0JmJ4aWQ9NWJlYTE2ZGQzZjkyYTQwNDY5NzM2YjE2JmNuZGlkPTIyNzY5NjEyJmhhc2hhPWNlZTY4ZWY0OWUxZTA3ZGRhNDcxZGJjNzJhMjA1N2M2Jmhhc2hiPWVjZDkyYjU3ZGE0ODkzNTQ4ZGZlMTA2NTZiZDk0ZDJhN2ZlNzI5YzMmaGFzaGM9NzI1NTZjZDNmNWVkYzM2MDhlNTFmMWYyZDMwNGVjNzE4MDYzMzNlOGNjMTg4OGYzNjQ2OTcyODRkMzgyOGI3ZCZlc3JjPW1lcmdlZnJvbV8xNDUxNjk/5bea16dd3f92a40469736b16Cffad50cd)
+
+More from the Issue
+
+Cover by Adrian Tomine
+
+What makes a good mom?
+
+Rebecca Mead on [society&#x2019;s many revisions of the parental ideal](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzAxLzI2L21vdGhlcmhvb2QtYW1iaXRpb24tYm9va3MtZmlsbT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Be1bcaa83)
+
+The price of bearing witness
+
+Jonathan Blitzer on the congresswoman facing seventeen years in prison after visiting ICE detainees
+
+The streets of Caracas
+
+Armando Ledezma on [living through the U.S. seizure of Venezuela&#x2019;s leader](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzAxLzI2L3RoZS1saWdodHMtYXJlLXN0aWxsLW9uLWluLXZlbmV6dWVsYT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B4a1a2dae)
+
+A new Arctic chill
+
+Ian Frazier on [an Alaskan town navigating severed relations with Russia](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzAxLzE5L3RoZS1pY2UtY3VydGFpbj91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Bdc612e8e)
+
+Plus: Kelefa Sanneh on [Zach Bryan](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzAxLzI2L3dpdGgtaGVhdmVuLW9uLXRvcC16YWNoLWJyeWFuLW11c2ljLXJldmlldz91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B9071d5fd); Jill Lepore on [Bernie Sanders](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzAxLzI2L2Jlcm5pZS1mb3ItYnVybGluZ3Rvbi10aGUtcmlzZS1vZi10aGUtcGVvcGxlcy1wb2xpdGljaWFuLWRhbi1jaGlhc3Nvbi1ib29rLXJldmlldz91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B92848164); and more.
+
+[Explore the issue](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16C7e55e857)
+
+In Case You Missed It
+
+Comment
+Why Trump Supports Protesters in Tehran but Not in Minneapolis
+
+During the President&#x2019;s second Administration, universal principles such as self-determination and due process are wielded only opportunistically.
+
+By Benjamin Wallace-Wells
+
+Letter from the U.K.
+What It&#x2019;s Like to Be Trump&#x2019;s Closest Ally Right Now
+
+Britain still relies on the U.S. for so much. How long can it hold on?
+
+By Sam Knight
+
+Infinite Scroll
+Grok and the A.I. Porn Problem
+
+Elon Musk&#x2019;s X is living up to its name.
+
+By Brady Brickner-Wood
+
+The Sporting Scene
+How a Sixtysomething Coach from a So-So School Turned Indiana into World-Beaters
+
+Curt Cignetti has the Hoosiers on the verge of a national championship. Everyone wants to know the blueprint for his stunning success.
+
+By Louisa Thomas
+
+The Weekend Essay
+When a Man Loves a Cello
+
+For the concert soloist Steven Isserlis, the perfect instrument is a blessing&#x2014;and a curse.
+
+By John Phipps
+
+Our Columnists
+
+Letter from Trump&#x2019;s Washington
+The Minnesota War Zone Is Trump&#x2019;s Most Trumpian Accomplishment
+
+The President may have started out by trash-talking America; one year into his second term, he is simply trashing it.
+
+By Susan B. Glasser
+
+Q. & A.
+Can Trump Really Use the Insurrection Act?
+
+An expert on Presidential emergency powers discusses the history and legality of military deployments in American cities.
+
+By Isaac Chotiner
+
+Quote of the Week
+
+&#x201C;He had the nature of a polite and well-meaning cowboy, and a shy and understated charisma and grace. More than once, over the years, it occurred to me that he was the holy fool of the Grateful Dead.&#x201D;
+
+&#x2014; Alec Wilkinson on the life and death of Bob Weir
+
+Start the new year with savings! Order the New Yorker Desk Diary using the code NEWYEAR2026 and [enjoy 40% off](https://link.newyorker.com/external/43642749.337088/aHR0cHM6Ly9jb25kZW5hc3RzdG9yZS5jb20vY29uZGUtbmFzdC1icmFuZC90aGVuZXd5b3JrZXI_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDEyMDI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16B0fb45274).
+
+Podcasts
+
+The New Yorker Radio Hour: Jennifer Welch, a left-wing, atheist reality-TV host from Oklahoma, is one of the most popular liberal podcasters, channelling outrage with MAGA and with Democrats she views as complacent. [Listen and follow &#xBB;](https://link.newyorker.com/external/43642749.337088/aHR0cDovL3N3YXAuZm0vbC90bnktcmFkaW9ob3VyLUZEOWRQSD91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Bc5c094db)
+
+&#x201C;Blood Relatives,&#x201D; from In the Dark: A six-part series that asks whether one of the U.K.&#x2019;s most famous murder cases ended with a wrongful conviction. [Listen and follow &#xBB;](https://link.newyorker.com/external/43642749.337088/aHR0cDovL3N3YXAuZm0vbC90bnktaXRkLXlXTDdyNT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B0ec236cc)
+
+Cartoon by David Sipress
+
+&#x201C;My plans for the future? To uncross my legs and grab a couple of those barbecue potato chips.&#x201D;
+
+[See the cartoons from this week&#x2019;s issue](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9nYWxsZXJ5L2NhcnRvb25zLWZyb20tdGhlLWphbnVhcnktMjYtMjAyNi1pc3N1ZT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B6fc9d3bf)
+
+P.S. What happens when a bad-tempered, distractible doofus runs an empire? [The story of Kaiser Wilhelm II offers a guide](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9jdWx0dXJlL2N1bHR1cmUtZGVzay93aGF0LWhhcHBlbnMtd2hlbi1hLWJhZC10ZW1wZXJlZC1kaXN0cmFjdGlibGUtZG9vZnVzLXJ1bnMtYW4tZW1waXJlP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXRueSZ1dG1fbWFpbGluZz1UTllfV2Vla2x5XzAxMjAyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPXRueV93ZWVrbHlfZGlnZXN0JmJ4aWQ9NWJlYTE2ZGQzZjkyYTQwNDY5NzM2YjE2JmNuZGlkPTIyNzY5NjEyJmhhc2hhPWNlZTY4ZWY0OWUxZTA3ZGRhNDcxZGJjNzJhMjA1N2M2Jmhhc2hiPWVjZDkyYjU3ZGE0ODkzNTQ4ZGZlMTA2NTZiZDk0ZDJhN2ZlNzI5YzMmaGFzaGM9NzI1NTZjZDNmNWVkYzM2MDhlNTFmMWYyZDMwNGVjNzE4MDYzMzNlOGNjMTg4OGYzNjQ2OTcyODRkMzgyOGI3ZCZlc3JjPW1lcmdlZnJvbV8xNDUxNjk/5bea16dd3f92a40469736b16B9ecfa7f7).
+
+Get more New Yorker in your inbox.
+
+Was this forwarded to you? [Sign up to get the weekly newsletter](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyL3dlZWtseT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B2be96d8e). Or [explore more newsletters](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXRueSZ1dG1fbWFpbGluZz1UTllfV2Vla2x5XzAxMjAyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPXRueV93ZWVrbHlfZGlnZXN0JmJ4aWQ9NWJlYTE2ZGQzZjkyYTQwNDY5NzM2YjE2JmNuZGlkPTIyNzY5NjEyJmhhc2hhPWNlZTY4ZWY0OWUxZTA3ZGRhNDcxZGJjNzJhMjA1N2M2Jmhhc2hiPWVjZDkyYjU3ZGE0ODkzNTQ4ZGZlMTA2NTZiZDk0ZDJhN2ZlNzI5YzMmaGFzaGM9NzI1NTZjZDNmNWVkYzM2MDhlNTFmMWYyZDMwNGVjNzE4MDYzMzNlOGNjMTg4OGYzNjQ2OTcyODRkMzgyOGI3ZCZlc3JjPW1lcmdlZnJvbV8xNDUxNjk/5bea16dd3f92a40469736b16B1f001270) on books, science, food, politics, and more.
+
+You&#x2019;re receiving this e-mail because you signed up for the weekly newsletter from The New Yorker.
+
+[Manage your preferences](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyL21hbmFnZT9zaWQ9TldKbFlURTJaR1F6WmpreVlUUXdORFk1TnpNMllqRTImdXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDEyMDI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16C678ce4cb) |
+[View our Privacy Policy](https://link.condenast.com/click/43642749.337088/aHR0cDovL3d3dy5jb25kZW5hc3QuY29tL3ByaXZhY3ktcG9saWN5Lz91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5I3ByaXZhY3lwb2xpY3k/5bea16dd3f92a40469736b16B92c0dd26) |
+[Unsubscribe](https://link.newyorker.com/click/43642749.337088/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyL3Vuc3Vic2NyaWJlP25ld3NsZXR0ZXJJZD0yNDg4NDAmZW1haWw9d3NjaGVuayU0MGdtYWlsLmNvbSZ1dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wMTIwMjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Ba7ce1b0d)
+
+Copyright &#xA9; Cond&#xE9; Nast 2025. One World Trade Center, New York, NY 10007. All rights
+reserved.

@@ -3,6 +3,7 @@ name: "Slavoj Žižek"
 category: philosophy
 email_patterns:
   - slavoj+politics@substack.com
+  - slavoj+popular-culture@substack.com
 ---
 
 # Slavoj Žižek

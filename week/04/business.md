@@ -2,7 +2,7 @@
 
 ## Overview
 
-Week 04 saw limited business newsletter coverage with a single contribution from [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code), which featured product management expert Teresa Torres demonstrating practical AI productivity workflows. The episode showcased a sophisticated approach to using Claude Code for task management, research automation, and writing enhancement—emphasizing friction reduction and context organization over feature accumulation.
+Week 04 featured coverage from three business newsletters spanning AI productivity systems, career reinvention, the pursuit of breakthrough thinking, and predictions for AI's trajectory in 2026. [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code) showcased practical Claude Code workflows for product managers, [Tim Ferriss](https://tim.blog/2026/01/14/steve-young/) explored high performance and career transitions through his interview with NFL legend Steve Young, and [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) provided a comprehensive analysis of where AI development stands as we enter 2026.
 
 ---
 
@@ -16,65 +16,93 @@ Teresa Torres, author of *Continuous Discovery Habits*, demonstrated a comprehen
 
 > "I didn't have to open a web browser. I didn't have to click through 14 different buttons in a GUI that is constantly changing. I didn't have to click on a date picker and then click a label and then move it to the right list." — [Teresa Torres via Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code)
 
-The approach challenges the prevailing notion that AI's value lies primarily in content generation, positioning it instead as a reviewer, research assistant, and memory aid. Torres advocates for the "automation or augmentation" framework: asking whether Claude should complete a task independently or assist with it collaboratively.
-
-### 2. Context Architecture for Effective AI Assistance
-
-**Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code)
-
-Torres revealed a sophisticated context management strategy that addresses a critical AI limitation: performance degradation with excessive or irrelevant context. Her solution involves creating numerous small, focused context files rather than comprehensive reference documents.
+Torres advocates for the "automation or augmentation" framework: asking whether Claude should complete a task independently or assist with it collaboratively. Her context architecture strategy involves creating numerous small, focused context files rather than comprehensive reference documents, using index files that map queries to appropriate context.
 
 > "If we give it too much irrelevant context, it's still going to not be very good at its job." — [Teresa Torres via Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code)
 
-The system employs index files that map queries to appropriate context files, enabling Claude to load only relevant information for each task. This "lazy prompting" approach reduces cognitive load for users while improving AI output quality. Torres also implements a meta-learning loop where Claude documents insights about her preferences, creating a self-improving system.
+The system also addresses neglected high-value tasks through automated academic research monitoring, and positions AI as a writing reviewer calibrated to personal style guidelines rather than a generic content generator.
 
-### 3. Targeted Automation for Neglected High-Value Tasks
+### 2. Career Reinvention: From Sports to Private Equity
 
-**Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code)
+**Coverage:** [Tim Ferriss](https://tim.blog/2026/01/14/steve-young/)
 
-Torres automated academic research monitoring—a task she valued but never prioritized manually. This represents a strategic application of AI: addressing activities that fall into the "important but never urgent" category.
+Tim Ferriss featured Hall of Fame NFL quarterback Steve Young, who transitioned from a legendary sports career to co-founding HGGC, a private equity firm managing more than $6.9 billion in capital commitments. The interview explored themes of high performance, reinvention, faith, and the intersection of dreams and practical planning.
 
-> "I really want to keep up on academic research on a lot of topics, but I never have the discipline to go search for things. There's never a moment in my day where I'm like, oh, I'm bored, I should go do this." — [Teresa Torres via Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code)
+Young's career illustrates the complexity of elite-level transitions. After holding the record for the highest quarterback rating in NFL history and being the only quarterback to clinch four consecutive NFL passing titles, he successfully navigated into finance and philanthropy. He serves as chairman of the board for multiple HGGC portfolio companies and founded the Forever Young Foundation supporting children's charities globally.
 
-The research automation uses Python scripts with Claude Code to systematically search and synthesize academic literature, ensuring consistent knowledge acquisition without requiring active time investment. This approach identifies automation candidates by examining tasks that consistently lose out to more immediate priorities despite their long-term value.
+The episode also features a guided meditation with Zen Master Henry Shukman, part of Ferriss's ongoing "Meditation Monday" series, which connects to broader themes of stress management and mental clarity for high performers.
 
-### 4. AI as Writing Reviewer Rather Than Creator
+### 3. The Art of Asking Breakthrough Questions
 
-**Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code)
+**Coverage:** [Tim Ferriss](https://tim.blog)
 
-Torres maintains a distinctive stance on AI-assisted writing: she primarily uses Claude for critique rather than generation, preserving her creative control while leveraging AI for improvement.
+Ferriss's 5-Bullet Friday highlighted the article "What is the question?" by Itai Yanai and Martin Lercher, which examines how the best scientists formulate breakthrough questions. The piece connects to W. Edwards Deming's insight:
 
-> "Claude's not just giving me generic feedback because I've written this style guide; it knows how I aspire to write." — [Teresa Torres via Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code)
+> "If you do not know how to ask the right question, you discover nothing." — [W. Edwards Deming via Tim Ferriss](https://tim.blog)
 
-This approach recognizes that AI feedback calibrated to personal style guidelines provides more value than generic best practices. Torres uses Claude to identify gaps between her aspirational writing standards and current output, treating the AI as an always-available editor who understands her voice and objectives.
+Ferriss also featured the documentary *Burden of Dreams*, which chronicles Werner Herzog's nearly five-year struggle to create *Fitzcarraldo*, including pulling a 320-ton steamship over a mountain in the Amazon jungle. The documentary serves as a meditation on tackling the impossible, being unrealistic, and what Ferriss describes as "failing above others' successes."
+
+Additionally, Ferriss shared an article from UCSF Magazine on microplastics and PFAS "forever chemicals," signaling ongoing interest in health and environmental topics with business implications.
+
+### 4. AI in 2026: Progress, Investment, and Existential Questions
+
+**Coverage:** [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026)
+
+Tomas Pueyo provided a comprehensive analysis of the current state of AI development, framing it with a vivid scene of researchers having an existential crisis while the world outside remains oblivious:
+
+> "They are summoning God from silicon. From fucking sand! The world is about to be completely upended! Nothing will be the same! Will we survive? I don't know!" — [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026)
+
+The analysis covers several key areas:
+
+**Investment and Revenue Projections**: OpenAI's revenue projections reach $100 billion, with cloud spending expected to reach hundreds of billions annually. Anthropic's optimistic forecasts now exceed their most optimistic 2024 projections. The caveat is that much demand is currently subsidized, making the sustainability dependent on increasing demand and decreasing costs.
+
+**Rate of Progress**: Computing continues to advance by 10x every two years. NVIDIA's new Vera Rubin architecture reduces token costs by 10x over Blackwell and training costs by 4x. The cost per task has shrunk by 300x in one year, and scores on the ARC-AGI-2 test have risen from below 20% a year ago to 55% now.
+
+**Competitive Dynamics**: Pueyo notes that Google's early investment in developing TPUs (after purchasing 40,000 NVIDIA GPUs in 2014) represents a sustainable first-mover advantage that challenges NVIDIA's current near-monopoly position.
+
+**Path to AGI**: A key metric for AGI readiness is the length of tasks that can be completed with 50% error rates. Recent research claims to have solved million-step tasks with zero errors by breaking them into microtasks and using agent voting systems for quality assurance.
 
 ---
 
 ## Cross-Newsletter Patterns
 
-With only one newsletter contribution this week, cross-newsletter pattern analysis is not applicable. However, the themes presented by [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code) align with broader productivity and AI integration trends observed in previous weeks:
+### The Meta-Skill of Asking Better Questions
 
-- **Friction reduction as primary value proposition**: Torres emphasizes speed and reduced cognitive load over feature richness, consistent with minimalist productivity philosophies
-- **Context management as critical success factor**: The focus on granular, organized context files addresses a common AI limitation and reflects growing sophistication in AI interaction patterns
-- **Selective automation**: The strategic choice to automate neglected tasks rather than all tasks demonstrates mature thinking about AI integration
-- **AI as collaborator rather than replacement**: Torres's "augmentation vs. automation" framework provides a practical decision heuristic for determining AI's appropriate role
+Both [Tim Ferriss](https://tim.blog) and [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) touch on the importance of question framing. Ferriss highlights scientific research on breakthrough questions, while Pueyo frames AI development through fundamental questions about alignment, consciousness, and societal impact. This convergence suggests that as AI handles more routine cognitive tasks, the human value proposition increasingly centers on question formulation rather than answer generation.
+
+### AI Integration Sophistication
+
+[Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code) and [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) both address AI integration from different angles. Torres demonstrates sophisticated personal workflows that optimize context and reduce friction, while Pueyo analyzes the macro-level trajectory of AI capabilities. Together, they illustrate the gap between current practical applications (task automation, writing assistance) and the projected future (AGI, potential superintelligence).
+
+### Career Transitions and Reinvention
+
+[Tim Ferriss](https://tim.blog/2026/01/14/steve-young/) explores Steve Young's successful transition from athletics to finance, modeling how elite performers navigate domain changes. This theme gains additional relevance in the context of AI-driven workforce transformation discussed in [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026), where questions about future employment dominate the AI discourse.
+
+### Tackling the Impossible
+
+Ferriss's recommendation of *Burden of Dreams* and the story of Herzog's seemingly irrational pursuit resonates with Pueyo's framing of AI researchers "summoning God from silicon." Both newsletters this week engage with the tension between rational planning and audacious, potentially unreasonable ambition.
 
 ---
 
 ## Key Insights
 
-1. **Speed matters more than features**: Torres's system demonstrates that eliminating interface friction provides greater productivity gains than adding capabilities. Traditional task management tools impose cognitive overhead through complex GUIs and navigation requirements.
+1. **Context architecture determines AI effectiveness**: Torres's system of small, focused context files with index-based discovery provides a replicable pattern for improving AI assistance quality.
 
-2. **AI as personal search engine**: Claude serves as a memory aid for Torres's knowledge base, retrieving information even when her recollection is imperfect. This positions AI as an extension of personal knowledge management rather than external information source.
+2. **The subsidized AI economy faces sustainability questions**: Pueyo notes that current AI demand is heavily subsidized, with the business model dependent on demand growth outpacing cost reduction.
 
-3. **Context organization is critical**: Effective AI assistance requires structured context architecture. Torres's approach of many small, focused files with index-based discovery outperforms single comprehensive reference documents.
+3. **Question formulation is becoming a critical skill**: Both Ferriss (citing Deming) and the broader AI context suggest that knowing how to ask the right questions creates more value than executing tasks.
 
-4. **Meta-learning loops improve AI performance**: By asking Claude to document learned preferences, Torres creates a self-improving system where AI understanding compounds over time.
+4. **Progress metrics are accelerating**: The 300x cost reduction per task and rapid improvement on AI benchmarks suggest capability acceleration, not plateau.
 
-5. **The automation vs. augmentation framework**: Torres provides a practical decision heuristic: "Can Claude just do this for me? Or should Claude be helping me do this?" This clarifies AI's appropriate role for each task.
+5. **The "automation vs. augmentation" framework**: Torres's decision heuristic provides a practical model for determining AI's appropriate role in any workflow.
+
+6. **Elite career transitions require intentional reinvention**: Steve Young's move from sports to $6.9B private equity demonstrates that success in one domain doesn't automatically transfer, requiring deliberate capability building.
 
 ---
 
 ## Sources
 
-- [🎙️ This week on How I AI: Claude Code for product managers](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code) — Lenny's Newsletter
+- [This week on How I AI: Claude Code for product managers](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code) — Lenny's Newsletter
+- [Steve Young — From Super Bowl MVP to Managing Billions](https://tim.blog/2026/01/14/steve-young/) — Tim Ferriss
+- [5-Bullet Friday — Young Werner Herzog, Finding Breakthrough Questions, and Wizards and Artists](https://tim.blog) — Tim Ferriss
+- [AI in 2026](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) — Uncharted Territories

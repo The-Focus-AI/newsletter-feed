@@ -6,6 +6,8 @@ email_patterns:
   - bariweiss+the-big-read@substack.com
   - bariweiss+tgif-a-weekly-humor-column@substack.com
   - bariweiss+the-weekend-press@substack.com
+  - bariweiss+america-at-250@substack.com
+  - bariweiss+things-worth-remembering@substack.com
 ---
 
 # The Free Press
