@@ -1,0 +1,157 @@
+---
+id: 19bfca77cb794ae2
+newsletter: the-atlantic-daily
+newsletter_name: "The Atlantic Daily"
+category: politics
+subject: "What the administration is signaling to federal agents after Minnesota"
+date: Mon, 26 Jan 2026 18:32:54 -0500 (EST)
+---
+
+# What the administration is signaling to federal agents after Minnesota
+
+**From:** The Atlantic Daily <newsletters@theatlantic.com>
+**Date:** Mon, 26 Jan 2026 18:32:54 -0500 (EST)
+
+---
+
+What the administration is signaling to federal agents after Minnesota
+
+96
+
+Plus: ICE is failing the legitimacy test.
+Monday, January 26, 2026
+
+-->
+
+ 
+
+[David A. Graham](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kYXZpZC1hLWdyYWhhbS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCc1a3fdc1)
+
+Staff writer
+
+The administration’s combative defense of federal immigration agents involved in fatal shootings and its obstruction of investigations signal to officers that they are free to act with shocking brutality.
+
+First, here are three new stories from The Atlantic:
+
+[ICE is failing the legitimacy test.](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvcG9saWNpbmctb3Blbi1jYXJyeS1taW5uZXNvdGEtcHJldHRpLzY4NTc2Ny8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB19528055)
+[Welcome to the American winter.](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvbWlubmVhcG9saXMtdXByaXNpbmcvNjg1NzU1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB437094f5)
+[Davood Moradian: What I saw in Mashhad](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvMjAyNi8wMS93aGF0LWktc2F3LW1hc2hoYWQtaXJhbi82ODU3NDYvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB6dce5978)
+
+-->
+
+Top-Down Leadership
+
+(Arthur Maiorella / Anadolu / Getty)
+
+ 
+
+View in browser
+
+Perhaps the most disturbing part of the Trump administration’s immigration operation in Minnesota is not just that agents of the state are killing peacefully protesting citizens on the streets. It’s that they’re doing it with the expectation of impunity, backed by top government officials who are brazenly lying about what happened.
+
+The response from [President Trump](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8wOC91cy9wb2xpdGljcy90cnVtcC1taW5uZXNvdGEtaWNlLXNob290aW5nLXZpZGVvLmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB7850766e), Homeland Security Secretary Kristi Noem, and other officials has sent a clear message: When immigration agents kill peaceful protesters, the government will defend them unconditionally, no matter if clear video evidence contradicts its version of events. It will resist investigating shootings, and it will do everything it can to block probes by other authorities. Vice President Vance has even claimed that federal agents have [“absolute immunity”](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cuY25uLmNvbS8yMDI2LzAxLzA4L3BvbGl0aWNzL2ljZS1pbW11bml0eS1qZC12YW5jZS1taW5uZWFwb2xpcz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBd1a87f24) for their actions. This approach all but guarantees more killings.
+
+The culture of impunity runs from the bottom to the top. It includes the federal agents who shot Alex Pretti, a 37-year-old ICU nurse, multiple times in Minneapolis on Saturday morning, despite [videos](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vdmlkZW8vdmlkZW8tYW5hbHlzaXMtY29udHJhZGljdHMtZ292ZXJubWVudC1zLWFjY291bnQtb2YtdGhlLXNob290aW5nLW9mLWFsZXgtcHJldHRpLWluLW1pbm5lYXBvbGlzLW1pbm5lc290YS0yNTY1NTA5ODE2OTU_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBcc26db0e) that appear to show that the agents had already removed his holstered gun, and despite knowing that many bystanders were filming. (If this is what Border Patrol feels comfortable doing on camera, one can only guess how they might act in private.) It also encompasses the administration officials who offered false accounts immediately, without bothering to wait for the facts.
+
+Videos show Pretti filming officers before being pepper-sprayed and tackled by multiple officers, who then shot him while he was on the ground. Yet the Homeland Security secretary accused Pretti of [“domestic terrorism”](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDEvMjUvdHJ1bXAtb2ZmaWNpYWxzLXN0aWNrLXRlcnJvcmlzdC1sYWJlbC1vbi1hbWVyaWNhbnMta2lsbGVkLWJ5LWRocz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBf8f7297a) and said that he’d “attacked” agents, a claim that FBI Director Kash Patel [repeated](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cuY25uLmNvbS8yMDI2LzAxLzI1L3BvbGl0aWNzL3RydW1wLW9mZmljaWFscy1zaGlmdGluZy1yaGV0b3JpYy1hbGV4LXByZXR0aT91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB15385959). Noem also said that Pretti had been “brandishing” a gun. (He had been legally carrying a concealed weapon, a right that the administration has previously celebrated.) Deputy Attorney General [Todd Blanche](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly94LmNvbS9rZW5rbGlwcGVuc3RlaW4vc3RhdHVzLzIwMTU1ODY1NjMyNDYxMjkzNTU_cz00NiZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB02d82bae) argued that because Pretti was shouting and had “a phone right up to ICE’s face,” he was not protesting peacefully. The Trump aide Stephen Miller [labeled](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly94LmNvbS9TdGVwaGVuTS9zdGF0dXMvMjAxNTEzMzQ4MTI2MTQ3NDAzMD9zPTIwJnV0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB0b6032de) him an “assassin,” and the Border Patrol commander Greg Bovino [said](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDEvMjYvYm92aW5vLWxlYWRzLXRydW1wLWltbWlncmF0aW9uLWNyYWNrZG93bj91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBddfbdd3a) that Pretti “wanted to do maximum damage and massacre law enforcement.” No known evidence backs any of this up, and videos show that much of it is provably false.
+
+When law-enforcement officers shoot civilians, it is common—if unsavory—for government officials to defend them. The Trump administration has gone far beyond this. Fatal shootings are almost always subject to investigation. After an ICE agent killed Renee Good earlier this month, Blanche (who once was Trump’s personal lawyer) said that [the FBI would not launch a civil-rights investigation into the shooting](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdXMvanVzdGljZS1kZXBhcnRtZW50LWRlY2xpbmVzLWNpdmlsLXJpZ2h0cy1pbnZlc3RpZ2F0aW9uLW1pbm5lYXBvbGlzLWljZS1vZmZpY2VyLWtpbGxpbmc_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB30699dca). Instead, [MS NOW reported](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubXMubm93L25ld3MvZG9qLXNvdWdodC10by1wcm9iZS1yZW5lZS1nb29kLWZvci1jcmltaW5hbC1saWFiaWxpdHktZXZlbi1hZnRlci1oZXItZGVhdGgtc291cmNlcz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBc7445c54), the Justice Department instructed the FBI to seek a search warrant to investigate Good for possible criminal liability. A federal magistrate rejected the warrant, which is unusual—except that, as the magistrate noted, Good is dead and could not legally be considered a suspect. An FBI agent resigned after she was allegedly pressured to [stop pursuing a civil-rights inquiry](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8yMy91cy9wb2xpdGljcy9mYmktYWdlbnQtaWNlLXNob290aW5nLXJlbmVlLWdvb2QuaHRtbD91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB0b947cb8) into the ICE officer, Jonathan Ross, who’d shot Good.
+
+Something similar started to play out immediately after Pretti’s death. Federal agencies seem unsure what, if any, investigation is occurring, according to The Washington Post, although White House Press Secretary Karoline Leavitt [said today](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cucGJzLm9yZy9uZXdzaG91ci9wb2xpdGljcy93YXRjaC1saXZlLXdoaXRlLWhvdXNlLWJyaWVmaW5nLW1heS1hZGRyZXNzLWRlYWRseS1zaG9vdGluZy1vZi1pY3UtbnVyc2UtaW4tbWlubmVzb3RhP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBa4a0b9b9) that DHS and CBP are investigating the Pretti shooting, including reviewing [body-cam footage](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy91cy1uZXdzL2Rocy1zYXlzLWJvZHktd29ybi1jYW1lcmEtdmlkZW8tZmF0YWwtc2hvb3RpbmctYWxleC1wcmV0dGktcmNuYTI1NTk3OD91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB4b66c232). Federal agents refused to give even “the most basic information” to Minneapolis police at the scene, Chief Brian O’Hara [said yesterday](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vbmV3cy9icmlhbi1vaGFyYS1taW5uZWFwb2xpcy1wb2xpY2UtY2hpZWYtZmFjZS10aGUtbmF0aW9uLXRyYW5zY3JpcHQtMDEtMjUtMjAyNi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB31e4fca9), and they initially blocked the Minnesota Bureau of Criminal Apprehension, the state’s criminal-investigation office, from accessing the crime scene. The state then went to court and [obtained an order](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubm90dXMub3JnL2NvdXJ0cy9mZWRlcmFsLWp1ZGdlLW1pbm5lYXBvbGlzLXNob290aW5nLWV2aWRlbmNlLWRocz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB7be42b4b) from a (Trump-appointed) federal judge blocking the destruction of evidence. That such a move was even necessary is astonishing.
+
+A state-level agency like the BCA has nowhere near the resources or expertise that federal agencies do, and local investigators face legal hurdles when investigating federal agents. Yet administration officials have so clearly declared their position with lies and prejudicial statements that any federal investigation would be suspect from the start—another example of how Trump’s politicization of the Justice Department has [undermined its ability to do its job](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjUvMTIvZG9qLWVwc3RlaW4tYmVuZWZpdC1vZi1kb3VidC1wb2xpdGljaXplZC82ODUzOTYvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB0757ba35).
+
+Compared with the aftermath of Good’s shooting, more Republicans are expressing concerns about the operation in Minneapolis and Pretti’s killing. Even Trump has vacillated somewhat. He [blamed Democrats for Pretti’s death](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vbGl2ZS8yMDI2LzAxLzI1L3VzL21pbm5lYXBvbGlzLXNob290aW5nLWljZT91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYyN0cnVtcC1ibGFtZXMtZGVtb2NyYXRzLW1pbm5lYXBvbGlzLWtpbGxpbmdz/668d137112b797104109b7bcBec68cf6c) but was noncommittal in a conversation with The Wall Street Journal about whether the agents involved had acted appropriately, in contrast to his quick blaming of Good for her own death. He has since conceded that ICE agents may have made a [“mistake”](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8yMC91cy9wb2xpdGljcy90cnVtcC1yZW5lZS1nb29kLWljZS1zaG9vdGluZy5odG1sP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB522685ef) in her case. Vance has also [backtracked](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8yMi91cy9taW5uZWFwb2xpcy1pY2UtY3JhY2tkb3duLmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB3968183d) some, abandoning his claims of “absolute immunity.” (Law-enforcement officers are entitled to what’s known as “[qualified immunity](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubmNzbC5vcmcvY2l2aWwtYW5kLWNyaW1pbmFsLWp1c3RpY2UvcXVhbGlmaWVkLWltbXVuaXR5P3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB9c719c83),” or protection from liability unless breaking clear legal or constitutional boundaries.)
+
+Even as Republicans grow wary, they have tried to blame Trump’s aides rather than the president himself; Oklahoma Governor Kevin Stitt, for example, [lamented](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvcmVwdWJsaWNhbi1nb3Zlcm5vci1iZWxpZXZlcy10cnVtcC1nZXR0aW5nLWJhZC1hZHZpY2UtaW1taWdyYXRpb24tYW1pZC1vdXRyYWdlLW92ZXItbW4tc2hvb3RpbmcucHJpbnQ_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB1ef324ea) that the president was “getting bad advice.” But the culture of impunity proceeds directly from Trump. He has enthusiastically embraced the idea that the federal government should serve his personal whims. He argued that investigations into himself, even for overt offenses such as taking home [boxes of sensitive documents](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyMi8wOC9tYXItYS1sYWdvLWRvY3VtZW50cy1pbnRlbGxpZ2VuY2UtdXMtbmF0aW9uYWwtc2VjdXJpdHkvNjcxMTQwLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB1c9acca5), were improper. And he has made clear that when people act to assist him, whether they are [aides](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubnByLm9yZy8yMDIwLzEyLzIzLzk0OTgyMDgyMC90cnVtcC1wYXJkb25zLXJvZ2VyLXN0b25lLXBhdWwtbWFuYWZvcnQtYW5kLWNoYXJsZXMta3VzaG5lcj91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBd43a7c9c) or January 6 rioters, he will use his clemency powers to protect them from consequences.
+
+Trump has spent years dehumanizing immigrants, exhorting law enforcement to treat suspects [more roughly](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9Qb2xpdGljcy90cnVtcC1wb2xpY2UtbmljZS1zdXNwZWN0cy9zdG9yeT9pZD00ODkxNDUwNCZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB86057013), and attacking the rule of law. The killings in Minnesota aren’t the collateral damage of Trump’s approach to governance. They’re a direct result.
+
+Related:
+
+[Believe your eyes in Minnesota.](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wMS9taW5uZWFwb2xpcy1wcm90ZXN0cy1mb290YWdlLzY4NTc1My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB019516f9)
+[The logical end point of Trump saying he could shoot somebody on Fifth Avenue](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvbWFnYS1zZWNvbmQtYW1lbmRtZW50LW1pbm5lYXBvbGlzLzY4NTc1Mi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBf0c9afa0)
+
+Today’s News
+
+President Trump announced that he is [sending the White House “border czar” Tom Homan to Minnesota](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy91cy1uZXdzL2xpdmUtYmxvZy9saXZlLXVwZGF0ZXMtYWxleC1wcmV0dGktc2hvb3RpbmctbWlubmVhcG9saXMtcmNuYTI1NTg1OT91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB38a9c061) to oversee and coordinate federal ICE operations amid intense backlash and protests over recent fatal shootings.
+A [massive winter storm brought dangerously cold temperatures and heavy snow](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vbGl2ZS8yMDI2LzAxLzI2L3dlYXRoZXIvd2VhdGhlci1zbm93LXVwZGF0ZXMtaWNlLWNvbGQ_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB08807423) to much of the United States over the weekend, dumping more than a foot of snow in at least 19 states. Roughly 21 people have died, and about 700,000 customers remain without power. Travel and public services across the Midwest and the Northeast remain widely disrupted.
+Israel said that it has recovered the body of Ran Gvili, [the last deceased Israeli hostage in Gaza](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cuY25uLmNvbS8yMDI2LzAxLzI2L21pZGRsZWVhc3QvbGFzdC1ob3N0YWdlLWdhemEtcmVjb3ZlcmVkLWlzcmFlbC1pbnRsP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBb146e69a), marking the first time since 2014 that no Israeli hostages remain in the Gaza strip.
+Dispatches
+
+The Wonder Reader: Isabel Fattal compiled suggestions from Atlantic staff and readers on seeking delight in the mundane.
+[Explore all of our newsletters here.](https://link.theatlantic.com/click/29767897.0/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDIyMTEyMQ/61813432e16c7128e42f4628B52865c35)
+
+More From The Atlantic
+
+[Colleges are stuck between bad options for fighting hateful ideas.](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvY29sbGVnZS1hbnRpc2VtaXRpc20tZnJlZS1zcGVlY2gtdW5pdmVyc2l0eS1mbG9yaWRhLzY4NTc0My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB91d26347)
+[Trump’s head-scratching turn toward China](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvMjAyNi8wMS90cnVtcC1jaGluYS14aS1qaW5waW5nLzY4NTcwOC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBb56aaed5)
+[How the Bernie Goetz shootings explain the Trump era](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvYmVybmllLWdvZXR6LXNob290aW5nLXJhY2lhbC1yZXNlbnRtZW50LzY4NTcyNi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB8f2ed1dc)
+Radio Atlantic: Another death in Minneapolis
+[Jonathan Rauch: Yes, it’s fascism. ](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvYW1lcmljYS1mYXNjaXNtLXRydW1wLW1hZ2EtaWNlLzY4NTc1MS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBf6b6fd83)
+
+-->
+
+Evening Read
+
+(Illustration by Joe Boyd)
+
+ 
+
+[How to Have a ‘Don’t-Know Mind’](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3NjaWVuY2UvMjAyNi8wMS9jb25zY2lvdXNuZXNzLWpvdXJuZXktemVuLW1lZGl0YXRpb24vNjg1NjQ3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC1af2f2bb)
+
+By [Michael Pollan](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9taWNoYWVsLXBvbGxhbi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB7a9b1740)
+
+Anyone who thinks the contemplative life amounts to a form of quietism or a retreat from the world’s suffering should spend some time shadowing Joan Halifax, the Zen priest and anthropologist. I’d been curious about Halifax for years, ever since I heard about an annual trek that she leads through the mountains of Nepal, bringing a cadre of doctors and dentists to remote mountain villages with little access to health care.
+
+Each summer over the course of two weeks or so, this Nomads Clinic covers more than 100 miles on foot and horseback, at altitudes of nearly 18,000 feet. These “medical mountaineers,” as they’ve been called, all volunteers, sleep in tents, often in freezing temperatures. But after some 40 annual trips to Nepal—Halifax is normally based in Santa Fe—she recently decided it was time to hang it up.
+
+[Read the full article.](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3NjaWVuY2UvMjAyNi8wMS9jb25zY2lvdXNuZXNzLWpvdXJuZXktemVuLW1lZGl0YXRpb24vNjg1NjQ3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcD1af2f2bb)
+
+Culture Break
+
+(Will Heath / NBC)
+
+ 
+
+Watch. Last Saturday’s “Weekend Update” segment (streaming on Peacock) explains how Saturday Night Live benefits from [making pop culture a little bit cringe](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS9uby1jYXAtc25sLWp1c3Qta2lsbGVkLWdlbi16LXNsYW5nLzY4NTc1NC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBf7b4ab9c), Michael Tedder writes.
+
+Read. Before her murder made her a true-crime obsession, Elizabeth Short was a real person. Black Dahlia tries to [separate truth from myth in the infamous case](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2Jvb2tzLzIwMjYvMDEvd29tYW4td2hvLWJlY2FtZS1ibGFjay1kYWhsaWEvNjg1NzM5Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB40311611), Sarah Weinman writes.
+
+[Play our daily crossword.](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ZyZWUtZGFpbHktY3Jvc3N3b3JkLXB1enpsZS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB7fde3798)
+
+PS
+
+Last Wednesday, covering President Trump’s [speech](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvdHJ1bXAtZGF2b3Mtc3BlZWNoLXdvcmxkLWVjb25vbWljLWZvcnVtLzY4NTY5Mi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB8fd33687) at the World Economic Forum, I remarked, “Perhaps the Germans have a word for the experience of watching your country’s leader embarrass himself and the country on the global stage.” Several Germanophone readers wrote in to tell me that, in fact, they do—or at least one that partly captures the feeling. Fremdscham is a term for vicarious embarrassment, a sort of inverse of schadenfreude. I’m going to have to add this one to my vocabulary. Now, if we can only find a way to shoehorn presidential presence into it!
+
+— David
+
+Did someone forward you this email? Sign up here.
+
+[Sign up for Inside the Trump Presidency](https://link.theatlantic.com/click/43744782.579715/aHR0cDovL3d3dy50aGVhdGxhbnRpYy5jb20vbmV3c2xldHRlcnMvc2lnbi11cC90cnVtcHMtcmV0dXJuLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBe9dee87e), a newsletter in which Atlantic writers help you understand America in the second Trump term.
+
+Rafaela Jinich contributed to this newsletter.
+
+When you buy a book using a link in this newsletter, we receive a commission. Thank you for supporting The Atlantic.
+
+Most Popular on The Atlantic
+
+[Welcome to the American Winter](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvbWlubmVhcG9saXMtdXByaXNpbmcvNjg1NzU1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC437094f5)
+[Yes, It’s Fascism](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvYW1lcmljYS1mYXNjaXNtLXRydW1wLW1hZ2EtaWNlLzY4NTc1MS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCf6b6fd83)
+[Donald Trump Wants You to Forget This Happened](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lLzIwMjYvMDIvamFuLTYtZXgtbnlwZC1vZmZpY2VyLWNhcGl0b2wtcG9saWNlLWF0dGFjay82ODUzMjUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB0cfef064)
+[How to Have a ‘Don’t-Know Mind’](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3NjaWVuY2UvMjAyNi8wMS9jb25zY2lvdXNuZXNzLWpvdXJuZXktemVuLW1lZGl0YXRpb24vNjg1NjQ3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcE1af2f2bb)
+[ICE Is Failing the Legitimacy Test](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvcG9saWNpbmctb3Blbi1jYXJyeS1taW5uZXNvdGEtcHJldHRpLzY4NTc2Ny8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC19528055)
+
+Introducing Premium Plus
+
+Unlimited access for you and three others. The Atlantic scrapbook, an essential addition to any subscriber’s library. And a special tote. All for less than $4 a week.
+
+[Subscribe](https://link.theatlantic.com/click/43744782.579715/aHR0cHM6Ly9hY2NvdW50cy50aGVhdGxhbnRpYy5jb20vcHJvZHVjdHMvc2luZ2xlLW9mZmVyL3ByZW1pdW0tcGx1cy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09Y3ImdXRtX2NhbXBhaWduPXBwbHVzX2d0bSZ1dG1fY29udGVudD1wcm9zcGVjdHMmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC8a5560e6)
+
+This email was sent to wschenk@gmail.com
+
+You've signed up to receive newsletters from The Atlantic. If you wish to unsubscribe from The Atlantic newsletters, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcq1lou.cfb7/469df57e).
+
+To update your email preferences, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcq1lou.cfb7/469df57e).
+
+The Atlantic Monthly Group LLC &middot; 610 Water Street, SW &middot; Washington, DC 20024

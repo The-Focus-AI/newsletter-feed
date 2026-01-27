@@ -4,6 +4,23 @@ A system for downloading, organizing, and analyzing newsletter emails from Gmail
 
 ## Weekly Reports
 
+### [Week 05](week/05/index.md) — January 20-26, 2026
+
+Top stories: Minneapolis ICE crisis escalates (Alex Pretti killed, Democrats block DHS funding), Trump's Greenland theater at Davos, AI agent stacks mature to production systems, Microsoft mandates Claude Code, historic New England winter storm.
+
+| Category | Summary |
+|----------|---------|
+| [Tech & AI](week/05/tech-ai.md) | Agent architecture shift, Microsoft/Claude Code, productivity paradox, Comic-Con AI ban, WEKA memory revolution |
+| [Politics](week/05/politics.md) | Minneapolis killings, Greenland/NATO deal, authoritarian drift assessment, Fed independence case |
+| [Culture](week/05/culture.md) | Community resistance in Minneapolis, influencer creep, scientific writing crisis, memory as resistance |
+| [Books](week/05/books.md) | Defense of literature, esoteric writing revealed, online discourse shapes Trumpism |
+| [Philosophy](week/05/philosophy.md) | Ego and self critique, religious conversion, Western civilization concerns |
+| [Business](week/05/business.md) | AWS S3 engineering at scale, AI coding tools mature, investment landscape |
+| [Personal](week/05/personal.md) | Historic winter storm, -80°F windchill, 12-20" snow, comfort food timing |
+| [Misc](week/05/misc.md) | AI as state power consolidation, Canada MAID crisis, deep reading resistance |
+
+---
+
 ### [Week 04](week/04/index.md) — January 19-25, 2026
 
 Top stories: Minneapolis ICE crisis (two US citizens killed), Trump's Greenland gambit rattles NATO, xAI's 1-gigawatt Colossus 2 cluster, FastRender browser built by 2,000+ AI agents, crypto industry's congressional capture exposed.
