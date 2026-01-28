@@ -1,4 +1,4 @@
-# Week 05 Newsletter Rollup (January 20-26, 2026)
+# Week 05 Newsletter Rollup (January 20-28, 2026)
 
 ## Executive Summary
 

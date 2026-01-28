@@ -4,20 +4,20 @@ A system for downloading, organizing, and analyzing newsletter emails from Gmail
 
 ## Weekly Reports
 
-### [Week 05](week/05/index.md) — January 20-26, 2026
+### [Week 05](week/05/index.md) — January 20-28, 2026
 
-Top stories: Minneapolis ICE crisis escalates (Alex Pretti killed, Democrats block DHS funding), Trump's Greenland theater at Davos, AI agent stacks mature to production systems, Microsoft mandates Claude Code, historic New England winter storm.
+Top stories: Minneapolis ICE crisis (Alex Pretti killed, Democrats threaten DHS funding), Trump's Greenland gambit at Davos, AI productivity paradox exposed (executives love it, workers get nothing), Kimi K2.5 beats Opus at half cost, FastRender 2,000-agent browser, historic New England winter storm.
 
 | Category | Summary |
 |----------|---------|
-| [Tech & AI](week/05/tech-ai.md) | Agent architecture shift, Microsoft/Claude Code, productivity paradox, Comic-Con AI ban, WEKA memory revolution |
-| [Politics](week/05/politics.md) | Minneapolis killings, Greenland/NATO deal, authoritarian drift assessment, Fed independence case |
-| [Culture](week/05/culture.md) | Community resistance in Minneapolis, influencer creep, scientific writing crisis, memory as resistance |
-| [Books](week/05/books.md) | Defense of literature, esoteric writing revealed, online discourse shapes Trumpism |
-| [Philosophy](week/05/philosophy.md) | Ego and self critique, religious conversion, Western civilization concerns |
-| [Business](week/05/business.md) | AWS S3 engineering at scale, AI coding tools mature, investment landscape |
-| [Personal](week/05/personal.md) | Historic winter storm, -80°F windchill, 12-20" snow, comfort food timing |
-| [Misc](week/05/misc.md) | AI as state power consolidation, Canada MAID crisis, deep reading resistance |
+| [Tech & AI](week/05/tech-ai.md) | AI productivity paradox, Kimi K2.5 China surge, FastRender 2000-agent browser, Anthropic constitution published, MCP Apps launch |
+| [Politics](week/05/politics.md) | Minneapolis killings, Greenland crisis, Fed independence Supreme Court case, Trump follow-through pattern |
+| [Culture](week/05/culture.md) | Minneapolis under occupation, science writing infrastructure, queer narratives, friction-maxxing ethos |
+| [Books](week/05/books.md) | Lost art of esoteric writing, fanfic-to-romance pipeline, Gawker commenters in government |
+| [Philosophy](week/05/philosophy.md) | Electra and anger, religious conversion, Weimar America warning, ego crisis |
+| [Business](week/05/business.md) | AWS S3 engineering, AI-first transformation, Craft Docs makeover, abundant vs sustainable |
+| [Personal](week/05/personal.md) | Historic winter storm, -80°F windchill, 12-20" snow, Warren General Store timing |
+| [Misc](week/05/misc.md) | AI and state power, Canada MAID crisis, deep reading resistance, institutional decay |
 
 ---
 

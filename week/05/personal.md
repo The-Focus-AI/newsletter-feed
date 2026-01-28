@@ -1,4 +1,4 @@
-# Week 05 Personal Newsletter Analysis (January 20-26, 2026)
+# Week 05 Personal Newsletter Analysis (January 20-28, 2026)
 
 ## Overview
 
@@ -9,7 +9,7 @@ This week's personal newsletters were dominated by a major winter storm that del
 ## Major Topics and Stories
 
 ### 1. Historic Winter Storm and Extreme Cold
-**Coverage:** [OpenSnow (Jan 21)](https://opensnow.com/dailysnow/newengland/post/42466?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 22)](https://opensnow.com/dailysnow/newengland/post/42496?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 23)](https://opensnow.com/dailysnow/newengland/post/42517?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 24)](https://opensnow.com/dailysnow/newengland/post/42545?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 26)](https://opensnow.com/dailysnow/newengland/post/42573?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+**Coverage:** [OpenSnow (Jan 21)](https://opensnow.com/dailysnow/newengland/post/42466?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 22)](https://opensnow.com/dailysnow/newengland/post/42496?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 23)](https://opensnow.com/dailysnow/newengland/post/42517?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 24)](https://opensnow.com/dailysnow/newengland/post/42545?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 26)](https://opensnow.com/dailysnow/newengland/post/42573?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 27)](https://opensnow.com/dailysnow/newengland/post/42601?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
 The week featured New England's most significant winter weather event of the season, combining dangerously cold temperatures with a major snowstorm. Dr. Jay Cordeira's forecasting tracked the storm from development through aftermath with impressive precision.
 
@@ -17,9 +17,11 @@ The week featured New England's most significant winter weather event of the sea
 
 > "It's currently 4:15AM, -30F on top of Mt. Washington, with a windchill of -80F. You read that right." - [OpenSnow (Jan 24)](https://opensnow.com/dailysnow/newengland/post/42545?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
-**The Storm:** Sunday into Monday delivered 12-20 inches across southern New England, with peak reports of 18-19 inches in Ludlow and New Braintree, Massachusetts, and 18 inches in Eastford and Simsbury, Connecticut.
+**The Storm:** Sunday into Monday delivered 12-20 inches across southern New England, with peak reports of 18-19 inches in Ludlow and New Braintree, Massachusetts, and 18 inches in Eastford and Simsbury, Connecticut. The [final storm recap on Tuesday, January 27](https://opensnow.com/dailysnow/newengland/post/42601?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) confirmed the highest official report at 22.2 inches in Massachusetts, with ski resorts posting impressive totals: Wachusett led with 20 inches, Waterville Valley at 18 inches, with Sunday River and Mohawk Mountain also reaching 20-inch storm totals.
 
 > "That snowband is going to produce snowfall rates of 3-4 inches per hour on Sunday afternoon/evening." - [OpenSnow (Jan 23)](https://opensnow.com/dailysnow/newengland/post/42517?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+
+> "I know it's cold, but conditions are absolutely fantastic; most resorts are now open at or near 100%." - [OpenSnow (Jan 27)](https://opensnow.com/dailysnow/newengland/post/42601?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
 
 **Technical Insight:** The forecasts highlighted the role of the Air Force 53rd Weather Reconnaissance Squadron ("Hurricane Hunters") flying the cutoff low west of California and dropping dropsondes to improve model accuracy - a detail that Dr. Cordeira noted he helps plan as part of his day job.
 
@@ -92,3 +94,4 @@ All newsletters this week served hyperlocal audiences - New England weather, a C
 - [New England Daily Snow - Weekend Update (Saturday)](https://opensnow.com/dailysnow/newengland/post/42545?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 24)
 - [New England Daily Snow - Sunday Night/Monday Morning Update](https://opensnow.com/dailysnow/newengland/post/42573?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 26)
 - [Arctic Air Settles Into the East, Not Much Going On Out West](https://lift.opensnow.com/newsletters/east/2026-01-26/index.html) - OpenSnow (Jan 26)
+- [New England Daily Snow - Storm Recap and Outlook](https://opensnow.com/dailysnow/newengland/post/42601?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 27)
