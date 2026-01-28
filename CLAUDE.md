@@ -5,52 +5,38 @@ A system for downloading, organizing, and processing newsletter emails from Gmai
 ## Quick Commands
 
 ### Sync Newsletters (Full Workflow)
-When asked to "sync newsletters" or "update newsletters", run this complete workflow:
+When asked to "sync newsletters" or "update newsletters", use the `newsletter-sync` agent:
 
-0. **Load required skills first**
-   Before running any scripts, invoke the `/gmail` skill to ensure the google-skill plugin is loaded and dependencies are installed. This guarantees the Gmail API is available for the download script.
+```
+Task({
+  subagent_type: "newsletter-sync",
+  prompt: "Sync newsletters for this week",
+  run_in_background: true  // Optional: run in background
+})
+```
 
-1. **Download new emails**
-   ```bash
-   npx tsx scripts/download-emails.ts --days=7 --max=200
-   ```
+The agent handles the complete workflow:
+1. Downloads new emails from Gmail
+2. Initializes new newsletter senders
+3. Processes emails into content
+4. Launches parallel `weekly-newsletter-analyst` agents for each category
+5. Generates weekly rollup index
+6. Updates README.md
+7. Commits and pushes changes
 
-2. **Initialize any new newsletter senders**
-   ```bash
-   npx tsx scripts/init-newsletters.ts
-   ```
-   - Review output for new senders
-   - If new newsletters found, optionally run LLM categorization:
-     ```bash
-     npx tsx scripts/categorize-newsletter.ts
-     ```
+Both agents use Sonnet by default for speed. Override with `model: "opus"` if needed.
 
-3. **Process emails into content**
-   ```bash
-   npx tsx scripts/process-newsletters.ts
-   ```
+### Manual Workflow (if not using agents)
+If you need to run steps manually:
 
-4. **Generate weekly summaries**
-   Launch parallel `weekly-newsletter-analyst` agents for each category with newsletters in the current week. Categories: tech-ai, politics, culture, books, philosophy, science, personal, misc, uncategorized, business.
-
-   Each agent should:
-   - Read all articles in `content/{category}/*/` from the current week
-   - Generate a comprehensive analysis report with themes, key stories, quotes, and source links
-   - Save to `week/{week_number}/{category}.md` (e.g., `week/03/tech-ai.md`)
-
-5. **Generate weekly rollup**
-   After all category summaries are complete, create a combined rollup:
-   - Read all `week/{week_number}/*.md` files for the current week (except index.md)
-   - Create `week/{week_number}/index.md` with:
-     - Executive summary of top stories across all categories
-     - Key themes and cross-category patterns
-     - Links to each category report (e.g., `[Tech & AI](tech-ai.md)`)
-
-6. **Update README.md**
-   Update the root `README.md` with links to all weekly reports:
-   - List weeks in reverse chronological order
-   - Link to each category summary within each week
-   - Include brief description of the project
+1. **Load Gmail skill:** `/gmail`
+2. **Download:** `npx tsx scripts/download-emails.ts --days=7 --max=200`
+3. **Init senders:** `npx tsx scripts/init-newsletters.ts`
+4. **Process:** `npx tsx scripts/process-newsletters.ts`
+5. **Summarize:** Launch `weekly-newsletter-analyst` agents per category
+6. **Rollup:** Create `week/{week}/index.md`
+7. **Update README.md**
+8. **Commit and push**
 
 ### Email a Weekly Report
 To email one report:
@@ -205,6 +191,50 @@ Themes across sources. All newsletter names hyperlinked.
 - Every quote attribution = hyperlink to source
 - Sources section = all articles with clickable original URLs
 - Zero plain-text newsletter names allowed
+
+## Agents
+
+This project has two custom agents in `.claude/agents/`:
+
+### newsletter-sync
+**Model:** Sonnet (fast)
+**Purpose:** Full orchestration workflow
+
+Handles the complete newsletter sync pipeline:
+- Downloads emails from Gmail
+- Initializes new newsletter senders
+- Processes emails into content
+- Launches parallel category summary agents
+- Generates weekly rollup index
+- Updates README.md
+- Commits and pushes
+
+```
+Task({
+  subagent_type: "newsletter-sync",
+  prompt: "Sync newsletters for the current week"
+})
+```
+
+### weekly-newsletter-analyst
+**Model:** Sonnet (fast)
+**Purpose:** Single category analysis
+
+Analyzes newsletter content for one category and generates a comprehensive report:
+- Reads all articles in `content/{category}/*/` for the target week
+- Extracts themes, key stories, quotes with source links
+- Saves report to `week/{week}/{category}.md`
+
+```
+Task({
+  subagent_type: "weekly-newsletter-analyst",
+  prompt: "Generate Week 05 tech-ai analysis. Read content/tech-ai/*/ for week 05. Save to week/05/tech-ai.md"
+})
+```
+
+Both agents default to Sonnet. Override with `model: "opus"` if deeper reasoning is needed.
+
+---
 
 ## Gmail Setup
 
