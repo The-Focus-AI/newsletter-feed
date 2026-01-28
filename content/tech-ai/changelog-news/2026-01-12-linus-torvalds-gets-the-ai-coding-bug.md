@@ -5,12 +5,14 @@ newsletter_name: "Changelog News"
 category: tech-ai
 subject: "🐝 Linus Torvalds gets the AI coding bug"
 date: Tue, 13 Jan 2026 06:37:33 +1100
+source_url: "https://worksonmymachine.ai/p/the-great-flood-of-adequate-software"
 ---
 
 # 🐝 Linus Torvalds gets the AI coding bug
 
 **From:** Changelog News <news@changelog.com>
 **Date:** Tue, 13 Jan 2026 06:37:33 +1100
+**Source:** [View original](https://worksonmymachine.ai/p/the-great-flood-of-adequate-software)
 
 ---
 

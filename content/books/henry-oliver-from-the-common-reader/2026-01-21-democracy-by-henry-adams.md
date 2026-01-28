@@ -5,12 +5,14 @@ newsletter_name: "Henry Oliver from The Common Reader"
 category: books
 subject: "Democracy, by Henry Adams"
 date: Wed, 21 Jan 2026 01:21:09 +0000
+source_url: "https://www.commonreader.co.uk/p/democracy-by-henry-adams"
 ---
 
 # Democracy, by Henry Adams
 
 **From:** Henry Oliver from The Common Reader <commonreader@substack.com>
 **Date:** Wed, 21 Jan 2026 01:21:09 +0000
+**Source:** [View original](https://www.commonreader.co.uk/p/democracy-by-henry-adams)
 
 ---
 

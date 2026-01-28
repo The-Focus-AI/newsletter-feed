@@ -5,12 +5,14 @@ newsletter_name: "The Pragmatic Engineer"
 category: business
 subject: "How AWS S3 is built"
 date: Wed, 21 Jan 2026 18:00:17 +0000
+source_url: "https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built"
 ---
 
 # How AWS S3 is built
 
 **From:** The Pragmatic Engineer <pragmaticengineer@substack.com>
 **Date:** Wed, 21 Jan 2026 18:00:17 +0000
+**Source:** [View original](https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Slavoj Žižek"
 category: philosophy
 subject: "PLURIBUS: THE POWER OF DIVISION"
 date: Sat, 24 Jan 2026 14:02:45 +0000
+source_url: "https://slavoj.substack.com/p/pluribus-the-power-of-division"
 ---
 
 # PLURIBUS: THE POWER OF DIVISION
 
 **From:** "Slavoj Žižek " <slavoj+popular-culture@substack.com>
 **Date:** Sat, 24 Jan 2026 14:02:45 +0000
+**Source:** [View original](https://slavoj.substack.com/p/pluribus-the-power-of-division)
 
 ---
 

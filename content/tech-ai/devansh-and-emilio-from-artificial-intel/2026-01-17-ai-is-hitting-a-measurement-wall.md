@@ -5,12 +5,14 @@ newsletter_name: "Devansh and Emilio from Artificial Intelligence Made Simple"
 category: tech-ai
 subject: "AI is Hitting a Measurement Wall"
 date: Sat, 17 Jan 2026 11:41:05 +0000
+source_url: "https://www.artificialintelligencemadesimple.com/p/ai-is-hitting-a-measurement-wall"
 ---
 
 # AI is Hitting a Measurement Wall
 
 **From:** Devansh from Artificial Intelligence Made Simple <artificialintelligencemadesimple@substack.com>
 **Date:** Sat, 17 Jan 2026 11:41:05 +0000
+**Source:** [View original](https://www.artificialintelligencemadesimple.com/p/ai-is-hitting-a-measurement-wall)
 
 ---
 

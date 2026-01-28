@@ -5,12 +5,14 @@ newsletter_name: "News Minimalist"
 category: misc
 subject: "🐢 Google integrates AI mode with users' Photos and Gmail + 11 more stories"
 date: Mon, 26 Jan 2026 17:39:12 +0000 (UTC)
+source_url: "https://newsletter.newsminimalist.com/p/google-integrates-ai-mode-with-users-photos-and-gmail-11-more-stories"
 ---
 
 # 🐢 Google integrates AI mode with users' Photos and Gmail + 11 more stories
 
 **From:** News Minimalist <daily@mail.newsminimalist.com>
 **Date:** Mon, 26 Jan 2026 17:39:12 +0000 (UTC)
+**Source:** [View original](https://newsletter.newsminimalist.com/p/google-integrates-ai-mode-with-users-photos-and-gmail-11-more-stories)
 
 ---
 

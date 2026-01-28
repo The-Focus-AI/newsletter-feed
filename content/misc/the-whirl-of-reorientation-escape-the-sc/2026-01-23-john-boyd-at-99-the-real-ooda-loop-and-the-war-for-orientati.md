@@ -5,12 +5,14 @@ newsletter_name: "The Whirl Of ReOrientation: Escape The Script. Win The War."
 category: misc
 subject: "John Boyd at 99: The Real OODA Loop and the War for Orientation"
 date: Fri, 23 Jan 2026 11:37:00 +0000
+source_url: "https://thewhirl.substack.com/p/john-boyd-99th-birthday-real-ooda-orientation-destruction-creation"
 ---
 
 # John Boyd at 99: The Real OODA Loop and the War for Orientation
 
 **From:** "The Whirl Of ReOrientation: Escape The Script. Win The War. " <thewhirl@substack.com>
 **Date:** Fri, 23 Jan 2026 11:37:00 +0000
+**Source:** [View original](https://thewhirl.substack.com/p/john-boyd-99th-birthday-real-ooda-orientation-destruction-creation)
 
 ---
 

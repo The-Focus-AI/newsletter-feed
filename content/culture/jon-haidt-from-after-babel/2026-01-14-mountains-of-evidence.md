@@ -5,12 +5,14 @@ newsletter_name: "Jon Haidt from After Babel"
 category: culture
 subject: "Mountains of Evidence"
 date: Wed, 14 Jan 2026 14:59:38 +0000
+source_url: "https://www.afterbabel.com/p/mountains-of-evidence"
 ---
 
 # Mountains of Evidence
 
 **From:** Jon Haidt from After Babel <jonathanhaidt@substack.com>
 **Date:** Wed, 14 Jan 2026 14:59:38 +0000
+**Source:** [View original](https://www.afterbabel.com/p/mountains-of-evidence)
 
 ---
 

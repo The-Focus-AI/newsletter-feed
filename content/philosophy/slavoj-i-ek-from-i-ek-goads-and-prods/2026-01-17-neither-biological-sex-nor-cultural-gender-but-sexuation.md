@@ -5,12 +5,14 @@ newsletter_name: "Slavoj Žižek from ŽIŽEK GOADS AND PRODS"
 category: philosophy
 subject: "NEITHER (BIOLOGICAL) SEX NOR (CULTURAL) GENDER BUT SEXUATION"
 date: Sat, 17 Jan 2026 15:02:32 +0000
+source_url: "https://slavoj.substack.com/p/neither-biological-sex-nor-cultural"
 ---
 
 # NEITHER (BIOLOGICAL) SEX NOR (CULTURAL) GENDER BUT SEXUATION
 
 **From:** "Slavoj Žižek from ŽIŽEK GOADS AND PRODS" <slavoj+philosophy@substack.com>
 **Date:** Sat, 17 Jan 2026 15:02:32 +0000
+**Source:** [View original](https://slavoj.substack.com/p/neither-biological-sex-nor-cultural)
 
 ---
 

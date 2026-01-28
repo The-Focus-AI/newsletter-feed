@@ -5,12 +5,14 @@ newsletter_name: "Sam Schillace from Sunday Letters"
 category: tech-ai
 subject: "The hard part isn't doing the work now; it's choosing the work."
 date: Mon, 19 Jan 2026 00:01:06 +0000
+source_url: "https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work"
 ---
 
 # The hard part isn't doing the work now; it's choosing the work.
 
 **From:** Sam Schillace from Sunday Letters <sundaylettersfromsam@substack.com>
 **Date:** Mon, 19 Jan 2026 00:01:06 +0000
+**Source:** [View original](https://sundaylettersfromsam.substack.com/p/the-hard-part-isnt-doing-the-work)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "The 5 AI stories worth your time this week + grab the prompt that turns news into a 14-day experiment"
 date: Sat, 17 Jan 2026 15:02:33 +0000
+source_url: "https://natesnewsletter.substack.com/p/i-read-200-ai-announcements-so-you"
 ---
 
 # The 5 AI stories worth your time this week + grab the prompt that turns news into a 14-day experiment
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Sat, 17 Jan 2026 15:02:33 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/i-read-200-ai-announcements-so-you)
 
 ---
 

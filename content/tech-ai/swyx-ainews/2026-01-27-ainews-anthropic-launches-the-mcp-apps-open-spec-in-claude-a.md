@@ -5,12 +5,14 @@ newsletter_name: "swyx (AINews)"
 category: tech-ai
 subject: "[AINews] Anthropic launches the MCP Apps open spec, in Claude.ai"
 date: Tue, 27 Jan 2026 07:20:28 +0000
+source_url: "https://www.latent.space/p/ainews-anthropic-launches-the-mcp"
 ---
 
 # [AINews] Anthropic launches the MCP Apps open spec, in Claude.ai
 
 **From:** "swyx (AINews)" <swyx+ainews@substack.com>
 **Date:** Tue, 27 Jan 2026 07:20:28 +0000
+**Source:** [View original](https://www.latent.space/p/ainews-anthropic-launches-the-mcp)
 
 ---
 

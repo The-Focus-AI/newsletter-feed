@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Our Year in Review"
 date: Thu, 15 Jan 2026 11:15:39 +0000
+source_url: "https://www.chinatalk.media/p/chinatalk-in-2025-and-2026"
 ---
 
 # Our Year in Review
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Thu, 15 Jan 2026 11:15:39 +0000
+**Source:** [View original](https://www.chinatalk.media/p/chinatalk-in-2025-and-2026)
 
 ---
 

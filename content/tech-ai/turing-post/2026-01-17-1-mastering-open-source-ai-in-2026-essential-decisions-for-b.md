@@ -5,12 +5,14 @@ newsletter_name: "🔳 Turing Post"
 category: tech-ai
 subject: "🌐 #1: Mastering Open Source AI in 2026: Essential Decisions for Builders"
 date: Sat, 17 Jan 2026 16:04:44 +0000 (UTC)
+source_url: "https://www.turingpost.com/p/opensource1"
 ---
 
 # 🌐 #1: Mastering Open Source AI in 2026: Essential Decisions for Builders
 
 **From:** "🔳 Turing Post" <turingpost@mail.beehiiv.com>
 **Date:** Sat, 17 Jan 2026 16:04:44 +0000 (UTC)
+**Source:** [View original](https://www.turingpost.com/p/opensource1)
 
 ---
 

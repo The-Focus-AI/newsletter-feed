@@ -5,12 +5,14 @@ newsletter_name: "Bill McKibben from The Crucial Years"
 category: politics
 subject: "Time for some courage in the climate fight too"
 date: Tue, 27 Jan 2026 16:29:53 +0000
+source_url: "https://billmckibben.substack.com/p/time-for-some-courage-in-the-climate"
 ---
 
 # Time for some courage in the climate fight too
 
 **From:** Bill McKibben from The Crucial Years <billmckibben@substack.com>
 **Date:** Tue, 27 Jan 2026 16:29:53 +0000
+**Source:** [View original](https://billmckibben.substack.com/p/time-for-some-courage-in-the-climate)
 
 ---
 

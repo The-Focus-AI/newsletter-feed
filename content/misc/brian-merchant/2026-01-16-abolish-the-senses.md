@@ -5,12 +5,14 @@ newsletter_name: "Brian Merchant"
 category: misc
 subject: "Abolish the senses"
 date: Fri, 16 Jan 2026 06:08:39 +0000
+source_url: "https://bloodinthemachine.substack.com/p/abolish-the-senses"
 ---
 
 # Abolish the senses
 
 **From:** Brian Merchant <bloodinthemachine@substack.com>
 **Date:** Fri, 16 Jan 2026 06:08:39 +0000
+**Source:** [View original](https://bloodinthemachine.substack.com/p/abolish-the-senses)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Tomas Pueyo from Uncharted Territories"
 category: business
 subject: "Is Venezuela’s Oil Worth the Hassle?"
 date: Tue, 13 Jan 2026 07:52:45 +0000
+source_url: "https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle"
 ---
 
 # Is Venezuela’s Oil Worth the Hassle?
 
 **From:** Tomas Pueyo from Uncharted Territories <unchartedterritories@substack.com>
 **Date:** Tue, 13 Jan 2026 07:52:45 +0000
+**Source:** [View original](https://unchartedterritories.tomaspueyo.com/p/is-venezuelas-oil-worth-the-hassle)
 
 ---
 

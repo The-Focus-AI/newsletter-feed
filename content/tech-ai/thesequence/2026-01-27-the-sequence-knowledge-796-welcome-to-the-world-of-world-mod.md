@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence Knowledge #796: Welcome to the World of World Models"
 date: Tue, 27 Jan 2026 12:02:26 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-knowledge-796-welcome"
 ---
 
 # The Sequence Knowledge #796: Welcome to the World of World Models
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Tue, 27 Jan 2026 12:02:26 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-knowledge-796-welcome)
 
 ---
 

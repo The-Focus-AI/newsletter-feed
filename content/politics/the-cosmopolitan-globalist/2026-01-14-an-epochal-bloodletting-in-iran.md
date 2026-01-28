@@ -5,12 +5,14 @@ newsletter_name: "The Cosmopolitan Globalist"
 category: politics
 subject: "An epochal bloodletting in Iran"
 date: Wed, 14 Jan 2026 23:57:29 +0000
+source_url: "https://claireberlinski.substack.com/p/an-epochal-bloodletting-in-iran"
 ---
 
 # An epochal bloodletting in Iran
 
 **From:** The Cosmopolitan Globalist <claireberlinski@substack.com>
 **Date:** Wed, 14 Jan 2026 23:57:29 +0000
+**Source:** [View original](https://claireberlinski.substack.com/p/an-epochal-bloodletting-in-iran)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Blocked and Reported"
 category: misc
 subject: "Episode 291: Oh, Canada (with Jonathan Kay)"
 date: Mon, 19 Jan 2026 11:00:56 +0000
+source_url: "https://www.blockedandreported.org/p/episode-291-oh-canada-with-jonathan-0bd"
 ---
 
 # Episode 291: Oh, Canada (with Jonathan Kay)
 
 **From:** Blocked and Reported <blockedandreported@substack.com>
 **Date:** Mon, 19 Jan 2026 11:00:56 +0000
+**Source:** [View original](https://www.blockedandreported.org/p/episode-291-oh-canada-with-jonathan-0bd)
 
 ---
 

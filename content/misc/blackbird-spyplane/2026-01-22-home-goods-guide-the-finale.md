@@ -5,12 +5,14 @@ newsletter_name: "Blackbird Spyplane"
 category: misc
 subject: "Home Goods Guide: The Finale"
 date: Thu, 22 Jan 2026 12:01:30 +0000
+source_url: "https://www.blackbirdspyplane.com/p/home-goods-guide-the-finale"
 ---
 
 # Home Goods Guide: The Finale
 
 **From:** Blackbird Spyplane <blackbirdspyplane@substack.com>
 **Date:** Thu, 22 Jan 2026 12:01:30 +0000
+**Source:** [View original](https://www.blackbirdspyplane.com/p/home-goods-guide-the-finale)
 
 ---
 

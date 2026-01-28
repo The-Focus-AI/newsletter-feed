@@ -5,12 +5,14 @@ newsletter_name: "Henry Oliver from The Common Reader"
 category: books
 subject: "Good letters made good men. Why should we kick against the Pricks, when we can walk on Roses?"
 date: Thu, 22 Jan 2026 15:54:12 +0000
+source_url: "https://www.commonreader.co.uk/p/good-letters-made-good-men-why-should"
 ---
 
 # Good letters made good men. Why should we kick against the Pricks, when we can walk on Roses?
 
 **From:** Henry Oliver from The Common Reader <commonreader@substack.com>
 **Date:** Thu, 22 Jan 2026 15:54:12 +0000
+**Source:** [View original](https://www.commonreader.co.uk/p/good-letters-made-good-men-why-should)
 
 ---
 

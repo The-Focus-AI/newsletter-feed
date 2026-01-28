@@ -5,12 +5,14 @@ newsletter_name: "🔳 Turing Post"
 category: tech-ai
 subject: "AI 101: What are Web World Models?"
 date: Wed, 14 Jan 2026 22:02:37 +0000 (UTC)
+source_url: "https://www.turingpost.com/p/topic-35-what-are-world-models"
 ---
 
 # AI 101: What are Web World Models?
 
 **From:** "🔳 Turing Post" <turingpost@mail.beehiiv.com>
 **Date:** Wed, 14 Jan 2026 22:02:37 +0000 (UTC)
+**Source:** [View original](https://www.turingpost.com/p/topic-35-what-are-world-models)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Silver Bulletin"
 category: politics
 subject: "Trump is losing normies on immigration"
 date: Sun, 25 Jan 2026 17:55:49 +0000
+source_url: "https://www.natesilver.net/p/trump-is-losing-normies-on-immigration"
 ---
 
 # Trump is losing normies on immigration
 
 **From:** Silver Bulletin <natesilver+politics@substack.com>
 **Date:** Sun, 25 Jan 2026 17:55:49 +0000
+**Source:** [View original](https://www.natesilver.net/p/trump-is-losing-normies-on-immigration)
 
 ---
 

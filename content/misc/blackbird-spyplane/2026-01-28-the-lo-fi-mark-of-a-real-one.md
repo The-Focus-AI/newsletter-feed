@@ -5,12 +5,14 @@ newsletter_name: "Blackbird Spyplane"
 category: misc
 subject: "The Lo-fi mark of a Real One"
 date: Wed, 28 Jan 2026 12:03:28 +0000
+source_url: "https://www.blackbirdspyplane.com/p/the-lo-fi-mark-of-a-real-one"
 ---
 
 # The Lo-fi mark of a Real One
 
 **From:** Blackbird Spyplane <blackbirdspyplane@substack.com>
 **Date:** Wed, 28 Jan 2026 12:03:28 +0000
+**Source:** [View original](https://www.blackbirdspyplane.com/p/the-lo-fi-mark-of-a-real-one)
 
 ---
 

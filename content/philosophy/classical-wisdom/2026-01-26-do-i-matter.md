@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "Do “I” Matter?"
 date: Mon, 26 Jan 2026 17:40:04 +0000
+source_url: "https://classicalwisdom.substack.com/p/do-i-matter"
 ---
 
 # Do “I” Matter?
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Mon, 26 Jan 2026 17:40:04 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/do-i-matter)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "Shopify's AI Memo Was a Filter, Not a Productivity Play. Grab the AI Leverage Audit I built after watching Duoling…"
 date: Tue, 13 Jan 2026 14:03:34 +0000
+source_url: "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the"
 ---
 
 # Shopify's AI Memo Was a Filter, Not a Productivity Play. Grab the AI Leverage Audit I built after watching Duoling…
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Tue, 13 Jan 2026 14:03:34 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the)
 
 ---
 

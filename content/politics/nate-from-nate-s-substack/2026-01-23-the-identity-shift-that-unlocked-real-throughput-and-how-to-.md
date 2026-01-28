@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "The identity shift that unlocked real throughput and how to make it stick (plus an in-depth builders guide for 202…"
 date: Fri, 23 Jan 2026 14:02:47 +0000
+source_url: "https://natesnewsletter.substack.com/p/6-practices-for-when-the-models-got"
 ---
 
 # The identity shift that unlocked real throughput and how to make it stick (plus an in-depth builders guide for 202…
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Fri, 23 Jan 2026 14:02:47 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/6-practices-for-when-the-models-got)
 
 ---
 

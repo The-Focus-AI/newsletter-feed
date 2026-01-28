@@ -5,12 +5,14 @@ newsletter_name: "Rod Dreher from Rod Dreher's Diary"
 category: philosophy
 subject: "Kirk Killing: The Radical Right's Reichstag Fire"
 date: Thu, 15 Jan 2026 18:56:33 +0000
+source_url: "https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag"
 ---
 
 # Kirk Killing: The Radical Right's Reichstag Fire
 
 **From:** "Rod Dreher from Rod Dreher's Diary" <roddreher@substack.com>
 **Date:** Thu, 15 Jan 2026 18:56:33 +0000
+**Source:** [View original](https://roddreher.substack.com/p/kirk-killing-the-radical-rights-reichstag)
 
 ---
 

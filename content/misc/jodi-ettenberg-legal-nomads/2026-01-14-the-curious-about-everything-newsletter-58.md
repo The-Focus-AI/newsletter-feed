@@ -5,12 +5,14 @@ newsletter_name: "Jodi Ettenberg | Legal Nomads"
 category: misc
 subject: "The Curious About Everything Newsletter #58"
 date: Wed, 14 Jan 2026 00:45:33 +0000
+source_url: "https://jodiettenberg.substack.com/p/fifty-eight"
 ---
 
 # The Curious About Everything Newsletter #58
 
 **From:** "Jodi Ettenberg | Legal Nomads" <jodiettenberg@substack.com>
 **Date:** Wed, 14 Jan 2026 00:45:33 +0000
+**Source:** [View original](https://jodiettenberg.substack.com/p/fifty-eight)
 
 ---
 

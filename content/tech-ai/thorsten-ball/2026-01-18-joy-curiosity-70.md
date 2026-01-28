@@ -5,12 +5,14 @@ newsletter_name: "Thorsten Ball"
 category: tech-ai
 subject: "Joy & Curiosity #70"
 date: Sun, 18 Jan 2026 07:02:21 +0000
+source_url: "https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85"
 ---
 
 # Joy & Curiosity #70
 
 **From:** Thorsten Ball <thorstenball@substack.com>
 **Date:** Sun, 18 Jan 2026 07:02:21 +0000
+**Source:** [View original](https://registerspill.thorstenball.com/p/joy-and-curiosity-70-d85)
 
 ---
 

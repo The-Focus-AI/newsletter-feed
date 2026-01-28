@@ -5,12 +5,14 @@ newsletter_name: "The Cosmopolitan Globalist"
 category: politics
 subject: "Will China replace the United States?"
 date: Tue, 27 Jan 2026 23:43:09 +0000
+source_url: "https://claireberlinski.substack.com/p/will-china-replace-the-united-states"
 ---
 
 # Will China replace the United States?
 
 **From:** The Cosmopolitan Globalist <claireberlinski+critical-conditions@substack.com>
 **Date:** Tue, 27 Jan 2026 23:43:09 +0000
+**Source:** [View original](https://claireberlinski.substack.com/p/will-china-replace-the-united-states)
 
 ---
 

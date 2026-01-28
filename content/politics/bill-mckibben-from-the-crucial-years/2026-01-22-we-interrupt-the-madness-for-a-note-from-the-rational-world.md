@@ -5,12 +5,14 @@ newsletter_name: "Bill McKibben from The Crucial Years"
 category: politics
 subject: "We interrupt the madness for a note from the rational world"
 date: Thu, 22 Jan 2026 18:47:17 +0000
+source_url: "https://billmckibben.substack.com/p/we-interrupt-the-madness-for-a-note"
 ---
 
 # We interrupt the madness for a note from the rational world
 
 **From:** Bill McKibben from The Crucial Years <billmckibben@substack.com>
 **Date:** Thu, 22 Jan 2026 18:47:17 +0000
+**Source:** [View original](https://billmckibben.substack.com/p/we-interrupt-the-madness-for-a-note)
 
 ---
 

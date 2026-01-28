@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Could Claude Code Work for ChinaTalk?"
 date: Mon, 26 Jan 2026 17:19:21 +0000
+source_url: "https://www.chinatalk.media/p/could-claude-code-work-for-chinatalk"
 ---
 
 # Could Claude Code Work for ChinaTalk?
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Mon, 26 Jan 2026 17:19:21 +0000
+**Source:** [View original](https://www.chinatalk.media/p/could-claude-code-work-for-chinatalk)
 
 ---
 

@@ -188,6 +188,90 @@ function extractViewLink(html: string): string | null {
   return null;
 }
 
+// Extract canonical article URL from plain text body
+// Looks for common newsletter platform URLs that link to the article
+function extractArticleUrl(body: string, subject: string): string | null {
+  if (!body) return null;
+
+  // Extract keywords from subject for matching (remove emojis, numbers, short words)
+  const subjectKeywords = subject
+    .toLowerCase()
+    .replace(/[^\w\s]/g, ' ')
+    .split(/\s+/)
+    .filter(w => w.length > 3 && !/^\d+$/.test(w));
+
+  // Also extract any identifiers like "FOD#137" -> "fod137"
+  const idMatch = subject.match(/([A-Z]+)#?(\d+)/i);
+  const subjectId = idMatch ? (idMatch[1] + idMatch[2]).toLowerCase() : null;
+
+  // Patterns for common newsletter platforms - these are canonical article URLs
+  // Order matters: more specific patterns first
+  const platformPatterns = [
+    // Substack URLs (*.substack.com/p/*)
+    /https:\/\/[a-z0-9-]+\.substack\.com\/p\/[a-z0-9-]+/gi,
+    // Known newsletter domains with /p/ pattern
+    /https:\/\/(?:www\.)?(?:turingpost\.com|latent\.space|platformer\.news|semianalysis\.com|simonwillison\.net)\/p\/[a-z0-9-]+/gi,
+    // Beehiiv URLs (*.beehiiv.com/p/*)
+    /https:\/\/[a-z0-9-]+\.beehiiv\.com\/p\/[a-z0-9-]+/gi,
+    // Generic /p/ pattern for newsletter posts (fallback)
+    /https:\/\/(?:www\.)?[a-z0-9.-]+\/p\/[a-z0-9-]+/gi,
+  ];
+
+  const candidateUrls: string[] = [];
+
+  for (const pattern of platformPatterns) {
+    const matches = body.matchAll(pattern);
+    for (const match of matches) {
+      const url = match[0];
+      // Skip tracking, subscribe, and image URLs
+      if (url.includes('subscribe') ||
+          url.includes('unsubscribe') ||
+          url.includes('/cdn-cgi/') ||
+          url.includes('media.beehiiv.com')) {
+        continue;
+      }
+      candidateUrls.push(url);
+    }
+  }
+
+  if (candidateUrls.length === 0) return null;
+
+  // Deduplicate URLs
+  const uniqueUrls = [...new Set(candidateUrls.map(u => u.split('?')[0]))];
+
+  // If there's an ID in the subject (e.g., "FOD#137"), prefer URLs containing it
+  if (subjectId) {
+    const matchingUrl = uniqueUrls.find(url => url.toLowerCase().includes(subjectId));
+    if (matchingUrl) return matchingUrl;
+  }
+
+  // Otherwise, try to find a URL that matches subject keywords
+  for (const url of uniqueUrls) {
+    const urlPath = url.split('/').pop() || '';
+    const urlWords = urlPath.toLowerCase().split('-');
+    const matchCount = subjectKeywords.filter(kw => urlWords.some(uw => uw.includes(kw) || kw.includes(uw))).length;
+    if (matchCount >= 2) {
+      return url;
+    }
+  }
+
+  // Fall back to the first unique URL
+  return uniqueUrls[0];
+}
+
+// Extract source URL using multiple strategies
+function extractSourceUrl(html: string, body: string, subject: string): string | null {
+  // Strategy 1: Look for "View in browser" link in HTML (most reliable)
+  const viewLink = extractViewLink(html);
+  if (viewLink) return viewLink;
+
+  // Strategy 2: Look for canonical article URLs in plain text body
+  const articleUrl = extractArticleUrl(body, subject);
+  if (articleUrl) return articleUrl;
+
+  return null;
+}
+
 // Convert HTML to plain text
 function htmlToText(html: string): string {
   if (!html) return '';
@@ -286,11 +370,11 @@ function processEmail(newsletters: Newsletter[], emlPath: string): { processed: 
   }
   const content = cleanContent(rawContent);
 
-  // Extract source link from HTML
-  const viewLink = extractViewLink(data.htmlBody || '');
+  // Extract source URL using multiple strategies
+  const extractedUrl = extractSourceUrl(data.htmlBody || '', data.body || '', data.subject || '');
 
-  // Build source line - prefer view link, fall back to newsletter URL
-  const sourceUrl = viewLink || newsletter.url || '';
+  // Build source line - prefer extracted URL, fall back to newsletter URL
+  const sourceUrl = extractedUrl || newsletter.url || '';
   const sourceLine = sourceUrl ? `\n**Source:** [View original](${sourceUrl})` : '';
 
   // Generate markdown with frontmatter

@@ -5,12 +5,14 @@ newsletter_name: "Today in Tabs"
 category: culture
 subject: "Thank God It's Whiskey Friday With Tony Dokoupil"
 date: Fri, 16 Jan 2026 19:46:08 +0000 (UTC)
+source_url: "https://carigervin.substack.com/p/manage-your-anxiety-like-a-pro"
 ---
 
 # Thank God It's Whiskey Friday With Tony Dokoupil
 
 **From:** Today in Tabs <rusty@www.todayintabs.com>
 **Date:** Fri, 16 Jan 2026 19:46:08 +0000 (UTC)
+**Source:** [View original](https://carigervin.substack.com/p/manage-your-anxiety-like-a-pro)
 
 ---
 

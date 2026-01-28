@@ -5,12 +5,14 @@ newsletter_name: "Rod Dreher from Rod Dreher's Diary"
 category: philosophy
 subject: "We're Losing European Nationalist Conservatives"
 date: Wed, 28 Jan 2026 09:03:32 +0000
+source_url: "https://roddreher.substack.com/p/were-losing-european-nationalist"
 ---
 
 # We're Losing European Nationalist Conservatives
 
 **From:** "Rod Dreher from Rod Dreher's Diary" <roddreher@substack.com>
 **Date:** Wed, 28 Jan 2026 09:03:32 +0000
+**Source:** [View original](https://roddreher.substack.com/p/were-losing-european-nationalist)
 
 ---
 

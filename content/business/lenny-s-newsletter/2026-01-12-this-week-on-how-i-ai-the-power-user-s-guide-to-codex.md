@@ -5,12 +5,14 @@ newsletter_name: "Lenny's Newsletter"
 category: business
 subject: "🎙️This week on How I AI: The power user’s guide to Codex"
 date: Mon, 12 Jan 2026 16:03:09 +0000
+source_url: "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users"
 ---
 
 # 🎙️This week on How I AI: The power user’s guide to Codex
 
 **From:** "Lenny's Newsletter" <lenny+how-i-ai@substack.com>
 **Date:** Mon, 12 Jan 2026 16:03:09 +0000
+**Source:** [View original](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users)
 
 ---
 

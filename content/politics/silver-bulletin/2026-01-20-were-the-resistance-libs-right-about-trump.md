@@ -5,12 +5,14 @@ newsletter_name: "Silver Bulletin"
 category: politics
 subject: "Were the resistance libs right about Trump?"
 date: Tue, 20 Jan 2026 23:04:19 +0000
+source_url: "https://www.natesilver.net/p/were-the-resistance-libs-right-about"
 ---
 
 # Were the resistance libs right about Trump?
 
 **From:** Silver Bulletin <natesilver+politics@substack.com>
 **Date:** Tue, 20 Jan 2026 23:04:19 +0000
+**Source:** [View original](https://www.natesilver.net/p/were-the-resistance-libs-right-about)
 
 ---
 

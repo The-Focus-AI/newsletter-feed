@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "The Specification Gap: Why Your AI Produces Impressive-Looking Output With Fundamental Problems + The Prompt Kit T…"
 date: Wed, 21 Jan 2026 14:03:07 +0000
+source_url: "https://natesnewsletter.substack.com/p/tool-shaped-vs-colleague-shaped-ai"
 ---
 
 # The Specification Gap: Why Your AI Produces Impressive-Looking Output With Fundamental Problems + The Prompt Kit T…
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Wed, 21 Jan 2026 14:03:07 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/tool-shaped-vs-colleague-shaped-ai)
 
 ---
 

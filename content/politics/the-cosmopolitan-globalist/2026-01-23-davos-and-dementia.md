@@ -5,12 +5,14 @@ newsletter_name: "The Cosmopolitan Globalist"
 category: politics
 subject: "Davos and Dementia"
 date: Fri, 23 Jan 2026 17:08:33 +0000
+source_url: "https://claireberlinski.substack.com/p/davos-and-dementia"
 ---
 
 # Davos and Dementia
 
 **From:** The Cosmopolitan Globalist <claireberlinski+critical-conditions@substack.com>
 **Date:** Fri, 23 Jan 2026 17:08:33 +0000
+**Source:** [View original](https://claireberlinski.substack.com/p/davos-and-dementia)
 
 ---
 

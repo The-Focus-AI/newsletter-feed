@@ -5,12 +5,14 @@ newsletter_name: "Silver Bulletin"
 category: politics
 subject: "Actually, sometimes polls underestimate Democrats"
 date: Wed, 14 Jan 2026 18:03:34 +0000
+source_url: "https://www.natesilver.net/p/actually-sometimes-polls-underestimate"
 ---
 
 # Actually, sometimes polls underestimate Democrats
 
 **From:** Silver Bulletin <natesilver+politics@substack.com>
 **Date:** Wed, 14 Jan 2026 18:03:34 +0000
+**Source:** [View original](https://www.natesilver.net/p/actually-sometimes-polls-underestimate)
 
 ---
 

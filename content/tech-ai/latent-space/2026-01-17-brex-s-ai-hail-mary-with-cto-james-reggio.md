@@ -5,12 +5,14 @@ newsletter_name: "Latent.Space"
 category: tech-ai
 subject: "Brex’s AI Hail Mary — With CTO James Reggio"
 date: Sat, 17 Jan 2026 01:35:29 +0000
+source_url: "https://www.latent.space/p/brex"
 ---
 
 # Brex’s AI Hail Mary — With CTO James Reggio
 
 **From:** "Latent.Space" <swyx@substack.com>
 **Date:** Sat, 17 Jan 2026 01:35:29 +0000
+**Source:** [View original](https://www.latent.space/p/brex)
 
 ---
 

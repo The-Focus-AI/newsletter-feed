@@ -5,12 +5,14 @@ newsletter_name: "Daniel (Why Try AI)"
 category: tech-ai
 subject: "Claude Code for the Rest of Us: Setup Guide & Use Cases"
 date: Thu, 15 Jan 2026 14:33:54 +0000
+source_url: "https://www.whytryai.com/p/claude-code-beginner-guide"
 ---
 
 # Claude Code for the Rest of Us: Setup Guide & Use Cases
 
 **From:** "Daniel (Why Try AI)" <whytryai@substack.com>
 **Date:** Thu, 15 Jan 2026 14:33:54 +0000
+**Source:** [View original](https://www.whytryai.com/p/claude-code-beginner-guide)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence Radar #791: The Eastern Surge & The Silicon Valley Shuffle"
 date: Sun, 18 Jan 2026 12:01:52 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern"
 ---
 
 # The Sequence Radar #791: The Eastern Surge & The Silicon Valley Shuffle
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Sun, 18 Jan 2026 12:01:52 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-radar-791-the-eastern)
 
 ---
 

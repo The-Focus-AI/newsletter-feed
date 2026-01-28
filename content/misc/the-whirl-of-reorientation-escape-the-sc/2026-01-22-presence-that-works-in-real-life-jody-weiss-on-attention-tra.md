@@ -5,12 +5,14 @@ newsletter_name: "The Whirl Of ReOrientation: Escape The Script. Win The War."
 category: misc
 subject: "Presence That Works in Real Life: Jody Weiss on Attention Training, Nervous System Regulation, and Micro-Practices…"
 date: Thu, 22 Jan 2026 11:45:45 +0000
+source_url: "https://thewhirl.substack.com/p/presence-that-works-in-real-life-acc"
 ---
 
 # Presence That Works in Real Life: Jody Weiss on Attention Training, Nervous System Regulation, and Micro-Practices…
 
 **From:** "The Whirl Of ReOrientation: Escape The Script. Win The War. " <thewhirl+no-way-out-podcast@substack.com>
 **Date:** Thu, 22 Jan 2026 11:45:45 +0000
+**Source:** [View original](https://thewhirl.substack.com/p/presence-that-works-in-real-life-acc)
 
 ---
 

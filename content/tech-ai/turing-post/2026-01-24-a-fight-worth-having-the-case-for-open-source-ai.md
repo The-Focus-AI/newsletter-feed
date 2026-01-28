@@ -5,12 +5,14 @@ newsletter_name: "🔳 Turing Post"
 category: tech-ai
 subject: "🎙️A Fight Worth Having: The Case for Open Source AI"
 date: Sat, 24 Jan 2026 19:15:38 +0000 (UTC)
+source_url: "https://www.turingpost.com/p/krikorian"
 ---
 
 # 🎙️A Fight Worth Having: The Case for Open Source AI
 
 **From:** "🔳 Turing Post" <turingpost@mail.beehiiv.com>
 **Date:** Sat, 24 Jan 2026 19:15:38 +0000 (UTC)
+**Source:** [View original](https://www.turingpost.com/p/krikorian)
 
 ---
 

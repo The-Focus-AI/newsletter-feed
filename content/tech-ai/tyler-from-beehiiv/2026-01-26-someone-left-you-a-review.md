@@ -5,12 +5,14 @@ newsletter_name: "Tyler from beehiiv"
 category: tech-ai
 subject: "someone left you a review"
 date: Mon, 26 Jan 2026 14:26:29 +0000
+source_url: "https://product.beehiiv.com/p/digital-products-v2"
 ---
 
 # someone left you a review
 
 **From:** Tyler from beehiiv <product@mail.beehiiv.com>
 **Date:** Mon, 26 Jan 2026 14:26:29 +0000
+**Source:** [View original](https://product.beehiiv.com/p/digital-products-v2)
 
 ---
 

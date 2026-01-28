@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence Opinion #790: From Book Smarts to Street Smarts: How AI Benchmarks are Changing"
 date: Thu, 15 Jan 2026 12:03:17 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-opinion-790-from-book"
 ---
 
 # The Sequence Opinion #790: From Book Smarts to Street Smarts: How AI Benchmarks are Changing
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Thu, 15 Jan 2026 12:03:17 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-opinion-790-from-book)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Rod Dreher from Rod Dreher's Diary"
 category: philosophy
 subject: "Noble Lesbian Savage Fights For Humanity"
 date: Sat, 17 Jan 2026 15:24:56 +0000
+source_url: "https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity"
 ---
 
 # Noble Lesbian Savage Fights For Humanity
 
 **From:** "Rod Dreher from Rod Dreher's Diary" <roddreher@substack.com>
 **Date:** Sat, 17 Jan 2026 15:24:56 +0000
+**Source:** [View original](https://roddreher.substack.com/p/noble-lesbian-savage-fights-for-humanity)
 
 ---
 

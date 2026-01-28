@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "The Sea of Homer: Live Conversation with Emily Wilson"
 date: Thu, 15 Jan 2026 13:47:24 +0000
+source_url: "https://classicalwisdom.substack.com/p/the-sea-of-homer-live-conversation"
 ---
 
 # The Sea of Homer: Live Conversation with Emily Wilson
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Thu, 15 Jan 2026 13:47:24 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/the-sea-of-homer-live-conversation)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "News Minimalist"
 category: misc
 subject: "🐢 NATO sends troops to Greenland + 10 more stories"
 date: Thu, 15 Jan 2026 20:07:31 +0000 (UTC)
+source_url: "https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories"
 ---
 
 # 🐢 NATO sends troops to Greenland + 10 more stories
 
 **From:** News Minimalist <daily@mail.newsminimalist.com>
 **Date:** Thu, 15 Jan 2026 20:07:31 +0000 (UTC)
+**Source:** [View original](https://newsletter.newsminimalist.com/p/nato-sends-troops-to-greenland-10-more-stories)
 
 ---
 

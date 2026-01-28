@@ -5,12 +5,14 @@ newsletter_name: "Dwarkesh Patel"
 category: tech-ai
 subject: "Hiring scouts to help me find guests"
 date: Thu, 15 Jan 2026 16:40:00 +0000
+source_url: "https://www.dwarkesh.com/p/hiring-scouts-to-help-me-find-guests"
 ---
 
 # Hiring scouts to help me find guests
 
 **From:** Dwarkesh Patel <dwarkesh+blog@substack.com>
 **Date:** Thu, 15 Jan 2026 16:40:00 +0000
+**Source:** [View original](https://www.dwarkesh.com/p/hiring-scouts-to-help-me-find-guests)
 
 ---
 

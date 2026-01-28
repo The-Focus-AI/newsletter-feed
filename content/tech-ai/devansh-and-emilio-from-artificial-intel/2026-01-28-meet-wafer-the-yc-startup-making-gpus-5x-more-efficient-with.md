@@ -5,12 +5,14 @@ newsletter_name: "Devansh and Emilio from Artificial Intelligence Made Simple"
 category: tech-ai
 subject: "Meet Wafer: The YC Startup Making GPUs 5x More Efficient with AI [Livestreams]"
 date: Wed, 28 Jan 2026 02:55:06 +0000
+source_url: "https://www.artificialintelligencemadesimple.com/p/meet-wafer-the-yc-startup-making"
 ---
 
 # Meet Wafer: The YC Startup Making GPUs 5x More Efficient with AI [Livestreams]
 
 **From:** Devansh and Emilio from Artificial Intelligence Made Simple <artificialintelligencemadesimple@substack.com>
 **Date:** Wed, 28 Jan 2026 02:55:06 +0000
+**Source:** [View original](https://www.artificialintelligencemadesimple.com/p/meet-wafer-the-yc-startup-making)
 
 ---
 

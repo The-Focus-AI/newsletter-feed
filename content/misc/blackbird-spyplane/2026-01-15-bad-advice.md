@@ -5,12 +5,14 @@ newsletter_name: "Blackbird Spyplane"
 category: misc
 subject: "Bad advice"
 date: Thu, 15 Jan 2026 12:03:06 +0000
+source_url: "https://www.blackbirdspyplane.com/p/bad-advice"
 ---
 
 # Bad advice
 
 **From:** Blackbird Spyplane <blackbirdspyplane@substack.com>
 **Date:** Thu, 15 Jan 2026 12:03:06 +0000
+**Source:** [View original](https://www.blackbirdspyplane.com/p/bad-advice)
 
 ---
 

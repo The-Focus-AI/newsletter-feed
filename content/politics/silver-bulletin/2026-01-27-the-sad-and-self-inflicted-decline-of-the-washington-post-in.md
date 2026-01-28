@@ -5,12 +5,14 @@ newsletter_name: "Silver Bulletin"
 category: politics
 subject: "The sad and self-inflicted decline of the Washington Post, in one chart"
 date: Tue, 27 Jan 2026 21:22:11 +0000
+source_url: "https://www.natesilver.net/p/the-sad-and-self-inflicted-decline"
 ---
 
 # The sad and self-inflicted decline of the Washington Post, in one chart
 
 **From:** Silver Bulletin <natesilver+politics@substack.com>
 **Date:** Tue, 27 Jan 2026 21:22:11 +0000
+**Source:** [View original](https://www.natesilver.net/p/the-sad-and-self-inflicted-decline)
 
 ---
 

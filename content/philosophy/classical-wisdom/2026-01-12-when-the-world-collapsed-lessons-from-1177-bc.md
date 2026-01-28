@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "When the World Collapsed: Lessons from 1177 BC"
 date: Mon, 12 Jan 2026 15:34:57 +0000
+source_url: "https://classicalwisdom.substack.com/p/when-the-world-collapsed-lessons"
 ---
 
 # When the World Collapsed: Lessons from 1177 BC
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Mon, 12 Jan 2026 15:34:57 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/when-the-world-collapsed-lessons)
 
 ---
 

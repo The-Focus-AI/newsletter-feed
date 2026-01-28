@@ -5,12 +5,14 @@ newsletter_name: "Today in Tabs"
 category: culture
 subject: "All Gas Town, No Brakes Town"
 date: Tue, 13 Jan 2026 21:05:12 +0000 (UTC)
+source_url: "https://www.todayintabs.com/p/all-gas-town-no-brakes-town"
 ---
 
 # All Gas Town, No Brakes Town
 
 **From:** Today in Tabs <rusty@www.todayintabs.com>
 **Date:** Tue, 13 Jan 2026 21:05:12 +0000 (UTC)
+**Source:** [View original](https://www.todayintabs.com/p/all-gas-town-no-brakes-town)
 
 ---
 

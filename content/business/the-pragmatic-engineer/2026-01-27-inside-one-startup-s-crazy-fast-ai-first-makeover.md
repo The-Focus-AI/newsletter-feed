@@ -5,12 +5,14 @@ newsletter_name: "The Pragmatic Engineer"
 category: business
 subject: "Inside one startup’s crazy fast AI-first makeover"
 date: Tue, 27 Jan 2026 17:03:36 +0000
+source_url: "https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft"
 ---
 
 # Inside one startup’s crazy fast AI-first makeover
 
 **From:** The Pragmatic Engineer <pragmaticengineer+deepdives@substack.com>
 **Date:** Tue, 27 Jan 2026 17:03:36 +0000
+**Source:** [View original](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft)
 
 ---
 

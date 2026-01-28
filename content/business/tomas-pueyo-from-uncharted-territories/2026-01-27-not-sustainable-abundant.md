@@ -5,12 +5,14 @@ newsletter_name: "Tomas Pueyo from Uncharted Territories"
 category: business
 subject: "Not Sustainable ➡️ Abundant"
 date: Tue, 27 Jan 2026 14:05:29 +0000
+source_url: "https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant"
 ---
 
 # Not Sustainable ➡️ Abundant
 
 **From:** Tomas Pueyo from Uncharted Territories <unchartedterritories@substack.com>
 **Date:** Tue, 27 Jan 2026 14:05:29 +0000
+**Source:** [View original](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant)
 
 ---
 

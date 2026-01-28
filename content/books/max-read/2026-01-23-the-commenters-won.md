@@ -5,12 +5,14 @@ newsletter_name: "Max Read"
 category: books
 subject: "The commenters won"
 date: Fri, 23 Jan 2026 19:03:26 +0000
+source_url: "https://maxread.substack.com/p/the-commenters-won"
 ---
 
 # The commenters won
 
 **From:** Max Read <maxread@substack.com>
 **Date:** Fri, 23 Jan 2026 19:03:26 +0000
+**Source:** [View original](https://maxread.substack.com/p/the-commenters-won)
 
 ---
 

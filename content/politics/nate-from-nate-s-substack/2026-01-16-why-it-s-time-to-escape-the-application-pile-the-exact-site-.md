@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "Why it's time to escape the application pile + the exact site I shipped (no code required!)"
 date: Fri, 16 Jan 2026 14:02:48 +0000
+source_url: "https://natesnewsletter.substack.com/p/grab-the-fit-assessment-prompt-that"
 ---
 
 # Why it's time to escape the application pile + the exact site I shipped (no code required!)
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Fri, 16 Jan 2026 14:02:48 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/grab-the-fit-assessment-prompt-that)
 
 ---
 

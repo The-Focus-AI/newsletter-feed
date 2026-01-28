@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "Just a Bloody Spectacle?"
 date: Fri, 16 Jan 2026 16:36:56 +0000
+source_url: "https://classicalwisdom.substack.com/p/just-a-bloody-spectacle"
 ---
 
 # Just a Bloody Spectacle?
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Fri, 16 Jan 2026 16:36:56 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/just-a-bloody-spectacle)
 
 ---
 

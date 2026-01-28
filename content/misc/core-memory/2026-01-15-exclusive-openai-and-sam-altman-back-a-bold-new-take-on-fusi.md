@@ -5,12 +5,14 @@ newsletter_name: "Core Memory"
 category: misc
 subject: "Exclusive: OpenAI and Sam Altman Back A Bold New Take On Fusing Humans And Machines"
 date: Thu, 15 Jan 2026 14:48:00 +0000
+source_url: "https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci"
 ---
 
 # Exclusive: OpenAI and Sam Altman Back A Bold New Take On Fusing Humans And Machines
 
 **From:** Core Memory  <ashleevance@substack.com>
 **Date:** Thu, 15 Jan 2026 14:48:00 +0000
+**Source:** [View original](https://www.corememory.com/p/exclusive-openai-and-sam-altman-back-merge-labs-bci)
 
 ---
 

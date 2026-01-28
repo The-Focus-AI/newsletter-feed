@@ -5,12 +5,14 @@ newsletter_name: "Beth Mathews"
 category: misc
 subject: "The Design History Behind the \"I AM A MAN\" Protest Poster"
 date: Thu, 15 Jan 2026 21:01:17 +0000
+source_url: "https://bethmathews.substack.com/p/the-design-history-behind-the-i-am"
 ---
 
 # The Design History Behind the "I AM A MAN" Protest Poster
 
 **From:** Beth Mathews <bethmathews@substack.com>
 **Date:** Thu, 15 Jan 2026 21:01:17 +0000
+**Source:** [View original](https://bethmathews.substack.com/p/the-design-history-behind-the-i-am)
 
 ---
 

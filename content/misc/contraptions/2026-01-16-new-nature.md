@@ -5,12 +5,14 @@ newsletter_name: "Contraptions"
 category: misc
 subject: "New Nature"
 date: Fri, 16 Jan 2026 22:12:06 +0000
+source_url: "https://contraptions.venkateshrao.com/p/new-nature"
 ---
 
 # New Nature
 
 **From:** Contraptions <contraptions@substack.com>
 **Date:** Fri, 16 Jan 2026 22:12:06 +0000
+**Source:** [View original](https://contraptions.venkateshrao.com/p/new-nature)
 
 ---
 

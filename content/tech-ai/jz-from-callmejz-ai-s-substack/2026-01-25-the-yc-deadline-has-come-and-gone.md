@@ -5,12 +5,14 @@ newsletter_name: "jz from callmejz.ai's Substack"
 category: tech-ai
 subject: "The YC deadline 📽 has come and gone"
 date: Sun, 25 Jan 2026 23:35:23 +0000
+source_url: "https://callmejz.substack.com/p/the-yc-deadline-has-come-and-gone"
 ---
 
 # The YC deadline 📽 has come and gone
 
 **From:** "jz from callmejz.ai's Substack" <callmejz@substack.com>
 **Date:** Sun, 25 Jan 2026 23:35:23 +0000
+**Source:** [View original](https://callmejz.substack.com/p/the-yc-deadline-has-come-and-gone)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "The Cosmopolitan Globalist"
 category: politics
 subject: "Academia's Putinverstehers"
 date: Wed, 21 Jan 2026 15:34:13 +0000
+source_url: "https://claireberlinski.substack.com/p/academias-putinverstehers"
 ---
 
 # Academia's Putinverstehers
 
 **From:** The Cosmopolitan Globalist <claireberlinski@substack.com>
 **Date:** Wed, 21 Jan 2026 15:34:13 +0000
+**Source:** [View original](https://claireberlinski.substack.com/p/academias-putinverstehers)
 
 ---
 

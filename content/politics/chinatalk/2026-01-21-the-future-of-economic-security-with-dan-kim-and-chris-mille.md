@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "The Future of Economic Security with Dan Kim and Chris Miller"
 date: Wed, 21 Jan 2026 14:38:28 +0000
+source_url: "https://www.chinatalk.media/p/the-future-of-economic-security-with"
 ---
 
 # The Future of Economic Security with Dan Kim and Chris Miller
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Wed, 21 Jan 2026 14:38:28 +0000
+**Source:** [View original](https://www.chinatalk.media/p/the-future-of-economic-security-with)
 
 ---
 

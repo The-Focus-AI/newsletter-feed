@@ -5,12 +5,14 @@ newsletter_name: "Beth Mathews"
 category: misc
 subject: "Designing My Own Graphic Design Workshop: On Mental Gymnastics, Inspiration, and Finding Joy"
 date: Tue, 20 Jan 2026 22:38:29 +0000
+source_url: "https://bethmathews.substack.com/p/designing-my-own-graphic-design-workshop"
 ---
 
 # Designing My Own Graphic Design Workshop: On Mental Gymnastics, Inspiration, and Finding Joy
 
 **From:** Beth Mathews <bethmathews@substack.com>
 **Date:** Tue, 20 Jan 2026 22:38:29 +0000
+**Source:** [View original](https://bethmathews.substack.com/p/designing-my-own-graphic-design-workshop)
 
 ---
 

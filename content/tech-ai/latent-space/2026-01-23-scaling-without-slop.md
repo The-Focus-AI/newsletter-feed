@@ -5,12 +5,14 @@ newsletter_name: "Latent.Space"
 category: tech-ai
 subject: "Scaling without Slop"
 date: Fri, 23 Jan 2026 18:16:58 +0000
+source_url: "https://www.latent.space/p/2026"
 ---
 
 # Scaling without Slop
 
 **From:** "Latent.Space" <swyx@substack.com>
 **Date:** Fri, 23 Jan 2026 18:16:58 +0000
+**Source:** [View original](https://www.latent.space/p/2026)
 
 ---
 

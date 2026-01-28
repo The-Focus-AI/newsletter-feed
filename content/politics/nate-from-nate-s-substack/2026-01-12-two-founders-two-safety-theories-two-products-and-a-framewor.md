@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "Two founders, two safety theories, two products—and a framework for knowing which one matches your risk tolerance"
 date: Mon, 12 Jan 2026 14:03:51 +0000
+source_url: "https://natesnewsletter.substack.com/p/two-ai-strategies-are-competing-for"
 ---
 
 # Two founders, two safety theories, two products—and a framework for knowing which one matches your risk tolerance
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Mon, 12 Jan 2026 14:03:51 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/two-ai-strategies-are-competing-for)
 
 ---
 

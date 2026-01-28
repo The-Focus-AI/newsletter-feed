@@ -5,12 +5,14 @@ newsletter_name: "Rod Dreher from Rod Dreher's Diary"
 category: philosophy
 subject: "Sunday In Budapest"
 date: Sun, 25 Jan 2026 21:31:37 +0000
+source_url: "https://roddreher.substack.com/p/sunday-in-budapest"
 ---
 
 # Sunday In Budapest
 
 **From:** "Rod Dreher from Rod Dreher's Diary" <roddreher@substack.com>
 **Date:** Sun, 25 Jan 2026 21:31:37 +0000
+**Source:** [View original](https://roddreher.substack.com/p/sunday-in-budapest)
 
 ---
 

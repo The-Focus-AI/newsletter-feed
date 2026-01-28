@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "[VIDEO] Sea of Homer with Emily Wilson"
 date: Sat, 24 Jan 2026 15:52:42 +0000
+source_url: "https://classicalwisdom.substack.com/p/video-sea-of-homer-with-emily-wilson"
 ---
 
 # [VIDEO] Sea of Homer with Emily Wilson
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Sat, 24 Jan 2026 15:52:42 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/video-sea-of-homer-with-emily-wilson)
 
 ---
 

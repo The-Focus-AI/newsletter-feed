@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "The China Commission's Report"
 date: Sat, 17 Jan 2026 13:10:21 +0000
+source_url: "https://www.chinatalk.media/p/the-china-commissions-report"
 ---
 
 # The China Commission's Report
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Sat, 17 Jan 2026 13:10:21 +0000
+**Source:** [View original](https://www.chinatalk.media/p/the-china-commissions-report)
 
 ---
 

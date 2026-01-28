@@ -5,12 +5,14 @@ newsletter_name: "The Cosmopolitan Globalist"
 category: politics
 subject: "The Unfolding Catastrophe"
 date: Mon, 19 Jan 2026 18:38:14 +0000
+source_url: "https://claireberlinski.substack.com/p/the-unfolding-catastrophe"
 ---
 
 # The Unfolding Catastrophe
 
 **From:** The Cosmopolitan Globalist <claireberlinski+critical-conditions@substack.com>
 **Date:** Mon, 19 Jan 2026 18:38:14 +0000
+**Source:** [View original](https://claireberlinski.substack.com/p/the-unfolding-catastrophe)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence AI of the Week #789: Recursive Language Models: Inside the MIT Research Everyone is Talking About"
 date: Wed, 14 Jan 2026 12:03:09 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-ai-of-the-week-789-recursive"
 ---
 
 # The Sequence AI of the Week #789: Recursive Language Models: Inside the MIT Research Everyone is Talking About
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Wed, 14 Jan 2026 12:03:09 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-ai-of-the-week-789-recursive)
 
 ---
 

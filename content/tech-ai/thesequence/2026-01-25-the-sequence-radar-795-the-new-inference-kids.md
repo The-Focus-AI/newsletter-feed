@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence Radar #795: The New Inference Kids"
 date: Sun, 25 Jan 2026 12:03:14 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-radar-795-the-new-inference"
 ---
 
 # The Sequence Radar #795: The New Inference Kids
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Sun, 25 Jan 2026 12:03:14 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-radar-795-the-new-inference)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Olga"
 category: misc
 subject: "What “Normal” Looks Like: A Guide to Baselines - Issue 299"
 date: Wed, 14 Jan 2026 12:03:03 +0000
+source_url: "https://dataanalysis.substack.com/p/what-normal-looks-like-a-guide-to"
 ---
 
 # What “Normal” Looks Like: A Guide to Baselines - Issue 299
 
 **From:** Olga <dataanalysis@substack.com>
 **Date:** Wed, 14 Jan 2026 12:03:03 +0000
+**Source:** [View original](https://dataanalysis.substack.com/p/what-normal-looks-like-a-guide-to)
 
 ---
 

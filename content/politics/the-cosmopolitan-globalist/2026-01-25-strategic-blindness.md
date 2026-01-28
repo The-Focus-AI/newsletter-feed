@@ -5,12 +5,14 @@ newsletter_name: "The Cosmopolitan Globalist"
 category: politics
 subject: "Strategic Blindness"
 date: Sun, 25 Jan 2026 14:10:48 +0000
+source_url: "https://claireberlinski.substack.com/p/strategic-blindness"
 ---
 
 # Strategic Blindness
 
 **From:** The Cosmopolitan Globalist <claireberlinski@substack.com>
 **Date:** Sun, 25 Jan 2026 14:10:48 +0000
+**Source:** [View original](https://claireberlinski.substack.com/p/strategic-blindness)
 
 ---
 

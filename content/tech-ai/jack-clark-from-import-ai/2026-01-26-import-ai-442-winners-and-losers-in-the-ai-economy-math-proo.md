@@ -5,12 +5,14 @@ newsletter_name: "Jack Clark from Import AI"
 category: tech-ai
 subject: "Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espiona…"
 date: Mon, 26 Jan 2026 13:31:29 +0000
+source_url: "https://importai.substack.com/p/import-ai-442-winners-and-losers"
 ---
 
 # Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espiona…
 
 **From:** Jack Clark from Import AI <importai@substack.com>
 **Date:** Mon, 26 Jan 2026 13:31:29 +0000
+**Source:** [View original](https://importai.substack.com/p/import-ai-442-winners-and-losers)
 
 ---
 

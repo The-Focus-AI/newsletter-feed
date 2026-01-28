@@ -5,12 +5,14 @@ newsletter_name: "Rod Dreher from Rod Dreher's Diary"
 category: philosophy
 subject: "Minnesota Church Attack & Civil War"
 date: Mon, 19 Jan 2026 12:25:10 +0000
+source_url: "https://roddreher.substack.com/p/minnesota-church-attack-and-civil"
 ---
 
 # Minnesota Church Attack & Civil War
 
 **From:** "Rod Dreher from Rod Dreher's Diary" <roddreher@substack.com>
 **Date:** Mon, 19 Jan 2026 12:25:10 +0000
+**Source:** [View original](https://roddreher.substack.com/p/minnesota-church-attack-and-civil)
 
 ---
 

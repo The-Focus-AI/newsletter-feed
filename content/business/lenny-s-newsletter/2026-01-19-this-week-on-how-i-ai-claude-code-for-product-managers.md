@@ -5,12 +5,14 @@ newsletter_name: "Lenny's Newsletter"
 category: business
 subject: "🎙️ This week on How I AI: Claude Code for product managers"
 date: Mon, 19 Jan 2026 16:02:14 +0000
+source_url: "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code"
 ---
 
 # 🎙️ This week on How I AI: Claude Code for product managers
 
 **From:** "Lenny's Newsletter" <lenny+how-i-ai@substack.com>
 **Date:** Mon, 19 Jan 2026 16:02:14 +0000
+**Source:** [View original](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code)
 
 ---
 

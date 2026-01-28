@@ -5,12 +5,14 @@ newsletter_name: "🔳 Turing Post"
 category: tech-ai
 subject: "FOD#136: The Agent Stack Is Becoming Real Software"
 date: Tue, 20 Jan 2026 21:11:32 +0000 (UTC)
+source_url: "https://www.turingpost.com/p/fod136"
 ---
 
 # FOD#136: The Agent Stack Is Becoming Real Software
 
 **From:** "🔳 Turing Post" <turingpost@mail.beehiiv.com>
 **Date:** Tue, 20 Jan 2026 21:11:32 +0000 (UTC)
+**Source:** [View original](https://www.turingpost.com/p/fod136)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Silver Bulletin"
 category: politics
 subject: "Who’s ahead on the generic congressional ballot?"
 date: Thu, 22 Jan 2026 16:41:13 +0000
+source_url: "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
 ---
 
 # Who’s ahead on the generic congressional ballot?
 
 **From:** Silver Bulletin <natesilver+models-and-forecasts@substack.com>
 **Date:** Thu, 22 Jan 2026 16:41:13 +0000
+**Source:** [View original](https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls)
 
 ---
 

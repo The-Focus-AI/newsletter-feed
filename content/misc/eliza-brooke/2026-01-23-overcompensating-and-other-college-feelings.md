@@ -5,12 +5,14 @@ newsletter_name: "Eliza Brooke"
 category: misc
 subject: "'Overcompensating' and other college feelings"
 date: Fri, 23 Jan 2026 13:26:06 +0000
+source_url: "https://elizabrooke.substack.com/p/overcompensating-show-college-feelings"
 ---
 
 # 'Overcompensating' and other college feelings
 
 **From:** Eliza Brooke <elizabrooke@substack.com>
 **Date:** Fri, 23 Jan 2026 13:26:06 +0000
+**Source:** [View original](https://elizabrooke.substack.com/p/overcompensating-show-college-feelings)
 
 ---
 

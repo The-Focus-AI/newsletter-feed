@@ -5,12 +5,14 @@ newsletter_name: "Henry Oliver from The Common Reader"
 category: books
 subject: "Come and be my intern (to talk about J.S. Mill)"
 date: Tue, 27 Jan 2026 22:36:56 +0000
+source_url: "https://www.commonreader.co.uk/p/come-and-be-my-intern-to-talk-about"
 ---
 
 # Come and be my intern (to talk about J.S. Mill)
 
 **From:** Henry Oliver from The Common Reader <commonreader@substack.com>
 **Date:** Tue, 27 Jan 2026 22:36:56 +0000
+**Source:** [View original](https://www.commonreader.co.uk/p/come-and-be-my-intern-to-talk-about)
 
 ---
 

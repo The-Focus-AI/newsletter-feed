@@ -5,12 +5,14 @@ newsletter_name: "Today in Tabs"
 category: culture
 subject: "Whatever You Think It Is, It’s Worse"
 date: Tue, 20 Jan 2026 21:56:03 +0000 (UTC)
+source_url: "https://www.todayintabs.com/p/whatever-you-think-it-is-it-s-worse"
 ---
 
 # Whatever You Think It Is, It’s Worse
 
 **From:** Today in Tabs <rusty@www.todayintabs.com>
 **Date:** Tue, 20 Jan 2026 21:56:03 +0000 (UTC)
+**Source:** [View original](https://www.todayintabs.com/p/whatever-you-think-it-is-it-s-worse)
 
 ---
 

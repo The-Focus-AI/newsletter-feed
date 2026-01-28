@@ -5,12 +5,14 @@ newsletter_name: "swyx (AINews)"
 category: tech-ai
 subject: "[AINews] Moonshot Kimi K2.5 - Beats Sonnet 4.5 at half the cost, SOTA Open Model, first Native Image+Video, 100 pa…"
 date: Wed, 28 Jan 2026 05:01:42 +0000
+source_url: "https://www.latent.space/p/ainews-moonshot-kimi-k25-beats-sonnet"
 ---
 
 # [AINews] Moonshot Kimi K2.5 - Beats Sonnet 4.5 at half the cost, SOTA Open Model, first Native Image+Video, 100 pa…
 
 **From:** "swyx (AINews)" <swyx+ainews@substack.com>
 **Date:** Wed, 28 Jan 2026 05:01:42 +0000
+**Source:** [View original](https://www.latent.space/p/ainews-moonshot-kimi-k25-beats-sonnet)
 
 ---
 

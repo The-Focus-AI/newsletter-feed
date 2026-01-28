@@ -5,12 +5,14 @@ newsletter_name: "Bill McKibben from The Crucial Years"
 category: politics
 subject: "Solar as Solidarity"
 date: Thu, 15 Jan 2026 19:26:49 +0000
+source_url: "https://billmckibben.substack.com/p/solar-as-solidarity"
 ---
 
 # Solar as Solidarity
 
 **From:** Bill McKibben from The Crucial Years <billmckibben@substack.com>
 **Date:** Thu, 15 Jan 2026 19:26:49 +0000
+**Source:** [View original](https://billmckibben.substack.com/p/solar-as-solidarity)
 
 ---
 

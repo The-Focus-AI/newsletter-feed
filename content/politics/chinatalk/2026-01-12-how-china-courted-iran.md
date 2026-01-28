@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "How China Courted Iran"
 date: Mon, 12 Jan 2026 13:14:25 +0000
+source_url: "https://www.chinatalk.media/p/how-china-courted-iran"
 ---
 
 # How China Courted Iran
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Mon, 12 Jan 2026 13:14:25 +0000
+**Source:** [View original](https://www.chinatalk.media/p/how-china-courted-iran)
 
 ---
 

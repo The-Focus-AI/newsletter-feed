@@ -5,12 +5,14 @@ newsletter_name: "Core Memory"
 category: misc
 subject: "Welcome To The Chinese Peptide Underground - EP 52 Jasmine Sun"
 date: Wed, 14 Jan 2026 14:02:48 +0000
+source_url: "https://www.corememory.com/p/welcome-to-the-chinese-peptide-underground"
 ---
 
 # Welcome To The Chinese Peptide Underground - EP 52 Jasmine Sun
 
 **From:** Core Memory  <ashleevance@substack.com>
 **Date:** Wed, 14 Jan 2026 14:02:48 +0000
+**Source:** [View original](https://www.corememory.com/p/welcome-to-the-chinese-peptide-underground)
 
 ---
 

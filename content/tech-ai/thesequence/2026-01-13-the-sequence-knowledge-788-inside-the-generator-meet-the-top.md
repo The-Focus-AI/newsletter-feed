@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence Knowledge #788: Inside the Generator: Meet The Top Synthetic Data Generation Frameworks for Modern AI"
 date: Tue, 13 Jan 2026 11:57:51 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-knowledge-788-inside"
 ---
 
 # The Sequence Knowledge #788: Inside the Generator: Meet The Top Synthetic Data Generation Frameworks for Modern AI
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Tue, 13 Jan 2026 11:57:51 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-knowledge-788-inside)
 
 ---
 

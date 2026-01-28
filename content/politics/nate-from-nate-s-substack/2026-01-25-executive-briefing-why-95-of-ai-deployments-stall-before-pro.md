@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "Executive Briefing: Why 95% of AI Deployments Stall Before Production (And What To Do About It)"
 date: Sun, 25 Jan 2026 16:00:31 +0000
+source_url: "https://natesnewsletter.substack.com/p/executive-briefing-what-separates"
 ---
 
 # Executive Briefing: Why 95% of AI Deployments Stall Before Production (And What To Do About It)
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Sun, 25 Jan 2026 16:00:31 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/executive-briefing-what-separates)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "News Minimalist"
 category: misc
 subject: "🐢 EU and Mercosur sign trade deal after 25 years of negotiations"
 date: Mon, 19 Jan 2026 19:47:57 +0000 (UTC)
+source_url: "https://newsletter.newsminimalist.com/p/eu-and-mercosur-sign-trade-deal-after-25-years-of-negotiations"
 ---
 
 # 🐢 EU and Mercosur sign trade deal after 25 years of negotiations
 
 **From:** News Minimalist <daily@mail.newsminimalist.com>
 **Date:** Mon, 19 Jan 2026 19:47:57 +0000 (UTC)
+**Source:** [View original](https://newsletter.newsminimalist.com/p/eu-and-mercosur-sign-trade-deal-after-25-years-of-negotiations)
 
 ---
 

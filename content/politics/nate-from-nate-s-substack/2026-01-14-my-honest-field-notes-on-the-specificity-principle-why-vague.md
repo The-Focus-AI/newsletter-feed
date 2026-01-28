@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "My honest field notes on the specificity principle + why vague requests get vague results (and the prompts that fi…"
 date: Wed, 14 Jan 2026 14:03:19 +0000
+source_url: "https://natesnewsletter.substack.com/p/claude-cowork-the-10-day-launch-that"
 ---
 
 # My honest field notes on the specificity principle + why vague requests get vague results (and the prompts that fi…
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Wed, 14 Jan 2026 14:03:19 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/claude-cowork-the-10-day-launch-that)
 
 ---
 

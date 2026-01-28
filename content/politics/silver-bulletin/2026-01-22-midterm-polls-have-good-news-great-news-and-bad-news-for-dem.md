@@ -5,12 +5,14 @@ newsletter_name: "Silver Bulletin"
 category: politics
 subject: "Midterm polls have good news, great news, and bad news for Democrats. Wait, what?"
 date: Thu, 22 Jan 2026 16:42:37 +0000
+source_url: "https://www.natesilver.net/p/midterm-polls-have-good-news-great"
 ---
 
 # Midterm polls have good news, great news, and bad news for Democrats. Wait, what?
 
 **From:** Silver Bulletin <natesilver+politics@substack.com>
 **Date:** Thu, 22 Jan 2026 16:42:37 +0000
+**Source:** [View original](https://www.natesilver.net/p/midterm-polls-have-good-news-great)
 
 ---
 

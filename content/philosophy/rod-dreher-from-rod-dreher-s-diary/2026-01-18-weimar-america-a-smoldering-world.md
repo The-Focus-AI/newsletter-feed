@@ -5,12 +5,14 @@ newsletter_name: "Rod Dreher from Rod Dreher's Diary"
 category: philosophy
 subject: "Weimar America & A Smoldering World"
 date: Sun, 18 Jan 2026 12:59:14 +0000
+source_url: "https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world"
 ---
 
 # Weimar America & A Smoldering World
 
 **From:** "Rod Dreher from Rod Dreher's Diary" <roddreher@substack.com>
 **Date:** Sun, 18 Jan 2026 12:59:14 +0000
+**Source:** [View original](https://roddreher.substack.com/p/weimar-america-and-a-smoldering-world)
 
 ---
 

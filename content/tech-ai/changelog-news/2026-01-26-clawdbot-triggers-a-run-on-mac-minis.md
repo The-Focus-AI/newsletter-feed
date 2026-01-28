@@ -5,12 +5,14 @@ newsletter_name: "Changelog News"
 category: tech-ai
 subject: "🦞 Clawdbot triggers a run on Mac Minis"
 date: Tue, 27 Jan 2026 07:03:17 +1100
+source_url: "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im"
 ---
 
 # 🦞 Clawdbot triggers a run on Mac Minis
 
 **From:** Changelog News <news@changelog.com>
 **Date:** Tue, 27 Jan 2026 07:03:17 +1100
+**Source:** [View original](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Ryan from Digital Grove"
 category: misc
 subject: "The Magic of the Better Software Conference"
 date: Thu, 15 Jan 2026 23:49:12 +0000
+source_url: "https://www.rfleury.com/p/the-magic-of-the-better-software"
 ---
 
 # The Magic of the Better Software Conference
 
 **From:** Ryan from Digital Grove <ryanfleury@substack.com>
 **Date:** Thu, 15 Jan 2026 23:49:12 +0000
+**Source:** [View original](https://www.rfleury.com/p/the-magic-of-the-better-software)
 
 ---
 

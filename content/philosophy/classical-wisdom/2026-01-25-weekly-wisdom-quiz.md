@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "Weekly Wisdom Quiz"
 date: Sun, 25 Jan 2026 14:31:10 +0000
+source_url: "https://classicalwisdom.substack.com/p/weekly-wisdom-quiz-abf"
 ---
 
 # Weekly Wisdom Quiz
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Sun, 25 Jan 2026 14:31:10 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/weekly-wisdom-quiz-abf)
 
 ---
 

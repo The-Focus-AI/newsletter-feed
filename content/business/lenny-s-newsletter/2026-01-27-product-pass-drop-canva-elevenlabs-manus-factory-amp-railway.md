@@ -5,12 +5,14 @@ newsletter_name: "Lenny's Newsletter"
 category: business
 subject: "Product Pass drop: Canva, ElevenLabs, Manus, Factory, Amp, Railway, Framer—now free with your paid subscription"
 date: Tue, 27 Jan 2026 16:45:57 +0000
+source_url: "https://www.lennysnewsletter.com/p/product-pass-drop-canva-elevenlabs"
 ---
 
 # Product Pass drop: Canva, ElevenLabs, Manus, Factory, Amp, Railway, Framer—now free with your paid subscription
 
 **From:** "Lenny's Newsletter" <lenny@substack.com>
 **Date:** Tue, 27 Jan 2026 16:45:57 +0000
+**Source:** [View original](https://www.lennysnewsletter.com/p/product-pass-drop-canva-elevenlabs)
 
 ---
 

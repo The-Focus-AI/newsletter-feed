@@ -5,12 +5,14 @@ newsletter_name: "Jon Evans from Gradient Ascendant"
 category: tech-ai
 subject: "Simulation, psychosis, and trajectory"
 date: Tue, 27 Jan 2026 16:46:06 +0000
+source_url: "https://aiascendant.com/p/simulation-psychosis-and-trajectory"
 ---
 
 # Simulation, psychosis, and trajectory
 
 **From:** Jon Evans from Gradient Ascendant <aiascendant@substack.com>
 **Date:** Tue, 27 Jan 2026 16:46:06 +0000
+**Source:** [View original](https://aiascendant.com/p/simulation-psychosis-and-trajectory)
 
 ---
 

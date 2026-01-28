@@ -5,12 +5,14 @@ newsletter_name: "Tyler from beehiiv"
 category: tech-ai
 subject: "most requested feature of 2025"
 date: Thu, 15 Jan 2026 14:05:24 +0000
+source_url: "https://product.beehiiv.com/p/dynamic-content"
 ---
 
 # most requested feature of 2025
 
 **From:** Tyler from beehiiv <product@mail.beehiiv.com>
 **Date:** Thu, 15 Jan 2026 14:05:24 +0000
+**Source:** [View original](https://product.beehiiv.com/p/dynamic-content)
 
 ---
 

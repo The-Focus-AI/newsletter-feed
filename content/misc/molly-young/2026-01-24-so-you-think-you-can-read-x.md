@@ -5,12 +5,14 @@ newsletter_name: "Molly Young"
 category: misc
 subject: "So you think you can read X"
 date: Sat, 24 Jan 2026 14:42:45 +0000
+source_url: "https://mollyyoung.substack.com/p/so-you-think-you-can-read-x"
 ---
 
 # So you think you can read X
 
 **From:** Molly Young  <mollyyoung@substack.com>
 **Date:** Sat, 24 Jan 2026 14:42:45 +0000
+**Source:** [View original](https://mollyyoung.substack.com/p/so-you-think-you-can-read-x)
 
 ---
 

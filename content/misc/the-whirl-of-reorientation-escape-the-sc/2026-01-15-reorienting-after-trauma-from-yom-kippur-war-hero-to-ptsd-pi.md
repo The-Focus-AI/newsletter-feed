@@ -5,12 +5,14 @@ newsletter_name: "The Whirl Of ReOrientation: Escape The Script. Win The War."
 category: misc
 subject: "Reorienting After Trauma: From Yom Kippur War Hero to PTSD Pioneer | Dr. Yuval Neria"
 date: Thu, 15 Jan 2026 12:29:49 +0000
+source_url: "https://thewhirl.substack.com/p/yuval-neria-ptsd-trauma-equine-psychedelics-ooda"
 ---
 
 # Reorienting After Trauma: From Yom Kippur War Hero to PTSD Pioneer | Dr. Yuval Neria
 
 **From:** "The Whirl Of ReOrientation: Escape The Script. Win The War. " <thewhirl+no-way-out-podcast@substack.com>
 **Date:** Thu, 15 Jan 2026 12:29:49 +0000
+**Source:** [View original](https://thewhirl.substack.com/p/yuval-neria-ptsd-trauma-equine-psychedelics-ooda)
 
 ---
 

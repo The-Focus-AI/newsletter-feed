@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "50 people ignored my tool recommendations + here's why their systems still worked (Second Brain follow-up)"
 date: Mon, 19 Jan 2026 14:01:44 +0000
+source_url: "https://natesnewsletter.substack.com/p/50-people-ignored-my-tool-recommendations"
 ---
 
 # 50 people ignored my tool recommendations + here's why their systems still worked (Second Brain follow-up)
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Mon, 19 Jan 2026 14:01:44 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/50-people-ignored-my-tool-recommendations)
 
 ---
 

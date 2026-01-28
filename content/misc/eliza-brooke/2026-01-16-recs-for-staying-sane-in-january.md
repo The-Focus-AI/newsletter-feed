@@ -5,12 +5,14 @@ newsletter_name: "Eliza Brooke"
 category: misc
 subject: "Recs for staying sane in January"
 date: Fri, 16 Jan 2026 16:23:52 +0000
+source_url: "https://elizabrooke.substack.com/p/january-2026-recommendations"
 ---
 
 # Recs for staying sane in January
 
 **From:** Eliza Brooke <elizabrooke@substack.com>
 **Date:** Fri, 16 Jan 2026 16:23:52 +0000
+**Source:** [View original](https://elizabrooke.substack.com/p/january-2026-recommendations)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Jon Haidt from After Babel"
 category: culture
 subject: "Why Every Country Should Set 16 (or Higher) as the Minimum Age for Social Media Accounts"
 date: Tue, 13 Jan 2026 12:32:14 +0000
+source_url: "https://www.afterbabel.com/p/why-every-country-should-set-16"
 ---
 
 # Why Every Country Should Set 16 (or Higher) as the Minimum Age for Social Media Accounts
 
 **From:** Jon Haidt from After Babel <jonathanhaidt@substack.com>
 **Date:** Tue, 13 Jan 2026 12:32:14 +0000
+**Source:** [View original](https://www.afterbabel.com/p/why-every-country-should-set-16)
 
 ---
 

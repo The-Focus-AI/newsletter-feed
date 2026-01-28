@@ -5,12 +5,14 @@ newsletter_name: "🔳 Turing Post"
 category: tech-ai
 subject: "FOD#135: What It Means When AI Labs Step Into Healthcare"
 date: Mon, 12 Jan 2026 23:17:14 +0000 (UTC)
+source_url: "https://www.turingpost.com/p/fod135"
 ---
 
 # FOD#135: What It Means When AI Labs Step Into Healthcare
 
 **From:** "🔳 Turing Post" <turingpost@mail.beehiiv.com>
 **Date:** Mon, 12 Jan 2026 23:17:14 +0000 (UTC)
+**Source:** [View original](https://www.turingpost.com/p/fod135)
 
 ---
 

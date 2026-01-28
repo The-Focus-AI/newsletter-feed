@@ -5,12 +5,14 @@ newsletter_name: "Steven Johnson from Adjacent Possible"
 category: misc
 subject: "The Agrarian Fall"
 date: Tue, 13 Jan 2026 19:06:07 +0000
+source_url: "https://adjacentpossible.substack.com/p/the-agrarian-fall"
 ---
 
 # The Agrarian Fall
 
 **From:** Steven Johnson from Adjacent Possible <adjacentpossible@substack.com>
 **Date:** Tue, 13 Jan 2026 19:06:07 +0000
+**Source:** [View original](https://adjacentpossible.substack.com/p/the-agrarian-fall)
 
 ---
 

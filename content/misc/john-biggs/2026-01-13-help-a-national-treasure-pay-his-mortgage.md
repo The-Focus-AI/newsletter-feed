@@ -5,12 +5,14 @@ newsletter_name: "John Biggs"
 category: misc
 subject: "Help a National Treasure pay his mortgage"
 date: Tue, 13 Jan 2026 19:47:26 +0000
+source_url: "https://johnbiggs.substack.com/p/help-a-national-treasure-pay-his"
 ---
 
 # Help a National Treasure pay his mortgage
 
 **From:** John Biggs <johnbiggs@substack.com>
 **Date:** Tue, 13 Jan 2026 19:47:26 +0000
+**Source:** [View original](https://johnbiggs.substack.com/p/help-a-national-treasure-pay-his)
 
 ---
 

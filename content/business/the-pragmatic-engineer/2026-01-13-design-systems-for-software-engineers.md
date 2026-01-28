@@ -5,12 +5,14 @@ newsletter_name: "The Pragmatic Engineer"
 category: business
 subject: "Design Systems for Software Engineers"
 date: Tue, 13 Jan 2026 17:46:25 +0000
+source_url: "https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers"
 ---
 
 # Design Systems for Software Engineers
 
 **From:** The Pragmatic Engineer <pragmaticengineer+deepdives@substack.com>
 **Date:** Tue, 13 Jan 2026 17:46:25 +0000
+**Source:** [View original](https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers)
 
 ---
 

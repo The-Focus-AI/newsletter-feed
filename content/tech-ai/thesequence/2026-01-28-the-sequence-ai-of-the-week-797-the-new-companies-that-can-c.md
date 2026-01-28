@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence AI of the Week #797: The New Companies that can Change the Inference Landscape"
 date: Wed, 28 Jan 2026 12:03:03 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-ai-of-the-week-797-the"
 ---
 
 # The Sequence AI of the Week #797: The New Companies that can Change the Inference Landscape
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Wed, 28 Jan 2026 12:03:03 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-ai-of-the-week-797-the)
 
 ---
 

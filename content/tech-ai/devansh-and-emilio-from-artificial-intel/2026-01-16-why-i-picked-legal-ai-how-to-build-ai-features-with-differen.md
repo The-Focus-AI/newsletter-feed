@@ -5,12 +5,14 @@ newsletter_name: "Devansh and Emilio from Artificial Intelligence Made Simple"
 category: tech-ai
 subject: "Why I picked Legal AI, How to Build AI Features with Differentiation, and More"
 date: Fri, 16 Jan 2026 11:26:02 +0000
+source_url: "https://www.artificialintelligencemadesimple.com/p/why-i-picked-legal-ai-how-to-build"
 ---
 
 # Why I picked Legal AI, How to Build AI Features with Differentiation, and More
 
 **From:** Devansh from Artificial Intelligence Made Simple <artificialintelligencemadesimple@substack.com>
 **Date:** Fri, 16 Jan 2026 11:26:02 +0000
+**Source:** [View original](https://www.artificialintelligencemadesimple.com/p/why-i-picked-legal-ai-how-to-build)
 
 ---
 

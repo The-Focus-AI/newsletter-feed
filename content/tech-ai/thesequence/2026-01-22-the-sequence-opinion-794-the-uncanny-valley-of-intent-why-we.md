@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence Opinion #794: The Uncanny Valley of Intent: Why We Need Systems, Not Just Models"
 date: Thu, 22 Jan 2026 12:00:40 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-opinion-794-the-uncanny"
 ---
 
 # The Sequence Opinion #794: The Uncanny Valley of Intent: Why We Need Systems, Not Just Models
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Thu, 22 Jan 2026 12:00:40 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-opinion-794-the-uncanny)
 
 ---
 

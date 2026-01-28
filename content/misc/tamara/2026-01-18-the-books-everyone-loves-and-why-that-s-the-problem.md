@@ -5,12 +5,14 @@ newsletter_name: "Tamara"
 category: misc
 subject: "The Books Everyone Loves (and Why That’s the Problem)"
 date: Sun, 18 Jan 2026 21:39:26 +0000
+source_url: "https://museguided.substack.com/p/the-books-everyone-loves-and-why"
 ---
 
 # The Books Everyone Loves (and Why That’s the Problem)
 
 **From:** Tamara <museguided@substack.com>
 **Date:** Sun, 18 Jan 2026 21:39:26 +0000
+**Source:** [View original](https://museguided.substack.com/p/the-books-everyone-loves-and-why)
 
 ---
 

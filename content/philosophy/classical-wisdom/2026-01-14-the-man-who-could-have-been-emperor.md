@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "The Man Who Could Have Been Emperor"
 date: Wed, 14 Jan 2026 14:29:55 +0000
+source_url: "https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor"
 ---
 
 # The Man Who Could Have Been Emperor
 
 **From:** Classical Wisdom <classicalwisdom+members@substack.com>
 **Date:** Wed, 14 Jan 2026 14:29:55 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/the-man-who-could-have-been-emperor)
 
 ---
 

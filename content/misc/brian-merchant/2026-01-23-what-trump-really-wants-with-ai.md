@@ -5,12 +5,14 @@ newsletter_name: "Brian Merchant"
 category: misc
 subject: "What Trump really wants with AI"
 date: Fri, 23 Jan 2026 00:03:27 +0000
+source_url: "https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai"
 ---
 
 # What Trump really wants with AI
 
 **From:** Brian Merchant <bloodinthemachine@substack.com>
 **Date:** Fri, 23 Jan 2026 00:03:27 +0000
+**Source:** [View original](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai)
 
 ---
 

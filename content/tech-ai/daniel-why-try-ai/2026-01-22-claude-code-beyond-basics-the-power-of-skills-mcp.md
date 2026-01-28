@@ -5,12 +5,14 @@ newsletter_name: "Daniel (Why Try AI)"
 category: tech-ai
 subject: "Claude Code Beyond Basics: The Power of Skills & MCP"
 date: Thu, 22 Jan 2026 14:09:16 +0000
+source_url: "https://www.whytryai.com/p/claude-code-ide-skills-mcp"
 ---
 
 # Claude Code Beyond Basics: The Power of Skills & MCP
 
 **From:** "Daniel (Why Try AI)" <whytryai@substack.com>
 **Date:** Thu, 22 Jan 2026 14:09:16 +0000
+**Source:** [View original](https://www.whytryai.com/p/claude-code-ide-skills-mcp)
 
 ---
 

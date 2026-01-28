@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "Why High Agency is a Non-Negotiable in 2026 (especially if you're entry level) + 10 Prompts to Build Your Own Ladd…"
 date: Thu, 22 Jan 2026 14:01:50 +0000
+source_url: "https://natesnewsletter.substack.com/p/the-career-ladder-collapsed-heres"
 ---
 
 # Why High Agency is a Non-Negotiable in 2026 (especially if you're entry level) + 10 Prompts to Build Your Own Ladd…
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Thu, 22 Jan 2026 14:01:50 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/the-career-ladder-collapsed-heres)
 
 ---
 

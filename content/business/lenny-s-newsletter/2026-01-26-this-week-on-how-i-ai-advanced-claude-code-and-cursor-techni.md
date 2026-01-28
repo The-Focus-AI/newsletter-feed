@@ -5,12 +5,14 @@ newsletter_name: "Lenny's Newsletter"
 category: business
 subject: "🎙️ This week on How I AI: Advanced Claude Code and Cursor techniques for power users"
 date: Mon, 26 Jan 2026 16:01:49 +0000
+source_url: "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude"
 ---
 
 # 🎙️ This week on How I AI: Advanced Claude Code and Cursor techniques for power users
 
 **From:** "Lenny's Newsletter" <lenny+how-i-ai@substack.com>
 **Date:** Mon, 26 Jan 2026 16:01:49 +0000
+**Source:** [View original](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude)
 
 ---
 

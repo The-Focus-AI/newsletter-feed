@@ -5,12 +5,14 @@ newsletter_name: "Blackbird Spyplane"
 category: misc
 subject: "Are good clothes boring?"
 date: Tue, 27 Jan 2026 16:36:06 +0000
+source_url: "https://www.blackbirdspyplane.com/p/are-good-clothes-boring"
 ---
 
 # Are good clothes boring?
 
 **From:** Blackbird Spyplane <blackbirdspyplane@substack.com>
 **Date:** Tue, 27 Jan 2026 16:36:06 +0000
+**Source:** [View original](https://www.blackbirdspyplane.com/p/are-good-clothes-boring)
 
 ---
 

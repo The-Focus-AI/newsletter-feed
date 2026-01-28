@@ -5,12 +5,14 @@ newsletter_name: "TheSequence"
 category: tech-ai
 subject: "The Sequence AI of the Week #793: DeepSeek's New Paper: Storing 100B Parameters on CPU RAM"
 date: Wed, 21 Jan 2026 12:03:23 +0000
+source_url: "https://thesequence.substack.com/p/the-sequence-ai-of-the-week-deepseeks"
 ---
 
 # The Sequence AI of the Week #793: DeepSeek's New Paper: Storing 100B Parameters on CPU RAM
 
 **From:** TheSequence <thesequence@substack.com>
 **Date:** Wed, 21 Jan 2026 12:03:23 +0000
+**Source:** [View original](https://thesequence.substack.com/p/the-sequence-ai-of-the-week-deepseeks)
 
 ---
 

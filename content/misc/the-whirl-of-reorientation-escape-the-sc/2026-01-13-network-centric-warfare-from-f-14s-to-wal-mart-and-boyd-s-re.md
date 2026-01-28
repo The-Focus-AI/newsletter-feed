@@ -5,12 +5,14 @@ newsletter_name: "The Whirl Of ReOrientation: Escape The Script. Win The War."
 category: misc
 subject: "Network Centric Warfare: From F-14s to Wal-Mart and Boyd’s Real OODA Loop"
 date: Tue, 13 Jan 2026 12:02:45 +0000
+source_url: "https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s"
 ---
 
 # Network Centric Warfare: From F-14s to Wal-Mart and Boyd’s Real OODA Loop
 
 **From:** "The Whirl Of ReOrientation: Escape The Script. Win The War. " <thewhirl@substack.com>
 **Date:** Tue, 13 Jan 2026 12:02:45 +0000
+**Source:** [View original](https://thewhirl.substack.com/p/network-centric-warfare-from-f-14s)
 
 ---
 

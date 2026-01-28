@@ -5,12 +5,14 @@ newsletter_name: "Silver Bulletin"
 category: politics
 subject: "Zohran’s high-risk, high-reward strategy"
 date: Mon, 12 Jan 2026 18:55:40 +0000
+source_url: "https://www.natesilver.net/p/zohrans-high-risk-high-reward-strategy"
 ---
 
 # Zohran’s high-risk, high-reward strategy
 
 **From:** Silver Bulletin <natesilver+politics@substack.com>
 **Date:** Mon, 12 Jan 2026 18:55:40 +0000
+**Source:** [View original](https://www.natesilver.net/p/zohrans-high-risk-high-reward-strategy)
 
 ---
 

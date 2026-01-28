@@ -5,12 +5,14 @@ newsletter_name: "Henry Oliver from The Common Reader"
 category: books
 subject: "Bacon, Swift, Smith: Three anniversaries in 2026"
 date: Wed, 14 Jan 2026 21:00:28 +0000
+source_url: "https://www.commonreader.co.uk/p/bacon-swift-smith-three-anniversaries"
 ---
 
 # Bacon, Swift, Smith: Three anniversaries in 2026
 
 **From:** Henry Oliver from The Common Reader <commonreader@substack.com>
 **Date:** Wed, 14 Jan 2026 21:00:28 +0000
+**Source:** [View original](https://www.commonreader.co.uk/p/bacon-swift-smith-three-anniversaries)
 
 ---
 

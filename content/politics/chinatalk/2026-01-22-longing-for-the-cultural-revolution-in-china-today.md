@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Longing for the Cultural Revolution in China Today"
 date: Thu, 22 Jan 2026 13:40:34 +0000
+source_url: "https://www.chinatalk.media/p/longing-for-the-cultural-revolution"
 ---
 
 # Longing for the Cultural Revolution in China Today
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Thu, 22 Jan 2026 13:40:34 +0000
+**Source:** [View original](https://www.chinatalk.media/p/longing-for-the-cultural-revolution)
 
 ---
 

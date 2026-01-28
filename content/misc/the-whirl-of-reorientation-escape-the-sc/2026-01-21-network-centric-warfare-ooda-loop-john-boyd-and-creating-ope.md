@@ -5,12 +5,14 @@ newsletter_name: "The Whirl Of ReOrientation: Escape The Script. Win The War."
 category: misc
 subject: "Network Centric Warfare: OODA Loop, John Boyd, and Creating Operational Flow"
 date: Wed, 21 Jan 2026 13:51:59 +0000
+source_url: "https://thewhirl.substack.com/p/stein-network-centric-warfare-trust-mission-command-ooda"
 ---
 
 # Network Centric Warfare: OODA Loop, John Boyd, and Creating Operational Flow
 
 **From:** "The Whirl Of ReOrientation: Escape The Script. Win The War. " <thewhirl+no-way-out-podcast@substack.com>
 **Date:** Wed, 21 Jan 2026 13:51:59 +0000
+**Source:** [View original](https://thewhirl.substack.com/p/stein-network-centric-warfare-trust-mission-command-ooda)
 
 ---
 

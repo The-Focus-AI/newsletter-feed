@@ -5,12 +5,14 @@ newsletter_name: "Tamara"
 category: misc
 subject: "The Grace in Withering"
 date: Wed, 14 Jan 2026 21:19:16 +0000
+source_url: "https://museguided.substack.com/p/the-grace-in-withering"
 ---
 
 # The Grace in Withering
 
 **From:** Tamara <museguided@substack.com>
 **Date:** Wed, 14 Jan 2026 21:19:16 +0000
+**Source:** [View original](https://museguided.substack.com/p/the-grace-in-withering)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Rod Dreher from Rod Dreher's Diary"
 category: philosophy
 subject: "Le Divorce: America Leaves Europe To Its Fate?"
 date: Fri, 23 Jan 2026 09:42:36 +0000
+source_url: "https://roddreher.substack.com/p/le-divorce-america-leaves-europe"
 ---
 
 # Le Divorce: America Leaves Europe To Its Fate?
 
 **From:** "Rod Dreher from Rod Dreher's Diary" <roddreher@substack.com>
 **Date:** Fri, 23 Jan 2026 09:42:36 +0000
+**Source:** [View original](https://roddreher.substack.com/p/le-divorce-america-leaves-europe)
 
 ---
 

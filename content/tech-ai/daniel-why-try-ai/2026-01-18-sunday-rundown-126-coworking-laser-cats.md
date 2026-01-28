@@ -5,12 +5,14 @@ newsletter_name: "Daniel (Why Try AI)"
 category: tech-ai
 subject: "Sunday Rundown #126: Coworking & Laser Cats"
 date: Sun, 18 Jan 2026 09:27:20 +0000
+source_url: "https://www.whytryai.com/p/sunday-rundown-126-coworking"
 ---
 
 # Sunday Rundown #126: Coworking & Laser Cats
 
 **From:** "Daniel (Why Try AI)" <whytryai+10x-ai@substack.com>
 **Date:** Sun, 18 Jan 2026 09:27:20 +0000
+**Source:** [View original](https://www.whytryai.com/p/sunday-rundown-126-coworking)
 
 ---
 

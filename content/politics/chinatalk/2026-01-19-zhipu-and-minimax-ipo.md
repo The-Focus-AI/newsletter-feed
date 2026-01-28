@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Zhipu and MiniMax IPO"
 date: Mon, 19 Jan 2026 11:52:29 +0000
+source_url: "https://www.chinatalk.media/p/zhipu-and-minimax-ipo"
 ---
 
 # Zhipu and MiniMax IPO
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Mon, 19 Jan 2026 11:52:29 +0000
+**Source:** [View original](https://www.chinatalk.media/p/zhipu-and-minimax-ipo)
 
 ---
 

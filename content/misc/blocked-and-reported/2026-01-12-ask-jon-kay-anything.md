@@ -5,12 +5,14 @@ newsletter_name: "Blocked and Reported"
 category: misc
 subject: "Ask Jon Kay Anything"
 date: Mon, 12 Jan 2026 21:55:57 +0000
+source_url: "https://www.blockedandreported.org/p/ask-jon-kay-anything"
 ---
 
 # Ask Jon Kay Anything
 
 **From:** Blocked and Reported <blockedandreported@substack.com>
 **Date:** Mon, 12 Jan 2026 21:55:57 +0000
+**Source:** [View original](https://www.blockedandreported.org/p/ask-jon-kay-anything)
 
 ---
 

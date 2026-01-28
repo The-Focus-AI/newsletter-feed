@@ -5,12 +5,14 @@ newsletter_name: "Sam Schillace from Sunday Letters"
 category: tech-ai
 subject: "Software dentists and obsessive graybeards"
 date: Mon, 26 Jan 2026 00:00:29 +0000
+source_url: "https://sundaylettersfromsam.substack.com/p/software-dentists-and-obsessive-graybeards"
 ---
 
 # Software dentists and obsessive graybeards
 
 **From:** Sam Schillace from Sunday Letters <sundaylettersfromsam@substack.com>
 **Date:** Mon, 26 Jan 2026 00:00:29 +0000
+**Source:** [View original](https://sundaylettersfromsam.substack.com/p/software-dentists-and-obsessive-graybeards)
 
 ---
 

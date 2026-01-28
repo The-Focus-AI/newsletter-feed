@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "From Athens to Alabama"
 date: Mon, 19 Jan 2026 14:29:50 +0000
+source_url: "https://classicalwisdom.substack.com/p/from-athens-to-alabama"
 ---
 
 # From Athens to Alabama
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Mon, 19 Jan 2026 14:29:50 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/from-athens-to-alabama)
 
 ---
 

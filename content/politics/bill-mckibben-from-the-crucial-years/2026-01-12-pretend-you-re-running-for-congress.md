@@ -5,12 +5,14 @@ newsletter_name: "Bill McKibben from The Crucial Years"
 category: politics
 subject: "Pretend you're running for Congress"
 date: Mon, 12 Jan 2026 23:25:32 +0000
+source_url: "https://billmckibben.substack.com/p/pretend-youre-running-for-congress"
 ---
 
 # Pretend you're running for Congress
 
 **From:** Bill McKibben from The Crucial Years <billmckibben@substack.com>
 **Date:** Mon, 12 Jan 2026 23:25:32 +0000
+**Source:** [View original](https://billmckibben.substack.com/p/pretend-youre-running-for-congress)
 
 ---
 

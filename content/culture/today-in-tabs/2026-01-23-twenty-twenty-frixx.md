@@ -5,12 +5,14 @@ newsletter_name: "Today in Tabs"
 category: culture
 subject: "Twenty Twenty Frixx"
 date: Fri, 23 Jan 2026 21:07:21 +0000 (UTC)
+source_url: "https://www.todayintabs.com/p/twenty-twenty-frixx"
 ---
 
 # Twenty Twenty Frixx
 
 **From:** Today in Tabs <rusty@www.todayintabs.com>
 **Date:** Fri, 23 Jan 2026 21:07:21 +0000 (UTC)
+**Source:** [View original](https://www.todayintabs.com/p/twenty-twenty-frixx)
 
 ---
 

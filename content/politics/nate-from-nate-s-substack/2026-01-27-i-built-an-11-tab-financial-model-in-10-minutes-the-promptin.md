@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "I built an 11-tab financial model in 10 minutes + the prompting guide that makes it repeatable"
 date: Tue, 27 Jan 2026 14:03:23 +0000
+source_url: "https://natesnewsletter.substack.com/p/anthropic-just-put-claude-inside"
 ---
 
 # I built an 11-tab financial model in 10 minutes + the prompting guide that makes it repeatable
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Tue, 27 Jan 2026 14:03:23 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/anthropic-just-put-claude-inside)
 
 ---
 

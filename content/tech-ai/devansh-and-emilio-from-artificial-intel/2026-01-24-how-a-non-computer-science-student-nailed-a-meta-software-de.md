@@ -5,12 +5,14 @@ newsletter_name: "Devansh and Emilio from Artificial Intelligence Made Simple"
 category: tech-ai
 subject: "How a Non-Computer Science Student Nailed a Meta Software dev job"
 date: Sat, 24 Jan 2026 08:26:26 +0000
+source_url: "https://www.artificialintelligencemadesimple.com/p/how-a-non-computer-science-student"
 ---
 
 # How a Non-Computer Science Student Nailed a Meta Software dev job
 
 **From:** Devansh from Artificial Intelligence Made Simple <artificialintelligencemadesimple@substack.com>
 **Date:** Sat, 24 Jan 2026 08:26:26 +0000
+**Source:** [View original](https://www.artificialintelligencemadesimple.com/p/how-a-non-computer-science-student)
 
 ---
 

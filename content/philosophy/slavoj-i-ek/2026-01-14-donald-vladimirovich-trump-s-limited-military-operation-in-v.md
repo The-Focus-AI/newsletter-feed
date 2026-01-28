@@ -5,12 +5,14 @@ newsletter_name: "Slavoj Žižek"
 category: philosophy
 subject: "DONALD VLADIMIROVICH TRUMP’S “LIMITED MILITARY OPERATION” IN VENEZUELA"
 date: Wed, 14 Jan 2026 17:31:17 +0000
+source_url: "https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5"
 ---
 
 # DONALD VLADIMIROVICH TRUMP’S “LIMITED MILITARY OPERATION” IN VENEZUELA
 
 **From:** "Slavoj Žižek " <slavoj+politics@substack.com>
 **Date:** Wed, 14 Jan 2026 17:31:17 +0000
+**Source:** [View original](https://slavoj.substack.com/p/donald-vladimirovich-trumps-limited-ad5)
 
 ---
 

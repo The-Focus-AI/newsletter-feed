@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Party Time! Jon Czin on US-China 2025 and 2026"
 date: Tue, 27 Jan 2026 11:28:36 +0000
+source_url: "https://www.chinatalk.media/p/party-time-jon-czin-on-us-china-2025"
 ---
 
 # Party Time! Jon Czin on US-China 2025 and 2026
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Tue, 27 Jan 2026 11:28:36 +0000
+**Source:** [View original](https://www.chinatalk.media/p/party-time-jon-czin-on-us-china-2025)
 
 ---
 

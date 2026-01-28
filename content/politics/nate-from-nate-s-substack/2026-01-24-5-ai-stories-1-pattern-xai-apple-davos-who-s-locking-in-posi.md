@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "5 AI Stories, 1 Pattern—xAI, Apple, Davos: Who's Locking In Positions (and Who's Too Late)"
 date: Sat, 24 Jan 2026 15:00:50 +0000
+source_url: "https://natesnewsletter.substack.com/p/this-week-in-ai-news-xai-got-20b"
 ---
 
 # 5 AI Stories, 1 Pattern—xAI, Apple, Davos: Who's Locking In Positions (and Who's Too Late)
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Sat, 24 Jan 2026 15:00:50 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/this-week-in-ai-news-xai-got-20b)
 
 ---
 

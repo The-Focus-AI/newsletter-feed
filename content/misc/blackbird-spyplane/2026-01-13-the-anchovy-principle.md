@@ -5,12 +5,14 @@ newsletter_name: "Blackbird Spyplane"
 category: misc
 subject: "The Anchovy Principle"
 date: Tue, 13 Jan 2026 12:01:36 +0000
+source_url: "https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool"
 ---
 
 # The Anchovy Principle
 
 **From:** Blackbird Spyplane <blackbirdspyplane@substack.com>
 **Date:** Tue, 13 Jan 2026 12:01:36 +0000
+**Source:** [View original](https://www.blackbirdspyplane.com/p/the-anchovy-principle-how-to-build-sauce-berets-are-cool)
 
 ---
 

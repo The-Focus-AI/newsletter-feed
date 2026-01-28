@@ -5,12 +5,14 @@ newsletter_name: "PJ Vogt"
 category: misc
 subject: "The Venezuelan Curse (part 1)"
 date: Sat, 17 Jan 2026 20:47:02 +0000
+source_url: "https://pjvogt.substack.com/p/the-venezuelan-curse-part-1"
 ---
 
 # The Venezuelan Curse (part 1)
 
 **From:** PJ Vogt <pjvogt@substack.com>
 **Date:** Sat, 17 Jan 2026 20:47:02 +0000
+**Source:** [View original](https://pjvogt.substack.com/p/the-venezuelan-curse-part-1)
 
 ---
 

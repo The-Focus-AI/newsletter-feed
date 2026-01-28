@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "The All-Star Chinese AI Conversation of 2026"
 date: Tue, 13 Jan 2026 18:51:29 +0000
+source_url: "https://www.chinatalk.media/p/the-all-star-chinese-ai-conversation"
 ---
 
 # The All-Star Chinese AI Conversation of 2026
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Tue, 13 Jan 2026 18:51:29 +0000
+**Source:** [View original](https://www.chinatalk.media/p/the-all-star-chinese-ai-conversation)
 
 ---
 

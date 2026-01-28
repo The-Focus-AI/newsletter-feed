@@ -5,12 +5,14 @@ newsletter_name: "Erik Davis"
 category: misc
 subject: "Thar She Blows"
 date: Fri, 16 Jan 2026 22:25:53 +0000
+source_url: "https://www.burningshore.com/p/thar-she-blows"
 ---
 
 # Thar She Blows
 
 **From:** Erik Davis   <erikdavis@substack.com>
 **Date:** Fri, 16 Jan 2026 22:25:53 +0000
+**Source:** [View original](https://www.burningshore.com/p/thar-she-blows)
 
 ---
 

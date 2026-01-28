@@ -5,12 +5,14 @@ newsletter_name: "Scott Werner from Works on My Machine"
 category: misc
 subject: "What If We Took Message-Passing Seriously?"
 date: Sat, 24 Jan 2026 17:20:46 +0000
+source_url: "https://worksonmymachine.ai/p/what-if-we-took-message-passing-seriously"
 ---
 
 # What If We Took Message-Passing Seriously?
 
 **From:** Scott Werner from Works on My Machine <worksonmymachine@substack.com>
 **Date:** Sat, 24 Jan 2026 17:20:46 +0000
+**Source:** [View original](https://worksonmymachine.ai/p/what-if-we-took-message-passing-seriously)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "Executive Briefing: Why Your AI Strategy Has a Blind Spot (Literally)--The Case for Visual AI"
 date: Sun, 18 Jan 2026 16:02:42 +0000
+source_url: "https://natesnewsletter.substack.com/p/executive-briefing-visual-ai-isnt"
 ---
 
 # Executive Briefing: Why Your AI Strategy Has a Blind Spot (Literally)--The Case for Visual AI
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Sun, 18 Jan 2026 16:02:42 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/executive-briefing-visual-ai-isnt)
 
 ---
 

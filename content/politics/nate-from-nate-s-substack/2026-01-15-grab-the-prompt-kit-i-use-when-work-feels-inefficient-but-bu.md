@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "Grab the prompt kit I use when work feels inefficient but busy + specific experiments for each bottleneck"
 date: Thu, 15 Jan 2026 14:02:49 +0000
+source_url: "https://natesnewsletter.substack.com/p/8-habits-worth-unlearning-in-the"
 ---
 
 # Grab the prompt kit I use when work feels inefficient but busy + specific experiments for each bottleneck
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Thu, 15 Jan 2026 14:02:49 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/8-habits-worth-unlearning-in-the)
 
 ---
 

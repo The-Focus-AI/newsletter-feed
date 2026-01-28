@@ -5,12 +5,14 @@ newsletter_name: "Steven Johnson from Adjacent Possible"
 category: misc
 subject: "The Wetlands Interregnum"
 date: Mon, 26 Jan 2026 19:38:38 +0000
+source_url: "https://adjacentpossible.substack.com/p/the-wetlands-interregnum"
 ---
 
 # The Wetlands Interregnum
 
 **From:** Steven Johnson from Adjacent Possible <adjacentpossible@substack.com>
 **Date:** Mon, 26 Jan 2026 19:38:38 +0000
+**Source:** [View original](https://adjacentpossible.substack.com/p/the-wetlands-interregnum)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Core Memory"
 category: misc
 subject: "Exclusive: Fridge Magnet Medicine"
 date: Mon, 12 Jan 2026 15:24:50 +0000
+source_url: "https://www.corememory.com/p/exclusive-fridge-magnet-medicine-nonfiction-labs-cancer"
 ---
 
 # Exclusive: Fridge Magnet Medicine
 
 **From:** Core Memory  <ashleevance@substack.com>
 **Date:** Mon, 12 Jan 2026 15:24:50 +0000
+**Source:** [View original](https://www.corememory.com/p/exclusive-fridge-magnet-medicine-nonfiction-labs-cancer)
 
 ---
 

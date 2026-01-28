@@ -5,12 +5,14 @@ newsletter_name: "Henry Oliver from The Common Reader"
 category: books
 subject: "Driving like a video game"
 date: Tue, 13 Jan 2026 03:19:46 +0000
+source_url: "https://www.commonreader.co.uk/p/driving-like-a-video-game"
 ---
 
 # Driving like a video game
 
 **From:** Henry Oliver from The Common Reader <commonreader@substack.com>
 **Date:** Tue, 13 Jan 2026 03:19:46 +0000
+**Source:** [View original](https://www.commonreader.co.uk/p/driving-like-a-video-game)
 
 ---
 

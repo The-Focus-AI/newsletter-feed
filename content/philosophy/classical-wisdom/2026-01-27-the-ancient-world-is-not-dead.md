@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "The Ancient World is Not Dead"
 date: Tue, 27 Jan 2026 14:37:03 +0000
+source_url: "https://classicalwisdom.substack.com/p/the-ancient-world-is-not-dead"
 ---
 
 # The Ancient World is Not Dead
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Tue, 27 Jan 2026 14:37:03 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/the-ancient-world-is-not-dead)
 
 ---
 

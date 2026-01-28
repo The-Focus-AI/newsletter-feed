@@ -5,12 +5,14 @@ newsletter_name: "Daniel (Why Try AI)"
 category: tech-ai
 subject: "Sunday Rundown #127: Voice Cloners & Double-Vaulting"
 date: Sun, 25 Jan 2026 09:27:27 +0000
+source_url: "https://www.whytryai.com/p/sunday-rundown-127-voice-cloners"
 ---
 
 # Sunday Rundown #127: Voice Cloners & Double-Vaulting
 
 **From:** "Daniel (Why Try AI)" <whytryai+10x-ai@substack.com>
 **Date:** Sun, 25 Jan 2026 09:27:27 +0000
+**Source:** [View original](https://www.whytryai.com/p/sunday-rundown-127-voice-cloners)
 
 ---
 

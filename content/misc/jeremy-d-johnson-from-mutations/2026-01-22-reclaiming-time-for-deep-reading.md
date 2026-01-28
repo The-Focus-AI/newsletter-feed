@@ -5,12 +5,14 @@ newsletter_name: "Jeremy D Johnson from Mutations"
 category: misc
 subject: "Reclaiming Time for Deep Reading"
 date: Thu, 22 Jan 2026 19:05:38 +0000
+source_url: "https://jeremydjohnson.substack.com/p/reclaiming-time-for-deep-reading"
 ---
 
 # Reclaiming Time for Deep Reading
 
 **From:** Jeremy D Johnson from Mutations <jeremydjohnson@substack.com>
 **Date:** Thu, 22 Jan 2026 19:05:38 +0000
+**Source:** [View original](https://jeremydjohnson.substack.com/p/reclaiming-time-for-deep-reading)
 
 ---
 

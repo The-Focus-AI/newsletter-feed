@@ -5,12 +5,14 @@ newsletter_name: "Devansh and Emilio from Artificial Intelligence Made Simple"
 category: tech-ai
 subject: "How One Startup is Breaking Nvidia’s Memory Bottleneck"
 date: Tue, 20 Jan 2026 01:09:13 +0000
+source_url: "https://www.artificialintelligencemadesimple.com/p/how-one-startup-is-breaking-nvidias"
 ---
 
 # How One Startup is Breaking Nvidia’s Memory Bottleneck
 
 **From:** Devansh from Artificial Intelligence Made Simple <artificialintelligencemadesimple@substack.com>
 **Date:** Tue, 20 Jan 2026 01:09:13 +0000
+**Source:** [View original](https://www.artificialintelligencemadesimple.com/p/how-one-startup-is-breaking-nvidias)
 
 ---
 

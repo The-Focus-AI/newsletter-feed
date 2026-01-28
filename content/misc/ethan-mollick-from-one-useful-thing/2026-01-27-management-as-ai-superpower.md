@@ -5,12 +5,14 @@ newsletter_name: "Ethan Mollick from One Useful Thing"
 category: misc
 subject: "Management as AI superpower"
 date: Tue, 27 Jan 2026 16:55:55 +0000
+source_url: "https://www.oneusefulthing.org/p/management-as-ai-superpower"
 ---
 
 # Management as AI superpower
 
 **From:** Ethan Mollick from One Useful Thing <oneusefulthing@substack.com>
 **Date:** Tue, 27 Jan 2026 16:55:55 +0000
+**Source:** [View original](https://www.oneusefulthing.org/p/management-as-ai-superpower)
 
 ---
 

@@ -98,7 +98,7 @@ Example: "This week, [Turing Post](https://turingpost.com/p/xyz) covered the App
 2. **Every quote attribution must be a hyperlink** to the source article
 3. **The Sources section must list all articles** with clickable links to original sources
 4. Format: `[Newsletter Name](source_url)` — never just plain text names
-5. If source_url is missing, use the format `[Newsletter Name](content/category/newsletter/filename.md)` as fallback
+5. **If source_url is missing**: Just use the plain newsletter name without a link. **NEVER use placeholder URLs like "no-source-url" or fake URLs**. It's better to have no link than a broken one.
 
 ## Quality Standards
 
@@ -110,7 +110,7 @@ Example: "This week, [Turing Post](https://turingpost.com/p/xyz) covered the App
 
 ## Edge Cases
 
-- **Missing metadata**: If source URLs aren't in the file, note "[source link not available]" but still attribute to the newsletter name
+- **Missing source_url**: If an article doesn't have a source_url in its frontmatter, just use the plain newsletter name (e.g., "AlphaSignal reported...") without any link. **NEVER use placeholder URLs like "no-source-url"**. Some newsletters are email-only and don't have web versions.
 - **Duplicate content**: If newsletters cover identical stories, note this as a significant pattern
 - **Off-topic files**: If a file doesn't appear to be newsletter content, skip it and note the exclusion
 - **Ambiguous week assignment**: Ask for clarification on which files belong to the target week if unclear
@@ -118,9 +118,9 @@ Example: "This week, [Turing Post](https://turingpost.com/p/xyz) covered the App
 ## Self-Verification
 
 Before finalizing your analysis:
-- [ ] **Every newsletter name in the document is a hyperlink** to its source_url
-- [ ] **Every quote has a linked attribution** in format `— [Source](url)`
-- [ ] **Sources section lists all articles** with clickable original URLs
-- [ ] Cross-newsletter themes cite at least 2 sources (all linked)
-- [ ] Zero plain-text newsletter names without hyperlinks
-- [ ] The summary would help someone click through to read originals
+- [ ] **Every newsletter with a source_url is hyperlinked** — newsletters without source_url can be plain text
+- [ ] **Every quote has proper attribution** — linked if source_url exists, plain text otherwise
+- [ ] **Sources section lists all articles** — with clickable links when source_url is available
+- [ ] Cross-newsletter themes cite at least 2 sources
+- [ ] **No placeholder URLs** — never use "no-source-url", empty parentheses, or fake URLs
+- [ ] The summary would help someone click through to read originals where links exist

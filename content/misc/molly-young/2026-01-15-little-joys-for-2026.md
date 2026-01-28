@@ -5,12 +5,14 @@ newsletter_name: "Molly Young"
 category: misc
 subject: "Little joys for 2026"
 date: Thu, 15 Jan 2026 02:38:41 +0000
+source_url: "https://mollyyoung.substack.com/p/little-joys-for-2026"
 ---
 
 # Little joys for 2026
 
 **From:** Molly Young  <mollyyoung@substack.com>
 **Date:** Thu, 15 Jan 2026 02:38:41 +0000
+**Source:** [View original](https://mollyyoung.substack.com/p/little-joys-for-2026)
 
 ---
 

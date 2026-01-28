@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "Odysseus' REAL Identity"
 date: Fri, 23 Jan 2026 14:12:58 +0000
+source_url: "https://classicalwisdom.substack.com/p/odysseus-real-identity"
 ---
 
 # Odysseus' REAL Identity
 
 **From:** Classical Wisdom <classicalwisdom@substack.com>
 **Date:** Fri, 23 Jan 2026 14:12:58 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/odysseus-real-identity)
 
 ---
 

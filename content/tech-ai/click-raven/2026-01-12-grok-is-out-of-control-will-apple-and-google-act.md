@@ -5,12 +5,14 @@ newsletter_name: "Click Raven"
 category: tech-ai
 subject: "Grok Is Out of Control. Will Apple and Google Act?"
 date: Mon, 12 Jan 2026 11:15:00 +0000 (UTC)
+source_url: "https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually"
 ---
 
 # Grok Is Out of Control. Will Apple and Google Act?
 
 **From:** Click Raven <clickraven@mail.beehiiv.com>
 **Date:** Mon, 12 Jan 2026 11:15:00 +0000 (UTC)
+**Source:** [View original](https://newsletter.clickraven.com/p/apple-google-won-t-act-gemini-gains-on-chatgpt-and-why-writing-for-llms-backfires-eventually)
 
 ---
 

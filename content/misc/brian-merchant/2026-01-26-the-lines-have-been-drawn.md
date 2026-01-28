@@ -5,12 +5,14 @@ newsletter_name: "Brian Merchant"
 category: misc
 subject: "The lines have been drawn"
 date: Mon, 26 Jan 2026 21:46:05 +0000
+source_url: "https://bloodinthemachine.substack.com/p/the-lines-have-been-drawn"
 ---
 
 # The lines have been drawn
 
 **From:** Brian Merchant <bloodinthemachine@substack.com>
 **Date:** Mon, 26 Jan 2026 21:46:05 +0000
+**Source:** [View original](https://bloodinthemachine.substack.com/p/the-lines-have-been-drawn)
 
 ---
 

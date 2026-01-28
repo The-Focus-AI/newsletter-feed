@@ -5,12 +5,14 @@ newsletter_name: "🔳 Turing Post"
 category: tech-ai
 subject: "AI 101: An Insightful Guide to VLA/VLA+ models"
 date: Wed, 21 Jan 2026 22:01:52 +0000 (UTC)
+source_url: "https://www.turingpost.com/p/phi3"
 ---
 
 # AI 101: An Insightful Guide to VLA/VLA+ models
 
 **From:** "🔳 Turing Post" <turingpost@mail.beehiiv.com>
 **Date:** Wed, 21 Jan 2026 22:01:52 +0000 (UTC)
+**Source:** [View original](https://www.turingpost.com/p/phi3)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Simon Willison from Simon Willison’s Newsletter"
 category: tech-ai
 subject: "First impressions of Claude Cowork, Anthropic’s general agent"
 date: Tue, 13 Jan 2026 04:25:55 +0000
+source_url: "https://simonw.substack.com/p/first-impressions-of-claude-cowork"
 ---
 
 # First impressions of Claude Cowork, Anthropic’s general agent
 
 **From:** "Simon Willison from Simon Willison’s Newsletter" <simonw@substack.com>
 **Date:** Tue, 13 Jan 2026 04:25:55 +0000
+**Source:** [View original](https://simonw.substack.com/p/first-impressions-of-claude-cowork)
 
 ---
 

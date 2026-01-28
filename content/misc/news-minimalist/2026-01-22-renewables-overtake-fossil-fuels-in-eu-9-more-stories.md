@@ -5,12 +5,14 @@ newsletter_name: "News Minimalist"
 category: misc
 subject: "🐢 Renewables overtake fossil fuels in EU + 9 more stories"
 date: Thu, 22 Jan 2026 19:30:44 +0000 (UTC)
+source_url: "https://newsletter.newsminimalist.com/p/renewables-overtake-fossil-fuels-in-eu-9-more-stories"
 ---
 
 # 🐢 Renewables overtake fossil fuels in EU + 9 more stories
 
 **From:** News Minimalist <daily@mail.newsminimalist.com>
 **Date:** Thu, 22 Jan 2026 19:30:44 +0000 (UTC)
+**Source:** [View original](https://newsletter.newsminimalist.com/p/renewables-overtake-fossil-fuels-in-eu-9-more-stories)
 
 ---
 

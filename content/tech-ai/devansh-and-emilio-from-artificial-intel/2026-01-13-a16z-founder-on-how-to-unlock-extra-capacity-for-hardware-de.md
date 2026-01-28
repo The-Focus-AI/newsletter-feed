@@ -5,12 +5,14 @@ newsletter_name: "Devansh and Emilio from Artificial Intelligence Made Simple"
 category: tech-ai
 subject: "a16z Founder on How to unlock extra capacity for hardware development"
 date: Tue, 13 Jan 2026 22:44:21 +0000
+source_url: "https://www.artificialintelligencemadesimple.com/p/a16z-founder-on-how-to-unlock-extra"
 ---
 
 # a16z Founder on How to unlock extra capacity for hardware development
 
 **From:** Devansh and EverCurrent from Artificial Intelligence Made Simple <artificialintelligencemadesimple@substack.com>
 **Date:** Tue, 13 Jan 2026 22:44:21 +0000
+**Source:** [View original](https://www.artificialintelligencemadesimple.com/p/a16z-founder-on-how-to-unlock-extra)
 
 ---
 

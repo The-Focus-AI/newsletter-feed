@@ -5,12 +5,14 @@ newsletter_name: "News Minimalist"
 category: misc
 subject: "🐢 US leaves global climate treaty + 10 more stories"
 date: Mon, 12 Jan 2026 17:44:33 +0000 (UTC)
+source_url: "https://newsletter.newsminimalist.com/p/us-leaves-global-climate-treaty-10-more-stories"
 ---
 
 # 🐢 US leaves global climate treaty + 10 more stories
 
 **From:** News Minimalist <daily@mail.newsminimalist.com>
 **Date:** Mon, 12 Jan 2026 17:44:33 +0000 (UTC)
+**Source:** [View original](https://newsletter.newsminimalist.com/p/us-leaves-global-climate-treaty-10-more-stories)
 
 ---
 

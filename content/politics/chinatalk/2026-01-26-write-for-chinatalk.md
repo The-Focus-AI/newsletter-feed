@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Write for ChinaTalk!"
 date: Mon, 26 Jan 2026 12:22:41 +0000
+source_url: "https://www.chinatalk.media/p/articles-wed-like-to-commission"
 ---
 
 # Write for ChinaTalk!
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Mon, 26 Jan 2026 12:22:41 +0000
+**Source:** [View original](https://www.chinatalk.media/p/articles-wed-like-to-commission)
 
 ---
 

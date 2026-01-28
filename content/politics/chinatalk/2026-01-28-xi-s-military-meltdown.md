@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Xi’s Military Meltdown"
 date: Wed, 28 Jan 2026 10:59:25 +0000
+source_url: "https://www.chinatalk.media/p/xis-military-meltdown"
 ---
 
 # Xi’s Military Meltdown
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Wed, 28 Jan 2026 10:59:25 +0000
+**Source:** [View original](https://www.chinatalk.media/p/xis-military-meltdown)
 
 ---
 

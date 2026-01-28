@@ -5,12 +5,14 @@ newsletter_name: "Nate from Nate’s Substack"
 category: politics
 subject: "My honest field notes on scaling agents past the demo phase + 6 rules from teams running hundreds"
 date: Mon, 26 Jan 2026 14:03:32 +0000
+source_url: "https://natesnewsletter.substack.com/p/why-dumb-agents-mean-smart-orchestration"
 ---
 
 # My honest field notes on scaling agents past the demo phase + 6 rules from teams running hundreds
 
 **From:** "Nate from Nate’s Substack" <natesnewsletter@substack.com>
 **Date:** Mon, 26 Jan 2026 14:03:32 +0000
+**Source:** [View original](https://natesnewsletter.substack.com/p/why-dumb-agents-mean-smart-orchestration)
 
 ---
 

@@ -5,12 +5,14 @@ newsletter_name: "Simon Willison from Simon Willison’s Newsletter"
 category: tech-ai
 subject: "FastRender: a browser built by thousands of parallel agents"
 date: Fri, 23 Jan 2026 23:10:54 +0000
+source_url: "https://simonw.substack.com/p/fastrender-a-browser-built-by-thousands"
 ---
 
 # FastRender: a browser built by thousands of parallel agents
 
 **From:** "Simon Willison from Simon Willison’s Newsletter" <simonw@substack.com>
 **Date:** Fri, 23 Jan 2026 23:10:54 +0000
+**Source:** [View original](https://simonw.substack.com/p/fastrender-a-browser-built-by-thousands)
 
 ---
 

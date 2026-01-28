@@ -5,12 +5,14 @@ newsletter_name: "The Cosmopolitan Globalist"
 category: politics
 subject: "Iran's Tiananmen Square"
 date: Wed, 14 Jan 2026 13:59:49 +0000
+source_url: "https://claireberlinski.substack.com/p/irans-tiananmen-square"
 ---
 
 # Iran's Tiananmen Square
 
 **From:** The Cosmopolitan Globalist <claireberlinski@substack.com>
 **Date:** Wed, 14 Jan 2026 13:59:49 +0000
+**Source:** [View original](https://claireberlinski.substack.com/p/irans-tiananmen-square)
 
 ---
 

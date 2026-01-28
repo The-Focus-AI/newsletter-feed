@@ -5,12 +5,14 @@ newsletter_name: "Silver Bulletin"
 category: politics
 subject: "SBSQ #28b: Maye vs. Stafford and Yelp vs. Google"
 date: Mon, 19 Jan 2026 18:08:08 +0000
+source_url: "https://www.natesilver.net/p/sbsq-28b-maye-vs-stafford-and-yelp"
 ---
 
 # SBSQ #28b: Maye vs. Stafford and Yelp vs. Google
 
 **From:** Silver Bulletin <natesilver@substack.com>
 **Date:** Mon, 19 Jan 2026 18:08:08 +0000
+**Source:** [View original](https://www.natesilver.net/p/sbsq-28b-maye-vs-stafford-and-yelp)
 
 ---
 

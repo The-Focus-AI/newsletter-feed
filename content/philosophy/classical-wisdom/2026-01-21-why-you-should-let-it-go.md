@@ -5,12 +5,14 @@ newsletter_name: "Classical Wisdom"
 category: philosophy
 subject: "Why You Should Let It Go"
 date: Wed, 21 Jan 2026 18:09:15 +0000
+source_url: "https://classicalwisdom.substack.com/p/why-you-should-let-it-go"
 ---
 
 # Why You Should Let It Go
 
 **From:** Classical Wisdom <classicalwisdom+members@substack.com>
 **Date:** Wed, 21 Jan 2026 18:09:15 +0000
+**Source:** [View original](https://classicalwisdom.substack.com/p/why-you-should-let-it-go)
 
 ---
 

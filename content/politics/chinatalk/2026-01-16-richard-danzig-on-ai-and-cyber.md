@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Richard Danzig on AI and Cyber"
 date: Fri, 16 Jan 2026 11:29:26 +0000
+source_url: "https://www.chinatalk.media/p/richard-danzig-on-ai-and-cyber"
 ---
 
 # Richard Danzig on AI and Cyber
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Fri, 16 Jan 2026 11:29:26 +0000
+**Source:** [View original](https://www.chinatalk.media/p/richard-danzig-on-ai-and-cyber)
 
 ---
 

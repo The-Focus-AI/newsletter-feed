@@ -5,12 +5,14 @@ newsletter_name: "Rod Dreher from Rod Dreher's Diary"
 category: philosophy
 subject: "A Millennial Benedict Option In Denmark"
 date: Mon, 12 Jan 2026 07:49:19 +0000
+source_url: "https://roddreher.substack.com/p/a-millennial-benedict-option-in-denmark"
 ---
 
 # A Millennial Benedict Option In Denmark
 
 **From:** "Rod Dreher from Rod Dreher's Diary" <roddreher@substack.com>
 **Date:** Mon, 12 Jan 2026 07:49:19 +0000
+**Source:** [View original](https://roddreher.substack.com/p/a-millennial-benedict-option-in-denmark)
 
 ---
 

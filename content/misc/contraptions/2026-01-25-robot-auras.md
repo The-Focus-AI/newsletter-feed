@@ -5,12 +5,14 @@ newsletter_name: "Contraptions"
 category: misc
 subject: "Robot Auras"
 date: Sun, 25 Jan 2026 21:09:46 +0000
+source_url: "https://contraptions.venkateshrao.com/p/robot-auras"
 ---
 
 # Robot Auras
 
 **From:** Contraptions <contraptions@substack.com>
 **Date:** Sun, 25 Jan 2026 21:09:46 +0000
+**Source:** [View original](https://contraptions.venkateshrao.com/p/robot-auras)
 
 ---
 

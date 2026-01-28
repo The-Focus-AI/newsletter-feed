@@ -5,12 +5,14 @@ newsletter_name: "Core Memory"
 category: misc
 subject: "New, More Precise Cancer Therapies Could Soon Be Here - EP 51 Richard Fuisz"
 date: Mon, 12 Jan 2026 17:45:13 +0000
+source_url: "https://www.corememory.com/p/richard-fuisz-nonfictionlabs"
 ---
 
 # New, More Precise Cancer Therapies Could Soon Be Here - EP 51 Richard Fuisz
 
 **From:** Core Memory  <ashleevance@substack.com>
 **Date:** Mon, 12 Jan 2026 17:45:13 +0000
+**Source:** [View original](https://www.corememory.com/p/richard-fuisz-nonfictionlabs)
 
 ---
 

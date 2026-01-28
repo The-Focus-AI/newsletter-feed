@@ -5,12 +5,14 @@ newsletter_name: "🔳 Turing Post"
 category: tech-ai
 subject: "FOD#137:  From Model-Centric to Systems-Level Thinking About Agents"
 date: Tue, 27 Jan 2026 22:01:39 +0000 (UTC)
+source_url: "https://www.turingpost.com/p/fod137"
 ---
 
 # FOD#137:  From Model-Centric to Systems-Level Thinking About Agents
 
 **From:** "🔳 Turing Post" <turingpost@mail.beehiiv.com>
 **Date:** Tue, 27 Jan 2026 22:01:39 +0000 (UTC)
+**Source:** [View original](https://www.turingpost.com/p/fod137)
 
 ---
 

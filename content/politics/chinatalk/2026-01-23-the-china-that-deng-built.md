@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "The China That Deng Built"
 date: Fri, 23 Jan 2026 11:46:08 +0000
+source_url: "https://www.chinatalk.media/p/the-china-that-deng-built"
 ---
 
 # The China That Deng Built
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Fri, 23 Jan 2026 11:46:08 +0000
+**Source:** [View original](https://www.chinatalk.media/p/the-china-that-deng-built)
 
 ---
 

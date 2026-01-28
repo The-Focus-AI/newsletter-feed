@@ -5,12 +5,14 @@ newsletter_name: "ChinaTalk"
 category: politics
 subject: "Ben Buchanan on AI"
 date: Wed, 14 Jan 2026 10:42:30 +0000
+source_url: "https://www.chinatalk.media/p/ben-buchanan-on-a-rickover-for-ai"
 ---
 
 # Ben Buchanan on AI
 
 **From:** ChinaTalk <chinatalk@substack.com>
 **Date:** Wed, 14 Jan 2026 10:42:30 +0000
+**Source:** [View original](https://www.chinatalk.media/p/ben-buchanan-on-a-rickover-for-ai)
 
 ---
 
