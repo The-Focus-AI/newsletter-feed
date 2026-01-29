@@ -1,151 +1,148 @@
-# Week 05 Misc Newsletter Analysis (January 20-28, 2026)
+# Week 05 Misc Newsletter Analysis (Jan 27-Feb 2, 2026)
 
 ## Overview
 
-Week 05 of the misc category showcased profound intellectual depth alongside urgent political commentary. [Brian Merchant](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai) delivered a scathing analysis of AI as Trump's instrument of state power, while [The Free Press](https://substack.com/redirect/a88c2fc6-ed03-46aa-9ae0-eaffd0a55088?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) published a devastating investigation into Canada's assisted suicide regime. Across newsletters, a theme emerged: the tension between institutional power and human autonomy, whether through AI policy, corporate bureaucracy, or life-and-death medical decisions.
+Week 05's miscellaneous newsletters present a striking convergence between AI's transformation of work and deeply human themes of meaning, suffering, and creativity. [Ethan Mollick](https://www.oneusefulthing.org/p/management-as-ai-superpower) framed management skills as the new AI superpower, while [Olga](https://dataanalysis.substack.com/p/celebrating-300th-newsletter) celebrated 300 editions of hard-won newsletter wisdom. Against this backdrop of technological optimism, [The Free Press](https://substack.com/redirect/44dbf5dc-05d0-47b8-be3b-460e0ca56ae9?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) covered political turmoil in Minneapolis and Iran's brutal crackdown on protests, while [Tamara](https://museguided.substack.com/p/the-seduction-of-suffering) explored why we cling to pain as identity. Fashion, gene editing, and strategic thinking rounded out a week that asked fundamental questions about what we value and who we're becoming.
 
 ---
 
 ## Major Topics and Stories
 
-### 1. AI and State Power
-**Coverage:** [Brian Merchant](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai), [Ethan Mollick](https://www.oneusefulthing.org/p/management-as-ai-superpower), [Core Memory](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC9oZS1sZWZ0LW9wZW5haS1qZXJyeS10d29yZWs_dXRtX2NhbXBhaWduPWVtYWlsLXBvc3Qmcj0xaWVmeSZ0b2tlbj1leUoxYzJWeVgybGtJam95TlRNNE1UUXlMQ0p3YjNOMFgybGtJam94T0RVeU5UUTRNakFzSW1saGRDSTZNVGMyT0RrNU56RXpNQ3dpWlhod0lqb3hOemN4TlRnNU1UTXdMQ0pwYzNNaU9pSndkV0l0TXpJd09UazJJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS53Sktfc2NjNnA5TnhNUzhtZ2VUcHhkaGt2S3NTRUg4d3hHam5VYmdsSXM0IiwicCI6MTg1MjU0ODIwLCJzIjozMjA5OTYsImYiOmZhbHNlLCJ1IjoyNTM4MTQyLCJpYXQiOjE3Njg5OTcxMzAsImV4cCI6MjA4NDU3MzEzMCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.5uq0KvcmTUR8uA6n9yVeSJtdPdBVVFyRiu371smSEOQ?)
+### 1. AI Transforms Work Through Management, Not Just Technology
 
-[Brian Merchant](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai) reframed Trump's AI strategy not as deregulation but as deliberate state power consolidation. Drawing on policy papers by Alondra Nelson and Brian J. Chen, Merchant argues Trump is "concentrating governmental power at the federal level while deploying it through mechanisms—investment, ownership, research funding, immigration controls, and preemption—not typically classified as 'regulation.'"
+**Coverage:** [Ethan Mollick](https://www.oneusefulthing.org/p/management-as-ai-superpower), [Scott Werner](https://worksonmymachine.ai/p/the-different-shapes-of-think-before), [Olga](https://dataanalysis.substack.com/p/celebrating-300th-newsletter)
 
-> "Trump is not removing government from AI regulation; it is concentrating governmental power at the federal level while deploying it through mechanisms—investment, ownership, research funding, immigration controls, and preemption—not typically classified as 'regulation.'" — [Brian Merchant](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai)
+The week's most compelling AI insight came not from model capabilities but from organizational dynamics. [Ethan Mollick](https://www.oneusefulthing.org/p/management-as-ai-superpower) documented an experimental MBA class where students built working startups in four days using AI tools—achieving results "an order of magnitude further along" than typical semester-long projects. His key insight: "The skills that are so often dismissed as 'soft' turned out to be the hard ones."
 
-The administration has taken equity stakes in Intel ($9 billion for 10%) and eight other companies, restricted H-1B visas, and issued executive orders opening federal lands to data centers with environmental review exemptions. Merchant suggests "semi-nationalized OpenAI is entirely thinkable" given current federal entanglement.
+> "I wish I could say this impressive output was the result of my brilliant teaching, but we don't really have a great framework yet for how to use all these tools, the students largely figured it out on their own. It helped that they had some management and subject matter expertise because it turns out that the key to success was actually the last bit of the previous paragraph: telling the AI what you want." — [Ethan Mollick](https://www.oneusefulthing.org/p/management-as-ai-superpower)
 
-[Core Memory](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC9oZS1sZWZ0LW9wZW5haS1qZXJyeS10d29yZWs_dXRtX2NhbXBhaWduPWVtYWlsLXBvc3Qmcj0xaWVmeSZ0b2tlbj1leUoxYzJWeVgybGtJam95TlRNNE1UUXlMQ0p3YjNOMFgybGtJam94T0RVeU5UUTRNakFzSW1saGRDSTZNVGMyT0RrNU56RXpNQ3dpWlhod0lqb3hOemN4TlRnNU1UTXdMQ0pwYzNNaU9pSndkV0l0TXpJd09UazJJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS53Sktfc2NjNnA5TnhNUzhtZ2VUcHhkaGt2S3NTRUg4d3hHam5VYmdsSXM0IiwicCI6MTg1MjU0ODIwLCJzIjozMjA5OTYsImYiOmZhbHNlLCJ1IjoyNTM4MTQyLCJpYXQiOjE3Njg5OTcxMzAsImV4cCI6MjA4NDU3MzEzMCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.5uq0KvcmTUR8uA6n9yVeSJtdPdBVVFyRiu371smSEOQ?) offered a contrasting AI narrative through Jerry Tworek's OpenAI departure. Tworek, who worked on reasoning technology including o1, described the company as increasingly "conservative" and suggested "the large AI companies have become conservative as a whole and that there might be bigger, better ideas to be found elsewhere."
+Mollick introduced an equation for agentic work: whether to delegate to AI depends on three variables—Human Baseline Time (how long you'd take), Probability of Success (how likely AI will deliver), and AI Process Time (cost of requesting and evaluating). With GPT-5.2 tying or beating human experts 72% of the time in OpenAI's GDPval paper, the calculation increasingly favors AI delegation—but only when paired with clear instructions, effective feedback, and good evaluation skills.
 
-[Ethan Mollick](https://www.oneusefulthing.org/p/management-as-ai-superpower) provided practical counterpoint, arguing "management as AI superpower" is emerging as the key skillset. His MBA students created working startup prototypes in four days—work that would have taken "an order of magnitude" longer pre-AI. The insight: "the key to success was actually... telling the AI what you want."
+[Scott Werner](https://worksonmymachine.ai/p/the-different-shapes-of-think-before) complemented this with a whimsical but substantive exploration of "think before you build" prompting techniques through the allegory of a beaver consulting an Oracle. He outlined five approaches: Deductive (articulate principles first), Inductive (show examples, trust pattern recognition), Abductive (extract explicit principles from examples), Contrapositive (define failure modes to avoid), and DSL Scaffolding (build a language for the problem domain).
 
-### 2. The Bureaucratic Machine
-**Coverage:** [The Whirl of ReOrientation](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems), [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring)
+> "The Oracle knows how to build. But it doesn't always know how it knows. When you ask it to build and figure out quality at the same time, things get confused." — [Scott Werner](https://worksonmymachine.ai/p/the-different-shapes-of-think-before)
 
-[The Whirl of ReOrientation](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems) published a blistering satirical memo "The Status Quo Machine," written as instructions to "Guardians of Decay" on maintaining corporate control through performative values, consultant validation, and complexity theater:
+Both perspectives converge on a crucial insight: AI delegation isn't about clever prompts but about translating domain expertise into clear specifications—essentially reinventing management for artificial teammates.
 
-> "Networks are only for speeches. Power lives in the corporate ladder... In public, talk like you've just discovered networks... In practice, do everything you can to preserve the hierarchy." — [The Whirl of ReOrientation](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems)
+### 2. The Creator Economy's Hidden Costs
 
-[Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring) applied similar analysis to fashion's "Slow Clothes" movement, examining the paradox that "anti-fashion labels, while remaining small, have now become inarguably fashionable: The 'anti-trend' ethos is, for the time being, extremely on trend." The piece grapples with whether genuine resistance can exist or whether market forces inevitably co-opt authenticity.
+**Coverage:** [Olga](https://dataanalysis.substack.com/p/celebrating-300th-newsletter), [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring)
 
-### 3. Canada's Assisted Suicide Crisis
-**Coverage:** [The Free Press](https://substack.com/redirect/a88c2fc6-ed03-46aa-9ae0-eaffd0a55088?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
+[Olga](https://dataanalysis.substack.com/p/celebrating-300th-newsletter) marked her 300th newsletter with brutal honesty about the realities of consistent creation. After five years of weekly publishing without missing a single issue, reaching 30K readers and 60K monthly views, she distilled ten hard-won lessons that challenge the "content creator" mythology.
 
-[The Free Press](https://substack.com/redirect/a88c2fc6-ed03-46aa-9ae0-eaffd0a55088?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) published Yuan Yi Zhu's devastating "Determined to Die" investigation about 26-year-old Kiano Vafaeian, killed through Canada's MAID program despite not being terminally ill. Canada now has 5.1% of all deaths (16,499 in 2024) through assisted suicide. The fastest-growing category isn't cancer or specific illness but "other"—nearly doubling to 4,255 deaths in 2023, representing 28% of all assisted suicides.
+> "Imagine writing on a deadline every week for 5 years without sick days, vacations, holidays, work deadlines, or anything else getting in the way. You have to really love what you do and truly believe in the mission you're on." — [Olga](https://dataanalysis.substack.com/p/celebrating-300th-newsletter)
 
-> "MAID opens the door to young people who are struggling. Where normally the healthcare system would have insisted there is hope, some physicians now say: If that's how you feel, I'm here to help you end your life." — Trudo Lemmens, quoted in [The Free Press](https://substack.com/redirect/a88c2fc6-ed03-46aa-9ae0-eaffd0a55088?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
+Her most counterintuitive insights: "Quantity over quality doesn't work anymore" (with 45,000+ data writers on Substack, only high-value evergreen content sustains growth), newsletters build credibility but not instant leads (90% of her consulting came from referrals, not newsletter readers), and the audience changes predictably in waves (0-100 = inner circle, 100-1K = students, 1K-10K = builders, 10K+ = senior practitioners).
 
-Dr. Ellen Wiebe, who has performed over 500 assisted deaths, describes it as "the best work I've ever done" and told Zhu: "Just because it's worth living for somebody who is blind doesn't mean life is worth living for someone else who is blind."
+The operational burden surprised her: "90% of writing is research," and paid subscriptions bring "taxes, invoicing, refund requests, group subscriptions, and general support" that consume unexpected hours. Yet she advises going paid early: "After I went paid (and upgraded the content), open rates increased, the same posts received more reads, the newsletter was taken more seriously, and, most importantly, I took it more seriously."
 
-### 4. Deep Reading and Philosophical Time
-**Coverage:** [Jeremy D Johnson](https://jeremydjohnson.substack.com/p/reclaiming-time-for-deep-reading), [Molly Young](https://mollyyoung.substack.com/p/so-you-think-you-can-read-x), [Steven Johnson](https://adjacentpossible.substack.com/p/the-wetlands-interregnum)
+### 3. Fashion's Authenticity Crisis: The "Slow Clothes" Paradox
 
-[Jeremy D Johnson](https://jeremydjohnson.substack.com/p/reclaiming-time-for-deep-reading) made an impassioned case for "reclaiming time for deep reading" through Jean Gebser's philosophical masterwork, arguing that meaning-making requires "a special, paradoxical kind of time—at once deliberate and unintentional":
+**Coverage:** [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring), [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-lo-fi-mark-of-a-real-one)
 
-> "These times call for us to turn towards meaning, not mechanism. We need to make the choice to reclaim time from relentless algorithmic capture." — [Jeremy D Johnson](https://jeremydjohnson.substack.com/p/reclaiming-time-for-deep-reading)
+[Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring) tackled fashion's existential contradiction: brands that rejected trend cycles and artificial scarcity have become inarguably trendy. In a sweeping 6,000+ word essay, they documented how "Slow Clothes"—small independent makers focused on craft, natural fabrics, and anti-fashion principles—reached critical mass and now face the corrupting forces of their own success.
 
-He points to a "quiet renaissance" in para-academic reading communities where "voluntary seriousness" replaces credential-seeking. Gebser's work on integral consciousness offers tools for "inhabiting the tensions of the ecological 'middle'" between catastrophe and metamorphosis.
+> "The contradiction here, of course, is that these putatively anti-fashion labels, while remaining small, have now become inarguably fashionable: The 'anti-trend' ethos is, for the time being, extremely on trend." — [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring)
 
-[Molly Young](https://mollyyoung.substack.com/p/so-you-think-you-can-read-x) echoed this through book recommendations, praising Iris Murdoch and Akimitsu Takagi. [Steven Johnson](https://adjacentpossible.substack.com/p/the-wetlands-interregnum) explored how declassified CIA Corona satellite imagery revolutionized understanding of ancient Mesopotamia's wetlands ecology.
+The piece opens with Minneapolis ICE nurse Alex Pretti's killing and memorial donations, then pivots to analyzing how lines like Auralee, Comoli, Evan Kinori, and Lemaire—once niche artisan projects—now dominate fashion discourse. They face two threats: supply-side carpetbaggers (Zara creating fake artisan stores, H&M pushing "H&M Atelier") and demand-side newcomers misunderstanding the appeal as IYKYK status signaling.
 
-### 5. Technical Innovation and Philosophy
-**Coverage:** [Contraptions](https://contraptions.venkateshrao.com/p/robot-auras), [Scott Werner](https://worksonmymachine.ai/p/what-if-we-took-message-passing-seriously), [Core Memory](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC90aGUtYWJ5c3Mtb3BlbnMtZm9yLWJ1c2luZXNzLWltcG9zc2libGUtbWV0YWxzP3V0bV9jYW1wYWlnbj1lbWFpbC1wb3N0JnI9MWllZnkmdG9rZW49ZXlKMWMyVnlYMmxrSWpveU5UTTRNVFF5TENKd2IzTjBYMmxrSWpveE9EVTROVE14TnpVc0ltbGhkQ0k2TVRjMk9UUTBOREUzT0N3aVpYaHdJam94TnpjeU1ETTJNVGM0TENKcGMzTWlPaUp3ZFdJdE16SXdPVGsySWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWU55bTh3YjlBb0daVHotc3B5cjJTMGdKd2s4SEV1UnppWHF4VjVsdDlMdyIsInAiOjE4NTg1MzE3NSwicyI6MzIwOTk2LCJmIjpmYWxzZSwidSI6MjUzODE0MiwiaWF0IjoxNzY5NDQ0MTc4LCJleHAiOjIwODUwMjAxNzgsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.JXw3k5ltN2qPLTQ_T-X_QpcgC3v0DJ6r-nfvYU2_6yg?)
+The essay's most provocative claim: good clothes have become seductive not as mere symbols but as "Things in Themselves." In 2026, "we have grown unprecedentedly tired and mistrustful of the World of Symbols and Signs. We want to engage, instead, with the World of Things in Themselves." The emphasis on natural dyes, visible construction, and "interior seams that no one else knows are there but you" offers an off-ramp from the anxiety of symbolic consumption—but only if practitioners resist collapsing into their own "earth-toned morass of marketing buzzwords."
 
-[Venkatesh Rao](https://contraptions.venkateshrao.com/p/robot-auras) proposed "robot auras"—visual affect displays inspired by Iain M. Banks's Culture novels—as alternatives to anthropomorphic design. Rather than cute googly eyes or realistic biomorphism, Rao suggests color-coded kinematic states communicating robot internal states "from first principles."
+### 4. Political Violence and Institutional Breakdown
 
-[Scott Werner](https://worksonmymachine.ai/p/what-if-we-took-message-passing-seriously) built `prompt_objects`, a Ruby gem treating AI agents as Smalltalk-inspired objects communicating via natural language message passing—"Kay's 'late binding' pushed to an extreme" where semantic binding happens entirely at runtime.
+**Coverage:** [The Free Press](https://substack.com/redirect/44dbf5dc-05d0-47b8-be3b-460e0ca56ae9?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [The Free Press](https://substack.com/redirect/2c86172c-0a50-4190-9e12-451a9de4697e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [The Free Press](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [The Free Press](https://substack.com/redirect/7901fc4a-41ab-4066-b397-85daab120ab1?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
-[Core Memory](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC90aGUtYWJ5c3Mtb3BlbnMtZm9yLWJ1c2luZXNzLWltcG9zc2libGUtbWV0YWxzP3V0bV9jYW1wYWlnbj1lbWFpbC1wb3N0JnI9MWllZnkmdG9rZW49ZXlKMWMyVnlYMmxrSWpveU5UTTRNVFF5TENKd2IzTjBYMmxrSWpveE9EVTROVE14TnpVc0ltbGhkQ0k2TVRjMk9UUTBOREUzT0N3aVpYaHdJam94TnpjeU1ETTJNVGM0TENKcGMzTWlPaUp3ZFdJdE16SXdPVGsySWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWU55bTh3YjlBb0daVHotc3B5cjJTMGdKd2s4SEV1UnppWHF4VjVsdDlMdyIsInAiOjE4NTg1MzE3NSwicyI6MzIwOTk2LCJmIjpmYWxzZSwidSI6MjUzODE0MiwiaWF0IjoxNzY5NDQ0MTc4LCJleHAiOjIwODUwMjAxNzgsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.JXw3k5ltN2qPLTQ_T-X_QpcgC3v0DJ6r-nfvYU2_6yg?) investigated deep-sea mining's ethical complexities through Impossible Metals' crab-like autonomous vehicles designed to harvest polymetallic nodules with minimal sediment disruption.
+[The Free Press](https://substack.com/redirect/44dbf5dc-05d0-47b8-be3b-460e0ca56ae9?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) documented the Trump administration's tactical retreat after border patrol killed ICE nurse Alex Pretti in Minneapolis. After initial inflammatory rhetoric labeling Pretti a "domestic terrorist," the administration reversed course when criticism emerged even from traditional supporters. Border patrol chief Greg Bovino was demoted, border czar Tom Homan dispatched to Minneapolis, and Trump claimed "very good" conversations with Minnesota officials he'd recently accused of "inciting insurrection."
 
-### 6. Strategic Thinking and Decision-Making
-**Coverage:** [The Whirl of ReOrientation](https://thewhirl.substack.com/p/stein-network-centric-warfare-trust-mission-command-ooda), [The Whirl of ReOrientation](https://thewhirl.substack.com/p/presence-that-works-in-real-life-acc), [The Whirl of ReOrientation](https://thewhirl.substack.com/p/john-boyd-99th-birthday-real-ooda-orientation-destruction-creation)
+By Wednesday, [The Free Press](https://substack.com/redirect/2c86172c-0a50-4190-9e12-451a9de4697e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) reported Minneapolis protesters sensing victory: "They messed with the wrong city," realtor Mary Irene Slatt declared, while Kevyn Burger noted, "They will never say we won, but we know it." The incident's political fallout extended to Senator Fetterman asking Trump to fire DHS Secretary Kristi Noem, writing "Americans have died. She is betraying DHS's core mission."
 
-Multiple [Whirl of ReOrientation](https://thewhirl.substack.com/p/john-boyd-99th-birthday-real-ooda-orientation-destruction-creation) pieces celebrated John Boyd's 99th birthday, emphasizing that his OODA framework is fundamentally about "Orientation" not speed. Col. Frederick P. Stein discussed network-centric warfare as reorganizing around "shared awareness, clearer intent, and the courage to push decisions to the edge."
+Meanwhile, [The Free Press](https://substack.com/redirect/7901fc4a-41ab-4066-b397-85daab120ab1?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) published a harrowing firsthand account from Iran's crushed protests. An anonymous source (called Ali) who fled Iran described regime forces using machine guns and shotguns to massacre protesters—many shot in the back while fleeing. The Human Rights Activists News Agency confirmed 6,126 deaths with 17,000+ under investigation.
 
-### 7. Political Turbulence and Institutional Breakdown
-**Coverage:** [The Free Press](https://substack.com/redirect/ad401c49-11e1-4540-9ac0-d709452a537b?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8), [The Free Press](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
+> "This was not about keeping back crowds. This was about killing as many people as possible." — Ali, Iranian protester, via [The Free Press](https://substack.com/redirect/7901fc4a-41ab-4066-b397-85daab120ab1?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
 
-[The Free Press](https://substack.com/redirect/ad401c49-11e1-4540-9ac0-d709452a537b?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) profiled Bill Pulte, the "Little Trump" waging war on the Federal Reserve from his position at the Federal Housing Finance Agency. Sources describe him as "bull in a china shop" and "dictator" who allegedly used his position to get mortgage information on Trump's political enemies.
+The regime's brutality extended beyond killing: families forced to pay thousands for bodies (the "bullet price"), corpses stolen from graves and paraded in garbage trucks before mass burial. One elderly woman at the protests responded to Ali's praise of her bravery: "We have only one life. Let them take mine. They have already taken everything else."
 
-[Glenna Goldis](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) wrote about being fired by New York AG Letitia James for opposing pediatric gender medicine. Despite four years of work, she was terminated for "disruptive public speech" after repeatedly expressing concerns about chemical and surgical interventions for minors.
+In another institutional breakdown story, [The Free Press](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) published Glenna Goldis's account of being fired by New York Attorney General Letitia James for publicly opposing pediatric gender medicine. As a lesbian consumer fraud attorney, Goldis spent years researching what she viewed as deceptive medical practices, writing 60 blog essays, and speaking at the FTC—activities that led to interrogations, speech restrictions, and ultimately termination for "disruptive public speech."
 
-> "I chose progressive lawyering as my career because I wanted to fight for vulnerable people. It's ironic that my career on the left may be over because I did exactly that." — [Glenna Goldis](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8)
+### 5. The Psychology of Suffering as Identity
 
-### 8. Quirky Cultural Observations
-**Coverage:** [Core Memory](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC9tYWtpbmctcGVubmllcy1pbnRvLW1vbmV5LWFnYWluP3V0bV9jYW1wYWlnbj1lbWFpbC1wb3N0JnI9MWllZnkmdG9rZW49ZXlKMWMyVnlYMmxrSWpveU5UTTRNVFF5TENKd2IzTjBYMmxrSWpveE9EVTFORFkyTURRc0ltbGhkQ0k2TVRjMk9URTRPRE16TWl3aVpYaHdJam94TnpjeE56Z3dNek15TENKcGMzTWlPaUp3ZFdJdE16SXdPVGsySWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWjg4MWREVWx1TUV4cFdNdUszRGgydVVaT1Nrc1ZFZlNFVm9tSkJRRTZQdyIsInAiOjE4NTU0NjYwNCwicyI6MzIwOTk2LCJmIjpmYWxzZSwidSI6MjUzODE0MiwiaWF0IjoxNzY5MTg4MzMyLCJleHAiOjIwODQ3NjQzMzIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.AZgcy5qVNbrbAGAuJ3zoy51HQ7uUF9we8Ad9NBnjDPE?), [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/home-goods-guide-the-finale)
+**Coverage:** [Tamara](https://museguided.substack.com/p/the-seduction-of-suffering)
 
-[Core Memory](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC9tYWtpbmctcGVubmllcy1pbnRvLW1vbmV5LWFnYWluP3V0bV9jYW1wYWlnbj1lbWFpbC1wb3N0JnI9MWllZnkmdG9rZW49ZXlKMWMyVnlYMmxrSWpveU5UTTRNVFF5TENKd2IzTjBYMmxrSWpveE9EVTFORFkyTURRc0ltbGhkQ0k2TVRjMk9URTRPRE16TWl3aVpYaHdJam94TnpjeE56Z3dNek15TENKcGMzTWlPaUp3ZFdJdE16SXdPVGsySWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWjg4MWREVWx1TUV4cFdNdUszRGgydVVaT1Nrc1ZFZlNFVm9tSkJRRTZQdyIsInAiOjE4NTU0NjYwNCwicyI6MzIwOTk2LCJmIjpmYWxzZSwidSI6MjUzODE0MiwiaWF0IjoxNzY5MTg4MzMyLCJleHAiOjIwODQ3NjQzMzIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.AZgcy5qVNbrbAGAuJ3zoy51HQ7uUF9we8Ad9NBnjDPE?) delighted readers with three Bay Area tech founders who bought one million pennies ($10,000) and backed a cryptocurrency called CENT as "an over-collateralized stable memecoin." The broker was a 60-year-old who "pounds Miller Lights."
+[Tamara](https://museguided.substack.com/p/the-seduction-of-suffering) delivered Week 05's most philosophically ambitious piece: a 5,000+ word meditation on why suffering becomes seductive when it confirms identities we're not ready to abandon. Using Catherine from Wuthering Heights as her anchor, she argued that we don't undergo suffering passively—we inhabit it, protect it, and organize expectations around it until it acquires "the status of an interpretive instrument rather than an experience."
 
-[Blackbird Spyplane](https://www.blackbirdspyplane.com/p/home-goods-guide-the-finale) completed their home goods guide with intel on shower curtains, ceramics, dish-drying racks, and undyed sheep's wool rugs.
+> "Suffering becomes seductive when it offers identity without risk. When it allows you to remain someone without becoming someone new. When it spares you the terror of desire returning." — [Tamara](https://museguided.substack.com/p/the-seduction-of-suffering)
+
+The essay's core thesis: pain explains us better than desire, which makes it dangerously comfortable. "I used to wake up already tired, the fatigue arriving in advance of the day itself, carried by the certainty of how it would unfold. Memory before tea. Longing before noon. Silence dressed up as depth." Healing threatens this structure because it's destabilizing—"Who are you without the wound?"
+
+Tamara identified suffering's social functions: moral exemption ("People expect less of you"), aesthetic distinction (art rewards "the artist who bleeds onto the page"), and narrative coherence (explaining your hesitation, distance, and refusal to risk). The unfinished relationship becomes an "emotional reliquary" you revisit to preserve "a sort of ache that reassures you you are still alive."
+
+> "Sometimes we don't want closure because closure would expose how much of the story was carried by us alone." — [Tamara](https://museguided.substack.com/p/the-seduction-of-suffering)
+
+Her most unsettling observation: "Uncertainty is far more destabilising than grief. Grief at least has contours. It gives the day a tone. You wake up knowing how you will feel. There is grim relief in that." The piece ends without resolution, only "the unremarkable decision to let a story end even if it once explained everything."
+
+### 6. Science, Strategy, and Systems Thinking
+
+**Coverage:** [Core Memory](https://www.corememory.com/p/the-present-and-future-of-gene-editing-jennifer-doudna-crispr), [The Whirl of ReOrientation](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems), [The Whirl of ReOrientation](https://thewhirl.substack.com/p/angus-fletcher-narrative-intelligence-ooda-commanders-intent-red-teaming-truth-psyop), [News Minimalist](https://newsletter.newsminimalist.com/p/india-and-eu-reach-a-free-trade-deal-representing-a-third-of-global-trade-11-more-stories)
+
+[Core Memory](https://www.corememory.com/p/the-present-and-future-of-gene-editing-jennifer-doudna-crispr) featured Nobel Prize winner Jennifer Doudna discussing CRISPR's present and future. While CRISPR therapies like Casgevy (treating sickle cell disease) represent breakthroughs, Doudna acknowledged the technology "has, in many ways, not lived up to the hope and hype just yet"—therapies remain expensive and difficult to distribute throughout the body. She's convinced major breakthroughs are imminent.
+
+[The Whirl of ReOrientation](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems) published a satirical "leaked memo from the Guardians of Decay"—corporate operating instructions for maintaining the status quo. The piece skewered how organizations preserve hierarchies while paying lip service to networks, protect quarterly numbers while sacrificing people ("People grow back"), display values on walls while fostering fear, and use consultants to "turn your hunches into inevitabilities."
+
+> "You can run a company like this for a very long time. It might even last a lot longer than you might think. You'll see the building continue to fill with people every morning, many who once believed they were there to do work that actually mattered." — [The Whirl of ReOrientation](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems)
+
+In a companion piece, [The Whirl](https://thewhirl.substack.com/p/angus-fletcher-narrative-intelligence-ooda-commanders-intent-red-teaming-truth-psyop) interviewed Angus Fletcher on applying Boyd's OODA loop with storytelling. Fletcher's key insight: "the human brain isn't a calculator but a story engine built for action under uncertainty." He argued intuition isn't pattern-matching but "detecting exceptional information, the mismatch that signals new opportunity," and that planning's value is "training the planner" rather than producing rigid plans.
+
+[News Minimalist](https://newsletter.newsminimalist.com/p/india-and-eu-reach-a-free-trade-deal-representing-a-third-of-global-trade-11-more-stories) provided AI-curated global news: India-EU free trade agreement (representing a third of global trade), Doomsday Clock moved to 85 seconds before midnight, AI discovering 1,400 cosmic anomalies in Hubble data, OpenAI launching ChatGPT Prism with GPT-5.2, and gold prices reaching record highs.
+
+### 7. Design, Typography, and Craft
+
+**Coverage:** [Beth Mathews](https://bethmathews.substack.com/p/3-things-i-learned-from-a-vintage), [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-lo-fi-mark-of-a-real-one)
+
+[Beth Mathews](https://bethmathews.substack.com/p/3-things-i-learned-from-a-vintage) explored lessons from a 1950s Trust-Franklin Press Type Specimen Book purchased on eBay. She highlighted Bank Script (created 1895, used in banking documents for over a century) and examined the point system notation—"an early look at the point system. The same one we use today for typeface sizes. The point system comes from metal type, where each size was a physically different block of metal."
+
+[Blackbird Spyplane](https://www.blackbirdspyplane.com/p/the-lo-fi-mark-of-a-real-one) published "The Lo-fi Mark of a Real One," advocating for makers who run "extremely Lo-fi sites" as a trust signal. The piece explored "building a sustained relationship with your clothes over time" and the "strange pleasure of digging something back out and re-encountering a once-familiar part of yourself you'd put on hiatus."
 
 ---
 
 ## Cross-Newsletter Patterns
 
-### Institutional Decay vs. Human Agency
+### The Delegation Dilemma
 
-The dominant pattern was examining how institutions—government, corporate, medical—exert control undermining individual autonomy:
+Three newsletters explored different dimensions of effective delegation: [Ethan Mollick](https://www.oneusefulthing.org/p/management-as-ai-superpower) to AI agents, [Scott Werner](https://worksonmymachine.ai/p/the-different-shapes-of-think-before) to oracles/LLMs, and [The Whirl](https://thewhirl.substack.com/p/angus-fletcher-narrative-intelligence-ooda-commanders-intent-red-teaming-truth-psyop) via Commander's Intent. All converged on the insight that clarity of intent and evaluation capacity matter more than clever techniques. Mollick: "management 101 skills." Werner: "make the Oracle say what good is, out loud, before you make it do good." Fletcher: "Commander's Intent gives the ending and protects agency."
 
-- [Brian Merchant](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai) and [The Free Press](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) documented government overreach (AI policy, gender medicine)
-- [The Whirl of ReOrientation](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems) and [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring) exposed bureaucratic and market co-optation
-- [The Free Press](https://substack.com/redirect/a88c2fc6-ed03-46aa-9ae0-eaffd0a55088?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) revealed how medical systems facilitate death over life
+### Authenticity Under Pressure
 
-### The Return to Fundamentals
+[Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring), [Olga](https://dataanalysis.substack.com/p/celebrating-300th-newsletter), and [Tamara](https://museguided.substack.com/p/the-seduction-of-suffering) all grappled with how authenticity gets corrupted or performative. Slow Clothes brands face carpetbaggers and status-seekers. Newsletter creators face the "quantity over quality" treadmill and burnout. Suffering becomes "curated" and gains "social signature." The pattern: what starts as genuine response to need becomes legible, gains currency, then attracts extractive or performative engagement that hollows out the original value.
 
-Multiple newsletters advocated first principles thinking:
+### Institutional Decay and Capture
 
-- [Jeremy D Johnson](https://jeremydjohnson.substack.com/p/reclaiming-time-for-deep-reading) on deep reading as meaning-making
-- [Scott Werner](https://worksonmymachine.ai/p/what-if-we-took-message-passing-seriously) on Smalltalk's message-passing for AI
-- [Venkatesh Rao](https://contraptions.venkateshrao.com/p/robot-auras) on robot affect displays from scratch
-- [The Whirl of ReOrientation](https://thewhirl.substack.com/p/john-boyd-99th-birthday-real-ooda-orientation-destruction-creation) on Boyd's authentic OODA framework
+[The Free Press](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) on speech suppression in NY AG's office, [The Whirl](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems) on corporate status quo machines, and both [Free Press](https://substack.com/redirect/44dbf5dc-05d0-47b8-be3b-460e0ca56ae9?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) pieces on Minneapolis and Iran documented systems prioritizing self-preservation over mission. Whether through "outside activities" policies silencing dissent, consultants validating hunches as "best practices," or state violence crushing protests, the pattern repeats: institutions that lose connection to purpose become defensive, performative, and eventually predatory toward those who remember the original mission.
 
-### Technology as Double-Edged Sword
+### The Tyranny of Legibility
 
-AI emerged as both liberating tool and instrument of control:
-
-- [Ethan Mollick](https://www.oneusefulthing.org/p/management-as-ai-superpower): AI enables unprecedented productivity
-- [Brian Merchant](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai): Federal government weaponizes AI for dominance
-- [Core Memory](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC9oZS1sZWZ0LW9wZW5haS1qZXJyeS10d29yZWs_dXRtX2NhbXBhaWduPWVtYWlsLXBvc3Qmcj0xaWVmeSZ0b2tlbj1leUoxYzJWeVgybGtJam95TlRNNE1UUXlMQ0p3YjNOMFgybGtJam94T0RVeU5UUTRNakFzSW1saGRDSTZNVGMyT0RrNU56RXpNQ3dpWlhod0lqb3hOemN4TlRnNU1UTXdMQ0pwYzNNaU9pSndkV0l0TXpJd09UazJJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS53Sktfc2NjNnA5TnhNUzhtZ2VUcHhkaGt2S3NTRUg4d3hHam5VYmdsSXM0IiwicCI6MTg1MjU0ODIwLCJzIjozMjA5OTYsImYiOmZhbHNlLCJ1IjoyNTM4MTQyLCJpYXQiOjE3Njg5OTcxMzAsImV4cCI6MjA4NDU3MzEzMCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.5uq0KvcmTUR8uA6n9yVeSJtdPdBVVFyRiu371smSEOQ?): AI researcher leaves OpenAI because it's "too conservative"
-
----
-
-## Notable Quotes
-
-> "The mirage of AI deregulation obscures this truth. Power has not retreated. It has moved—and democratic accountability requires following it there." — Alondra Nelson, quoted in [Brian Merchant](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai)
-
-> "A culture that admits to having no time admits to having no meaning. No soul." — [Jeremy D Johnson](https://jeremydjohnson.substack.com/p/reclaiming-time-for-deep-reading)
-
-> "Guardians of Decay do not need to win arguments. They need to make everyone else confused, isolated, and too tired to keep fighting." — [The Whirl of ReOrientation](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems)
-
-> "The most potent meaning does in fact reside in their warp and in their weft, in the interior seams that no one else knows are there but you, in their palpable connection to the earth that grew them and to the hands that made them." — [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring)
+Multiple newsletters highlighted how making things legible—to algorithms, markets, or status games—distorts their nature. [Tamara](https://museguided.substack.com/p/the-seduction-of-suffering): "The danger is when [suffering] becomes legible in a way that life no longer is." [Blackbird Spyplane](https://www.blackbirdspyplane.com/p/are-good-clothes-boring): slow clothes becoming fashionable creates "the same market obstacle any trend faces once it reaches critical mass: customer fatigue." [Olga](https://dataanalysis.substack.com/p/celebrating-300th-newsletter): "Your audience isn't you"—what's obvious in your bubble requires translation, but translation risks oversimplification. The more something succeeds by being understood, the more it must compromise the complexity that made it valuable.
 
 ---
 
 ## Sources
 
-- [What Trump Really Wants with AI](https://bloodinthemachine.substack.com/p/what-trump-really-wants-with-ai) — Brian Merchant
-- [The Lines Have Been Drawn](https://bloodinthemachine.substack.com/p/the-lines-have-been-drawn) — Brian Merchant
-- [Management as AI Superpower](https://www.oneusefulthing.org/p/management-as-ai-superpower) — Ethan Mollick from One Useful Thing
-- [He Left OpenAI To Think Bigger](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC9oZS1sZWZ0LW9wZW5haS1qZXJyeS10d29yZWs_dXRtX2NhbXBhaWduPWVtYWlsLXBvc3Qmcj0xaWVmeSZ0b2tlbj1leUoxYzJWeVgybGtJam95TlRNNE1UUXlMQ0p3YjNOMFgybGtJam94T0RVeU5UUTRNakFzSW1saGRDSTZNVGMyT0RrNU56RXpNQ3dpWlhod0lqb3hOemN4TlRnNU1UTXdMQ0pwYzNNaU9pSndkV0l0TXpJd09UazJJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS53Sktfc2NjNnA5TnhNUzhtZ2VUcHhkaGt2S3NTRUg4d3hHam5VYmdsSXM0IiwicCI6MTg1MjU0ODIwLCJzIjozMjA5OTYsImYiOmZhbHNlLCJ1IjoyNTM4MTQyLCJpYXQiOjE3Njg5OTcxMzAsImV4cCI6MjA4NDU3MzEzMCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.5uq0KvcmTUR8uA6n9yVeSJtdPdBVVFyRiu371smSEOQ?) — Core Memory
-- [Making Pennies Into Money Again](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC9tYWtpbmctcGVubmllcy1pbnRvLW1vbmV5LWFnYWluP3V0bV9jYW1wYWlnbj1lbWFpbC1wb3N0JnI9MWllZnkmdG9rZW49ZXlKMWMyVnlYMmxrSWpveU5UTTRNVFF5TENKd2IzTjBYMmxrSWpveE9EVTFORFKYTU5Rc0ltbGhkQ0k2TVRjMk9URTRPRE16TWl3aVpYaHdJam94TnpjeE56Z3dNek15TENKcGMzTWlPaUp3ZFdJdE16SXdPVGsySWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWjg4MWREVWx1TUV4cFdNdUszRGgydVVaT1Nrc1ZFZlNFVm9tSkJRRTZQdyIsInAiOjE4NTU0NjYwNCwicyI6MzIwOTk2LCJmIjpmYWxzZSwidSI6MjUzODE0MiwiaWF0IjoxNzY5MTg4MzMyLCJleHAiOjIwODQ3NjQzMzIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.AZgcy5qVNbrbAGAuJ3zoy51HQ7uUF9we8Ad9NBnjDPE?) — Core Memory
-- [The Abyss Opens For Business](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuY29yZW1lbW9yeS5jb20vcC90aGUtYWJ5c3Mtb3BlbnMtZm9yLWJ1c2luZXNzLWltcG9zc2libGUtbWV0YWxzP3V0bV9jYW1wYWlnbj1lbWFpbC1wb3N0JnI9MWllZnkmdG9rZW49ZXlKMWMyVnlYMmxrSWpveU5UTTRNVFF5TENKd2IzTjBYMmxrSWpveE9EVTROVE14TnpVc0ltbGhkQ0k2TVRjMk9UUTBOREUzT0N3aVpYaHdJam94TnpjeU1ETTJNVGM0TENKcGMzTWlPaUp3ZFdJdE16SXdPVGsySWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWU55bTh3YjlBb0daVHotc3B5cjJTMGdKd2s4SEV1UnppWHF4VjVsdDlMdyIsInAiOjE4NTg1MzE3NSwicyI6MzIwOTk2LCJmIjpmYWxzZSwidSI6MjUzODE0MiwiaWF0IjoxNzY5NDQ0MTc4LCJleHAiOjIwODUwMjAxNzgsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.JXw3k5ltN2qPLTQ_T-X_QpcgC3v0DJ6r-nfvYU2_6yg?) — Core Memory
-- [Reclaiming Time for Deep Reading](https://jeremydjohnson.substack.com/p/reclaiming-time-for-deep-reading) — Jeremy D Johnson from Mutations
-- [So You Think You Can Read X](https://mollyyoung.substack.com/p/so-you-think-you-can-read-x) — Molly Young
-- [The Wetlands Interregnum](https://adjacentpossible.substack.com/p/the-wetlands-interregnum) — Steven Johnson from Adjacent Possible
-- [Are Good Clothes Boring?](https://www.blackbirdspyplane.com/p/are-good-clothes-boring) — Blackbird Spyplane
-- [Home Goods Guide: The Finale](https://www.blackbirdspyplane.com/p/home-goods-guide-the-finale) — Blackbird Spyplane
-- [The Lo-fi Mark of a Real One](https://www.blackbirdspyplane.com/p/the-lo-fi-mark-of-a-real-one) — Blackbird Spyplane
-- [Robot Auras](https://contraptions.venkateshrao.com/p/robot-auras) — Contraptions
-- [What If We Took Message-Passing Seriously?](https://worksonmymachine.ai/p/what-if-we-took-message-passing-seriously) — Scott Werner from Works on My Machine
-- [Network Centric Warfare: OODA Loop and Creating Operational Flow](https://thewhirl.substack.com/p/stein-network-centric-warfare-trust-mission-command-ooda) — The Whirl Of ReOrientation
-- [Presence That Works in Real Life](https://thewhirl.substack.com/p/presence-that-works-in-real-life-acc) — The Whirl Of ReOrientation
-- [John Boyd at 99: The Real OODA Loop](https://thewhirl.substack.com/p/john-boyd-99th-birthday-real-ooda-orientation-destruction-creation) — The Whirl Of ReOrientation
-- [The Status Quo Machine](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems) — The Whirl Of ReOrientation
-- [Determined to Die](https://substack.com/redirect/a88c2fc6-ed03-46aa-9ae0-eaffd0a55088?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) — The Free Press
-- [The Man Behind Trump's Attack on the Fed](https://substack.com/redirect/ad401c49-11e1-4540-9ac0-d709452a537b?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) — The Free Press
-- [What the Davos Crowd Gets Wrong](https://substack.com/redirect/b3089b02-2009-4f04-9b92-74edfb4a1382?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) — The Free Press
-- [I Was Fired by New York's Attorney General for Opposing Gender-Affirming Care](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) — The Free Press
-- ['Overcompensating' and Other College Feelings](https://elizabrooke.substack.com/p/overcompensating-show-college-feelings) — Eliza Brooke
-- [Designing My Own Graphic Design Workshop](https://bethmathews.substack.com/p/designing-my-own-graphic-design-workshop) — Beth Mathews
+- [3 Things I Learned from a Vintage Type Specimen Mailer I Bought on eBay](https://bethmathews.substack.com/p/3-things-i-learned-from-a-vintage) — Beth Mathews
+- [Are good clothes boring?](https://www.blackbirdspyplane.com/p/are-good-clothes-boring) — Blackbird Spyplane
+- [The Lo-fi mark of a Real One](https://www.blackbirdspyplane.com/p/the-lo-fi-mark-of-a-real-one) — Blackbird Spyplane
+- [The Present And Future Of Gene Editing - EP 54 Jennifer Doudna](https://www.corememory.com/p/the-present-and-future-of-gene-editing-jennifer-doudna-crispr) — Core Memory
+- [Management as AI superpower](https://www.oneusefulthing.org/p/management-as-ai-superpower) — Ethan Mollick from One Useful Thing
+- Daily Digest #1782 — Mailbrew (no source_url available)
+- Daily Digest #1783 — Mailbrew (no source_url available)
+- [India and EU reach a free trade deal representing a third of global trade + 11 more stories](https://newsletter.newsminimalist.com/p/india-and-eu-reach-a-free-trade-deal-representing-a-third-of-global-trade-11-more-stories) — News Minimalist
+- [Celebrating 300th Newsletter](https://dataanalysis.substack.com/p/celebrating-300th-newsletter) — Olga
+- [The Different Shapes of "Think Before You Build" Prompting](https://worksonmymachine.ai/p/the-different-shapes-of-think-before) — Scott Werner from Works on My Machine
+- Live video with Daniel Nest now: Live Q&A #1: NotebookLM — Substack (notification only, no source_url)
+- Live video with Devansh now: How to use AI to improve Heavy Industries — Substack (notification only, no source_url)
+- Live video with Devansh now: Live with Devansh — Substack (notification only, no source_url)
+- [The Seduction of Suffering](https://museguided.substack.com/p/the-seduction-of-suffering) — Tamara
+- [How Trump Officials' Rhetoric Backfired in Minnesota. Plus...](https://substack.com/redirect/44dbf5dc-05d0-47b8-be3b-460e0ca56ae9?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) — The Free Press
+- [I Was Fired by New York's Attorney General for Opposing 'Gender-Affirming Care'](https://substack.com/redirect/9a50ae8e-2328-4a2b-bb7e-09fa302813bf?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) — The Free Press
+- ['They Messed with the Wrong City.' Plus...](https://substack.com/redirect/2c86172c-0a50-4190-9e12-451a9de4697e?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) — The Free Press
+- ['This Was About Killing as Many People as Possible'](https://substack.com/redirect/7901fc4a-41ab-4066-b397-85daab120ab1?j=eyJ1IjoiMWllZnkifQ.sG3OqnkHDNZpplC0eLA9u0NYhAE4J8yHwSPDyeVA8k8) — The Free Press
+- [The Status Quo Machine: The Hidden System That Turns Real Operators Into 'Culture Problems'](https://thewhirl.substack.com/p/the-status-quo-machine-hidden-system-turns-operators-into-culture-problems) — The Whirl Of ReOrientation
+- [Battlefield to Boardroom: Applying Boyd's OODA Loop with Storytelling | Angus Fletcher](https://thewhirl.substack.com/p/angus-fletcher-narrative-intelligence-ooda-commanders-intent-red-teaming-truth-psyop) — The Whirl Of ReOrientation
