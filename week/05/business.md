@@ -1,287 +1,149 @@
-# Week 05 Business Newsletter Analysis (January 20-28, 2026)
+# Week 05 Business Newsletter Analysis (January 27 - February 2, 2026)
 
 ## Overview
 
-This week's business newsletters captured a pivotal moment in technology's evolution: the accelerating integration of AI into professional workflows alongside deep explorations of the infrastructure powering modern scale. [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built) delivered technical depth on AWS S3's engineering at extreme scale, while [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) showcased Craft Docs' rapid AI transformation. [Lenny's Newsletter](https://substack.com/app-link/post?publication_id=10845&post_id=184576103&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODQ1NzYxMDMsImlhdCI6MTc2OTM0ODMyMywiZXhwIjoxNzcxOTQwMzIzLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LlH-krJivbsNaMA8j--c0UfuMkRo78IPBBhWqRLvCF0&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) provided frameworks for diagnosing stalled growth, while [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) and [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant) offered contrarian perspectives on AI's trajectory and humanity's relationship with planetary resources. Meanwhile, [Jay Clouse](https://creatorscience.com/) documented real-time experimentation with AI assistants, and [Kevin Xu @ Interconnected](https://interconnected.blog/r/e435cd6c?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) reflected on the DeepSeek moment's anniversary.
+Week 05 marked a watershed moment in AI adoption for business and software development. The explosion of autonomous AI agents like Clawdbot (rebranded to Moltbot) dominated conversations across multiple newsletters, with [Jay Clouse](https://creatorscience.com/arbitrage), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/today-on-how-i-ai-i-gave-clawdbot), and [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) all covering the phenomenon from different angles. Meanwhile, [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/ai-algorithms) provided technical depth on AI's algorithmic improvements and their implications for AGI timelines, while [Marc Andreessen](https://substack.com/app-link/post?publication_id=10845&post_id=185338497&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODUzMzg0OTcsImlhdCI6MTc2OTY5Mzg5OCwiZXhwIjoxNzcyMjg1ODk4LCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ydSMWb4i0XAdaEP9L4mrp1e1UWc6B1N03hc6VDl2B9Y&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) offered a bullish long-term vision. A philosophical counterpoint came from [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant), who argued we should shift from "sustainable" to "abundant" thinking about resources and technology.
 
 ---
 
 ## Major Topics and Stories
 
-### 1. AWS S3: Engineering at Extreme Scale
+### 1. The Clawdbot/Moltbot Revolution: Autonomous AI Agents Go Mainstream
 
-**Coverage:** [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built)
+**Coverage:** [Jay Clouse](https://creatorscience.com/arbitrage), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/today-on-how-i-ai-i-gave-clawdbot), [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code), [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft)
 
-Gergely Orosz sat down with Mai-Lan Tomsen Bukovec, VP of Data and Analytics at AWS, for a revealing look at how one of the internet's most critical infrastructure components operates. The numbers are staggering: S3 handles hundreds of millions of transactions per second and stores over 500 trillion objects across hundreds of exabytes of data. If you stacked all of S3's tens of millions of hard drives, they would reach the International Space Station and almost back.
+This week witnessed explosive growth in interest around Clawdbot (hastily rebranded to Moltbot after an Anthropic trademark threat), an open-source AI agent that acts as a 24/7 virtual assistant. The tool dominated tech discourse, becoming the fastest-growing GitHub repository ever and generating more Google searches than established tools like Claude Code or Codex.
 
-> "At a certain scale, math has to save you. Because at a certain scale, you can't do all the combinatorics of every single edge case, but math can." — [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built)
+[Jay Clouse](https://creatorscience.com/arbitrage) documented his 48-hour deep dive into setting up Moltbot, emphasizing security considerations that many users were ignoring. He set up his agent on a separate virtual private server rather than his personal machine, treating it like hiring a new assistant: "Would you give a brand-new human assistant—someone you just hired with no background check—full access to your personal computer?" His use cases ranged from morning briefings with Oura Ring scores to automated podcast guest research and workout logging.
 
-Key technical insights include:
+[Lenny's Newsletter](https://www.lennysnewsletter.com/p/today-on-how-i-ai-i-gave-clawdbot) featured product manager Claire Hughes Johnson's experience, highlighting critical security lessons and usability challenges. She found that Clawdbot defaulted to impersonation rather than identifying itself as an assistant, and struggled with basic time concepts like setting recurring calendar events. The latency problem—where the agent goes silent while working—created a frustrating user experience compared to real-time feedback from tools like ChatGPT.
 
-**The Rust takeover:** S3 has rewritten almost every performance-critical piece of code in Rust for maximum performance and lowest latency possible. The system now has many Rust engineers focused on this ongoing optimization.
+> "Security should be your top concern. Claire created a separate user account on her laptop for Clawdbot, gave it its own email address rather than access to hers, and created a limited vault in 1Password." — [Lenny's Newsletter](https://www.lennysnewsletter.com/p/today-on-how-i-ai-i-gave-clawdbot)
 
-**Formal methods in production:** S3 uses formal methods (automated reasoning) extensively. When engineers check in code to the index subsystem, the system automatically runs formal proofs to verify the consistency model hasn't regressed.
+The creator's perspective came from [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code), which interviewed Peter Steinberger, who made over 6,600 commits in January alone. Steinberger's radical approach: "I ship code I don't read." He runs 5-10 agents simultaneously, views pull requests as "prompt requests," and has eliminated traditional code reviews in favor of architecture discussions. His workflow emphasizes planning extensively with agents before execution, then letting them run autonomously.
 
-**11 nines of durability is measured, not promised:** Auditor microservices continuously inspect every byte across the fleet. AWS can answer "What is our actual durability this week/month/year?" at any time.
+> "Managing a dev team teaches you to let go of perfectionism: a skill important when working with AI agents." — Peter Steinberger, [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code)
 
-**Scale must be to your advantage:** This core principle means engineers cannot build something where performance degrades as the service grows. Instead, systems must be designed so increased scale improves attributes—for example, the larger S3 gets, the more de-correlated workloads become, improving reliability for all users.
-
-The article notes that S3 operates on roughly 200 microservices—far fewer than Uber's 4,500+—confirming there's no single "right" way to architect distributed systems at scale.
-
----
-
-### 2. AI-First Transformation: Craft Docs' Radical Makeover
+### 2. Real-World AI Transformation: Craft Docs Goes AI-First
 
 **Coverage:** [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft)
 
-[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) delivered a stunning case study of Craft Docs—a mature startup with 1 million active users and 50,000 paying customers—completely transforming how they build software in just one month. Founder Balint Orosz spent Christmas break building "Craft Agents," a visual interface for Claude Code, and by January mandated every employee (engineers and non-engineers) adopt AI tools.
+[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) provided an extraordinary case study of Craft Docs, a mature startup with 1 million active users, completely transforming its development practices in January 2026. Founder Balint Orosz built "Craft Agents"—a visual interface for Claude Code—over the Christmas holidays, and mandated its use across the entire company.
 
-The transformation has been dramatic:
+The results were dramatic. Customer support became the heaviest user of the tool, processing tickets that previously took 20-30 minutes in just 2-3 minutes. Marketing began building websites without engineering support. HR automated Bamboo HR integrations independently. Non-technical staff built custom workflows, created new themes, and "remixed" the tool to suit their needs.
 
-**Non-engineers became power users:** Customer support, marketing, and HR adopted Craft Agents faster than engineers. Customer support built custom workflows for bug triaging, education license verification, and daily updates. Marketing builds websites without engineering support. HR automated Bamboo HR integrations.
+For engineers, the workflow changed radically:
+- Fast iteration without code reviews
+- Rejecting most external pull requests but "weaving in" their ideas as prompts
+- One-person responsibility squads handling migrations that previously took months
+- Some engineers struggled with the pace of change, with a few quitting
 
-**Engineering velocity exploded:** Difficult migrations that would have taken months now take a week. Engineers work in "one-person responsibility squads" and iterate without traditional code reviews—instead "weaving in" PR ideas without accepting them.
+> "A massive win is we have to escalate so much less often than before! Tickets which used to take 20-30 minutes to process are down to 2-3 minutes." — Peter Sajevics, CX Lead at Craft Docs, [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft)
 
-**Cultural disruption:** Some developers struggled with the rapid pace of change and even quit. The company is rethinking fundamental practices like pull requests.
+### 3. The Economics and Technology of AI Progress
 
-> "We knew we had one shot at showing users that AI is useful for them. And until we had a 'wow' moment ourselves, we would not go all-in on AI." — [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft)
+**Coverage:** [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/ai-algorithms), [Marc Andreessen](https://substack.com/app-link/post?publication_id=10845&post_id=185338497&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODUzMzg0OTcsImlhdCI6MTc2OTY5Mzg5OCwiZXhwIjoxNzcyMjg1ODk4LCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ydSMWb4i0XAdaEP9L4mrp1e1UWc6B1N03hc6VDl2B9Y&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play)
 
-The company resisted the "Copilot everywhere slop temptation" for three years, waiting until AI tools proved genuinely transformative before committing. Balint built the polished Craft Agents app in just two weeks using Claude Code and Electron—a tech stack he'd never used before.
+[Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/ai-algorithms) delivered a comprehensive technical analysis titled "The $100M Worker," explaining why tech companies are offering nine-figure compensation packages. His analysis breaks down AI improvement into three components:
 
----
+- **Hardware improvements**: 2.5x per year, leading to 100x better by 2030
+- **Investment scaling**: 2x more spending annually, totaling 32x more by 2030
+- **Algorithmic optimization**: 0.4-0.5 orders of magnitude improvement per year, translating to ~300x by 2030
 
-### 3. AI Coding Tools: From Vibe Coding to Professional Practice
+Combined, these factors suggest AI will be 3,000x better by 2030 through compute alone, with algorithmic improvements adding another massive multiplier. Pueyo detailed major "unhobblings" like chain-of-thought reasoning, mixture of experts, reinforcement learning, and distillation that have each provided 3-100x effective compute improvements.
 
-**Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude)
+> "Tech companies are trying to attract workers with over $100M compensation packages. How can this make sense? It does." — [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/ai-algorithms)
 
-[Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude) featured John Lindquist (co-founder of egghead.io) sharing advanced techniques for Claude Code and Cursor that move beyond "vibe coding" to professional practice. The episode emphasized that context beats clever prompting:
+[Marc Andreessen](https://substack.com/app-link/post?publication_id=10845&post_id=185338497&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODUzMzg0OTcsImlhdCI6MTc2OTY5Mzg5OCwiZXhwIjoxNzcyMjg1ODk4LCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ydSMWb4i0XAdaEP9L4mrp1e1UWc6B1N03hc6VDl2B9Y&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) provided the bullish investor perspective on Lenny's podcast, arguing "the real AI boom hasn't even started yet." He emphasized AI's arrival as perfectly timed to counter demographic collapse and declining productivity, dismissed panic about job displacement as "totally off base," and advocated for continuing to learn coding despite AI capabilities. His focus on building "E-shaped" careers that combine multiple skills with AI as a force multiplier resonated with the week's practical demonstrations of AI augmentation.
 
-> "Most engineers focus on prompting but neglect providing rich context about how their application works. Mermaid diagrams in markdown files can compress your application flow into a format that's easy for AI to understand." — [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude)
-
-Key techniques covered:
-
-**The "append system prompt" command is severely underused:** This powerful command lets you inject context before any user interaction begins. By combining it with file reading commands like `cat`, you can load entire directories of documentation and diagrams into Claude's context.
-
-**Use stop hooks to automate quality checks:** Claude Code's hooks feature can run scripts when the AI stops generating content, automatically checking for TypeScript errors or linting issues and feeding errors back to Claude to fix. You can even set up conditional commits when code passes all checks.
-
-**Create aliases for common commands:** Shell aliases like `cdi` for loading diagrams or `x` for dangerous mode dramatically speed up workflow.
-
-**This is the era of the file type:** Mermaid diagrams, which are difficult for humans to parse, are perfect for machines. Consider what file formats compress information best for AI consumption.
-
-**Planning modes have dramatically reduced AI drift:** Recent planning features force AI to think through solutions before implementing, preventing common problems of AI going in unintended directions.
-
----
-
-### 4. AI Assistants in the Wild: 48 Hours with Molt.bot
-
-**Coverage:** [Jay Clouse](https://creatorscience.com/)
-
-[Jay Clouse](https://creatorscience.com/) documented his intense 48-hour journey setting up Clawdbot (rebranded to Molt.bot after an Anthropic trademark threat)—an open-source AI agent running 24/7 on a server. His non-technical perspective offered valuable insights on security, practical applications, and ethical boundaries.
-
-**Security-first approach:** Unlike many users who give AI assistants full access to personal computers, Clouse set up his assistant "Tubey" on a virtual private server ($6/month) with API-only access—no login credentials, personal files, or email access.
-
-**Real-world applications:**
-- Morning briefings with Oura Ring scores and curated X feeds with engagement metrics
-- Automated podcast guest research with structured Notion prep docs
-- 300+ podcast transcripts stored with proactive short-form content extraction
-- Voice-note workout logging to Google Sheets
-- Extracted action items and testimonials from Zoom chats during live calls
-
-**The ethical dilemma:** Tubey can now draft short-form social media posts based on Clouse's long-form content in his voice. He's wrestling with where to draw the line:
-
-> "On one hand, these are my ideas, repurposed from content I already created... On the other hand, if my X feed is just AI-generated short-form content, how do I feel about that? I don't feel great." — [Jay Clouse](https://creatorscience.com/)
-
-His rule: AI can draft, but he decides. He's asking himself, "Is this a skill I want to personally get better at?" If yes, outsourcing makes him worse, not better.
-
----
-
-### 5. The AI Bubble and Rate of Progress
-
-**Coverage:** [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026)
-
-[Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) provided a sobering analysis of AI economics and the pace of progress. Tomas Pueyo painted a vivid scene of AI researchers experiencing existential crises while the world outside remains oblivious:
-
-> "They are summoning God from silicon. From fucking sand! The world is about to be completely upended! Nothing will be the same! Will we survive? I don't know! Will I have a job? I don't know!" — [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026)
-
-Key data points on the bubble:
-- OpenAI projects $100B in revenue by the end of the decade
-- Cloud spending to reach hundreds of billions per year
-- Must raise tens of billions annually until 2030 when free cash flow might compensate
-- Anthropic's optimistic 2026 forecasts exceed their most optimistic 2024 projections
-
-But progress continues accelerating:
-- Cost per task has shrunk by 300x in one year
-- NVIDIA's new Vera Rubin architecture reduces token costs by 10x and training costs by 4x
-- Scores on ARC-AGI-2 benchmark jumped from below 20% a year ago to 55% now
-- Frontier AI capabilities have not just continued progressing—they've accelerated over the last two years
-
-The danger: much AI demand is subsidized. Tasks that cost companies dollars are free to users. This only works if demand keeps increasing and costs keep decreasing.
-
----
-
-### 6. From Sustainable to Abundant: Rethinking Planetary Resources
-
-**Coverage:** [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant)
-
-[Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant) offered a provocative reframing of humanity's relationship with Earth. Pueyo argues we've overcorrected from "the solution to pollution is dilution" to a defeatist "sustainability" mindset that treats Earth as a fragile goddess with finite resources to preserve.
-
-> "The Earth is no longer a chaotic system with limited resources that we barely understand and which we must protect to make it sustainable. It is a machine that we understand pretty well, that we're getting better at improving every day when we treat it as a system." — [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant)
-
-His core thesis: Earth has undergone far more dramatic changes than humans have ever witnessed—from Snowball Earth to the Great Oxygenation Event that depleted 99% of atmospheric CO2. Intelligence has evolved from prokaryotes through humans to AI, each level accelerating intelligence faster.
-
-Key reframes:
-- **Fishery depletion** is not a problem of eating too much fish—it's a problem of eating too much wild fish
-- **CO2 emissions** are not a problem of too much fossil fuel burning—they're a problem of rapid temperature increases, which can be reversed
-- **Fresh water scarcity** is not a problem of drinking too much—it's a problem of getting water from unsustainable underground wells instead of from the sea
-
-His conclusion: "Sustainable" is defeatist. We should strive for abundance—more food, more forests, more money, more people, more animals, more houses, more nature. **The solution to pollution is profusion.**
-
----
-
-### 7. Diagnosing Stalled Product Growth
-
-**Coverage:** [Lenny's Newsletter](https://substack.com/app-link/post?publication_id=10845&post_id=184576103&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODQ1NzYxMDMsImlhdCI6MTc2OTM0ODMyMywiZXhwIjoxNzcxOTQwMzIzLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LlH-krJivbsNaMA8j--c0UfuMkRo78IPBBhWqRLvCF0&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play)
-
-[Lenny's Newsletter](https://substack.com/app-link/post?publication_id=10845&post_id=184576103&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODQ1NzYxMDMsImlhdCI6MTc2OTM0ODMyMywiZXhwIjoxNzcxOTQwMzIzLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LlH-krJivbsNaMA8j--c0UfuMkRo78IPBBhWqRLvCF0&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) featured Jason Cohen (founder of WP Engine, investor in 60+ startups) sharing his five-step framework for diagnosing why products stop growing. Cohen is a four-time founder including two unicorns, bringing 20 years of company-building lessons.
-
-**The five-step framework:**
-1. **Logo retention** - Are you keeping customers?
-2. **Pricing** - Is your pricing model right?
-3. **NRR (Net Revenue Retention)** - Are existing customers expanding?
-4. **Marketing channels** - Are your channels saturated?
-5. **Target market** - Should you reposition?
-
-Key insights:
-
-**"It's too expensive" is almost never the real reason customers cancel.** A small tweak to cancellation surveys can double response rates: instead of asking why they're canceling, ask what would need to change for them to stay.
-
-**The "elephant curve" of growth:** Growth naturally follows a curve where hypergrowth eventually levels off. Understanding this pattern helps teams set realistic expectations.
-
-**Repositioning can multiply revenue:** The same product repositioned for a different market can increase revenue 8x. HubSpot's evolution from marketing software to full CRM platform exemplifies this.
-
-**Sometimes growth isn't the right goal:** When to reconsider if growth is even the right objective for your business.
-
----
-
-### 8. The Changing Content Landscape for Creators
-
-**Coverage:** [Jay Clouse](https://creatorscience.com/)
-
-[Jay Clouse](https://creatorscience.com/) offered a deeply reflective piece on how AI is reshaping the creator economy. His central concern: "How to" instructional content is becoming less valuable when personalized AI responses can be generated in moments.
-
-> "It's likely to be more effortful to take general 'how to' content and then apply it to my situation than to prompt an LLM about my situation and ask for personalized 'how to' content." — [Jay Clouse](https://creatorscience.com/)
-
-What content still commands attention in the AI age:
-
-**Long-form writing:** People connecting dots between multiple disciplines in new ways that explain the world and our relation to each other. Books and Substack dominate here.
-
-**Effortful art:** Work combining skill with patience—where viewers think "They spent all that time to do that?" This is his favorite part of Instagram.
-
-**Demonstrations:** AI can provide "how to" instructions, but people still watch demonstrations of personal approaches to things. Most demonstrations he watches are AI-related, so this may not persist.
-
-**Interviews with unique, verifiable experiences:** Skilled interviewers with guests who have lived interesting lives bring new insights and perspectives.
-
-**Good hangs:** Creators who make audiences feel comfortable, at ease, and confident.
-
-**Trust matters more than ever:** The more thoughtful he is about attention, the more he asks whether he trusts this creator to be a good steward of it.
-
-Clouse is shifting from embodying the role of "teacher" to becoming "a student of the current landscape. A friend on a parallel journey." The pace of change is too fast for teaching—sharing experiments (successes and failures) as quickly as possible is how creators can support one another.
-
----
-
-### 9. DeepSeek's Enduring Impact
+### 4. DeepSeek's First Anniversary and Open Source AI
 
 **Coverage:** [Kevin Xu @ Interconnected](https://interconnected.blog/r/e435cd6c?m=13ee6092-18b4-4710-96ca-c96c6fd588dd)
 
-Writing from a Nashville snowpocalypse, [Kevin Xu @ Interconnected](https://interconnected.blog/r/e435cd6c?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) marked the one-year anniversary of the "DeepSeek Moment" with a compilation of his previous analyses. Three big themes illustrate DeepSeek's lasting impact:
+[Kevin Xu](https://interconnected.blog/r/e435cd6c?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) marked the one-year anniversary of the "DeepSeek Moment" from his snowbound Nashville location, compiling previous essays on DeepSeek's impact. He identified three enduring themes:
 
-**Pushing open source by default into frontier AI development:** DeepSeek normalized open-source approaches in frontier AI, creating positive-sum competition between the US and China.
+- Pushing open source as default in frontier AI development
+- Using software specs to guide hardware roadmap (especially in China)
+- Pursuing AGI with no business model as an enduring advantage
 
-**Using software specs to guide hardware roadmap (especially in China):** Rather than letting hardware constraints dictate software capabilities, DeepSeek demonstrated how software requirements can drive hardware innovation.
+The reflection came as China continued its AI momentum, with references to Qwen 3, Kimi 2.5, and Claude Code developments demonstrating the ongoing US-China AI competition playing out primarily through open versus closed models.
 
-**Pursuing AGI with no business model as enduring advantage:** No other frontier AGI-focused lab anywhere has this edge. Without pressure to monetize, DeepSeek can focus purely on advancing capabilities.
+### 5. From Sustainability to Abundance: A Philosophical Shift
 
-The article notes China's structural advantage in open-source AI, with insights from Ion Stoica and others documenting how DeepSeek's approach has diffused throughout the AI ecosystem.
+**Coverage:** [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant)
 
----
+[Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant) made a provocative philosophical argument for abandoning "sustainability" thinking in favor of "abundance." He argued that Earth isn't a delicate, finite ecosystem to preserve, but a complex mechanism to optimize through intelligence and engineering.
 
-### 10. Lenny's Product Pass: Building the AI-Native Stack
+His key points:
+- Earth has undergone far more dramatic changes naturally than anything humans have caused
+- Intelligence allows us to engineer solutions rather than merely preserve
+- "Sustainable" is defeatist: "I don't know how this works, I can't know, just don't touch it"
+- We can have more food, forests, people, animals, houses, and nature simultaneously through optimization
 
-**Coverage:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/product-pass-drop-canva-elevenlabs)
+> "The solution to pollution is profusion." — [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant)
 
-[Lenny's Newsletter](https://www.lennysnewsletter.com/p/product-pass-drop-canva-elevenlabs) announced seven new premium partners in the Product Pass, bringing total subscription value to over $25,000. New additions include Canva Business, ElevenLabs, Manus (AI agents), Factory (software development agents), Railway (cloud hosting), Framer (website builder), and Amp (coding agent).
+Examples cited: Forest area increasing in Europe, China potentially reaching peak emissions, fishery depletion solvable through aquaculture, CO2 emissions reversible, and fresh water scarcity addressable through desalination. This framing connects directly to AI's potential as an abundance-generating technology.
 
-> "There's a growing divide (in terms of career opportunities, financial outcomes, loving your job) between the people who embrace these magical new tools and benefit from them, and those who stay business-as-usual and get left behind." — [Lenny's Newsletter](https://www.lennysnewsletter.com/p/product-pass-drop-canva-elevenlabs)
+### 6. AI Arbitrage and FOMO in the Creator Economy
 
-The strategy: Get people to actually experience cutting-edge products rather than just reading about them. Stop scrolling and start building. The collection includes only products Lenny loves and has carefully handpicked, with dozens of companies asking to join that he's holding off on.
+**Coverage:** [Jay Clouse](https://creatorscience.com/arbitrage)
 
-This represents a broader trend: newsletters aren't just content platforms anymore—they're becoming distribution channels for entire technology stacks.
+[Jay Clouse](https://creatorscience.com/arbitrage) provided a cautionary reflection on AI adoption, drawing parallels to his expensive NFT losses in 2021. He warned against chasing AI opportunities out of FOMO, noting that arbitrage windows close when markets catch up or become oversaturated.
 
----
+Current AI arbitrage opportunities he observed:
+- Bulk content generation with AI prompts
+- Creating AI audio/video clones
+- Pivoting entire strategies to talk about AI
+- Building SaaS tools with coding agents
 
-### 11. Career Reinvention and High Performance
+His core advice: Don't let FOMO pull you away from genuine interests. "Your actual voice is still your best competitive advantage. The shortcuts will come and go, but the trust and relationships you build can be enduring."
 
-**Coverage:** [Tim Ferriss](https://tim.blog/)
+### 7. Leadership, Parenting, and Human Systems
 
-[Tim Ferriss](https://tim.blog/) featured Steve Young, the Hall of Fame quarterback who transitioned from Super Bowl MVP to co-founding HGGC, a private equity firm managing over $6.9B in capital. The conversation explored high performance, reinvention, faith, and how to blend dreams with plans.
+**Coverage:** [Lenny's Newsletter](https://substack.com/app-link/post?publication_id=10845&post_id=184714824&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODQ3MTQ4MjQsImlhdCI6MTc2OTk1MzE4MiwiZXhwIjoxNzcyNTQ1MTgyLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.xb3zQPE7na74IsyIwOlkjv-0kMNIabQx-eiq-5vxAcY&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play)
 
-In his 5-Bullet Friday, Ferriss recommended reading "What is the question?" by Itai Yanai and Martin Lercher on how the best scientists work:
+[Lenny's Newsletter](https://substack.com/app-link/post?publication_id=10845&post_id=184714824&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODQ3MTQ4MjQsImlhdCI6MTc2OTk1MzE4MiwiZXhwIjoxNzcyNTQ1MTgyLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.xb3zQPE7na74IsyIwOlkjv-0kMNIabQx-eiq-5vxAcY&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) featured Dr. Becky Kennedy on the overlap between parenting and leadership principles, offering a humanistic counterpoint to the week's technical focus. Key principles included connecting before correcting, the "most generous interpretation" framework, and being a "sturdy" leader. The emphasis on repair over perfection resonated with the week's discussions about iterating quickly with AI tools while maintaining trust.
 
-> "If you do not know how to ask the right question, you discover nothing." — W. Edwards Deming, quoted in [Tim Ferriss](https://tim.blog/)
+### 8. Miscellaneous Coverage
 
-Other highlights included:
+**Health and Wellness:** Tim Ferriss shared his experience beating Lyme disease with a ketogenic diet, while his 5-Bullet Friday covered topics from Alzheimer's blood tests to finicky biomarkers and kidney health considerations.
 
-**Burden of Dreams:** A documentary about Werner Herzog's five-year effort to film Fitzcarraldo—a study in "tackling the impossible, being unrealistic, and failing above others' successes."
+**Podcast Episodes:** Tim Ferriss featured Dr. Michael Levin on reprogramming bioelectricity and treating cancer without drugs, and appeared on The Shawn Ryan Show covering topics not usually discussed publicly.
 
-**Alice Walker quote:** "A writer's heart, a poet's heart, an artist's heart, a musician's heart is always breaking. It is through that broken window that we see the world."
-
-**The Plastic Inside Us:** An article on microplastics spreading everywhere—into our air, food, water, and bodies—with research on health implications and potential solutions.
+**Product Bundles:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/product-pass-drop-canva-elevenlabs) announced seven new premium partners in the Product Pass, including Canva Business, ElevenLabs, Manus, Factory, Amp, Railway, and Framer—bringing total subscription value to over $25,000.
 
 ---
 
 ## Cross-Newsletter Patterns
 
-### The Great Acceleration: AI Integration at Multiple Levels
+**The "AI Native" Workflow Revolution**: Nearly every newsletter touched on the dramatic shift in how work gets done with AI tools. Whether it was [Peter Steinberger](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) making 6,600 commits monthly, [Craft Docs](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) transforming their entire company workflow, or [Jay Clouse](https://creatorscience.com/arbitrage) automating his morning briefings, the pattern was clear: those embracing AI tools are achieving 10x-100x productivity gains.
 
-Every newsletter this week grappled with AI acceleration, but at different levels. [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) documented organizational transformation (Craft Docs' one-month makeover), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude) explored individual techniques (advanced Claude Code usage), [Jay Clouse](https://creatorscience.com/) experimented with personal AI assistants (48 hours with Molt.bot), and [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) analyzed industry economics (the AI bubble). This multi-level coverage reveals AI transformation happening simultaneously at individual, organizational, and industry scales.
+**Security and Trust Tensions**: Multiple newsletters highlighted the security risks of giving AI agents broad access. [Jay Clouse](https://creatorscience.com/arbitrage) and [Lenny's Newsletter](https://www.lennysnewsletter.com/p/today-on-how-i-ai-i-gave-clawdbot) both emphasized creating separate environments, limiting permissions, and treating AI assistants with the same caution as human hires. This contrasts with the "move fast" ethos that made Moltbot successful.
 
-### Context Over Prompting: The New Best Practice
+**The Death of Traditional Software Engineering Practices**: [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) and [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) both documented teams abandoning pull requests, code reviews, and traditional CI/CD in favor of agent-driven development. The new workflow: extensive planning with agents, autonomous execution, and architectural discussions replacing code reviews.
 
-Both [Lenny's Newsletter](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude) and [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) emphasized that successful AI use requires providing rich context rather than clever prompting. Whether through Mermaid diagrams, system prompts, or Craft Agents' "sources" concept, the emerging best practice is to invest in context architecture. This represents a shift from viewing AI as a conversational partner to viewing it as a system requiring proper data infrastructure.
+**Non-Technical Users as Power Users**: Both [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) and [Lenny's Newsletter](https://www.lennysnewsletter.com/p/today-on-how-i-ai-i-gave-clawdbot) noted that customer support, marketing, and HR teams became heavier users of AI coding agents than engineers. This democratization of technical capabilities represents a fundamental shift in who can build software.
 
-### The Trust Crisis in Content and AI
+**AGI Timeline Acceleration**: [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/ai-algorithms) and [Marc Andreessen](https://substack.com/app-link/post?publication_id=10845&post_id=185338497&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODUzMzg0OTcsImlhdCI6MTc2OTY5Mzg5OCwiZXhwIjoxNzcyMjg1ODk4LCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ydSMWb4i0XAdaEP9L4mrp1e1UWc6B1N03hc6VDl2B9Y&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) both conveyed optimism about near-term AI capabilities, with Pueyo's technical breakdown suggesting AGI by 2030 and Andreessen arguing "the real AI boom hasn't even started yet."
 
-[Jay Clouse](https://creatorscience.com/) and [Lenny's Newsletter](https://www.lennysnewsletter.com/p/product-pass-drop-canva-elevenlabs) both addressed trust from different angles. Clouse noted that trust in creators matters more than ever as AI-generated content proliferates. Lenny emphasized the divide between those who embrace AI tools and those who don't. Both suggest that in an AI-saturated world, the ability to demonstrate genuine expertise and build trust becomes increasingly valuable—and increasingly difficult.
+**Abundance Mindset vs. Scarcity Mindset**: [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant)'s philosophical argument for abundance thinking echoed [Marc Andreessen](https://substack.com/app-link/post?publication_id=10845&post_id=185338497&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODUzMzg0OTcsImlhdCI6MTc2OTY5Mzg5OCwiZXhwIjoxNzcyMjg1ODk4LCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ydSMWb4i0XAdaEP9L4mrp1e1UWc6B1N03hc6VDl2B9Y&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play)'s tech optimism and directly opposed [Jay Clouse](https://creatorscience.com/arbitrage)'s caution about AI arbitrage. The tension between "move fast and optimize" versus "preserve trust and relationships" ran through the week's discussions.
 
-### Scale Thinking: Physical vs. Digital Infrastructure
-
-[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built) and [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) both grappled with scale, but from different angles. AWS S3's principle that "scale must be to your advantage" contrasts with the AI industry's challenge that subsidized demand may not scale sustainably. Both raise the question: what happens when systems grow faster than their economic models? S3 solved this through decades of careful engineering; AI companies are still figuring it out.
-
-### From Scarcity to Abundance: Philosophical Reframing
-
-[Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant) argued for moving from "sustainable" (preserving limited resources) to "abundant" (engineering better outcomes). This philosophical shift mirrors the AI transformation documented by others: rather than accepting current constraints, reimagine what's possible with better tools and thinking. The same mindset that [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) showed in Craft Docs' transformation—don't preserve old workflows, engineer new ones.
-
-### The Value of Systematic Frameworks in Uncertainty
-
-[Lenny's Newsletter](https://substack.com/app-link/post?publication_id=10845&post_id=184576103&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODQ1NzYxMDMsImlhdCI6MTc2OTM0ODMyMywiZXhwIjoxNzcxOTQwMzIzLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LlH-krJivbsNaMA8j--c0UfuMkRo78IPBBhWqRLvCF0&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) (Jason Cohen's five-step growth framework), [Jay Clouse](https://creatorscience.com/) (content type framework), and [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built) (S3's engineering principles) all offered structured approaches to navigating complexity. In a rapidly changing landscape where intuition breaks down, systematic frameworks provide anchors for decision-making. This suggests that meta-skills—knowing how to create and apply frameworks—may be more valuable than domain expertise.
-
-### Open Source as Competitive Advantage
-
-[Kevin Xu @ Interconnected](https://interconnected.blog/r/e435cd6c?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) highlighted DeepSeek's open-source approach as a structural advantage, while [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) documented how Craft Agents was open-sourced and immediately "remixed" by users. The pattern: in fast-moving technology landscapes, open source enables rapid iteration and community-driven improvement that closed systems can't match.
+**Open Source as Competitive Advantage**: [Kevin Xu](https://interconnected.blog/r/e435cd6c?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) on DeepSeek, Peter Steinberger's open-sourcing of Moltbot, and Craft's Apache 2.0 licensing of Craft Agents all demonstrated open source as a strategic choice in AI, not just an ideological one. The pattern: ship fast, gather feedback, improve rapidly.
 
 ---
 
 ## Sources
 
-- [How AWS S3 is built](https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built) — The Pragmatic Engineer
-- [Inside one startup's crazy fast AI-first makeover](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) — The Pragmatic Engineer
-- [Why your product stopped growing (and the 5-step framework to restart it)](https://substack.com/app-link/post?publication_id=10845&post_id=184576103&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODQ1NzYxMDMsImlhdCI6MTc2OTM0ODMyMywiZXhwIjoxNzcxOTQwMzIzLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LlH-krJivbsNaMA8j--c0UfuMkRo78IPBBhWqRLvCF0&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) — Lenny's Newsletter
-- [This week on How I AI: Advanced Claude Code and Cursor techniques for power users](https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude) — Lenny's Newsletter
+- [DeepSeek Moment Anniversary in a Nashville Snowpocalypse](https://interconnected.blog/r/e435cd6c?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) — Kevin Xu @ Interconnected
+- [Not Sustainable → Abundant](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant) — Tomas Pueyo from Uncharted Territories
+- [The $100M Worker](https://unchartedterritories.tomaspueyo.com/p/ai-algorithms) — Tomas Pueyo from Uncharted Territories
+- [5-Bullet Friday — Beating Lyme Disease, Shawn Ryan, Finicky Blood Tests, and Art De Vany](https://tim.blog/) — Tim Ferriss
+- [New from Tim — Dr. Michael Levin — Reprogramming Bioelectricity](https://tim.blog/2026/01/21/dr-michael-levin/) — Tim Ferriss
+- [Today on How I AI: I gave Clawdbot (aka Moltbot) full access to my computer](https://www.lennysnewsletter.com/p/today-on-how-i-ai-i-gave-clawdbot) — Lenny's Newsletter
+- [Marc Andreessen: The real AI boom hasn't even started yet](https://substack.com/app-link/post?publication_id=10845&post_id=185338497&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODUzMzg0OTcsImlhdCI6MTc2OTY5Mzg5OCwiZXhwIjoxNzcyMjg1ODk4LCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ydSMWb4i0XAdaEP9L4mrp1e1UWc6B1N03hc6VDl2B9Y&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) — Lenny's Newsletter
+- [Dr. Becky on the surprising overlap between great parenting and great leadership](https://substack.com/app-link/post?publication_id=10845&post_id=184714824&utm_source=podcast-email&play_audio=true&r=1iefy&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjoyNTM4MTQyLCJwb3N0X2lkIjoxODQ3MTQ4MjQsImlhdCI6MTc2OTk1MzE4MiwiZXhwIjoxNzcyNTQ1MTgyLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.xb3zQPE7na74IsyIwOlkjv-0kMNIabQx-eiq-5vxAcY&utm_source=substack&utm_medium=email&utm_content=play_card_preview_link#play) — Lenny's Newsletter
 - [Product Pass drop: Canva, ElevenLabs, Manus, Factory, Amp, Railway, Framer](https://www.lennysnewsletter.com/p/product-pass-drop-canva-elevenlabs) — Lenny's Newsletter
-- [AI in 2026](https://unchartedterritories.tomaspueyo.com/p/ai-in-2026) — Uncharted Territories
-- [Not Sustainable → Abundant](https://unchartedterritories.tomaspueyo.com/p/not-sustainable-abundant) — Uncharted Territories
-- [Thoughts on this season of content...](https://creatorscience.com/) — Jay Clouse
-- [48 hours with Clawd.bot (err, Molt.bot)](https://creatorscience.com/) — Jay Clouse
-- ["DeepSeek Moment" Anniversary in a Nashville Snowpocalypse](https://interconnected.blog/r/e435cd6c?m=13ee6092-18b4-4710-96ca-c96c6fd588dd) — Kevin Xu @ Interconnected
-- [Steve Young — From Super Bowl MVP to Managing Billions](https://tim.blog/) — Tim Ferriss
-- [5-Bullet Friday — Young Werner Herzog, Finding Breakthrough Questions, and Wizards and Artists](https://tim.blog/) — Tim Ferriss
+- [48 hours with Clawd.bot (err, Molt.bot)](https://creatorscience.com/arbitrage) — Jay Clouse
+- [AI-rbitrage](https://creatorscience.com/arbitrage) — Jay Clouse
+- [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) — The Pragmatic Engineer
+- [Inside one startup's crazy fast AI-first makeover](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) — The Pragmatic Engineer

@@ -4,20 +4,20 @@ A system for downloading, organizing, and analyzing newsletter emails from Gmail
 
 ## Weekly Reports
 
-### [Week 05](week/05/index.md) — January 20-28, 2026
+### [Week 05](week/05/index.md) — January 27 - February 2, 2026
 
-Top stories: Minneapolis ICE crisis (Alex Pretti killed, Democrats threaten DHS funding), Trump's Greenland gambit at Davos, AI productivity paradox exposed (executives love it, workers get nothing), Kimi K2.5 beats Opus at half cost, FastRender 2,000-agent browser, historic New England winter storm.
+Top stories: Trump's Minnesota pivot after Alex Pretti killing triggers bipartisan GOP criticism, consumer confidence hits 12-year low, Clawdbot/Moltbot becomes fastest-growing GitHub repo ever, TSMC bottleneck threatens AI buildout, 22-inch snowstorm blankets New England.
 
 | Category | Summary |
 |----------|---------|
-| [Tech & AI](week/05/tech-ai.md) | AI productivity paradox, Kimi K2.5 China surge, FastRender 2000-agent browser, Anthropic constitution published, MCP Apps launch |
-| [Politics](week/05/politics.md) | Minneapolis killings, Greenland crisis, Fed independence Supreme Court case, Trump follow-through pattern |
-| [Culture](week/05/culture.md) | Minneapolis under occupation, science writing infrastructure, queer narratives, friction-maxxing ethos |
-| [Books](week/05/books.md) | Lost art of esoteric writing, fanfic-to-romance pipeline, Gawker commenters in government |
-| [Philosophy](week/05/philosophy.md) | Electra and anger, religious conversion, Weimar America warning, ego crisis |
-| [Business](week/05/business.md) | AWS S3 engineering, AI-first transformation, Craft Docs makeover, abundant vs sustainable |
-| [Personal](week/05/personal.md) | Historic winter storm, -80°F windchill, 12-20" snow, Warren General Store timing |
-| [Misc](week/05/misc.md) | AI and state power, Canada MAID crisis, deep reading resistance, institutional decay |
+| [Tech & AI](week/05/tech-ai.md) | Agent architectures mature, TSMC bottleneck threatens AI buildout, Kimi K2.5 100-agent swarms, MCP Apps launch |
+| [Politics](week/05/politics.md) | Trump's Minnesota pivot, consumer confidence collapse, US allies pivot to Beijing |
+| [Culture](week/05/culture.md) | Political documentation as cultural work, permission structures, bodily autonomy narratives |
+| [Books](week/05/books.md) | Fanfic-to-publishing pipeline, late Henry James defense, literary canon debates |
+| [Philosophy](week/05/philosophy.md) | Stoicism for crisis, Weimar parallels, Žižek on Trump's hollow authority |
+| [Business](week/05/business.md) | Clawdbot/Moltbot revolution, Craft Docs AI transformation, abundance vs sustainability |
+| [Personal](week/05/personal.md) | 22-inch snowstorm, arctic cold, Mt. Mansfield at 4th-best January snowpack ever |
+| [Misc](week/05/misc.md) | Management as AI superpower, AGI as marketing smokescreen, EA psyche analysis |
 
 ---
 

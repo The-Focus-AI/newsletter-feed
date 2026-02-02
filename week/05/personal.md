@@ -1,97 +1,127 @@
-# Week 05 Personal Newsletter Analysis (January 20-28, 2026)
+# Week 05 Personal Newsletter Analysis (January 26 - February 2, 2026)
 
 ## Overview
 
-This week's personal newsletters were dominated by a major winter storm that delivered historic snowfall to New England, with [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42573?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) providing detailed daily forecasting coverage. Complementing the weather focus, [Warren General Store](https://mailchi.mp/8802d59fed52/greetings-from-warren-general-5827201?e=09e14693dd) offered comfort food suggestions for the extreme cold, while [Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=495069&templateId=441566) highlighted streaming content and [Plausible Analytics](https://plausible.io/willschenk.com) reported a website traffic spike.
+Week 05 personal newsletters were dominated by winter weather coverage from [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42573), with meteorologist Dr. Jay Cordeira tracking a major snowstorm that delivered up to 22 inches across New England, followed by arctic cold and the monitoring of subsequent coastal systems. Local businesses responded to the cold snap, with [Warren General Store](https://mailchi.mp/1d6af3d422b2/greetings-from-warren-general-5827318?e=09e14693dd) offering Moroccan-inspired comfort food, while [Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=498202&templateId=443649) highlighted new PBS streaming releases and sent membership renewal reminders. [Plausible Analytics](content/personal/plausible-analytics/2026-02-01-january-report-for-willschenk-com.md) reported website performance metrics for January.
 
 ---
 
 ## Major Topics and Stories
 
-### 1. Historic Winter Storm and Extreme Cold
-**Coverage:** [OpenSnow (Jan 21)](https://opensnow.com/dailysnow/newengland/post/42466?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 22)](https://opensnow.com/dailysnow/newengland/post/42496?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 23)](https://opensnow.com/dailysnow/newengland/post/42517?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 24)](https://opensnow.com/dailysnow/newengland/post/42545?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 26)](https://opensnow.com/dailysnow/newengland/post/42573?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026), [OpenSnow (Jan 27)](https://opensnow.com/dailysnow/newengland/post/42601?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+### 1. Major Winter Storm and Historic Snowfall
+**Coverage:** [OpenSnow (Jan 26, AM)](https://opensnow.com/dailysnow/newengland/post/42573), [OpenSnow (Jan 26, PM)](https://lift.opensnow.com/newsletters/east/2026-01-26/index.html), [OpenSnow (Jan 27)](https://opensnow.com/dailysnow/newengland/post/42601)
 
-The week featured New England's most significant winter weather event of the season, combining dangerously cold temperatures with a major snowstorm. Dr. Jay Cordeira's forecasting tracked the storm from development through aftermath with impressive precision.
+The week opened with a major winter storm delivering widespread heavy snowfall across New England from Sunday into Monday. Dr. Jay Cordeira's Sunday night update, written at 11PM as snow fell "hard and fast," documented totals already exceeding a foot across southern New England with snow still ongoing.
 
-**Extreme Cold:** Saturday January 24th brought the coldest temperatures of the season, with Mt. Washington recording -30F with windchill of -80F at 4:15AM. Multiple ski resorts implemented "cold holds" and limited operations.
+> "Snow has been falling hard and fast across southern New England on Sunday with totals by ~11PM on Sunday well over a foot across a large swath of Connecticut, Rhode Island, and Massachusetts." — [OpenSnow (Jan 26)](https://opensnow.com/dailysnow/newengland/post/42573)
 
-> "It's currently 4:15AM, -30F on top of Mt. Washington, with a windchill of -80F. You read that right." - [OpenSnow (Jan 24)](https://opensnow.com/dailysnow/newengland/post/42545?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+**Final Storm Totals:** The highest reports reached 22.2 inches in Massachusetts, with widespread 18-19 inch totals in Ludlow and New Braintree, MA, and 18 inches in Eastford and Simsbury, CT. Mountain resorts saw exceptional accumulations: Wachusett led with 20 inches, followed by Waterville Valley at 18 inches, with Sunday River and Mohawk Mountain also posting 20-inch storm totals. Storm totals of 16-24 inches were common across the Berkshires and Worcester hills.
 
-**The Storm:** Sunday into Monday delivered 12-20 inches across southern New England, with peak reports of 18-19 inches in Ludlow and New Braintree, Massachusetts, and 18 inches in Eastford and Simsbury, Connecticut. The [final storm recap on Tuesday, January 27](https://opensnow.com/dailysnow/newengland/post/42601?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) confirmed the highest official report at 22.2 inches in Massachusetts, with ski resorts posting impressive totals: Wachusett led with 20 inches, Waterville Valley at 18 inches, with Sunday River and Mohawk Mountain also reaching 20-inch storm totals.
+> "I expect storm totals to push toward 2 feet at several locations along I-90 in Massachusetts." — [OpenSnow (Jan 26)](https://opensnow.com/dailysnow/newengland/post/42573)
 
-> "That snowband is going to produce snowfall rates of 3-4 inches per hour on Sunday afternoon/evening." - [OpenSnow (Jan 23)](https://opensnow.com/dailysnow/newengland/post/42517?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+**Post-Storm Conditions:** By Tuesday, Dr. Cordeira reported that "conditions are absolutely fantastic" with most resorts operating at or near 100% terrain. The Mt. Mansfield snow stake now reads 75 inches - already matching the average peak depth usually seen in late March - making this season's snowpack "firmly above average" and currently fourth all-time for late January.
 
-> "I know it's cold, but conditions are absolutely fantastic; most resorts are now open at or near 100%." - [OpenSnow (Jan 27)](https://opensnow.com/dailysnow/newengland/post/42601?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+### 2. Arctic Cold Pattern and Wind Chill Hazards
+**Coverage:** [OpenSnow (Jan 26, PM)](https://lift.opensnow.com/newsletters/east/2026-01-26/index.html), [OpenSnow (Jan 27)](https://opensnow.com/dailysnow/newengland/post/42601), [OpenSnow (Jan 28)](https://opensnow.com/dailysnow/newengland/post/42614), [OpenSnow (Jan 30)](https://opensnow.com/dailysnow/newengland/post/42658)
 
-**Technical Insight:** The forecasts highlighted the role of the Air Force 53rd Weather Reconnaissance Squadron ("Hurricane Hunters") flying the cutoff low west of California and dropping dropsondes to improve model accuracy - a detail that Dr. Cordeira noted he helps plan as part of his day job.
+Following the storm, bitter arctic air settled into the East with valley highs near 10F and overnight lows below 0F through Saturday. Weekend conditions featured windchill temperatures below 0F across the entire region on both Saturday and Sunday.
 
-### 2. Ski Resort Operations and Conditions
-**Coverage:** [OpenSnow Regional (Jan 21)](https://lift.opensnow.com/newsletters/east/2026-01-21/index.html), [OpenSnow Regional (Jan 23)](https://lift.opensnow.com/newsletters/east/2026-01-23/index.html), [OpenSnow Regional (Jan 26)](https://lift.opensnow.com/newsletters/east/2026-01-26/index.html)
+> "Bitter arctic cold will settle into the East this week in the wake of a major winter storm this past weekend." — [OpenSnow (Jan 26)](https://lift.opensnow.com/newsletters/east/2026-01-26/index.html)
 
-The extreme cold forced operational adjustments across New England ski areas. Jay Peak postponed planned activities, and the NWS issued an "extreme cold watch" for much of northern New England. The forecast identified the "jackpot" zones: Berkshires, southern Greens, and areas favoring 18+ inch totals.
+Friday's forecast warned skiers to "bring the extra layer" with windchill temperatures below 0F expected throughout the weekend. Despite the cold, snow conditions remained "absolutely fantastic" with groomers described as "great" and natural slopes "a bit mogul-ed" but otherwise skiing at or near 100%.
 
-> "High temperatures will not get above 0F on Saturday and the windchill will be below -20F. Many resorts will take action with limited operations to limit cold exposure." - [OpenSnow (Jan 22)](https://opensnow.com/dailysnow/newengland/post/42496?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026)
+### 3. Missed Coastal Storm Opportunities
+**Coverage:** [OpenSnow (Jan 27)](https://opensnow.com/dailysnow/newengland/post/42601), [OpenSnow (Jan 28)](https://opensnow.com/dailysnow/newengland/post/42614), [OpenSnow (Jan 30)](https://opensnow.com/dailysnow/newengland/post/42658), [OpenSnow (Feb 1)](https://opensnow.com/dailysnow/newengland/post/42684)
 
-The storm was characterized as a "fluff bomb" due to high snow-to-liquid ratios (15:1 to 20:1), meaning the snow was exceptionally light and fluffy - ideal for skiing but requiring adjustment of raw precipitation forecasts.
+Throughout the week, Dr. Cordeira tracked multiple coastal storm threats that ultimately tracked too far offshore to benefit central and northern New England - a pattern of "unfortunate close shaves" that became a recurring theme.
 
-### 3. Cold Weather Comfort Food
-**Coverage:** [Warren General Store](https://mailchi.mp/8802d59fed52/greetings-from-warren-general-5827201?e=09e14693dd)
+**Sunday-Monday System (Feb 1-2):** The ECMWF model maintained hope for a potential coastal storm Sunday into Monday, but by Friday it became clear models had "finally caved toward a mostly out-to-sea solution." The storm was characterized as "a beauty" and responsible for "quasi-generational snows across portions of the Carolinas" but ultimately missed New England "wide right."
 
-Perfectly timed with the approaching arctic air, Warren General Store in Connecticut offered Julia Child's Boeuf Bourguignon ($28.99 for two) with wine pairings including Chateau Pegau Cotes du Rhone Blanc ($22.99) and Bourgogne Passetoutgrain 2023 ($26.99). They also offered a non-alcoholic option, Shania Verdejo 0.0% ($18.99), for "Damp or Dry January."
+> "We are watching a beauty of a storm develop over the western North Atlantic and track off the Eastern Seaboard on Sunday. This storm was responsible for quasi-generational snows across portions of the Carolinas, but will unfortunately miss New England wide right." — [OpenSnow (Feb 1)](https://opensnow.com/dailysnow/newengland/post/42684)
 
-> "This is a hearty and savory stew of seared beef and fork-tender vegetables simmered in a rich full-flavored red wine sauce." - [Warren General Store](https://mailchi.mp/8802d59fed52/greetings-from-warren-general-5827201?e=09e14693dd)
+The ECMWF ensemble still suggested 50% probability of 3+ inches over Cape Cod, but probabilities dropped to under 20% elsewhere. Dr. Cordeira noted: "It really is a shame, because this storm will be a beast."
 
-New seafood arrivals included Stone Crab and Snapper for the weekend.
+**Next Opportunity:** The forecast identified February 6-8 as the next potential snow window, with the ECMWF ensemble showing enhanced probabilities for 1-3 inches at most locations, possibly squeezing out an additional inch or two at higher elevations.
 
-### 4. PBS Streaming Content
-**Coverage:** [Connecticut Public](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=495069&templateId=441566)
+### 4. Comfort Food for Cold Weather
+**Coverage:** [Warren General Store (Jan 29)](https://mailchi.mp/1d6af3d422b2/greetings-from-warren-general-5827318?e=09e14693dd)
 
-New releases on PBS Passport included:
-- **Great Performances: Nutcracker from English National Ballet** - Over 100 dancers and musicians at the London Coliseum
-- **Independent Lens: Ratified** - Documentary on the Equal Rights Amendment, tracing Virginia's pivotal ratification battle led by Black women
-- **Munch Season 4** - French legal drama from Walter Presents
+With arctic temperatures gripping Connecticut, Warren General Store offered Chicken Tagine ($27.99 for 2) - dark meat chicken slowly braised with saffron, ginger, paprika, cumin, cinnamon, turmeric, onions, garlic, preserved lemons, green olives, and fingerling potatoes, served with grain couscous. The gluten-free entree was paired with Austrian and Sicilian wine recommendations.
 
-### 5. Website Traffic Spike
-**Coverage:** [Plausible Analytics](https://plausible.io/willschenk.com)
+> "Saturday night's dinner is Warren General's Chicken Tagine... Taste the Magic of Morocco!" — [Warren General Store (Jan 29)](https://mailchi.mp/1d6af3d422b2/greetings-from-warren-general-5827318?e=09e14693dd)
 
-A traffic spike alert showed 11 concurrent visitors on willschenk.com, with the primary traffic going to `/labnotes/2024/clerk_webhooks/` (10 visitors) and a single visitor on `/howto/2025/how_to_turn_aerospace_into_an_application_launcher/`. Note: This newsletter did not include a source_url in its frontmatter.
+Wine pairings included Grüner Veltliner "Gobelsburger" 2024 from Schloss Gobelsburg ($19.99) - one of Austria's most historic estates founded in 1171 - featuring "lemon zest, green apple, pear, and Grüner's signature white-pepper spice." The Sicilian option was Baroni di Pianogrillo Frappato 2022 ($29.99) from an organic estate with roots in the 1700s.
+
+The newsletter also promoted Super Bowl party favorites with an order deadline of February 5th.
+
+### 5. PBS Streaming and Membership
+**Coverage:** [Connecticut Public (Jan 29)](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=498202&templateId=443649), Connecticut Public (Jan 31)
+
+New releases on PBS Passport included Call the Midwife Season 14, Partners in Crime Season 2 (German crime drama with English subtitles), and Blanca Season 1 (Italian series featuring a blind audio analyst fighting for justice).
+
+Connecticut Public also sent membership renewal reminders, with one newsletter noting "Your membership expires TODAY!" The appeal emphasized the foundation of listener support: "Your support is the foundation upon which every story, conversation, and program rests."
+
+### 6. Website Analytics Performance
+**Coverage:** Plausible Analytics (Feb 1)
+
+January 2026 analytics for willschenk.com showed strong growth:
+- Unique visitors: 1.2k (+24% vs. previous month)
+- Pageviews: 1.7k (+14%)
+- Bounce rate: 89% (+3%)
+
+Top referrers were Google (451 visitors), DuckDuckGo (205), Bing (49), Yandex (25), and Kagi.com (13). The most visited page was `/howto/2025/claude_code_in_emacs/` with 281 visitors, followed by the homepage (193 visitors).
+
+Note: This newsletter did not include a source_url in its frontmatter.
+
+### 7. Regional Weather Patterns Beyond New England
+**Coverage:** [OpenSnow (Jan 28)](https://lift.opensnow.com/newsletters/east/2026-01-28/index.html), [OpenSnow (Jan 30)](https://lift.opensnow.com/newsletters/east/2026-01-30/index.html)
+
+While New England saw quiet conditions, the broader regional forecasts highlighted action elsewhere:
+
+**British Columbia High Elevations:** A series of warm storms impacted the Northwest and Western Canada with rising snow levels, but higher-elevation BC resorts remained favored for accumulating snow.
+
+**Southern Appalachians:** A cold weekend storm brought powder conditions to Appalachian ski resorts with low-density snow, while the rest of the East endured bitterly cold temperatures.
+
+**Forecast Verification:** OpenSnow shared their January 21 5-day forecast verification, showing they under-forecasted actual snowfall by only 2% - a remarkable accuracy demonstration.
 
 ---
 
 ## Cross-Newsletter Patterns
 
-### Weather Driving Lifestyle Content
-The timing of the [Warren General Store](https://mailchi.mp/8802d59fed52/greetings-from-warren-general-5827201?e=09e14693dd) "Cold Weather Cuisine" email arriving just as [OpenSnow](https://opensnow.com/dailysnow/newengland/post/42496?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) was predicting historic cold demonstrates how local businesses align their marketing with weather events. Both newsletters served readers in the Connecticut/New England region with complementary content: one telling you what to expect outdoors, the other providing comfort indoors.
+### The Art of Forecast Communication
+[OpenSnow's](https://opensnow.com/dailysnow/newengland/post/42573) coverage throughout the week exemplifies expert weather communication. Dr. Cordeira balanced technical meteorological detail (ensemble model probabilities, snow-to-liquid ratios, ECMWF vs. GFS model comparisons) with accessible narrative storytelling. His transparency about uncertainty, personal travel schedule constraints, and even disappointment over missed storms creates authenticity rarely found in weather forecasting.
 
-### Expert Forecasting as Compelling Narrative
-[OpenSnow's](https://opensnow.com/dailysnow/newengland/post/42573?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) daily updates functioned almost as serialized storytelling - building anticipation from the initial forecast through model refinement, the extreme cold setup, and finally the storm's delivery. Dr. Cordeira's transparency about uncertainty ("failure modes still exist for low-end verification, but I remain optimistic") and personal notes (heading to Texas for a meteorology conference, missing the storm locally) add authenticity rarely found in weather coverage.
+### Local Business Weather Responsiveness
+The timing of [Warren General Store's](https://mailchi.mp/1d6af3d422b2/greetings-from-warren-general-5827318?e=09e14693dd) warm Moroccan tagine offering during the arctic cold snap demonstrates sophisticated hyperlocal marketing. Small businesses in weather-dependent regions monitor forecasts as closely as ski resorts, timing comfort food promotions to temperature drops.
 
-### Regional Focus
-All newsletters this week served hyperlocal audiences - New England weather, a Connecticut general store, Connecticut Public Television, and analytics for a personal website. This stands in contrast to the broader tech or political newsletters, emphasizing that the "personal" category captures geographically-specific and individually-relevant content.
+### Membership Economics of Public Media
+[Connecticut Public's](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=498202&templateId=443649) dual approach - offering premium streaming content while also sending urgent renewal reminders - illustrates the ongoing challenge of the public media funding model. The appeal emphasized foundational support while the benefit highlighted exclusive early streaming access to popular British dramas.
 
 ---
 
 ## Surprising or Contrarian Elements
 
-**Hurricane Hunters for Winter Weather:** The revelation that the Air Force's Hurricane Hunters were flying reconnaissance missions over the Pacific for a winter storm, dropping dropsondes to improve forecast models, highlights the sophisticated infrastructure behind modern weather prediction.
+**Fourth Best January Snowpack, Yet "Quiet Week":** Despite Mt. Mansfield's snow stake reading 75 inches (fourth all-time for late January and already at "average" late-March peak depth), the meteorologist characterized the week ahead as "fairly quiet" and "relatively quiet conditions into mid-February." This recalibration of expectations shows how exceptional seasons reset what counts as active.
 
-**-80F Windchill:** The Mt. Washington Observatory reading of -80F windchill is almost incomprehensible - at these temperatures, exposed skin can get frostbite in under 5 minutes.
+**"Quasi-Generational" Coastal Storm Miss:** The characterization of the February 1 coastal storm as producing "quasi-generational snows across portions of the Carolinas" while New England got nothing highlights the razor-thin margin between major events and complete misses in coastal meteorology. The forecast track shifted perhaps 100-150 miles offshore, transforming a potential blockbuster into a "wide right" miss.
 
-**Forecast Accuracy:** The forecasts held remarkably well, with predictions of 12-18+ inches verifying at 12-20 inches in the targeted areas, demonstrating advances in mesoscale meteorology and ensemble modeling techniques like PEAKS AI.
+**Mt. Mansfield Snow Stake as Seasonal Benchmark:** The detailed tracking of Mt. Mansfield's snow stake depth (75 inches) and its comparison to historical norms provides a fascinating multi-decade perspective. The observation that it's "fourth all-time for late January" but could still climb toward 100 inches by late March/early April if trends continue demonstrates the value of long-term observational datasets.
+
+**Technical Forecast Accuracy:** The forecast verification showing OpenSnow under-forecasted by only 2% across multiple resorts over 5 days is remarkable, especially given the complexity of mountain snow forecasting with terrain effects, elevation-dependent precipitation, and highly variable snow ratios.
 
 ---
 
 ## Sources
 
-- [New England Daily Snow - Light snow to round out the week](https://opensnow.com/dailysnow/newengland/post/42466?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 21)
-- [Significant Storm for the Southern & Eastern U.S. this Weekend](https://lift.opensnow.com/newsletters/east/2026-01-21/index.html) - OpenSnow (Jan 21)
-- [New England Daily Snow - Model Trends](https://opensnow.com/dailysnow/newengland/post/42496?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 22)
-- [Cold Weather Cuisine!](https://mailchi.mp/8802d59fed52/greetings-from-warren-general-5827201?e=09e14693dd) - Warren General Store (Jan 22)
-- [This week with PBS Passport](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=495069&templateId=441566) - Connecticut Public (Jan 22)
-- [Traffic spike on willschenk.com](content/personal/plausible-analytics/2026-01-22-traffic-spike-on-willschenk-com.md) - Plausible Analytics (Jan 22) [source link not available]
-- [New England Daily Snow - Tracking the Storm](https://opensnow.com/dailysnow/newengland/post/42517?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 23)
-- [Weekend Storm Favors the Southern Rockies and Northeast](https://lift.opensnow.com/newsletters/east/2026-01-23/index.html) - OpenSnow (Jan 23)
-- [New England Daily Snow - Weekend Update (Saturday)](https://opensnow.com/dailysnow/newengland/post/42545?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 24)
-- [New England Daily Snow - Sunday Night/Monday Morning Update](https://opensnow.com/dailysnow/newengland/post/42573?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 26)
-- [Arctic Air Settles Into the East, Not Much Going On Out West](https://lift.opensnow.com/newsletters/east/2026-01-26/index.html) - OpenSnow (Jan 26)
-- [New England Daily Snow - Storm Recap and Outlook](https://opensnow.com/dailysnow/newengland/post/42601?utm_source=internal&utm_medium=email&utm_term=dailysnowalert&utm_campaign=2025-2026) - OpenSnow (Jan 27)
+- [New England Daily Snow - Sunday Night/Monday Morning Update](https://opensnow.com/dailysnow/newengland/post/42573) — OpenSnow (Jan 26)
+- [Arctic Air Settles Into the East, Not Much Going On Out West](https://lift.opensnow.com/newsletters/east/2026-01-26/index.html) — OpenSnow (Jan 26)
+- [New England Daily Snow - Storm Recap and Outlook](https://opensnow.com/dailysnow/newengland/post/42601) — OpenSnow (Jan 27)
+- [New England Daily Snow - Quiet and Cold](https://opensnow.com/dailysnow/newengland/post/42614) — OpenSnow (Jan 28)
+- [Snow for High-Elevation BC; East Coast Storm Possible this Weekend](https://lift.opensnow.com/newsletters/east/2026-01-28/index.html) — OpenSnow (Jan 28)
+- [Warm & Wonderful Weekends!](https://mailchi.mp/1d6af3d422b2/greetings-from-warren-general-5827318?e=09e14693dd) — Warren General Store (Jan 29)
+- [This week with PBS Passport](https://secure.ctpublic.org/page/email/message/view?ea.campaigner.email=RicsAwc1aA3k7vl0gCOmuoNPjbcek5hH&broadcastId=498202&templateId=443649) — Connecticut Public (Jan 29)
+- [New England Daily Snow - Friday Update](https://opensnow.com/dailysnow/newengland/post/42658) — OpenSnow (Jan 30)
+- [Powder for the Southern Appalachians and High-Elevation Snow in BC](https://lift.opensnow.com/newsletters/east/2026-01-30/index.html) — OpenSnow (Jan 30)
+- Your membership expires TODAY! — Connecticut Public (Jan 31) [source link not available]
+- [New England Daily Snow - Weekend Update (Sunday)](https://opensnow.com/dailysnow/newengland/post/42684) — OpenSnow (Feb 1)
+- January report for willschenk.com — Plausible Analytics (Feb 1) [source link not available]

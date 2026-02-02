@@ -1,0 +1,168 @@
+---
+id: 19c0bda30da540a7
+newsletter: the-atlantic-daily
+newsletter_name: "The Atlantic Daily"
+category: politics
+subject: "Trump shrugs off the Ilhan Omar attack"
+date: Thu, 29 Jan 2026 17:22:50 -0500 (EST)
+---
+
+# Trump shrugs off the Ilhan Omar attack
+
+**From:** The Atlantic Daily <newsletters@theatlantic.com>
+**Date:** Thu, 29 Jan 2026 17:22:50 -0500 (EST)
+
+---
+
+Trump shrugs off the Ilhan Omar attack
+
+96
+
+Plus: Battles are raging inside the Department of Homeland Security.
+Thursday, January 29, 2026
+
+-->
+
+ 
+
+[David A. Graham](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kYXZpZC1hLWdyYWhhbS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC07b2379b)
+
+Staff writer
+
+When the president and his allies were the victims of political violence, they blamed the left’s rhetoric. But when Representative Ilhan Omar was targeted on Tuesday, Donald Trump blamed her.
+
+First, here are four new stories from The Atlantic:
+
+[Battles are raging inside the Department of Homeland Security.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvZGhzLWljZS10cnVtcC1pbW1pZ3JhdGlvbi1taW5uZXNvdGEvNjg1ODAyLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBe1100154)
+[Hillary Rodham Clinton: MAGA’s war on empathy](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvd2FyLWVtcGF0aHktaGlsbGFyeS1jbGludG9uLzY4NTgwOS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBd3cc90bd)
+[The accidental winners of the war on higher ed](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wMS9saWJlcmFsLWFydHMtY29sbGVnZS13YXItaGlnaGVyLWVkLzY4NTgwMC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBc9dd2a55)
+[Tim Walz fears a Fort Sumter moment in Minneapolis.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvdGltLXdhbHotZm9ydC1zdW10ZXItbWlubmVhcG9saXMtaWNlLzY4NTgwMS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBd68339ac)
+
+-->
+
+American Rage
+
+(Eric Thayer / Los Angeles Times / Getty)
+
+ 
+
+View in browser
+
+The attack on Representative Ilhan Omar on Tuesday was horrifying but depressingly predictable. Not only has the country seen a recent spree of political violence, but Omar, a Democrat from Minnesota, has also [been a frequent target of death threats](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8yOC91cy9wb2xpdGljcy9pbGhhbi1vbWFyLXRydW1wLWF0dGFjay5odG1sP2NhbXBhaWduX2lkPTImZW1jPWVkaXRfdGhfMjAyNjAxMjkmaW5zdGFuY2VfaWQ9MTcwMjY3Jm5sPXRvZGF5JTI3cy1oZWFkbGluZXMmcmVnaV9pZD00NjYyNTc5NCZzZWdtZW50X2lkPTIxNDQ1NiZ1c2VyX2lkPWY3ODIyN2RjMjA2YWNiNzQ1NTRiMTU1OTkyNWQ5OGYyJnV0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB9ae4a847).
+
+The suspect, whom police have identified as [Anthony Kazmierczak](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly9hcG5ld3MuY29tL2FydGljbGUvaWxoYW4tb21hci1hdHRhY2stc3ByYXllZC10b3duLWhhbGwtYXR0YWNrLWM3ODViNDliMmM3NzBiN2FlZDFjZGJiNzVkZjBhMzVmP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBdabcb11e), was arrested after he squirted a combination of [apple-cider vinegar and water](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMS8yOS91cy9pbGhhbi1vbWFyLXNwcmF5LWFudGhvbnktai1rYXptaWVyY3phay1jaGFyZ2VkLmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB1dcc3369) at Omar during a town hall in Minneapolis, according to court documents. She was apparently not injured in the attack and continued to speak for 25 minutes before being medically screened. Kazmierczak has a long rap sheet, and he also has a long record of social-media posts that support right-wing causes and President Trump. His brother told The Independent that Kazmierczak frequently complained about Somali immigrants and about Omar in particular, who was born in Somalia before immigrating and becoming an American citizen. Court documents [allege](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vcG9saXRpY3MvcG9saXRpY3MtbmV3cy9kb2otZmlsZXMtZmVkZXJhbC1jaGFyZ2VzLW1hbi1hY2N1c2VkLWF0dGFja2luZy1yZXAtaWxoYW4tb21hci1yY25hMjU2NTExP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBc716e3a5) that he once said someone “should kill that bitch.”
+
+Kazmierczak’s alleged animosity toward Omar didn’t come out of nowhere. A chorus on the right, led by Trump, has worked for years to villainize her. When [ABC News reached Trump on Tuesday night](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9Qb2xpdGljcy9tYW4tY2hhcmdlcy1yZXAtaWxoYW4tb21hci10b3duLWhhbGwvc3Rvcnk_aWQ9MTI5NjE4NDA5JnV0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB4608db0b), he said that he hadn’t seen the footage of the attack but then baselessly claimed that Omar had staged the incident. “I don’t think about her. I think she’s a fraud,” he said. “She probably had herself sprayed, knowing her.”
+
+For a guy who claims not to think about Omar, Trump sure seems obsessed with her. Just a few hours earlier, at a speech in Iowa, Trump had been talking about her. “She comes from a country that’s a disaster,” [he said](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cueW91dHViZS5jb20vbGl2ZS9UNGJkZ3UtNllwWT9zaT0wYnQtMGRHdHZDTWhQdVp2JnQ9MjgxNyZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB2e691e76). “It’s considered, I think, the worst. It’s not even a country.” He has sought to make her the face of Somali immigration, usually invoking her name when he mentions the [fraud rings](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cuY25uLmNvbS8yMDI2LzAxLzAyL3VzL2ZyYXVkLW1pbm5lc290YS1wcm9ncmFtcy1zY2FuZGFsLXRydW1wP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB2bc3e209) involving Somali immigrants in Minnesota. (Omar has no known connection to the criminal investigations.) Trump has mentioned her at least 10 times this month alone on Truth Social, where he’s labeled her “disgusting,” called her a “fake ‘Congresswoman,’” and alleged that she married her brother, a long-running claim that [fact-checkers have noted is baseless](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cuc25vcGVzLmNvbS9uZXdzLzIwMjUvMTIvMDIvaWxoYW4tb21hci1icm90aGVyLW1hcnJpYWdlLz9jb2xsZWN0aW9uPTQ3MTkyNiZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBf19c93b7). He said last week that she should be investigated for “[Political Crimes](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly90cnV0aHNvY2lhbC5jb20vQHJlYWxEb25hbGRUcnVtcC9wb3N0cy8xMTU5NDExMzAyOTkyMTA4Nzg_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBb708daa8),” a chillingly authoritarian phrase, and even found time to rant about her during his [speech at the World Economic Forum](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvdHJ1bXAtZGF2b3Mtc3BlZWNoLXdvcmxkLWVjb25vbWljLWZvcnVtLzY4NTY5Mi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBd76aea24).
+
+In fact, Trump helped turn Omar into a national figure in 2019, shortly after she entered Congress. “‘Progressive’ Democrat Congresswomen, who originally came from countries whose governments are a complete and total catastrophe,” should “go back and help fix the totally broken and crime infested places from which they came,” [he wrote on social media](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAxOS8wNy90cnVtcC1zaG91bGQtdGFrZS1oaXMtb3duLXR3aXR0ZXItYWR2aWNlLzU5Mzk0MS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB66567b45) in July of that year. The comment was widely interpreted as a swipe at Omar (among others)—a theory that Trump effectively confirmed a few days later when he complained about her personally, inciting a rally crowd to chant [“Send her back!”](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAxOS8wNy9zZW5kLWhlci1iYWNrLzU5NDI1My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB0449e05b)
+
+In other words, Trump is a major driver of the visceral anger toward Omar. He knows the effect his words might have, though he avoids specifically encouraging violence against her, a phenomenon that Juliette Kayyem, a terrorism scholar and an Atlantic contributor, has called “[stochastic terrorism](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyMi8wNS9sb25lLXdvbGYtc2hvb3RlcnMtaWRlb2xvZ3kvNjI5ODcxLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB8d510e09).”
+
+Trump is familiar with this line of thinking, even if he hasn’t used the academic term. After two attempts on his life in 2024, including one that left him bloodied in Butler, Pennsylvania, Trump and many of his allies charged that Democrats and other Trump critics were to blame for demonizing Trump and saying that he was a threat to democracy. Many of the same arguments followed the assassination of Charlie Kirk last year, and some on the right tried to [crack down on political speech](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzL2FyY2hpdmUvMjAyNS8wOS9jaGFybGllLWtpcmstZnJlZS1zcGVlY2gtcmVwdWJsaWNhbi1wYXJ0eS82ODQyMzUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB3c9f97cd) even as they hailed Kirk for defending it.
+
+A handful of Omar’s critics, including Representative Nancy Mace, a South Carolina Republican, have condemned the attack on her. “Regardless of how vehemently I disagree with her rhetoric—and I do—no elected official should face physical attacks. This is not who we are,” [Mace wrote on X](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly94LmNvbS9SZXBOYW5jeU1hY2Uvc3RhdHVzLzIwMTYzMjIzNTU0MzQyMzgzNTA_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB3cea10d8). But others have hewed closer to Trump’s line. Representative Randy Fine, a Florida Republican, said that Omar shouldn’t have been attacked, and [then immediately pivoted](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cubmV3c21heC5jb20vbmV3c21heC10di9yYW5keS1maW5lLWlsaGFuLW9tYXItbWlubmVzb3RhLzIwMjYvMDEvMjgvaWQvMTI0Mzg5MC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBf12a3124): “I also blame Ilhan Omar for what happened.”
+
+After the assassination attempts on Trump and Kirk’s murder, some people believed that a national effort to lower tensions and avoid violent rhetoric might be possible. But the victim-blaming emanating from Trump and Fine shows that many prominent extremists have no appetite for calming their language, and they haven’t developed a principled commitment to suppressing political violence—they just don’t want their own side to face it. Maintaining a peaceful, stable democracy is nearly impossible when some prominent figures are willing to inflame and then shrug off violence against their political adversaries.
+
+Related:
+
+[Open the door wider for refugees, Ilhan Omar writes.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzL2FyY2hpdmUvMjAyNC8wNi9pbGhhbi1vbWFyLXJlZnVnZWVzLzY3ODczNS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB3f9fa1c8) (From 2024)
+[Minnesota proved MAGA wrong. ](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvdGhlLW5laWdoYm9ycy1kZWZlbmRpbmctbWlubmVzb3RhLWZyb20taWNlLzY4NTc2OS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBd63f86e0)
+
+ 
+
+[Drew Goins](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kcmV3LWdvaW5zLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC56703485)
+
+Senior editor
+
+Atlantic Trivia is back for a short end to the week. [You can find answers here.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvZGFpbHktdHJpdmlhLXF1ZXN0aW9ucy1hbnN3ZXJzLXdlZWstMTUvNjg1Njg1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBdcafd1c7)
+
+The recently released police drama The Rip stars what Hollywood duo, who rocketed to best-friend fame after co-writing the 1997 film Good Will Hunting?
+
+— From David Sims’s story on what is missing from the pair’s on-screen reunion
+Confederate forces fired the first shots of the Civil War in 1861 at what sea fort off the coast of Charleston, South Carolina?
+
+— From Isaac Stanley-Becker’s interview with Tim Walz about a possible modern analogue
+The protest song “Streets of Minneapolis” is the latest release from what musician known for other political music, including “The Ghost of Tom Joad,” “The Rising,” and one very famous song about the singer’s birthplace?
+
+— From Spencer Kornhaber’s essay on the enduring weight of protest songs
+Today’s News
+
+Senate Democrats [blocked a spending package to keep the federal government open](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vbGl2ZS8yMDI2LzAxLzI5L3VzL3RydW1wLW5ld3M_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmMjc2VjdGlvbi01NzA3NjQ2NQ/668d137112b797104109b7bcBce1e2c79) because of a dispute over Department of Homeland Security funding. They are demanding limits on immigration enforcement following recent fatal shootings in Minneapolis and have been negotiating with President Trump to avert a shutdown before the deadline at midnight tomorrow.
+Tom Homan, the White House “border czar,” said that the administration could [eventually reduce the number of federal immigration agents](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly9hcG5ld3MuY29tL2FydGljbGUvaG9tYW4tbWlubmVhcG9saXMtaW1taWdyYXRpb24tZW5mb3JjZW1lbnQtMGQ1NTliZjUzYjYzMGQ3Y2M1MjVmZDMyMTlmNDMwYmE_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB886d1ed5) in Minnesota, but only if state and local officials cooperate and protest-related interference declines.
+A federal appeals court ruled late yesterday that the Trump administration had [acted illegally in ending Temporary Protected Status for Venezuelans](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vbmV3cy9ub2VtLWVuZGluZy1wcm90ZWN0ZWQtc3RhdHVzLXZlbmV6dWVsYW5zLXVzLWlsbGVnYWwtZmVkZXJhbC1hcHBlYWxzLWNvdXJ0LXJ1bGVzLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB17d41867), finding that Homeland Security Secretary Kristi Noem had exceeded her authority; the Supreme Court has allowed the terminations to remain in effect for now. The decision also upheld a lower-court ruling on TPS protections for Haitians.
+Dispatches
+
+Time-Travel Thursdays: The idea of a “trans-national America” argued [against forcing immigrants](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvYW1lcmljYW5pc20tbWVhbmluZy1yYW5kb2xwaC1ib3VybmUvNjg1ODEwLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB03e5f0f0) into an Anglo-Saxon mold, Jake Lundberg writes.
+[Explore all of our newsletters here.](https://link.theatlantic.com/click/29767897.0/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDIyMTEyMQ/61813432e16c7128e42f4628B52865c35)
+
+More From The Atlantic
+
+[America can have the oil.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ludGVybmF0aW9uYWwvMjAyNi8wMS9vaWwtdmVuZXp1ZWxhLWFtZXJpY2EtZmlmdHktZmlmdHkvNjg1Nzk3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBf0735d7c)
+[The three lessons of Minneapolis](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvbWlubmVhcG9saXMtcmVzaXN0YW5jZS1tb3ZlbWVudC10cnVtcC1pY2UvNjg1ODA1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB2ab3811c)
+[What tearing down housing projects did for kids](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvZ2VudHJpZmljYXRpb24tYmVuZWZpdC1zb2NpYWwtbW9iaWxpdHkvNjg1NzkyLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBb73842f2)
+Radio Atlantic: “This has got to end.”
+[Alexandra Petri: Patriot! Here’s how to identify a domestic terrorist.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvaG93LXRvLWlkZW50aWZ5LWEtZG9tZXN0aWMtdGVycm9yaXN0LzY4NTc5OS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB6b6fb295)
+[The new shadowbanning panic](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wMS90aWt0b2stc2hhZG93YmFubmluZy10cnVtcC82ODU3OTgvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBba1d83af)
+
+-->
+
+Evening Read
+
+(Al Drago / Bloomberg / Getty)
+
+ 
+
+[Whatever This Is, It Is Not Strategy](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvdW5zZXJpb3VzLW5hdGlvbmFsLWRlZmVuc2Utc3RyYXRlZ3kvNjg1Nzg0Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC04ccfb1e)
+
+By [Eliot A. Cohen](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9lbGlvdC1hLWNvaGVuLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB19b9aa85)
+
+“At least,” a friend sighed, “they didn’t call it the 2026 National War Strategy.” True enough, although if Secretary of Defense Pete Hegseth claims that he now leads the Department of War, logical consistency would suggest substituting the fiercer war for the feebler defense in the National Defense Strategy.
+
+But logistical consistency, like coherence and gravitas, does not characterize the new NDS. It is a document that supposedly nests within the [National Security Strategy](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjUvMTIvbmF0aW9uYWwtc2VjdXJpdHktc3RyYXRlZ3ktaW5jb2hlcmVudC1iYWJibGUvNjg1MTY2Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBd3f77a58), explaining at greater length the implications of overall policy for the armed forces. The 2026 version does not do that. Rather, it restates some of the basic priorities of the Trump administration but for the most part confines itself to flattery of the president, insults, and bombast.
+
+[Read the full article.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvdW5zZXJpb3VzLW5hdGlvbmFsLWRlZmVuc2Utc3RyYXRlZ3kvNjg1Nzg0Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcD04ccfb1e)
+
+Culture Break
+
+(Michael Mortimer Robinson / Superstock / Bridgeman Images)
+
+ 
+
+Read. Writing a great memoir about choosing a “good enough” life, it turns out, [is hard](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2Jvb2tzLzIwMjYvMDEvbGlmZS1hZnRlci1hbWJpdGlvbi1ib29rLXJldmlldy82ODU4MDQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBd07c487c), Lily Meyer writes.
+
+Listen. Bruce Springsteen’s [“Streets of Minneapolis”](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly9icnVjZXNwcmluZ3N0ZWVuLm5ldC9uZXdzLzIwMjYvc3RyZWV0cy1vZi1taW5uZWFwb2xpcy8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBe73bb982) taps into a time-old tradition to [rail against a modern crisis](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS9icnVjZS1zcHJpbmdzdGVlbi1zdHJlZXRzLW9mLW1pbm5lYXBvbGlzLXJldmlldy82ODU4MDcvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC623f25f7), Spencer Kornhaber writes.
+
+[Play our daily crossword.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ZyZWUtZGFpbHktY3Jvc3N3b3JkLXB1enpsZS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB2c6dc567)
+
+Did someone forward you this email? Sign up here.
+
+[Sign up for Inside the Trump Presidency](https://link.theatlantic.com/click/43827803.553685/aHR0cDovL3d3dy50aGVhdGxhbnRpYy5jb20vbmV3c2xldHRlcnMvc2lnbi11cC90cnVtcHMtcmV0dXJuLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBe9b6cb5b), a newsletter in which Atlantic writers help you understand America in the second Trump term.
+
+Rafaela Jinich contributed to this newsletter.
+
+When you buy a book using a link in this newsletter, we receive a commission. Thank you for supporting The Atlantic.
+
+Most Popular on The Atlantic
+
+[Battles Are Raging Inside the Department of Homeland Security](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDEvZGhzLWljZS10cnVtcC1pbW1pZ3JhdGlvbi1taW5uZXNvdGEvNjg1ODAyLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDEyOSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcCe1100154)
+[MAGA’s War on Empathy](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvd2FyLWVtcGF0aHktaGlsbGFyeS1jbGludG9uLzY4NTgwOS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCd3cc90bd)
+[Minnesota Proved MAGA Wrong](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDEvdGhlLW5laWdoYm9ycy1kZWZlbmRpbmctbWlubmVzb3RhLWZyb20taWNlLzY4NTc2OS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCd63f86e0)
+[The Accidental Winners of the War on Higher Ed](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wMS9saWJlcmFsLWFydHMtY29sbGVnZS13YXItaGlnaGVyLWVkLzY4NTgwMC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjAxMjkmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCc9dd2a55)
+[Rage in the U.S.A.](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wMS9icnVjZS1zcHJpbmdzdGVlbi1zdHJlZXRzLW9mLW1pbm5lYXBvbGlzLXJldmlldy82ODU4MDcvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMTI5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcD623f25f7)
+
+Introducing Premium Plus
+
+Unlimited access for you and three others. The Atlantic scrapbook, an essential addition to any subscriber’s library. And a special tote. All for less than $4 a week.
+
+[Subscribe](https://link.theatlantic.com/click/43827803.553685/aHR0cHM6Ly9hY2NvdW50cy50aGVhdGxhbnRpYy5jb20vcHJvZHVjdHMvc2luZ2xlLW9mZmVyL3ByZW1pdW0tcGx1cy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09Y3ImdXRtX2NhbXBhaWduPXBwbHVzX2d0bSZ1dG1fY29udGVudD1wcm9zcGVjdHMmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC43ff8c8f)
+
+This email was sent to wschenk@gmail.com
+
+You've signed up to receive newsletters from The Atlantic. If you wish to unsubscribe from The Atlantic newsletters, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcq3dqz.bv85/11fbc858).
+
+To update your email preferences, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcq3dqz.bv85/11fbc858).
+
+The Atlantic Monthly Group LLC &middot; 610 Water Street, SW &middot; Washington, DC 20024

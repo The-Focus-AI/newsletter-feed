@@ -1,62 +1,62 @@
-# Week 05 Newsletter Rollup (January 20-28, 2026)
+# Week 05 Newsletter Rollup (January 27 - February 2, 2026)
 
 ## Executive Summary
 
-Week 05 marked a dramatic inflection point across nearly every domain covered by our newsletters. The Minneapolis ICE crisis dominated coverage across politics, culture, and misc categories, with the killings of Renee Nicole Good and Alex Pretti—the second American citizen killed by federal agents in under a month—prompting Senate Democrats to threaten blocking DHS funding. Trump's aggressive posturing on Greenland at Davos and his "mysterious NATO deal" kept international relations volatile, while domestically, questions of authoritarian drift intensified.
+Week 05 marked a dramatic inflection point across nearly every domain covered by our newsletters. The Minneapolis crisis reached a turning point as the killing of Alex Pretti—a U.S. citizen and ICU nurse—forced a rare Trump pivot after bipartisan Republican criticism, with the NRA criticizing the FBI and Senate Democrats threatening DHS funding. Consumer confidence plummeted to 12-year lows as Americans grew anxious about inflation and a "low hire, low fire" labor market.
 
-In tech, the AI industry shifted from aspiration to operation: agent architectures matured from "prompt engineering" to systems thinking, Microsoft mandated Claude Code alongside GitHub Copilot, and a stark productivity paradox emerged—executives claim 8+ hours saved weekly while workers report zero benefit. Artists won a decisive battle when Comic-Con reversed its AI art policy within 24 hours of backlash.
+In tech, the AI industry shifted decisively from models to systems: agent architectures matured with Moonshot AI's Kimi K2.5 deploying 100-agent swarms, Anthropic launched MCP Apps for interactive UI in AI chats, and Ben Thompson warned that TSMC's conservative CapEx is creating a supply bottleneck threatening the entire AI buildout. The Clawdbot/Moltbot phenomenon went viral, becoming the fastest-growing GitHub repo ever as developers rushed to run autonomous AI agents 24/7.
 
-Weather dominated the personal category as New England experienced its most significant winter event of the season—historic cold (-80F windchill on Mt. Washington) followed by 12-20 inches of snow. Philosophy newsletters explored ego, identity, and religious conversion, while books celebrated literature's intrinsic value and uncovered the lost art of esoteric writing.
+Weather dominated the personal category as New England experienced a major winter storm—up to 22 inches of snow followed by arctic cold with windchills below 0F. Philosophy newsletters explored Weimar parallels and Stoicism as crisis remedy, while books celebrated the fanfic-to-publishing pipeline and defended late Henry James.
 
 ---
 
 ## Top Stories Across All Categories
 
-### 1. Minneapolis Under Occupation
-The ICE operation in Minneapolis escalated from immigration enforcement to what multiple sources characterized as potential civil war. Border Patrol killed Alex Pretti, a legally armed ICU nurse, after video showed his weapon was removed before he was shot. This followed the killing of legal observer Renee Nicole Good. Community resistance mobilized rapidly, with a general strike on January 23rd despite -17F temperatures.
-- **Coverage:** [Politics](politics.md), [Culture](culture.md), [Misc](misc.md)
+### 1. Trump's Minnesota Pivot
+The killing of Alex Pretti, a legally armed ICU nurse and U.S. citizen, triggered rare bipartisan Republican criticism that forced Trump to recalibrate his immigration enforcement strategy. The NRA criticized the FBI for blaming Pretti despite video showing agents disarmed him before shooting. Tom Homan was appointed to head Minnesota operations, and the administration announced Border Patrol would withdraw if local officials increased cooperation.
+- **Coverage:** [Politics](politics.md), [Culture](culture.md)
 
-### 2. Trump's Greenland Gambit
-Trump threatened European allies at Davos, demanding Greenland and warning "you can say yes...or you can say no and we will remember." Hours later, he announced a mysterious NATO deal involving mineral rights. Analysts noted he's "no longer backing down" from first-term patterns—following through on threats rather than folding.
-- **Coverage:** [Politics](politics.md), [Misc](misc.md)
+### 2. AI Agents Go Mainstream
+Clawdbot (rebranded Moltbot) became the fastest-growing GitHub repository ever, triggering a run on Mac Minis as developers rushed to run autonomous AI agents 24/7. The creator, Peter Steinberger, made 6,600+ commits in January alone with his radical approach: "I ship code I don't read." Meanwhile, Craft Docs documented going AI-first in one month.
+- **Coverage:** [Tech & AI](tech-ai.md), [Business](business.md), [Misc](misc.md)
 
-### 3. AI Reaches Operational Reality
-The AI industry crossed from promise to production: agent architectures now require systems thinkers over prompt engineers, Microsoft internally favors Claude Code over GitHub Copilot, and a productivity paradox shows managers loving AI while workers see no benefit. WEKA's memory revolution promises 4.2x GPU efficiency.
-- **Coverage:** [Tech & AI](tech-ai.md), [Business](business.md)
+### 3. TSMC as AI's Critical Bottleneck
+Ben Thompson delivered the week's most important strategic analysis: TSMC's conservative CapEx is creating a supply-demand crisis already costing hyperscalers billions. After flat investment from 2022-2024 despite ChatGPT's launch, TSMC is finally increasing to $52-56B in 2026—but this still lags demand and won't impact supply until 2028.
+- **Coverage:** [Tech & AI](tech-ai.md)
 
-### 4. New England's Historic Winter Storm
-The region experienced its most significant winter event of the season—Saturday brought -30F temperatures with -80F windchill on Mt. Washington, followed by 12-20 inches of snow Sunday into Monday. The "fluff bomb" featured 15:1 to 20:1 snow-to-liquid ratios.
+### 4. Consumer Confidence Collapses
+U.S. consumer confidence plummeted to its lowest level in 12 years. The Conference Board gauge decreased to 84.5 from 94.2, missing all economist estimates as Americans grew anxious about inflation, high prices, and a "low hire, low fire" labor market.
+- **Coverage:** [Politics](politics.md)
+
+### 5. New England's Major Winter Storm
+The region experienced significant winter weather—a storm delivered up to 22 inches of snow across Massachusetts and Connecticut, followed by arctic cold with windchills below 0F. Mt. Mansfield's snow stake reached 75 inches, already matching the average peak depth usually seen in late March.
 - **Coverage:** [Personal](personal.md)
-
-### 5. The Defense of Literature
-Henry Oliver's essay argued literature needs no instrumental justification—"No-one argues that we need bees or flowers or summer rain." The Psmiths revealed how philosophers from Plato to Rousseau deliberately hid meanings "between the lines," and Max Read traced Trump staffers' radicalization to being banned from Gawker comments.
-- **Coverage:** [Books](books.md), [Philosophy](philosophy.md)
 
 ---
 
 ## Cross-Category Patterns
 
-### State Power and Individual Liberty
-Minneapolis crystallized tensions between federal authority and constitutional rights. The killing of a legally armed citizen exercising Second Amendment rights while federal agents claimed fear of that weapon exposed deep contradictions. Meanwhile, Trump's AI policy concentrates federal power through investment and preemption rather than traditional regulation.
+### Management as AI Superpower
+Multiple newsletters converged on a key insight: AI success depends more on management skills than technical prowess. Ethan Mollick's MBA students built working startups in four days because "the skills that are so often dismissed as 'soft' turned out to be the hard ones." Clawdbot's creator emphasized that "managing a dev team teaches you to let go of perfectionism."
 
-### The Measurement Crisis
-From AI productivity (feeling faster while being slower) to literature (can't quantify soul-training), Week 05 revealed the limits of metrics. PwC found 56% of companies get "nothing" from AI investment despite enthusiasm.
+### The Weimar Parallel
+Rod Dreher announced a book on "Weimar America," while multiple newsletters documented conditions echoing democratic collapse: institutional failure, elite cowardice, and radicalization on both sides. The Minneapolis crisis crystallized these tensions.
 
-### Community as Resistance
-Whether Minneapolis mutual aid networks, Comic-Con artists mobilizing against AI, or deep reading as resistance to algorithmic capture, collective action emerged as the common thread against both technological and political disruption.
+### Permission Structures and Autonomy
+From Flaming Hydra's analysis of queer fulfillment in Heated Rivalry to Culture Study's breast surgery testimonies, newsletters explored how people navigate permission to be themselves—in bodies, identities, and relationships.
 
-### The Personal Is Political
-Warren General Store's comfort food arrived as arctic air descended; OpenSnow forecasts tracked the same storm that closed Minneapolis schools. Every "personal" category newsletter connected to broader themes of survival and community.
+### Documentation as Resistance
+Both Flaming Hydra's Putin-GOP timeline and Today in Tabs' Minnesota chronicles functioned as archival journalism—creating records for a future that may need to understand how we got here.
 
 ---
 
 ## Category Reports
 
-- [Tech & AI](tech-ai.md) — Agent architectures mature, Microsoft adopts Claude Code, productivity paradox emerges
-- [Politics](politics.md) — Minneapolis killings, Greenland threats, authoritarian drift assessment
-- [Culture](culture.md) — Community resistance, influencer creep, scientific writing crisis
-- [Misc](misc.md) — AI as state power, deep-sea mining ethics, MAID crisis in Canada
-- [Books](books.md) — Literature's defense, esoteric writing, online discourse as politics
-- [Philosophy](philosophy.md) — Ego and identity, religious conversion, cultural decline
-- [Business](business.md) — AWS S3 at scale, AI coding tools, investment landscape
-- [Personal](personal.md) — Historic winter storm, comfort food, regional content
+- [Tech & AI](tech-ai.md) — Agent architectures mature, TSMC bottleneck threatens AI buildout, MCP Apps launch
+- [Politics](politics.md) — Trump's Minnesota pivot, consumer confidence collapse, US allies pivot to Beijing
+- [Culture](culture.md) — Political documentation, permission structures, bodily autonomy narratives
+- [Books](books.md) — Fanfic-to-publishing pipeline, late Henry James defense, literary canon debates
+- [Philosophy](philosophy.md) — Stoicism for crisis, Weimar parallels, Žižek on Trump's hollow authority
+- [Business](business.md) — Clawdbot revolution, Craft Docs AI transformation, abundance vs. sustainability
+- [Misc](misc.md) — Management as AI superpower, AGI as marketing smokescreen, EA psyche analysis
+- [Personal](personal.md) — 22-inch snowstorm, arctic cold, Mt. Mansfield snowpack at 4th-best January ever
