@@ -37,60 +37,6 @@ function createId(name: string): string {
     .substring(0, 40);
 }
 
-// Known category mappings based on keywords and known sources
-function guessCategory(name: string, email: string): string {
-  const lowerName = name.toLowerCase();
-  const lowerEmail = email.toLowerCase();
-
-  // Tech/AI indicators
-  if (/ai|tech|code|dev|programming|software|ruby|python|javascript|engineer/i.test(lowerName + lowerEmail)) {
-    return 'tech-ai';
-  }
-  if (/alphasignal|changelog|semianalysis|turing|sequence|pragmatic/i.test(lowerEmail)) {
-    return 'tech-ai';
-  }
-
-  // Politics indicators
-  if (/politics|news|wsj|atlantic|bloomberg|semafor|times|post/i.test(lowerName + lowerEmail)) {
-    return 'politics';
-  }
-  if (/cosmopolitan|globalist|silver|bulletin|compact/i.test(lowerEmail)) {
-    return 'politics';
-  }
-
-  // Books/reading
-  if (/book|read|review|literary|new yorker|nyrb/i.test(lowerName + lowerEmail)) {
-    return 'books';
-  }
-
-  // Culture
-  if (/culture|browser|kottke|tabs|flaming/i.test(lowerName + lowerEmail)) {
-    return 'culture';
-  }
-
-  // Science/Health
-  if (/science|health|medical|bio|fitness|beast/i.test(lowerName + lowerEmail)) {
-    return 'science';
-  }
-
-  // Philosophy/Religion
-  if (/classical|wisdom|philosophy|religion|dreher/i.test(lowerName + lowerEmail)) {
-    return 'philosophy';
-  }
-
-  // Personal/Local
-  if (/snow|weather|plausible|analytics|local|warren|connecticut/i.test(lowerName + lowerEmail)) {
-    return 'personal';
-  }
-
-  // Misc/Notifications
-  if (/github|linkedin|substack|mailbrew|patreon|beehiiv/i.test(lowerEmail)) {
-    return 'misc';
-  }
-
-  return 'uncategorized';
-}
-
 // Scan all raw emails and extract unique senders
 function scanRawEmails(): Map<string, { name: string; emails: Set<string>; subjects: string[] }> {
   const senders = new Map<string, { name: string; emails: Set<string>; subjects: string[] }>();
@@ -136,12 +82,10 @@ function createNewsletterFile(id: string, data: { name: string; emails: Set<stri
     return;
   }
 
-  const category = guessCategory(data.name, Array.from(data.emails)[0]);
   const emailList = Array.from(data.emails).map(e => `  - ${e}`).join('\n');
 
   const content = `---
 name: "${data.name}"
-category: ${category}
 email_patterns:
 ${emailList}
 ---
@@ -153,7 +97,7 @@ ${data.subjects.map(s => `- ${s}`).join('\n')}
 `;
 
   writeFileSync(filePath, content);
-  console.log(`  Created: ${id} (${category})`);
+  console.log(`  Created: ${id}`);
 }
 
 async function main() {
@@ -172,7 +116,6 @@ async function main() {
 
   console.log('\nDone!');
   console.log(`Newsletter files in: ${NEWSLETTERS_DIR}/`);
-  console.log('\nReview and edit the category assignments as needed.');
 }
 
 main().catch(console.error);

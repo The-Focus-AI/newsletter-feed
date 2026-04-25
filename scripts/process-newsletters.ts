@@ -1,12 +1,13 @@
 #!/usr/bin/env npx tsx
 /**
- * Process raw .eml files into organized markdown content
- * - Reads newsletter definitions from newsletters/*.md files
- * - Identifies newsletter from email address
- * - Creates category/newsletter folder structure in content/
- * - Converts to markdown with proper frontmatter
+ * Process raw .eml files into organized markdown content.
  *
- * Usage: npx tsx scripts/process-newsletters.ts [--force] [--week=03]
+ * - Reads newsletter definitions from newsletters/*.md
+ * - Reads per-email classification sidecars (.classification.json) and skips
+ *   anything not classified as "editorial"
+ * - Writes markdown to content/{week}/{newsletter-id}/{date}-{slug}.md
+ *
+ * Usage: npx tsx scripts/process-newsletters.ts [--force] [--week=17]
  */
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'fs';
@@ -16,7 +17,6 @@ const RAW_DIR = './raw';
 const CONTENT_DIR = './content';
 const NEWSLETTERS_DIR = './newsletters';
 
-// Parse args
 const args = process.argv.slice(2);
 const hasFlag = (name: string) => args.includes(`--${name}`);
 const getArg = (name: string, def?: string) => {
@@ -30,21 +30,23 @@ const WEEK = getArg('week');
 interface Newsletter {
   id: string;
   name: string;
-  category: string;
   email_patterns: string[];
   author?: string;
   url?: string;
 }
 
-// Parse YAML frontmatter from markdown file
+interface Classification {
+  kind: 'editorial' | 'promotional' | 'transactional';
+  confidence?: number;
+  reason?: string;
+}
+
 function parseFrontmatter(content: string): Record<string, any> {
   const match = content.match(/^---\n([\s\S]*?)\n---/);
   if (!match) return {};
 
   const yaml = match[1];
   const result: Record<string, any> = {};
-
-  // Simple YAML parser for our needs
   let currentKey = '';
   let inArray = false;
   let arrayValues: string[] = [];
@@ -54,244 +56,157 @@ function parseFrontmatter(content: string): Record<string, any> {
     if (!trimmed) continue;
 
     if (trimmed.startsWith('- ')) {
-      // Array item
-      if (inArray) {
-        arrayValues.push(trimmed.substring(2).trim());
-      }
+      if (inArray) arrayValues.push(trimmed.substring(2).trim());
     } else if (trimmed.includes(':')) {
-      // Save previous array if any
       if (inArray && currentKey) {
         result[currentKey] = arrayValues;
         arrayValues = [];
         inArray = false;
       }
-
       const colonIdx = trimmed.indexOf(':');
       const key = trimmed.substring(0, colonIdx).trim();
       const value = trimmed.substring(colonIdx + 1).trim();
-
       if (value === '') {
-        // Start of array or nested object
         currentKey = key;
         inArray = true;
         arrayValues = [];
       } else {
-        // Simple value - remove quotes
         result[key] = value.replace(/^["']|["']$/g, '');
       }
     }
   }
-
-  // Save final array if any
-  if (inArray && currentKey) {
-    result[currentKey] = arrayValues;
-  }
-
+  if (inArray && currentKey) result[currentKey] = arrayValues;
   return result;
 }
 
-// Load all newsletter definitions
 function loadNewsletters(): Newsletter[] {
+  if (!existsSync(NEWSLETTERS_DIR)) return [];
   const newsletters: Newsletter[] = [];
-
-  if (!existsSync(NEWSLETTERS_DIR)) {
-    console.error(`Newsletters directory not found: ${NEWSLETTERS_DIR}`);
-    return newsletters;
-  }
-
-  const files = readdirSync(NEWSLETTERS_DIR).filter(f => f.endsWith('.md'));
-
-  for (const file of files) {
+  for (const file of readdirSync(NEWSLETTERS_DIR).filter(f => f.endsWith('.md'))) {
     try {
       const content = readFileSync(join(NEWSLETTERS_DIR, file), 'utf-8');
       const data = parseFrontmatter(content);
-
-      if (data.name && data.category && data.email_patterns) {
+      if (data.name && data.email_patterns) {
         newsletters.push({
           id: basename(file, '.md'),
           name: data.name,
-          category: data.category,
           email_patterns: data.email_patterns,
           author: data.author,
-          url: data.url
+          url: data.url,
         });
       }
     } catch (err) {
       console.error(`Error loading ${file}: ${err}`);
     }
   }
-
   return newsletters;
 }
 
-// Find newsletter by email address
 function findNewsletter(newsletters: Newsletter[], fromEmail: string): Newsletter | null {
   const email = fromEmail.toLowerCase();
-
-  for (const newsletter of newsletters) {
-    for (const pattern of newsletter.email_patterns) {
-      if (email.includes(pattern.toLowerCase())) {
-        return newsletter;
-      }
+  for (const n of newsletters) {
+    for (const pattern of n.email_patterns) {
+      if (email.includes(pattern.toLowerCase())) return n;
     }
   }
   return null;
 }
 
-// Extract email address from "Name <email>" format
 function extractEmail(from: string): string {
   const match = from.match(/<([^>]+)>/);
   return match ? match[1] : from;
 }
 
-// Create URL-friendly slug from text
 function slugify(text: string): string {
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .substring(0, 60);
+  return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').substring(0, 60);
 }
 
-// Format date as YYYY-MM-DD
 function formatDate(dateStr: string): string {
   try {
-    const date = new Date(dateStr);
-    return date.toISOString().split('T')[0];
+    return new Date(dateStr).toISOString().split('T')[0];
   } catch {
     return new Date().toISOString().split('T')[0];
   }
 }
 
-// Extract "View in browser" or similar link from HTML
 function extractViewLink(html: string): string | null {
   if (!html) return null;
-
-  // Common patterns for "view in browser" links
   const patterns = [
     /href="([^"]+)"[^>]*>\s*(?:View|Read)\s+(?:in|this|online|on the web|in browser|email online)[^<]*/i,
     /(?:View|Read)\s+(?:in|this|online|on the web|in browser)[^<]*<\/[^>]+>\s*<\/[^>]+>\s*<a[^>]+href="([^"]+)"/i,
     /href="([^"]*(?:view|mailchi|campaign-archive)[^"]*)"/i,
   ];
-
   for (const pattern of patterns) {
     const match = html.match(pattern);
     if (match && match[1]) {
-      // Skip tracking pixels and unsubscribe links
       const url = match[1];
       if (!url.includes('unsubscribe') && !url.includes('pixel') && !url.includes('track')) {
         return url;
       }
     }
   }
-
   return null;
 }
 
-// Extract canonical article URL from plain text body
-// Looks for common newsletter platform URLs that link to the article
 function extractArticleUrl(body: string, subject: string): string | null {
   if (!body) return null;
-
-  // Extract keywords from subject for matching (remove emojis, numbers, short words)
   const subjectKeywords = subject
     .toLowerCase()
     .replace(/[^\w\s]/g, ' ')
     .split(/\s+/)
     .filter(w => w.length > 3 && !/^\d+$/.test(w));
-
-  // Also extract any identifiers like "FOD#137" -> "fod137"
   const idMatch = subject.match(/([A-Z]+)#?(\d+)/i);
   const subjectId = idMatch ? (idMatch[1] + idMatch[2]).toLowerCase() : null;
 
-  // Patterns for common newsletter platforms - these are canonical article URLs
-  // Order matters: more specific patterns first
   const platformPatterns = [
-    // Substack URLs (*.substack.com/p/*)
     /https:\/\/[a-z0-9-]+\.substack\.com\/p\/[a-z0-9-]+/gi,
-    // Known newsletter domains with /p/ pattern
     /https:\/\/(?:www\.)?(?:turingpost\.com|latent\.space|platformer\.news|semianalysis\.com|simonwillison\.net)\/p\/[a-z0-9-]+/gi,
-    // Beehiiv URLs (*.beehiiv.com/p/*)
     /https:\/\/[a-z0-9-]+\.beehiiv\.com\/p\/[a-z0-9-]+/gi,
-    // Generic /p/ pattern for newsletter posts (fallback)
     /https:\/\/(?:www\.)?[a-z0-9.-]+\/p\/[a-z0-9-]+/gi,
   ];
 
-  const candidateUrls: string[] = [];
-
+  const candidates: string[] = [];
   for (const pattern of platformPatterns) {
-    const matches = body.matchAll(pattern);
-    for (const match of matches) {
+    for (const match of body.matchAll(pattern)) {
       const url = match[0];
-      // Skip tracking, subscribe, and image URLs
-      if (url.includes('subscribe') ||
-          url.includes('unsubscribe') ||
-          url.includes('/cdn-cgi/') ||
-          url.includes('media.beehiiv.com')) {
-        continue;
-      }
-      candidateUrls.push(url);
+      if (url.includes('subscribe') || url.includes('unsubscribe') ||
+          url.includes('/cdn-cgi/') || url.includes('media.beehiiv.com')) continue;
+      candidates.push(url);
     }
   }
+  if (candidates.length === 0) return null;
 
-  if (candidateUrls.length === 0) return null;
-
-  // Deduplicate URLs
-  const uniqueUrls = [...new Set(candidateUrls.map(u => u.split('?')[0]))];
-
-  // If there's an ID in the subject (e.g., "FOD#137"), prefer URLs containing it
+  const unique = [...new Set(candidates.map(u => u.split('?')[0]))];
   if (subjectId) {
-    const matchingUrl = uniqueUrls.find(url => url.toLowerCase().includes(subjectId));
-    if (matchingUrl) return matchingUrl;
+    const m = unique.find(url => url.toLowerCase().includes(subjectId));
+    if (m) return m;
   }
-
-  // Otherwise, try to find a URL that matches subject keywords
-  for (const url of uniqueUrls) {
+  for (const url of unique) {
     const urlPath = url.split('/').pop() || '';
     const urlWords = urlPath.toLowerCase().split('-');
     const matchCount = subjectKeywords.filter(kw => urlWords.some(uw => uw.includes(kw) || kw.includes(uw))).length;
-    if (matchCount >= 2) {
-      return url;
-    }
+    if (matchCount >= 2) return url;
   }
-
-  // Fall back to the first unique URL
-  return uniqueUrls[0];
+  return unique[0];
 }
 
-// Extract source URL using multiple strategies
 function extractSourceUrl(html: string, body: string, subject: string): string | null {
-  // Strategy 1: Look for "View in browser" link in HTML (most reliable)
-  const viewLink = extractViewLink(html);
-  if (viewLink) return viewLink;
-
-  // Strategy 2: Look for canonical article URLs in plain text body
-  const articleUrl = extractArticleUrl(body, subject);
-  if (articleUrl) return articleUrl;
-
-  return null;
+  return extractViewLink(html) ?? extractArticleUrl(body, subject);
 }
 
-// Convert HTML to plain text
 function htmlToText(html: string): string {
   if (!html) return '';
-
   return html
-    // Remove style and script tags with content
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
-    // Convert common block elements to newlines
     .replace(/<\/p>/gi, '\n\n')
     .replace(/<br\s*\/?>/gi, '\n')
     .replace(/<\/div>/gi, '\n')
     .replace(/<\/li>/gi, '\n')
     .replace(/<\/h[1-6]>/gi, '\n\n')
     .replace(/<\/tr>/gi, '\n')
-    // Convert links to markdown format
     .replace(/<a[^>]+href=["']([^"']+)["'][^>]*>([^<]+)<\/a>/gi, '[$2]($1)')
-    // Remove remaining HTML tags
     .replace(/<[^>]+>/g, '')
-    // Decode HTML entities
     .replace(/&nbsp;/g, ' ')
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
@@ -299,8 +214,7 @@ function htmlToText(html: string): string {
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
     .replace(/&#x27;/g, "'")
-    .replace(/&#(\d+);/g, (_match, code) => String.fromCharCode(parseInt(code, 10)))
-    // Clean up whitespace
+    .replace(/&#(\d+);/g, (_m, code) => String.fromCharCode(parseInt(code, 10)))
     .replace(/\r\n/g, '\n')
     .replace(/[ \t]+/g, ' ')
     .replace(/\n /g, '\n')
@@ -309,10 +223,8 @@ function htmlToText(html: string): string {
     .trim();
 }
 
-// Clean up email body content
 function cleanContent(body: string): string {
   if (!body) return '';
-
   return body
     .replace(/\[ https:\/\/substack\.com\/redirect\/[^\]]+\]/g, '')
     .replace(/\[ (https?:\/\/[^\]]+) \], \[ \1 \]/g, '[$1]')
@@ -324,65 +236,62 @@ function cleanContent(body: string): string {
     .trim();
 }
 
-// Ensure content folder structure exists
-function ensureContentFolder(category: string, newsletterId: string): string {
-  const categoryDir = join(CONTENT_DIR, category);
-  const newsletterDir = join(categoryDir, newsletterId);
-
-  if (!existsSync(newsletterDir)) {
-    mkdirSync(newsletterDir, { recursive: true });
+function readClassification(emlPath: string): Classification | null {
+  const sidecar = emlPath.replace(/\.eml$/, '.classification.json');
+  if (!existsSync(sidecar)) return null;
+  try {
+    return JSON.parse(readFileSync(sidecar, 'utf-8'));
+  } catch {
+    return null;
   }
-
-  return newsletterDir;
 }
 
-// Process a single .eml file
-function processEmail(newsletters: Newsletter[], emlPath: string): { processed: boolean; unknown: boolean } {
+function ensureContentFolder(week: string, newsletterId: string): string {
+  const dir = join(CONTENT_DIR, week, newsletterId);
+  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+  return dir;
+}
+
+interface ProcessResult {
+  status: 'processed' | 'skipped-existing' | 'skipped-non-editorial' | 'unclassified' | 'unknown-sender';
+  email?: string;
+  kind?: string;
+}
+
+function processEmail(newsletters: Newsletter[], week: string, emlPath: string): ProcessResult {
   const data = JSON.parse(readFileSync(emlPath, 'utf-8'));
   const fromEmail = extractEmail(data.from || '');
   const newsletter = findNewsletter(newsletters, fromEmail);
 
-  if (!newsletter) {
-    return { processed: false, unknown: true };
+  if (!newsletter) return { status: 'unknown-sender', email: fromEmail };
+
+  const classification = readClassification(emlPath);
+  if (!classification) return { status: 'unclassified', email: fromEmail };
+  if (classification.kind !== 'editorial') {
+    return { status: 'skipped-non-editorial', kind: classification.kind };
   }
 
-  // Ensure folder structure exists
-  const newsletterDir = ensureContentFolder(newsletter.category, newsletter.id);
-
-  // Generate filename: YYYY-MM-DD-slug.md
+  const newsletterDir = ensureContentFolder(week, newsletter.id);
   const dateStr = formatDate(data.date);
   const slug = slugify(data.subject || 'untitled');
-  const filename = `${dateStr}-${slug}.md`;
-  const outputPath = join(newsletterDir, filename);
+  const outputPath = join(newsletterDir, `${dateStr}-${slug}.md`);
 
-  // Skip if already exists (unless --force)
-  if (existsSync(outputPath) && !FORCE) {
-    return { processed: false, unknown: false };
-  }
+  if (existsSync(outputPath) && !FORCE) return { status: 'skipped-existing' };
 
-  // Get content - prefer body, fall back to htmlBody converted to text, then snippet
   let rawContent = data.body || data.text || '';
-  if (!rawContent && data.htmlBody) {
-    rawContent = htmlToText(data.htmlBody);
-  }
-  if (!rawContent) {
-    rawContent = data.snippet || '';
-  }
+  if (!rawContent && data.htmlBody) rawContent = htmlToText(data.htmlBody);
+  if (!rawContent) rawContent = data.snippet || '';
   const content = cleanContent(rawContent);
 
-  // Extract source URL using multiple strategies
   const extractedUrl = extractSourceUrl(data.htmlBody || '', data.body || '', data.subject || '');
-
-  // Build source line - prefer extracted URL, fall back to newsletter URL
   const sourceUrl = extractedUrl || newsletter.url || '';
   const sourceLine = sourceUrl ? `\n**Source:** [View original](${sourceUrl})` : '';
 
-  // Generate markdown with frontmatter
   const markdown = `---
 id: ${data.id}
 newsletter: ${newsletter.id}
 newsletter_name: "${newsletter.name}"
-category: ${newsletter.category}
+week: ${week}
 subject: "${(data.subject || '').replace(/"/g, '\\"')}"
 date: ${data.date}${sourceUrl ? `\nsource_url: "${sourceUrl}"` : ''}
 ---
@@ -398,87 +307,77 @@ ${content}
 `;
 
   writeFileSync(outputPath, markdown);
-  return { processed: true, unknown: false };
+  return { status: 'processed' };
 }
 
-// Process all .eml files in a week folder
-function processWeek(newsletters: Newsletter[], weekNum: string): { processed: number; skipped: number; unknown: number } {
-  const weekDir = join(RAW_DIR, weekNum);
+function processWeek(newsletters: Newsletter[], week: string) {
+  const weekDir = join(RAW_DIR, week);
   if (!existsSync(weekDir)) {
-    console.log(`Week ${weekNum} not found`);
-    return { processed: 0, skipped: 0, unknown: 0 };
+    console.log(`Week ${week} not found`);
+    return;
   }
 
-  const emlFiles = readdirSync(weekDir).filter(f => f.endsWith('.eml'));
-  let processed = 0;
-  let skipped = 0;
-  let unknown = 0;
-  const unknownEmails = new Set<string>();
+  const counts = { processed: 0, existing: 0, dropped: 0, unclassified: 0, unknown: 0 };
+  const droppedByKind: Record<string, number> = {};
+  const unknownSenders = new Set<string>();
 
-  for (const file of emlFiles) {
+  for (const file of readdirSync(weekDir).filter(f => f.endsWith('.eml'))) {
     const emlPath = join(weekDir, file);
     try {
-      const result = processEmail(newsletters, emlPath);
-      if (result.processed) {
-        processed++;
-        const data = JSON.parse(readFileSync(emlPath, 'utf-8'));
-        console.log(`  ✓ ${data.subject?.substring(0, 50)}`);
-      } else if (result.unknown) {
-        unknown++;
-        const data = JSON.parse(readFileSync(emlPath, 'utf-8'));
-        const email = extractEmail(data.from);
-        unknownEmails.add(email);
-      } else {
-        skipped++;
+      const result = processEmail(newsletters, week, emlPath);
+      switch (result.status) {
+        case 'processed':
+          counts.processed++;
+          const data = JSON.parse(readFileSync(emlPath, 'utf-8'));
+          console.log(`  ✓ ${data.subject?.substring(0, 60)}`);
+          break;
+        case 'skipped-existing':
+          counts.existing++;
+          break;
+        case 'skipped-non-editorial':
+          counts.dropped++;
+          droppedByKind[result.kind!] = (droppedByKind[result.kind!] || 0) + 1;
+          break;
+        case 'unclassified':
+          counts.unclassified++;
+          break;
+        case 'unknown-sender':
+          counts.unknown++;
+          if (result.email) unknownSenders.add(result.email);
+          break;
       }
     } catch (err: any) {
       console.error(`  Error: ${file}: ${err.message}`);
     }
   }
 
-  if (unknownEmails.size > 0) {
-    console.log(`\n  Unknown senders (${unknownEmails.size}):`);
-    for (const email of unknownEmails) {
-      console.log(`    - ${email}`);
-    }
+  console.log(`\nWeek ${week}:`);
+  console.log(`  Processed (editorial): ${counts.processed}`);
+  console.log(`  Already existed: ${counts.existing}`);
+  console.log(`  Dropped (non-editorial): ${counts.dropped}` +
+    (counts.dropped ? ` — ${Object.entries(droppedByKind).map(([k, v]) => `${v} ${k}`).join(', ')}` : ''));
+  if (counts.unclassified) console.log(`  Unclassified (run classify step): ${counts.unclassified}`);
+  if (counts.unknown) {
+    console.log(`  Unknown senders: ${counts.unknown}`);
+    for (const e of unknownSenders) console.log(`    - ${e}`);
   }
-
-  return { processed, skipped, unknown };
 }
 
-async function main() {
+function main() {
   console.log('Loading newsletter definitions...');
   const newsletters = loadNewsletters();
   console.log(`Loaded ${newsletters.length} newsletters\n`);
 
   if (newsletters.length === 0) {
-    console.log('No newsletter definitions found. Run: npx tsx scripts/init-newsletters.ts');
+    console.log('No newsletter definitions. Run: npx tsx scripts/init-newsletters.ts');
     return;
   }
 
-  // Get weeks to process
   const weeks = WEEK
     ? [WEEK]
     : readdirSync(RAW_DIR).filter(f => /^\d{2}$/.test(f)).sort();
 
-  let totalProcessed = 0;
-  let totalSkipped = 0;
-  let totalUnknown = 0;
-
-  for (const week of weeks) {
-    console.log(`Processing week ${week}...`);
-    const { processed, skipped, unknown } = processWeek(newsletters, week);
-    totalProcessed += processed;
-    totalSkipped += skipped;
-    totalUnknown += unknown;
-    console.log(`  Processed: ${processed}, Skipped: ${skipped}, Unknown: ${unknown}\n`);
-  }
-
-  console.log('========================================');
-  console.log('Summary:');
-  console.log(`  Processed: ${totalProcessed}`);
-  console.log(`  Skipped (existing): ${totalSkipped}`);
-  console.log(`  Unknown senders: ${totalUnknown}`);
+  for (const week of weeks) processWeek(newsletters, week);
 }
 
-main().catch(console.error);
+main();

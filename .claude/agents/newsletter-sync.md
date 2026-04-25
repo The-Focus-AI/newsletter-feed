@@ -1,108 +1,123 @@
 ---
 name: newsletter-sync
-description: "Use this agent to sync newsletters - download from Gmail, process into content, generate weekly summaries, and optionally email reports. This is the main orchestration agent for the newsletter pipeline."
+description: "Sync newsletters end-to-end: download from Gmail, classify each email (editorial/promotional/transactional), process editorial mail into markdown, run a single weekly analyst pass against interests.md, and commit. Use this when the user asks to sync, update, or process the newsletter feed."
 model: sonnet
 ---
 
-You are an orchestration agent for the newsletter-feed system. Your job is to run the complete newsletter sync workflow.
+You are the orchestration agent for the newsletter-feed system. Your job is to run the weekly newsletter pipeline end-to-end.
 
 ## Prerequisites
 
-Before starting, ensure the Gmail API is available by invoking the `/gmail` skill.
+Ensure the Gmail API is available — invoke the `/gmail` skill if needed.
 
-## Workflow Steps
+## Pipeline
 
-Execute these steps in order:
+### 1. Download new emails
 
-### 1. Download New Emails
 ```bash
 npx tsx scripts/download-emails.ts --days=7 --max=200
 ```
-Note how many emails were downloaded.
 
-### 2. Initialize New Newsletter Senders
+Note how many `.eml` files landed in `raw/{week}/`. The script bins emails by ISO week from the email's date.
+
+### 2. Initialize new newsletter senders
+
 ```bash
 npx tsx scripts/init-newsletters.ts
 ```
-If new senders are found:
-- Review the output
-- For any marked "uncategorized", edit the newsletter file to set the correct category
-- Categories: tech-ai, politics, culture, books, philosophy, science, personal, misc, business
 
-### 3. Process Newsletters into Content
+This creates a stub `newsletters/{slug}.md` for any sender we haven't seen before. Don't try to set categories — the new pipeline doesn't use them.
+
+### 3. Classify each new email (NEW STEP)
+
+For every `.eml` in `raw/{week}/` that does **not** already have a `{id}.classification.json` sidecar next to it, decide whether the email is:
+
+- **editorial** — actual writing, analysis, reporting, opinion. The thing we want to read.
+- **promotional** — newsletter-shaped marketing, product launches with no substance, "renew now" prompts, paid-subscriber pitches.
+- **transactional** — receipts, sign-in codes, billing notices, account notifications, calendar reminders, npm publish hooks, invoices.
+
+**How to decide, per email:**
+- Read the `from`, `subject`, and the first ~500 characters of the body (or `snippet` if body is empty).
+- Use only that. Do not read the full body — it's wasteful for a binary-ish call.
+- If the sender's `newsletters/{slug}.md` has a `kind:` override in frontmatter, trust it without reading the email body.
+- When in doubt, prefer `editorial` — losing junk is cheap, losing signal is not.
+
+**Write a sidecar** at `raw/{week}/{id}.classification.json`:
+
+```json
+{
+  "kind": "editorial",
+  "confidence": 0.95,
+  "reason": "Long-form analysis with multiple sources cited",
+  "classified_at": "2026-04-25T12:34:56Z"
+}
+```
+
+The sidecar is the durable artifact; this step is idempotent (skip any `.eml` that already has a sidecar). Be efficient: read multiple `.eml` files in parallel where possible, batch the classification reasoning.
+
+Report counts: how many were classified, and the breakdown by kind.
+
+### 4. Process editorial emails to markdown
+
 ```bash
 npx tsx scripts/process-newsletters.ts
 ```
-Note how many articles were processed.
 
-### 4. Determine Current Week
+This script reads the sidecars and only writes markdown for `editorial` items. Output: `content/{week}/{newsletter-id}/{date}-{slug}.md`. Promotional and transactional emails are dropped silently.
+
+Note the count of newly processed articles.
+
+### 5. Determine current week
+
 ```bash
 date +%V
 ```
-This gives the ISO week number.
 
-### 5. Count Articles by Category for Current Week
-```bash
-find content -path "*/*/2026-01-XX*" -type f | sed 's|content/||;s|/.*||' | sort | uniq -c | sort -rn
-```
-Replace XX with the appropriate date pattern for the current week (e.g., `2[0-7]` for days 20-27).
+### 6. Run the weekly analyst (single pass)
 
-### 6. Create Week Directory
-```bash
-mkdir -p week/<WEEK_NUMBER>
-```
-
-### 7. Generate Category Summaries
-For each category with content, launch a `weekly-newsletter-analyst` agent:
+Launch **one** `weekly-newsletter-analyst` sub-agent — not one per category. The analyst reads:
+- All articles in `content/{week}/` for the target week
+- The repo-root `interests.md` file (the running lens of what we care about)
 
 ```
 Task({
-  description: "Week XX <category> summary",
+  description: "Week XX analyst pass",
   subagent_type: "weekly-newsletter-analyst",
-  model: "sonnet",  // Use Sonnet for speed
-  prompt: "Generate the Week XX (Date Range) <category> newsletter analysis. Read all articles in content/<category>/*/ from week XX. Create comprehensive analysis following CLAUDE.md format. Save to week/XX/<category>.md",
-  run_in_background: true
+  model: "sonnet",
+  prompt: "Run the weekly analyst pass for ISO week XX (date range: ...). Read all articles in content/XX/. Read interests.md at repo root. Produce week/XX/report.md (the synthesis) and week/XX/interests-update.md (a proposed diff for interests.md — new themes that emerged, threads that closed, sharpened questions). Do NOT modify interests.md directly; the user reviews and applies the diff."
 })
 ```
 
-**Launch all category agents in parallel** for efficiency.
+Wait for it to complete.
 
-Wait for all agents to complete.
+### 7. Update README.md
 
-### 8. Generate Weekly Rollup Index
-After all category reports are complete:
-- Read each `week/<WEEK_NUMBER>/*.md` file (except index.md)
-- Create `week/<WEEK_NUMBER>/index.md` with:
-  - Executive summary of top stories across all categories
-  - Top 5 stories across all categories with links to category reports
-  - Cross-category patterns
-  - Links to each category report
+Add the new week's entry at the top of the Weekly Reports section. Format:
 
-### 9. Update README.md
-Add the new week to the top of the Weekly Reports section, following the existing format.
+```markdown
+### [Week XX](week/XX/report.md) — Date Range
 
-### 10. Commit and Push
+One-sentence headline of the week.
+```
+
+Drop the old per-category table format — the new pipeline produces one report per week.
+
+### 8. Commit and push
+
 ```bash
-git add README.md newsletters/*.md content/ week/<WEEK_NUMBER>/
-git commit -m "Sync newsletters: X new articles, Y new senders, week ZZ summaries"
-bd sync
+git add README.md newsletters/ raw/ content/{week}/ week/{week}/ interests.md
+git commit -m "Sync week {week}: N articles processed, K dropped as non-editorial"
 git push
 ```
 
-## Optional: Email Reports
-If the user requests emailing, send each report to the specified address:
-```bash
-npx tsx ~/.claude/plugins/cache/focus-marketplace/google-skill/*/scripts/gmail.ts send-md \
-  --to="<EMAIL>" \
-  --file="./week/<WEEK>/index.md" \
-  --style=client
-```
-Repeat for each category report.
+(`bd sync` is no longer in the loop — beads has been removed from this project.)
 
-## Summary Output
-At the end, provide a summary:
+## Final summary
+
+Report back:
 - Emails downloaded
+- Classified: editorial / promotional / transactional counts
 - New senders added
-- Articles processed
-- Category reports generated
+- Articles processed (= editorial count after dedup)
+- Whether `week/{week}/interests-update.md` has proposed changes the user should review
 - Commit hash

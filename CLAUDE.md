@@ -1,264 +1,205 @@
 # Newsletter Feed
 
-A system for downloading, organizing, and processing newsletter emails from Gmail, generating weekly analysis reports, and emailing styled summaries.
+Download newsletters from Gmail, classify each email (drop the junk), process editorial mail into markdown, and run a weekly analyst pass that synthesizes through `interests.md` — the user's evolving lens of what matters.
 
 ## Quick Commands
 
-### Sync Newsletters (Full Workflow)
-When asked to "sync newsletters" or "update newsletters", use the `newsletter-sync` agent:
+### Sync newsletters
+
+When the user asks to "sync newsletters" or "update newsletters", launch the `newsletter-sync` agent:
 
 ```
 Task({
   subagent_type: "newsletter-sync",
   prompt: "Sync newsletters for this week",
-  run_in_background: true  // Optional: run in background
+  run_in_background: true
 })
 ```
 
-The agent handles the complete workflow:
-1. Downloads new emails from Gmail
-2. Initializes new newsletter senders
-3. Processes emails into content
-4. Launches parallel `weekly-newsletter-analyst` agents for each category
-5. Generates weekly rollup index
-6. Updates README.md
-7. Commits and pushes changes
+The agent runs the full pipeline:
 
-Both agents use Sonnet by default for speed. Override with `model: "opus"` if needed.
+1. Download new emails from Gmail
+2. Initialize new newsletter senders
+3. **Classify** each new `.eml` as `editorial` / `promotional` / `transactional` (writes a `.classification.json` sidecar)
+4. Process editorial emails into markdown
+5. Run a single `weekly-newsletter-analyst` pass
+6. Update README.md
+7. Commit and push
 
-### Manual Workflow (if not using agents)
-If you need to run steps manually:
+### Manual workflow
 
-1. **Load Gmail skill:** `/gmail`
-2. **Download:** `npx tsx scripts/download-emails.ts --days=7 --max=200`
-3. **Init senders:** `npx tsx scripts/init-newsletters.ts`
-4. **Process:** `npx tsx scripts/process-newsletters.ts`
-5. **Summarize:** Launch `weekly-newsletter-analyst` agents per category
-6. **Rollup:** Create `week/{week}/index.md`
-7. **Update README.md**
-8. **Commit and push**
-
-### Email a Weekly Report
-To email one report:
-```bash
-npx tsx ~/.claude/plugins/cache/focus-marketplace/google-skill/*/scripts/gmail.ts send-md \
-  --to="recipient@example.com" \
-  --file="./week/03/tech-ai.md" \
-  --style="client"
 ```
-
-To email all reports for a week, iterate through `week/{week_number}/*.md` files and send each one (except index.md).
-
-**Style options:**
-- `--style=client` - Focus.AI Client brand (warm, professional)
-- `--style=labs` - Focus.AI Labs brand (bold, experimental)
-
-The `send-md` command:
-- Converts markdown to email-safe HTML with inline styles
-- Uses table-based layout (680px max width) for email client compatibility
-- Extracts subject from first H1 if `--subject` not provided
-- Supports tables, blockquotes, code blocks, lists, and links
+1. /gmail                                            # ensure Gmail auth
+2. npx tsx scripts/download-emails.ts --days=7
+3. npx tsx scripts/init-newsletters.ts
+4. <classify each .eml — see "Classification" below>
+5. npx tsx scripts/process-newsletters.ts
+6. Launch weekly-newsletter-analyst for the week
+7. git add … && git commit && git push
+```
 
 ## Directory Structure
 
 ```
-raw/                              # Raw .eml files by ISO week
-  03/                             # Week 03 emails
-    email-id-1.eml
-    email-id-2.eml
+raw/                                # Raw emails by ISO week
+  17/
+    {message-id}.eml                # email source
+    {message-id}.classification.json # editorial | promotional | transactional
 
-newsletters/                      # Newsletter definitions
-  newsletter-name.md              # YAML frontmatter with name, category, email_patterns
+newsletters/                        # Newsletter definitions (sender → identity)
+  turing-post.md
+  every.md
 
-content/                          # Processed articles by category/newsletter
-  tech-ai/
+content/                            # Editorial articles (post-filter), by week
+  17/
     turing-post/
-      2026-01-15-article-title.md
-    semianalysis/
-      2026-01-15-another-article.md
-  politics/
-    ...
+      2026-04-22-token-taxonomy.md
+    every/
+      2026-04-21-the-model-got-stranger.md
 
-week/                             # Weekly synthesis reports
-  03/                             # Week 03 folder
-    index.md                      # Week 03 combined rollup
-    tech-ai.md                    # Week 03 tech-ai analysis
-    politics.md                   # Week 03 politics analysis
-    culture.md                    # Week 03 culture analysis
+week/                               # Weekly synthesis
+  17/
+    report.md                       # The synthesis (one per week)
+    interests-update.md             # Proposed updates to interests.md (review by hand)
+
+interests.md                        # The user's evolving lens — read by analyst, never auto-edited
 ```
 
-## Scripts
+Older weeks (pre-rewrite) used a `content/{category}/{newsletter}/` layout. That history is preserved as-is; new weeks land under `content/{week}/{newsletter}/`.
 
-### download-emails.ts
-Downloads emails from Gmail with the "Newsletters" label.
-```bash
-npx tsx scripts/download-emails.ts [options]
-  --days=7      # Days back to fetch (default: 7)
-  --max=200     # Max emails (default: 200)
-  --label=X     # Gmail label (default: Newsletters)
+## Classification
+
+Every `.eml` gets a one-time classification. The sidecar lives next to the email:
+
+```json
+{
+  "kind": "editorial",
+  "confidence": 0.95,
+  "reason": "Long-form analysis with multiple sources cited",
+  "classified_at": "2026-04-25T12:34:56Z"
+}
 ```
 
-### init-newsletters.ts
-Creates newsletter definition files for new senders found in raw/.
-```bash
-npx tsx scripts/init-newsletters.ts
-```
+**Three kinds:**
+- `editorial` — actual writing, analysis, reporting. Goes into `content/`.
+- `promotional` — newsletter-shaped marketing, product launches, "renew now". Dropped.
+- `transactional` — receipts, sign-in codes, billing, calendar reminders, npm hooks. Dropped.
 
-### categorize-newsletter.ts
-Uses Claude API to auto-categorize newsletters based on sample content.
-```bash
-npx tsx scripts/categorize-newsletter.ts           # Uncategorized only
-npx tsx scripts/categorize-newsletter.ts --all     # Re-categorize all
-npx tsx scripts/categorize-newsletter.ts --dry-run # Preview changes
-```
+The sync agent does the classification by reading `from`, `subject`, and the first ~500 chars of the body. When in doubt, prefer `editorial` — losing junk is cheap, losing signal is not.
 
-### process-newsletters.ts
-Converts raw emails to organized markdown with frontmatter.
-```bash
-npx tsx scripts/process-newsletters.ts [options]
-  --force       # Reprocess existing files
-  --week=03     # Process specific week only
+**Per-sender override.** Add `kind:` to a newsletter's frontmatter to skip the per-email decision:
+
+```yaml
+---
+name: "iProyal Billing"
+email_patterns:
+  - billing@iproyal.com
+kind: transactional
+---
 ```
 
 ## Newsletter Definitions
 
-Each newsletter has a file in `newsletters/`:
-
-```markdown
+```yaml
 ---
-name: "Newsletter Name"
-category: tech-ai
+name: "Turing Post"
 email_patterns:
-  - sender@example.com
-  - other-sender@example.com
-author: Optional Author
-url: https://optional-url.com
+  - "@mail.beehiiv.com"
+  - turingpost@substack.com
+author: Ksenia Se
+url: https://turingpost.com
+kind: editorial            # optional override — bypasses per-email classification
 ---
-
-Optional description of the newsletter.
 ```
 
-**Categories:** tech-ai, politics, culture, books, philosophy, science, personal, misc, uncategorized
+No `category:` field anymore. Categories are gone.
 
 ## Article Frontmatter
 
-Processed articles include:
 ```yaml
 ---
-id: email-message-id
-newsletter: newsletter-slug
-newsletter_name: "Newsletter Name"
-category: tech-ai
-subject: "Article Subject Line"
-date: Thu, 15 Jan 2026 18:54:50 +0000
-source_url: "https://link-to-view-online"
+id: <email-message-id>
+newsletter: turing-post
+newsletter_name: "Turing Post"
+week: "17"
+subject: "How Token Taxonomy Affects Your Bill"
+date: Wed, 22 Apr 2026 13:11:00 +0000
+source_url: "https://turingpost.com/p/token-taxonomy"
 ---
 ```
 
 ## Weekly Report Format
 
-Weekly summaries follow this structure. **CRITICAL: Every newsletter name must be a hyperlink to its source_url.**
+The analyst produces `week/{week}/report.md` with this shape:
 
 ```markdown
-# Week XX {Category} Newsletter Analysis (Date Range)
+# Week NN Newsletter Report (Date Range)
 
-## Overview
-Brief synthesis linking to sources. Example: "This week, [Turing Post](https://turingpost.com/p/xyz) covered AI partnerships while [SemiAnalysis](https://newsletter.semianalysis.com/p/abc) analyzed infrastructure."
+## TL;DR
+2–4 sentences. Every newsletter mention is a hyperlink to its source_url.
 
----
+## Threads from interests.md
+For each running thread that moved this week, one section. Skip threads with no movement.
 
-## Major Topics and Stories
+## New stories worth tracking
+Stories outside existing threads. Each gets 1–3 paragraphs.
 
-### 1. Topic Name
-**Coverage:** [Newsletter1](source_url1), [Newsletter2](source_url2), [Newsletter3](source_url3)
-
-Context and analysis. Every newsletter reference is a hyperlink.
-
-> "Direct quote from newsletter" — [Author/Newsletter Name](source_url)
-
----
-
-## Cross-Newsletter Patterns
-Themes across sources. All newsletter names hyperlinked.
+## Cross-newsletter patterns
+When 2+ newsletters cover the same beat, note the convergence/divergence.
 
 ## Sources
 - [Article Title](source_url) — Newsletter Name
-- [Article Title](source_url) — Newsletter Name
 ```
 
-**Linking Rules:**
-- Every newsletter name = hyperlink to source_url from article frontmatter
-- Every quote attribution = hyperlink to source
-- Sources section = all articles with clickable original URLs
-- Zero plain-text newsletter names allowed
+And `week/{week}/interests-update.md` — a proposed diff to `interests.md` (new threads, sharpened questions, newsletters proving valuable or noisy). The user reviews and applies it; the analyst never edits `interests.md` directly.
+
+**Linking rules (non-negotiable):**
+- Every newsletter mention is `[Newsletter Name](source_url)`.
+- Every quote attribution links to its source article.
+- Sources section lists every editorial article from `content/{week}/`, even if not cited.
+- If `source_url` is missing, use plain text — never invent a URL.
+
+## Scripts
+
+### download-emails.ts
+```bash
+npx tsx scripts/download-emails.ts --days=7 --max=200 --label=Newsletters
+```
+
+### init-newsletters.ts
+Creates stub `newsletters/{slug}.md` for each new sender found in `raw/`.
+```bash
+npx tsx scripts/init-newsletters.ts
+```
+
+### process-newsletters.ts
+Reads `.classification.json` sidecars, writes markdown for editorial-only.
+```bash
+npx tsx scripts/process-newsletters.ts [--force] [--week=17]
+```
 
 ## Agents
 
-This project has two custom agents in `.claude/agents/`:
+`.claude/agents/newsletter-sync.md` — orchestration (download, classify, process, analyst, commit).
+`.claude/agents/weekly-newsletter-analyst.md` — single weekly synthesis pass through `interests.md`.
 
-### newsletter-sync
-**Model:** Sonnet (fast)
-**Purpose:** Full orchestration workflow
-
-Handles the complete newsletter sync pipeline:
-- Downloads emails from Gmail
-- Initializes new newsletter senders
-- Processes emails into content
-- Launches parallel category summary agents
-- Generates weekly rollup index
-- Updates README.md
-- Commits and pushes
-
-```
-Task({
-  subagent_type: "newsletter-sync",
-  prompt: "Sync newsletters for the current week"
-})
-```
-
-### weekly-newsletter-analyst
-**Model:** Sonnet (fast)
-**Purpose:** Single category analysis
-
-Analyzes newsletter content for one category and generates a comprehensive report:
-- Reads all articles in `content/{category}/*/` for the target week
-- Extracts themes, key stories, quotes with source links
-- Saves report to `week/{week}/{category}.md`
-
-```
-Task({
-  subagent_type: "weekly-newsletter-analyst",
-  prompt: "Generate Week 05 tech-ai analysis. Read content/tech-ai/*/ for week 05. Save to week/05/tech-ai.md"
-})
-```
-
-Both agents default to Sonnet. Override with `model: "opus"` if deeper reasoning is needed.
-
----
+Both default to Sonnet. Override with `model: "opus"` for deeper reasoning.
 
 ## Gmail Setup
 
-Requires gmail-skill plugin authentication:
 ```bash
 npx tsx ~/.claude/plugins/cache/focus-marketplace/google-skill/*/scripts/gmail.ts check
 ```
 
-If not authenticated, run `/gmail` to set up credentials.
+If not authenticated, run `/gmail`.
 
----
+## Email a Report
 
-## Beads Integration
-
-This project uses beads for issue tracking.
-
-**BEFORE ANYTHING ELSE:** run `bd onboard` and follow the instructions
-
-**Session close protocol:**
 ```bash
-git status
-git add <files>
-bd sync
-git commit -m "..."
-bd sync
-git push
+npx tsx ~/.claude/plugins/cache/focus-marketplace/google-skill/*/scripts/gmail.ts send-md \
+  --to="recipient@example.com" \
+  --file="./week/17/report.md" \
+  --style=client
 ```
+
+Style: `client` (Focus.AI Client) or `labs` (Focus.AI Labs).

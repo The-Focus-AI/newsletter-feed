@@ -1,77 +1,33 @@
 # Newsletter Feed
 
-A system for downloading, organizing, and analyzing newsletter emails from Gmail. Generates weekly analysis reports with cross-newsletter themes and insights.
+Download newsletters from Gmail, classify each email (drop the junk), process editorial mail into markdown, and run a weekly analyst pass that synthesizes through `interests.md` — the user's evolving lens of what matters.
+
+See [CLAUDE.md](CLAUDE.md) for the pipeline architecture, [interests.md](interests.md) for the running lens.
 
 ## Weekly Reports
 
-### [Week 05](week/05/index.md) — January 27 - February 2, 2026
+### [Week 17](week/17/index.md) — April 18–24, 2026
 
-Top stories: Trump's Minnesota pivot after Alex Pretti killing triggers bipartisan GOP criticism, consumer confidence hits 12-year low, Clawdbot/Moltbot becomes fastest-growing GitHub repo ever, TSMC bottleneck threatens AI buildout, 22-inch snowstorm blankets New England.
+AIE Miami practitioners change their minds out loud about agentic architecture, the instruction budget, and software engineering identity; Anthropic's reliability crisis crosses into enterprise risk as Retool switches providers; Palantir treats ideology as competitive moat.
 
-| Category | Summary |
-|----------|---------|
-| [Tech & AI](week/05/tech-ai.md) | Agent architectures mature, TSMC bottleneck threatens AI buildout, Kimi K2.5 100-agent swarms, MCP Apps launch |
-| [Politics](week/05/politics.md) | Trump's Minnesota pivot, consumer confidence collapse, US allies pivot to Beijing |
-| [Culture](week/05/culture.md) | Political documentation as cultural work, permission structures, bodily autonomy narratives |
-| [Books](week/05/books.md) | Fanfic-to-publishing pipeline, late Henry James defense, literary canon debates |
-| [Philosophy](week/05/philosophy.md) | Stoicism for crisis, Weimar parallels, Žižek on Trump's hollow authority |
-| [Business](week/05/business.md) | Clawdbot/Moltbot revolution, Craft Docs AI transformation, abundance vs sustainability |
-| [Personal](week/05/personal.md) | 22-inch snowstorm, arctic cold, Mt. Mansfield at 4th-best January snowpack ever |
-| [Misc](week/05/misc.md) | Management as AI superpower, AGI as marketing smokescreen, EA psyche analysis |
+> Note: weeks 03–17 used the old per-category report layout (`week/NN/index.md` + per-category sub-reports). Starting week 18, the analyst produces a single `report.md` per week.
 
 ---
 
-### [Week 04](week/04/index.md) — January 19-25, 2026
+### [Week 05](week/05/index.md) — January 27 – February 2, 2026
 
-Top stories: Minneapolis ICE crisis (two US citizens killed), Trump's Greenland gambit rattles NATO, xAI's 1-gigawatt Colossus 2 cluster, FastRender browser built by 2,000+ AI agents, crypto industry's congressional capture exposed.
+Trump's Minnesota pivot after Alex Pretti killing triggers bipartisan GOP criticism, consumer confidence at 12-year low, Clawdbot/Moltbot becomes fastest-growing GitHub repo, TSMC bottleneck threatens AI buildout.
 
-| Category | Summary |
-|----------|---------|
-| [Tech & AI](week/04/tech-ai.md) | xAI Colossus 2, FastRender, inference infrastructure race, Claude Code at Microsoft, Qwen3-TTS |
-| [Politics](week/04/politics.md) | Minneapolis ICE crisis, Greenland/Davos, crypto capture, 2026 midterm outlook |
-| [Culture](week/04/culture.md) | Minneapolis resistance, media propaganda analysis, Scott Adams death, influencer creep |
-| [Books](week/04/books.md) | Henry Adams's *Democracy*, defense of humanities, Gertrude Stein coverage |
-| [Philosophy](week/04/philosophy.md) | Socrates to MLK civil disobedience, Weimar America warnings, Electra and letting go |
-| [Science](week/04/science.md) | Consistency redefined, ice bath research |
-| [Business](week/04/business.md) | Teresa Torres's Claude Code system, AI productivity paradox, AI in 2026 trajectory |
-| [Personal](week/04/personal.md) | Historic winter storm, -80°F windchills on Mt. Washington |
-| [Misc](week/04/misc.md) | Trump at Davos, deported mother story, GM EVs, deep reading manifesto |
-| [Uncategorized](week/04/uncategorized.md) | MLK Day civil rights critique |
+### [Week 04](week/04/index.md) — January 19–25, 2026
 
----
+Minneapolis ICE crisis (two US citizens killed), Trump's Greenland gambit rattles NATO, xAI's 1-gigawatt Colossus 2 cluster, FastRender browser built by 2,000+ AI agents.
 
-### [Week 03](week/03/index.md) — January 12-18, 2026
+### [Week 03](week/03/index.md) — January 12–18, 2026
 
-Top stories: Trump-Powell Fed crisis, Claude Code democratization moment, Iran protests (2,000-12,000 killed), Grok deepfake international bans, Palantir ICE tools exposed.
-
-| Category | Summary |
-|----------|---------|
-| [Tech & AI](week/03/tech-ai.md) | Claude Code/Cowork, AI healthcare convergence, Grok deepfakes, Palantir ELITE |
-| [Politics](week/03/politics.md) | Powell investigation, Iran crisis, Rubio profile, civil rights rollback |
-| [Culture](week/03/culture.md) | Social media age limits, Gas Town AI dystopia, Twitter moral crisis |
-| [Books](week/03/books.md) | Pólya's problem-solving, literary anniversaries, publishing insights |
-| [Philosophy](week/03/philosophy.md) | Bronze Age collapse parallels, Weimar radicalization, Žižek on imperialism |
-| [Science](week/03/science.md) | Protein inflation and collagen scam exposed |
-| [Business](week/03/business.md) | AI productivity workflows, DeepSeek's no-business-model advantage |
-| [Personal](week/03/personal.md) | New England winter weather, OpenSnow AI features |
-| [Misc](week/03/misc.md) | Venezuela analysis, brain-computer interfaces |
-| [Uncategorized](week/03/uncategorized.md) | Software development is dead, ActivityPub governance |
+Trump-Powell Fed crisis, Claude Code democratization moment, Iran protests, Grok deepfake international bans, Palantir ICE tools exposed.
 
 ---
 
 ## Setup
 
-See [CLAUDE.md](CLAUDE.md) for workflow documentation and sync instructions.
-
-## Categories
-
-- **tech-ai** — Technology, AI, software development
-- **politics** — Political news, policy, government
-- **culture** — Arts, media, social commentary
-- **books** — Literary reviews, publishing
-- **business** — Entrepreneurship, product management, strategy
-- **philosophy** — Ideas, history, classical thought
-- **science** — Research, health, nature
-- **misc** — General interest, lifestyle
-- **personal** — Weather, local, personal updates
-- **uncategorized** — Newsletters awaiting categorization
+See [CLAUDE.md](CLAUDE.md) for the pipeline, scripts, and agent docs.
