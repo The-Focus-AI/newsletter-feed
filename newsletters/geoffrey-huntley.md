@@ -1,6 +1,6 @@
 ---
 name: "Geoffrey Huntley"
-category: uncategorized
+category: tech-ai
 email_patterns:
   - noreply@ghuntley.com
 ---

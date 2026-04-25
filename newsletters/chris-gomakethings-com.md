@@ -1,6 +1,6 @@
 ---
 name: "chris@gomakethings.com"
-category: uncategorized
+category: tech-ai
 email_patterns:
   - chris@gomakethings.com
 ---

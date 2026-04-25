@@ -1,6 +1,6 @@
 ---
 name: "Everything is Political"
-category: uncategorized
+category: politics
 email_patterns:
   - hello@slowfactory.com
 ---

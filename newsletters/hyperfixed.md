@@ -1,6 +1,6 @@
 ---
 name: "Hyperfixed"
-category: uncategorized
+category: misc
 email_patterns:
   - no-reply@supportingcast.fm
 ---

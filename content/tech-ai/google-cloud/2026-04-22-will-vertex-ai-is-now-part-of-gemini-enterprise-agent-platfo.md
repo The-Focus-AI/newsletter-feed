@@ -1,0 +1,92 @@
+---
+id: 19db63b4c74beeff
+newsletter: google-cloud
+newsletter_name: "Google Cloud"
+category: tech-ai
+subject: "Will, Vertex AI is now part of Gemini Enterprise Agent Platform"
+date: Wed, 22 Apr 2026 10:27:12 -0700
+---
+
+# Will, Vertex AI is now part of Gemini Enterprise Agent Platform
+
+**From:** Google Cloud <googlecloud@google.com>
+**Date:** Wed, 22 Apr 2026 10:27:12 -0700
+
+---
+
+Google  
+Cloud<https://c.gle/ADMV5J_5vQOxOtqw7l4d0CNTCarUlC5Zp9g63Na6w9CAG1xQHXIuJJVu61fNvUkCB3I6OSl2zLxed-9uiWsqQ3H6aTmtFXM7McpTapgOtKzvlkeFOusg76Mt_SRVFHunTWGbdOcCId887SUSOKooKmttvXclY19uql4ZxQ_ejmKx5gPUVrCtMO9sJyI4DrqMQeaybqAg3qYGRyEMLIaMzOSP2WWJeMXd9P7r0H-dWGuUjAQcCn1x7fmgL7EnrohwrTi6t7VTD34y5l1C3Xrd_XYOMHBU6Uq5KtuDW31VATaoB9gBQpCxb8gy>
+
+Vertex AI is now part of Gemini Enterprise Agent Platform
+
+Access all of Google Cloud’s agent capabilities, now in one unified place  
+alongside new features.
+
+Try Agent  
+Platform<https://c.gle/ADMV5J__RNkvJPRkIQJB9D63Jq46zKujoQ57Dwh8HScSNCX7ViYoui7w6ihdAT7UNdIOyykRAogzI0lerIol1C3zTqgK8vB2zqxenwmCJhknj-G0kHR4tcqQiedaTgzZrt5FkiUPuI76Evhk3dxqG19TVR5fSxliWpm5D8fERU00Dpn5XrIxG9LDI5NvrMOpUNUAi103fc2Delxx2ciLAnVR65hJqEKpRYXGIOJjMwozxMkyqNImlz75IU3w8w5YJjRfmxwfVYYPPCcWc3GkAycGr1xemfobNCo-YY_f1V2PgEtLfZpLx7VlQR-Oxz21krwT9N3xFabNRdoObArASBBOKzxvDSkQXCSwBOc>
+
+Hi Will,
+
+Vertex AI’s capabilities are now part of Google Cloud’s new Gemini  
+Enterprise Agent Platform. Your favorite model and agent-building tools  
+have a new home—now with exciting new features and zero disruption to your  
+existing workflows.
+
+Make the most of Agent Platform with new features, including:
+
+Agent Runtime
+
+The revamped Runtime offers sub-second cold starts and provisions new  
+agents in seconds, enabling your agents to manage complex, multi-step  
+workflows and deep reasoning tasks that require extended persistence.
+
+Try  
+Runtime<https://c.gle/ADMV5J87uz2EgxblZOcDp7rFm-B-VbzqHW8_Enma-jW0_kj1g90aqG0ykfRbddytxL2r5Q4S6DzPqOtW41_SJ7WrknPl7To1SENNBQnH5iw50WYkHvTLutvxz1DKE_EbcrdNK4w4cJXB9xREAv9FP-2FeiA77UJc4tzR4njOGgedR83oltrk9F1-pXCDtSlzMm6HyVzOqVt1rCcxwJhOlr-7MHMifI9UZycmyoHYsa-icYfJtKj6f4_G6LRGV3t1C99r7Nw6YFWlCat2JHOVoCLUZ9Von9kslYy3jmDv_1wT7FxeXdEkN4QABll_TYhIUPCLMvennRXEpXF_qu69fkQyCeM>
+
+Agent Memory Bank
+
+Memory Bank curates long-term memories from conversations. New Memory  
+Profiles offer high-accuracy recall, ensuring your context is never lost.
+
+Try Memory  
+Bank<https://c.gle/ADMV5J9OvccN70JODVJTQNGMcsTZAloG5HzBwYYNdsukP4DEokKQcmYsO09y0XMzf3RIEtFefILfQS15q8d7YYUnp6cXvos5VpVqVQio-NCH6ezp-qQqcmQFgpMQ9QzLdfSEjZA-K_8St1UWGBi2TluBYqWoMxdNNilnc__BEuHI09sDpoNP46Fy02GFemvDgf2PEYpuYqZbxyQMS-0s7Vp8flS799q7ECk7c-jiXk0kAvdqVReQLFOIxJ1TG5cBJ24RhMGbY84VoG3-dZV8UKP7aBK8vk7sXjZoRuRT3UqAISwc22WdEHuQNX3FSZeGp2nk0C_AiHk4S00R3Q1ZautHPuXsvWEHhcU>
+
+Agent Sandbox (Code Execution)
+
+Sandbox provides a secure environment to safely execute model-generated  
+code and perform computer use tasks like browser-based automation.
+
+Try  
+Sandbox<https://c.gle/ADMV5J9ibcv55dg1517DgDT69Is-WCHYOIfTv5NkWuhJ5moUg-I-OCSOZVTxaYyFZVcPfqT8NLHjiC3pTh6-Z-5gc63NpxbhP-TVzNMOdvfwOcbExRYYV2Jkzdgs0jXQJOL4Dg6L3VXG74pStAffe0jLzBddYhdFaSKfg-QWIuM1V8bsHlcw34wJRTUOaGqY0Pade5CKpVuSKbHa48M3ZtdvrpDfSum2PPSHvTTp8DAV3zEsNVliqnUqZCMxM6kW_PhdkEa_yq0FB4l_a3ZislNB9p6REd5PAAd4XHM8QX5E8WZbZH8HTn8T_315LvHknZ9-4Rrj5sahVBoUqkq59nQTz9tpvFqddeY5wGWKBf-UlmCPaS0NUw2u>
+
+Gemini Enterprise Agent Platform is now your single, comprehensive  
+environment to build, scale, govern and optimize agents. Check out all the  
+latest  
+announcements<https://c.gle/ADMV5J_TgT0erO4_xVLxjZ_SGAiVinNGofRcN-ZvUIs0zPG1SJKc4eL-of8e76K4XOvswbH-LZvveMRoJc0lqgFfmub0_sLeBDrXXz-6dZfbTCE38WHgKoW9iYulxDy3SRi1djJzK2LShF_p4tt-ASAUsl4nmdqhzhjpCcIsS2EYJsLLbhGVSvV6XWtj8dAmPAi1phwUI2i53xgxJ_Ms7sdd0GHjfS4LyB0-663lVOlDS2dcdgPAcB1Hij6jDSZlvuZlnM_NUP9H5JTlH08Oev2INZx8uwE5H0Ka0iyTlxLNQpeTgUgUMkTVejGIeHmmXUg33Xjf5EgXGZkxhZg5sJTyjJbYZWmGnLI3_v1NWs6cPYh6owcHhXLzGA1KWn6bc4d0Nj-dtMLV-sD-hG272_32LoHpBSCNRDlHUQ>  
+from Google Cloud Next and stay up to date about the new features coming to  
+Agent Platform.
+
+Try Agent  
+Platform<https://c.gle/ADMV5J_8fjaz1Vnxd0oGbZg34buD6wJxwK89ungMsaRtRoY_OCKh_zls0ywKTAMuOKpF-4AN9rKxd7KRsk0YXWZJOSux3Zs5ZBYjtqjaJyJDk0XRM-A1CIrkTdvSZhrR0-UW7OBG1tOrS6CsD1SbhCFJunWppRtbfis4xXFBFcslEljAXXkmVAmIdszQWY4Pwojxc0zrsSGJlBj6DWQq2HvGiR1MXoIUhH9s9JPIYxhqnVT4Rk651zZZuBgHRyPzASOQRqQ8f-7LCQOboQ2lqiXaV1jwuJdwTaV6UHI1ubR52oEAodEe6zp6w0ByF4Had6564_N5eicdJygyuj-7cctoSEbta6bZs9Rx46IF>
+
+See you in the cloud,
+
+The Google Cloud Team
+
+Documentation<https://c.gle/ADMV5J_Rk9_vpfgXWgzRB30Snm-xf4Lbr_oSjfO9ZUg-pk4xQas5BwyI291e0p2Gszw49qWeuwCKg0skm03DeK6N0brJZEdXeoZN1LTkLHiTFfuTzBah7XDWdmnaoAkNx8W1mKyLHMfOvUCe3lWPOlE4UFSJnB1B9Hh1hUeGrgL2ltBz6Ak59icoxyaI6uDavfk1m1PcggRY9jvDlvFX0vZswX2oLXGNlqV8WXsq0EaQFm7VTdr2jqgN2FykoxQt9WKaWcDyGf6q45LUaRE93w0lZ-OJOA4k47rkBkVlLXADHC9PXkdd61ma37m2kkdkbv8t__rKroYx6iVJwY6U36007qb1NtW4S8KloYM>
+
+Release  
+Notes<https://c.gle/ADMV5J9XIVs-udAb9CSDzL11EGcV3JCq7DTlHR2rHC5vOZozzoK9dvcVVR6PA3KqYNTsf95sFsRfev6vfvSFiI7gFnzPMyK_4Kzwz8yptBGQ3fsx1TDKyrlxQiq5u_Pn9p4bmSmRbE4BCm2w5upbv9xwqJvC71vwA7hj9ZdRRXGve5IAYOtc8Q5c86Exjb-2W7UYVMhCbjxHbFA8LfY6_bvQu4wjOLby2TnymkgBV8XhX9oskQ3HOog9L8ZFb5adRJyXuBMbyrd1ZSmoAWE2U29vkNwkvNMXnSV0nF85JIv4KiLF-5-8QMMO5GWO_xvnpFz5hogXV1QRtulLyMxpdJOQgdoYwg4sNwqBPIk_FaL-QWW2bDUXgeaL>
+
+Announcement  
+Blog<https://c.gle/ADMV5J-t7Mtozw4kRacs8qdM_-CYWrO_Ht5WVGKz2oQ66SjuVtM9XwEQ61UGUxFfZZ7izQZwSNi1pSIAL4acWWffyiWZ2DHYecmOCLPCNW_Ml4LnhoKTAsvkbYqTqH5UT4CTEXkXht8v7FJhHCvoEtgj4PNXcM076XCFQzfvjBIzxwqFS1ZamI_PTPCQrzVfxo27Z5YzXLux8JSzw4xT-4L2djflDLspEyCH2Zw0XdIY3W-ZnK6n0w8MW_E1j5lpoB7tuSHp9vxvOtZhfgPME-or_uJbinmadumz9_08yPY9XUKxPQRt8LyRTgL-ZZ4st5j8GgElnIrDHBavVsPpbKxRa7v0T5Fh9YupEYmXUhuiXmj63n_CkHy_-tsJqIFYJ42i-iGe8jDnsQghUDv0l7xPlOhAPXxIfA>
+
+Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+This email was sent to wschenk@thefocus.ai because you indicated that you’d  
+like to receive updates and tips about Google Cloud. If you don’t want to  
+receive such emails in the future, please unsubscribe  
+here<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ADMV5J9eGfNV8b3Rm5iH61Ez5xpR1iMes6GrwzKjNM56Eo5lwJ8XiNz5lrdZjmJKLaldiVqPdjlVeOVyb86gcbo9jgFgWOADjElkBY1bN6oQfueFPTB_gAN9WEQ1v-9PjFyms4SuU-2d55nf5lFLCeETRntvEXxuUxwI4TbtXMs-7uQs6liF8sYMFwqT2V5DZQuId62iPrSX7p5jEj4vwLd3D6XsGBrW20Vggzl0nt3HSPeULtdyWzMQmRzUlbvisb-DZQNdffYMoXBpzGz-FDk?utm_source=gm&utm_medium=email&auto=true>.  
+You can also change your preferences on your account’s profile page by  
+logging in at  
+console.cloud.google.com<https://c.gle/ADMV5J8mc4aBmzt5e_Wgt0toXe_fZQ1k5QreVFAqK_P5wR48GB-xY1xDP6ybr50NqRPopIMYbsbvBxAQIiVrBirjhmfFTuVb8tXQysfPr-Rd8FmcvzkqdtwqUQBBitBPPSCj5pUTxCY>

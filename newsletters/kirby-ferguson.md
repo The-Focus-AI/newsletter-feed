@@ -1,6 +1,6 @@
 ---
 name: "Kirby Ferguson"
-category: uncategorized
+category: culture
 email_patterns:
   - kirby@everythingisaremix.info
 ---

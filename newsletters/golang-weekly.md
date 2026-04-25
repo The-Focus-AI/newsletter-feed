@@ -1,6 +1,6 @@
 ---
 name: "Golang Weekly"
-category: uncategorized
+category: tech-ai
 email_patterns:
   - peter@golangweekly.com
 ---

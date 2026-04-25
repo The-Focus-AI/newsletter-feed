@@ -1,6 +1,6 @@
 ---
 name: "Emanuel from 404 Media"
-category: uncategorized
+category: culture
 email_patterns:
   - 404-media@ghost.io
 ---

@@ -17,18 +17,41 @@ function findGmailScript(): string {
   }
   const versions = readdirSync(skillBase)
     .filter(v => /^\d+\.\d+\.\d+$/.test(v))
-    .filter(v => existsSync(join(skillBase, v, 'node_modules/googleapis'))) // Only versions with deps installed
+    .filter(v =>
+      existsSync(join(skillBase, v, 'node_modules/googleapis')) || // old structure
+      existsSync(join(skillBase, v, 'skills/gmail/scripts/gmail.ts')) // new structure
+    )
     .sort((a, b) => {
       const [aMaj, aMin, aPat] = a.split('.').map(Number);
       const [bMaj, bMin, bPat] = b.split('.').map(Number);
       return bMaj - aMaj || bMin - aMin || bPat - aPat;
     });
   if (versions.length === 0) throw new Error('No google-skill versions with installed dependencies found');
-  return join(skillBase, versions[0], 'scripts/gmail.ts');
+  // Try new structure first, then fall back to old
+  const version = versions[0];
+  const newPath = join(skillBase, version, 'skills/gmail/scripts/gmail.ts');
+  const oldPath = join(skillBase, version, 'scripts/gmail.ts');
+  return existsSync(newPath) ? newPath : oldPath;
 }
 
 const GMAIL_SCRIPT = findGmailScript();
-const RAW_DIR = './raw';
+// Run gmail.ts from its parent directory so node_modules can be resolved
+const GMAIL_CWD = join(homedir(), '.claude/plugins/cache/focus-marketplace/google-skill', (() => {
+  const skillBase = join(homedir(), '.claude/plugins/cache/focus-marketplace/google-skill');
+  const versions = readdirSync(skillBase)
+    .filter(v => /^\d+\.\d+\.\d+$/.test(v))
+    .filter(v =>
+      existsSync(join(skillBase, v, 'node_modules/googleapis')) ||
+      existsSync(join(skillBase, v, 'skills/gmail/scripts/gmail.ts'))
+    )
+    .sort((a, b) => {
+      const [aMaj, aMin, aPat] = a.split('.').map(Number);
+      const [bMaj, bMin, bPat] = b.split('.').map(Number);
+      return bMaj - aMaj || bMin - aMin || bPat - aPat;
+    });
+  return versions[0];
+})());
+const RAW_DIR = join(process.cwd(), 'raw');
 
 // Parse args
 const args = process.argv.slice(2);
@@ -39,7 +62,7 @@ const getArg = (name: string, def: string) => {
 
 const DAYS = parseInt(getArg('days', '7'));
 const MAX = parseInt(getArg('max', '200'));
-const LABEL = getArg('label', 'Newsletters');
+const LABEL = getArg('label', 'category:updates');
 
 function getWeekNumber(date: Date): string {
   const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
@@ -71,10 +94,11 @@ async function main() {
   console.log(`Fetching newsletters from last ${DAYS} days (max ${MAX})...`);
 
   // Get list of messages
-  const query = `label:${LABEL} newer_than:${DAYS}d`;
+  // If LABEL already contains a colon (e.g. "category:updates"), use it directly; otherwise prefix with "label:"
+  const query = LABEL.includes(':') ? `${LABEL} newer_than:${DAYS}d` : `label:${LABEL} newer_than:${DAYS}d`;
   const listResult = execSync(
     `npx tsx ${GMAIL_SCRIPT} list --query="${query}" --max=${MAX}`,
-    { encoding: 'utf-8', maxBuffer: 50 * 1024 * 1024 }
+    { encoding: 'utf-8', maxBuffer: 50 * 1024 * 1024, cwd: GMAIL_CWD }
   );
 
   const listData = JSON.parse(listResult);
@@ -104,7 +128,8 @@ async function main() {
     try {
       const result = execSync(`npx tsx ${GMAIL_SCRIPT} read ${msg.id}`, {
         encoding: 'utf-8',
-        maxBuffer: 10 * 1024 * 1024
+        maxBuffer: 10 * 1024 * 1024,
+        cwd: GMAIL_CWD
       });
 
       const data = JSON.parse(result);
