@@ -35,22 +35,9 @@ function findGmailScript(): string {
 }
 
 const GMAIL_SCRIPT = findGmailScript();
-// Run gmail.ts from its parent directory so node_modules can be resolved
-const GMAIL_CWD = join(homedir(), '.claude/plugins/cache/focus-marketplace/google-skill', (() => {
-  const skillBase = join(homedir(), '.claude/plugins/cache/focus-marketplace/google-skill');
-  const versions = readdirSync(skillBase)
-    .filter(v => /^\d+\.\d+\.\d+$/.test(v))
-    .filter(v =>
-      existsSync(join(skillBase, v, 'node_modules/googleapis')) ||
-      existsSync(join(skillBase, v, 'skills/gmail/scripts/gmail.ts'))
-    )
-    .sort((a, b) => {
-      const [aMaj, aMin, aPat] = a.split('.').map(Number);
-      const [bMaj, bMin, bPat] = b.split('.').map(Number);
-      return bMaj - aMaj || bMin - aMin || bPat - aPat;
-    });
-  return versions[0];
-})());
+// Run gmail.ts from the repo root so google-skill uses this project's
+// .claude/google-skill.local.json token instead of a plugin/global token.
+const GMAIL_CWD = process.cwd();
 const RAW_DIR = join(process.cwd(), 'raw');
 
 // Parse args
@@ -62,7 +49,7 @@ const getArg = (name: string, def: string) => {
 
 const DAYS = parseInt(getArg('days', '7'));
 const MAX = parseInt(getArg('max', '200'));
-const LABEL = getArg('label', 'category:updates');
+const LABEL = getArg('label', 'Newsletters');
 
 function getWeekNumber(date: Date): string {
   const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
