@@ -1,0 +1,32 @@
+---
+id: 19dcc08a6e910e65
+newsletter: sam-schillace-from-sunday-letters
+newsletter_name: "Sam Schillace from Sunday Letters"
+week: 17
+subject: "Machine with Concrete"
+date: Sun, 26 Apr 2026 23:01:11 +0000
+source_url: "https://sundaylettersfromsam.substack.com/p/machine-with-concrete"
+---
+
+# Machine with Concrete
+
+**From:** Sam Schillace from Sunday Letters <sundaylettersfromsam@substack.com>
+**Date:** Sun, 26 Apr 2026 23:01:11 +0000
+**Source:** [View original](https://sundaylettersfromsam.substack.com/p/machine-with-concrete)
+
+---
+
+View this post on the web at https://sundaylettersfromsam.substack.com/p/machine-with-concrete
+
+There’s a very cool exhibit  in the San Francisco Exploratorium, called “Machine with Concrete”. It’s a long series of reduction gears with a running motor at one end, and a block of concrete at the other. One end is turning furiously, and the reduction in gearing means that the end will only turn once every trillion years or so (the web page says billion but the exhibit says trillion). It’s a fascinating display of entropy and thermodynamics, but I’ve also always seen it as a good illustration of the idea that activity (or motion) isn’t the same as progress.
+I’m a very creative person. OK, actually I have ADHD so I have a LOT of ideas, all the time (it’s practically impossible for me to clean up my home workshop because I will find some distracting project within 15 minutes of starting, every time). AI has been really great for me, at least in one way: it let’s me bring my ideas into reality very quickly. 
+ My team at Microsoft has been building a very powerful agentic harness called Amplifier  for the past year or so. It has a vast number of tools  - architecture experts, reflective “session analyzers”, a “dev foundry” that I built that stamps out bespoke “dev machines” that can work on tasks for days or weeks on their own, and my favorite, the “Crusty Old Engineer” who is painful but always gives super valuable feedback. 
+This framework makes it very easy to just start something (and Microsoft gives us a generous token budget - this is expensive!) So my ADHD brain is in heaven - I have many ideas every day and it’s very easy to start a project to go investigate them. The harness knows me, knows its tools, has access to my whole enviroment, and is quite effective. A few months ago I had a GitHub user with no repos at all. Now I have over a hundred. The machine is spinning! 
+But…not much of that is fully shipped software. Not because it’s impossible, or even hard, or that the quality isn’t high. The reality is a bit more subtle: shipping, going all the way to robustly done, still involves some things that aren’t very well “agent shaped” - little bits of fit and finish, context understanding, making sure the final product is really what I think it is, etc. Some of this can be mitigated - and I think all of it eventually will be - but right now, the “last mile” of releasing something is still too manual. 
+The machine of my creativity combined with AI spins. The concrete of shipping sits there, unmoved. 
+There are two major areas that my team and I are starting to focus on, in our work with these tools. This is the first: that finishing something should be as easy as starting it. I think that’s possible, and I think largely we have all been so enamored of how easy it is to start things, that we just haven’t focused on it yet. The second area is working together - both many agents working on a problem at once, without causing a mess (so the “wall clock” time to finish it is faster) and people working together in teams. My team of 12 has over 500 projects we’ve built - it’s hard even to understand with the help of AI. 
+Why am I telling you this? Sounds like a failure - lots of heat and motion but no output. I don’t think it is. I think it’s a necessary step along the road - before the current wave of models, we had the idea of a harness, and some of the pieces, but it wasn’t very effective, and we spent our time on that problem. Then we had effective models so we could dive deeply into making the harness smarter, self-improving, and more effective. Now that we largely understand that, we have uncovered the next problem - the last mile. All technologies are like this - one problem or bottleneck at a time. Solving one reveals the next.
+I know there is a lot of backlash and suspicion these days about AI. My experience as a technologist leads me to believe this is misplaced. Yes, it’s being used in dumb ways right now, mostly to rent-seek and reduce costs. This is largely because those use cases aren’t complex either to understand or implement. But the work I’ve done with Amplifier has convinced me that there are huge gains waiting for all of us, once we get through the building phase. Last month I used my tools to clone Word - I’ve already seen one other person do this, and it’s not even particularly interesting now. This week I’ve been working on writing novels - they’re not good yet but they’re getting better. I’ve built two different large, complex tools for someone else, just because it was easy to help them - one for internal use and one for a school in Japan, to help interview students and help them shape ideas for AI. 
+If you’ve read my writing for any amount of time, you know that my constant theme is that pessimism usually isn’t very valuable, that it’s better to ask “what if?” than “why not?”. Every new mode of being, every new tool, every new food or new idea we’ve ever had, was “wrong” before it was “right”. There are problems with AI still, but we are gradually solving them, and it’s already clear to me that there is huge value every time we solve the next one. Things that were unthinkable even a few months ago are routine or even boring now. The gears are all turning. The block will move, eventually.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdW5kYXlsZXR0ZXJzZnJvbXNhbS5zdWJzdGFjay5jb20vYWN0aW9uL2Rpc2FibGVfZW1haWw_dG9rZW49ZXlKMWMyVnlYMmxrSWpveU5UTTRNVFF5TENKd2IzTjBYMmxrSWpveE9UVXpNVEEzT0RRc0ltbGhkQ0k2TVRjM056STBORFl4TVN3aVpYaHdJam94T0RBNE56Z3dOakV4TENKcGMzTWlPaUp3ZFdJdE5UQTNOVE01SWl3aWMzVmlJam9pWkdsellXSnNaVjlsYldGcGJDSjkuTXNPNXJEdlpJSU1WbmhMVDNxVU5WdVRTcEdINmh2MXo0MXlKdHY4aFBMUSIsInAiOjE5NTMxMDc4NCwicyI6NTA3NTM5LCJmIjp0cnVlLCJ1IjoyNTM4MTQyLCJpYXQiOjE3NzcyNDQ2MTEsImV4cCI6MjA5MjgyMDYxMSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.c-8D3PnVEi7cmY8Yv-LB2nAzgzTKJpEsvOFZpIYxUj0?

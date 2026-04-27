@@ -4,7 +4,7 @@
 
 Week 17 was defined by a convergence of model-quality anxiety and practitioner reckoning. The AI Engineer conference in Miami produced the week's richest field dispatches — practitioners changing their minds out loud about agentic architecture, the instruction budget, and what it means to be a software engineer when knowledge scarcity no longer confers identity. Simultaneously, Anthropic's capacity and model-quality issues crossed from user complaint to enterprise business risk, with at least one major enterprise customer (Retool) switching providers. And Palantir planted an ideological flag that every other AI company conspicuously declined to respond to.
 
-**79 emails downloaded, 65 articles processed for week 17 (plus 12 for week 16), 35 new senders onboarded.**
+**Corrected inbox state:** 122 raw week-17 emails from the `wschenk@gmail.com` Newsletter label, 39 classification sidecars, and 35 processed editorial markdown files in `content/17`. The old summary language overstated processed repository content; this rollup now reflects the corrected local content set.
 
 ---
 
@@ -48,6 +48,20 @@ See: [Tech-AI report](./tech-ai.md)
 
 ---
 
+## Corrected Inbox Addendum
+
+The corrected `wschenk@gmail.com` sync added 33 week-17 editorial files beyond the two previously processed items. The additions reinforce the existing thesis rather than changing it:
+
+- [Every's](../../content/17/every/2026-04-20-we-need-to-talk-about-ai-autopilot.md) run of AI workflow pieces, plus [Codex Moves Beyond Coding](../../content/17/every/2026-04-26-codex-moves-beyond-coding.md), strengthens the practitioner-reckoning thread around autonomy, delegation, and prompt/workflow design.
+- [Turing Post on Palantir](../../content/17/turing-post/2026-04-20-why-palantir-s-manifesto-went-viral-without-saying-anything-.md), [Turing Post on token taxonomy](../../content/17/turing-post/2026-04-22-ai-101-how-token-taxonomy-affects-your-bill.md), and [Turing Post on AI-native enterprises](../../content/17/turing-post/2026-04-25-4-there-are-no-ai-native-enterprises.md) now exist as local source files, not just cited summary material.
+- [The Batch](../../content/17/the-batch-deeplearning-ai/2026-04-24-glm-5-1-thinks-strategically-data-center-revolt-intensifies-.md), [TheSequence](../../content/17/thesequence/2026-04-26-the-sequence-radar-849-last-week-in-ai-openai-ships-agents-x.md), and [AlphaSignal](../../content/17/alphasignal/2026-04-26-why-deepseek-v4-and-kimi-k2-6-are-a-big-deal-for-agentic-ai.md) add more evidence that the model-war story is shifting toward Chinese open models, long-running agentic tasks, and benchmark churn.
+- [The Verge](../../content/17/the-verge/2026-04-25-you-re-about-to-feel-the-ai-money-squeeze.md) and [Nate's cost-curve briefing](../../content/17/nate-from-nate-s-substack/2026-04-26-executive-briefing-the-ai-cost-curve-your-strategy-is-riding.md) strengthen the token-cost and AI-pricing side of the report.
+- [WSJ](../../content/17/emma-tucker-wsj/2026-04-26-the-10-point-scenes-of-panic-at-trump-s-d-c-dinner.md), [The Atlantic Daily](../../content/17/the-atlantic-daily/2026-04-26-at-the-scene-of-a-shooting-at-the-white-house-correspondents.md), [The Free Press](../../content/17/the-free-press/2026-04-26-the-american-way-is-under-fire.md), [Semafor Flagship](../../content/17/semafor-flagship/2026-04-26-signs-of-historical-significance.md), and [Semafor Media](../../content/17/semafor-media/2026-04-27-who-knows.md) form the late-week bridge into the week-18 WHCD-shooting theme.
+
+The main change is provenance: the rollup's claims now have local week-17 markdown sources behind them.
+
+---
+
 ## Cross-Category Patterns
 
 **The narrative-reality gap is widening.** The same week that produced breathless conference coverage of agents as a new customer class also produced detailed uptime statistics showing a major AI company fails enterprise reliability standards. Both are real. The industry is simultaneously more capable and more operationally fragile than the dominant narrative suggests.
@@ -60,5 +74,5 @@ See: [Tech-AI report](./tech-ai.md)
 
 ## Category Reports
 
-- [Tech-AI Analysis](./tech-ai.md) — 57 articles analyzed
+- [Tech-AI Analysis](./tech-ai.md) — original category report, now supplemented by 35 processed local week-17 editorial files
 - [Culture Analysis](./culture.md) — 1 article analyzed

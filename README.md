@@ -12,7 +12,7 @@ Corrected wschenk@gmail.com Newsletter sync: WHCD shooting coverage becomes a st
 
 ### [Week 17](week/17/index.md) — April 18–24, 2026
 
-AIE Miami practitioners change their minds out loud about agentic architecture, the instruction budget, and software engineering identity; Anthropic's reliability crisis crosses into enterprise risk as Retool switches providers; Palantir treats ideology as competitive moat.
+AIE Miami practitioners change their minds out loud about agentic architecture, the instruction budget, and software engineering identity; Anthropic's reliability crisis crosses into enterprise risk as Retool switches providers; Palantir treats ideology as competitive moat. Corrected inbox processing now backs the rollup with 35 local week-17 editorial source files.
 
 > Note: weeks 03–17 used the old per-category report layout (`week/NN/index.md` + per-category sub-reports). Starting week 18, the analyst produces a single `report.md` per week.
 
