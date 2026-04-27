@@ -1,0 +1,6 @@
+{
+  "kind": "transactional",
+  "confidence": 0.99,
+  "reason": "Anthropic Stripe receipt for prepaid usage",
+  "classified_at": "2026-04-27T00:00:00Z"
+}
