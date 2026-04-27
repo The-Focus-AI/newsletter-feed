@@ -6,6 +6,10 @@ See [CLAUDE.md](CLAUDE.md) for the pipeline architecture, [interests.md](interes
 
 ## Weekly Reports
 
+### [Week 18](week/18/report.md) — April 27, 2026 (in progress)
+
+Corrected wschenk@gmail.com Newsletter sync: WHCD shooting coverage becomes a stress test for security, DHS funding, media trust, and democratic order; DeepSeek V4 reframes model wars around compute, domestic inference hardware, talent, and financing; Iran/Hormuz pressure shows up in oil, central banks, and U.S. military costs.
+
 ### [Week 17](week/17/index.md) — April 18–24, 2026
 
 AIE Miami practitioners change their minds out loud about agentic architecture, the instruction budget, and software engineering identity; Anthropic's reliability crisis crosses into enterprise risk as Retool switches providers; Palantir treats ideology as competitive moat.
