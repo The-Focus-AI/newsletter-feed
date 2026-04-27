@@ -4,7 +4,7 @@
 
 Week 17 was defined by a convergence of model-quality anxiety and practitioner reckoning. The AI Engineer conference in Miami produced the week's richest field dispatches — practitioners changing their minds out loud about agentic architecture, the instruction budget, and what it means to be a software engineer when knowledge scarcity no longer confers identity. Simultaneously, Anthropic's capacity and model-quality issues crossed from user complaint to enterprise business risk, with at least one major enterprise customer (Retool) switching providers. And Palantir planted an ideological flag that every other AI company conspicuously declined to respond to.
 
-**75 emails downloaded, 63 articles processed for week 17 (plus 12 for week 16), 34 new senders onboarded.**
+**79 emails downloaded, 65 articles processed for week 17 (plus 12 for week 16), 35 new senders onboarded.**
 
 ---
 
@@ -40,6 +40,12 @@ See: [Tech-AI report](./tech-ai.md)
 
 See: [Tech-AI report](./tech-ai.md)
 
+### 6. Enterprise AI Is Still an Organizational Retrofit
+
+A late-arriving [Turing Post](https://www.turingpost.com/p/orgage4) essay sharpened the week’s enterprise-AI thread: there are no AI-native enterprises yet because the hard problem is not model capability, but organizational physics. Large companies can put AI in the business while leaving AI off the business: fraud detection may be modernized while planning, budgeting, incentives, and information flow remain pre-AI. The useful distinction is "AI in the business" versus "AI on the business." The agentic version of executive onboarding, or "Cold Start," is political because it has to map the real organization, not the chart.
+
+See: [Tech-AI report](./tech-ai.md)
+
 ---
 
 ## Cross-Category Patterns
@@ -54,5 +60,5 @@ See: [Tech-AI report](./tech-ai.md)
 
 ## Category Reports
 
-- [Tech-AI Analysis](./tech-ai.md) — 55 articles analyzed
+- [Tech-AI Analysis](./tech-ai.md) — 57 articles analyzed
 - [Culture Analysis](./culture.md) — 1 article analyzed

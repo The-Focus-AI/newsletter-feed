@@ -2,7 +2,7 @@
 
 ## Overview
 
-This week's tech-AI coverage was dominated by two converging storylines: a live field report from the AI Engineer conference in Miami where practitioners recounted which previously-stable assumptions had cracked, and a growing chorus of concern about model reliability — specifically Anthropic's capacity issues and the contested quality of Opus 4.7. [Every](https://every.to/context-window/model-wars) framed it as an outright "Model Wars" as GPT-5.5 and new Chinese open-weight models entered the arena, while [Turing Post](https://link.mail.beehiiv.com/v1/c/18qXUQ%2BHydgxIg%2Bpm6O5J1z1XjUku%2Bntp%2B06dIpc5gpMuMakY0nvRxkDB8my%0AO1rVJ1g7UTMHm6qkiJSljUKqRcb3KzieM%2FTPxlzA%2BJ7vbeJjGdZVzPAzrSPl%0AJrwe2bKKsC4XikV6Cb%2Fvd1Za0AwvXwp5hW5Av0aXlw0DXgobMOQZrHhyloOL%0APEH11WUgOukBYxX4OtXUrrktacfNl1fNPg%3D%3D%0A/6f6789f7d63026cd) examined why Palantir's ideological AI manifesto went viral despite containing nothing new.
+This week's tech-AI coverage was dominated by two converging storylines: a live field report from the AI Engineer conference in Miami where practitioners recounted which previously-stable assumptions had cracked, and a growing chorus of concern about model reliability — specifically Anthropic's capacity issues and the contested quality of Opus 4.7. [Every](https://every.to/context-window/model-wars) framed it as an outright "Model Wars" as GPT-5.5 and new Chinese open-weight models entered the arena, while [Turing Post](https://link.mail.beehiiv.com/v1/c/18qXUQ%2BHydgxIg%2Bpm6O5J1z1XjUku%2Bntp%2B06dIpc5gpMuMakY0nvRxkDB8my%0AO1rVJ1g7UTMHm6qkiJSljUKqRcb3KzieM%2FTPxlzA%2BJ7vbeJjGdZVzPAzrSPl%0AJrwe2bKKsC4XikV6Cb%2Fvd1Za0AwvXwp5hW5Av0aXlw0DXgobMOQZrHhyloOL%0APEH11WUgOukBYxX4OtXUrrktacfNl1fNPg%3D%3D%0A/6f6789f7d63026cd) examined why Palantir's ideological AI manifesto went viral despite containing nothing new. Late weekend additions extended the same thread into knowledge work and enterprise transformation: [Every](https://every.to/context-window/codex-moves-beyond-coding) treated Codex as a general-purpose knowledge-work tool, while [Turing Post](https://www.turingpost.com/p/orgage4) argued that AI-native enterprises do not exist yet because organizational machinery has not become machine-readable.
 
 ---
 
@@ -95,6 +95,26 @@ Andrew Ng's letter in [The Batch](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJ
 
 ---
 
+### 8. Codex Moves Beyond Coding
+
+**Coverage:** [Every](https://every.to/context-window/codex-moves-beyond-coding)
+
+[Every](https://every.to/context-window/codex-moves-beyond-coding) closed the week by treating Codex less as a coding tool than as a general knowledge-work substrate. The newsletter recapped a Codex for Knowledge Work camp where Codex was used for drafting, research, summarizing, parallel task execution, and small automation tools. That extends the AIE Miami theme: the relevant unit is not "developer using coding assistant," but worker using agentic runtime to structure work.
+
+The same issue reinforced a second Week 17 thread: terminal-first tools are becoming identity markers as much as productivity interfaces. Every’s "terminal pilled" closing note describes the terminal as a place where non-engineers can do biotech dashboards, clinical-trial parsing, and financial-file analysis while feeling closer to the coding class. That is not just tooling preference; it is social migration into an interface that used to gatekeep software work.
+
+---
+
+### 9. There Are No AI-Native Enterprises Yet
+
+**Coverage:** [Turing Post](https://www.turingpost.com/p/orgage4)
+
+[Turing Post](https://www.turingpost.com/p/orgage4) added the clearest enterprise-transformation frame of the week: large companies can deploy AI in the business without applying AI on the business. A bank can ship AI fraud detection while still running planning through emailed decks and FTE-denominated budgets. The product surface can modernize while the internal operating system remains illegible to machines.
+
+The useful distinction is organizational, not technical. Enterprises are internal economies where budget, headcount, information, and influence move through cost centers and informal networks. The agentic version of a new executive’s "Cold Start" is therefore political: an agent has to discover how work actually moves, who people route around, where information is hoarded, and which quick wins are safe enough to compound. That makes AI transformation a retrofit problem, not a greenfield subsidiary problem.
+
+---
+
 ## Cross-Newsletter Patterns
 
 **The identity crisis of software engineering** ran through both the AIE Miami coverage from [Will Schenk](https://newsletter.thefocus.ai/archive/aie-miami-day-one-the-forces-have-moved/) and [Every's](https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich) human-in-the-middle framing. The question is no longer "will AI replace developers?" but "what does it mean to be a developer when the identity was partly constructed around a knowledge scarcity that no longer exists?"
@@ -104,6 +124,8 @@ Andrew Ng's letter in [The Batch](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJ
 **Agentic systems require new interfaces** appeared in [Will Schenk](https://newsletter.thefocus.ai/archive/aie-miami-day-2-learning-agency-people-companies-agents/), [Every](https://every.to/context-window/model-wars), and [Olivia from Warp](https://warp.dev). Warp specifically shipped remote control for CLI agents and inline code review for Claude Code sessions — the tooling layer for agentic development is maturing rapidly.
 
 **The instruction budget** — introduced by Dex Horthy at AIE Miami per [Will Schenk](https://newsletter.thefocus.ai/archive/aie-miami-day-one-the-forces-have-moved/) — is a novel and actionable concept: roughly 100-200 instructions before a thinking model stops reliably following all of them. This directly explains why CLAUDE.md files and complex system prompts produce inconsistent results.
+
+**Enterprise AI is splitting into product work and operating-system work.** The late [Turing Post](https://www.turingpost.com/p/orgage4) piece made explicit what several earlier stories implied: putting AI into the product does not make the firm AI-native. The harder work is making planning, budgeting, knowledge flow, governance, and informal power structures machine-readable enough for agents to operate inside them.
 
 ---
 
@@ -116,9 +138,11 @@ Andrew Ng's letter in [The Batch](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJ
 - [Mini-Vibe Check: Claude Design Isn't for Designers Yet](https://every.to/context-window/mini-vibe-check-claude-design) — Every
 - [We Need to Talk About AI Autopilot](https://every.to/context-window/we-need-to-talk-about-ai-autopilot) — Every
 - [Codex for Knowledge Work: Live Camp This Friday](https://every.to/events/codex-for-knowledge-work) — Every
+- [Codex Moves Beyond Coding](https://every.to/context-window/codex-moves-beyond-coding) — Every
 - [Why Palantir's Manifesto Went Viral Without Saying Anything New](https://link.mail.beehiiv.com/v1/c/18qXUQ%2BHydgxIg%2Bpm6O5J1z1XjUku%2Bntp%2B06dIpc5gpMuMakY0nvRxkDB8my%0AO1rVJ1g7UTMHm6qkiJSljUKqRcb3KzieM%2FTPxlzA%2BJ7vbeJjGdZVzPAzrSPl%0AJrwe2bKKsC4XikV6Cb%2Fvd1Za0AwvXwp5hW5Av0aXlw0DXgobMOQZrHhyloOL%0APEH11WUgOukBYxX4OtXUrrktacfNl1fNPg%3D%3D%0A/6f6789f7d63026cd) — Turing Post
 - [AI 101: How Token Taxonomy Affects Your Bill](https://link.mail.beehiiv.com/v1/c/XbbxUCr929CCQHgKWeye7FkS5u3HHoWhe%2BAy0HB8U9eYGfk6GjwDngNaeeJN%0AsDYicYOf7XS2LnadT02h3uUdFpqGCTuyisdIRrljTxfsPm9gzRiYgbO7QjLi%0AJts5uMMgTWs5DSJWvNcD5TyHkQyX6pIyWPy8rPKG8v6anMMOOG1%2BzGx4S1o%2F%0AXZ06ZS3B4490baawCx2JdmecDOhj4BY%2Fng%3D%3D%0A/f6c76c3d7792b056) — Turing Post
 - ["Intention is What We Need": Neeru Khosla on the Future of Education](https://link.mail.beehiiv.com/v1/c/fNLrw%2F24la8NH5PgI6nWha72oZcZ7rGaA0n9mjiA3WgG3VotKzqPUZ%2FRUBnh%0ASB%2B4ud3lfP6YGaxzzbgwTwKkMiiZ0K4b9fM243663t3%2Bqk1DzP%2BsCBKPf4Si%0AXGtyEMiv6uOUGQ4sQJtrMJ8iUh7NLy%2BxHXqCbaylur8%2B5gxKJRYfhbXIN4ml%0Af41E%2BIuES5KUT1iNQp9k2nANEggRjtez8A%3D%3D%0A/e1ac7fc29dac6388) — Turing Post
+- [There are no AI-native enterprises](https://www.turingpost.com/p/orgage4) — Turing Post
 - [AIE Miami, Day One: The Forces Have Moved](https://newsletter.thefocus.ai/archive/aie-miami-day-one-the-forces-have-moved/) — Will Schenk
 - [AIE Miami Day 2: Learning Agency: People, Companies, Agents](https://newsletter.thefocus.ai/archive/aie-miami-day-2-learning-agency-people-companies-agents/) — Will Schenk
 - [Where Are You on the Ladder?](https://newsletter.thefocus.ai/archive/where-are-you-on-the-ladder/) — Will Schenk
