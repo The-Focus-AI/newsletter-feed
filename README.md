@@ -6,9 +6,9 @@ See [CLAUDE.md](CLAUDE.md) for the pipeline architecture, [interests.md](interes
 
 ## Weekly Reports
 
-### [Week 18](week/18/report.md) — April 27, 2026 (in progress)
+### [Week 18](week/18/report.md) — April 27–29, 2026
 
-Corrected wschenk@gmail.com Newsletter sync: WHCD shooting coverage becomes a stress test for security, DHS funding, media trust, and democratic order; DeepSeek V4 reframes model wars around compute, domestic inference hardware, talent, and financing; Iran/Hormuz pressure shows up in oil, central banks, and U.S. military costs.
+Subliminal learning in distillation pipelines breaks every AI compliance assumption being drafted; GPT-5.5 launches at $5/M tokens with a contested benchmark gap; ChinaTalk dismantles Jensen Huang's claim that China has enough compute; UAE quits OPEC as oil spikes 5% on Iran; WHCD assassination attempt covered through three incompatible lenses.
 
 ### [Week 17](week/17/index.md) — April 18–24, 2026
 

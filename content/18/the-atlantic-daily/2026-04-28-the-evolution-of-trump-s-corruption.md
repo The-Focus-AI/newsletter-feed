@@ -1,0 +1,156 @@
+---
+id: 19dd648e26621546
+newsletter: the-atlantic-daily
+newsletter_name: "The Atlantic Daily"
+week: 18
+subject: "The evolution of Trump’s corruption"
+date: Tue, 28 Apr 2026 18:47:45 -0400 (EDT)
+---
+
+# The evolution of Trump’s corruption
+
+**From:** The Atlantic Daily <newsletters@theatlantic.com>
+**Date:** Tue, 28 Apr 2026 18:47:45 -0400 (EDT)
+
+---
+
+The evolution of Trump’s corruption
+
+96
+
+Plus: The ballroom truthers have a theory.
+Tuesday, April 28, 2026
+
+-->
+
+ 
+
+[David A. Graham](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kYXZpZC1hLWdyYWhhbS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC14607686)
+
+Staff writer
+
+In 2019, public pressure forced Donald Trump to back out of hosting a major summit at his Doral, Florida, resort. This year, as he plans to try it again, the press and public are distracted—and Trump is no longer intimidated by backlash.
+
+First, here are three new stories from The Atlantic:
+
+[The ballroom truthers have a theory.](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wNC90cnVtcC1hc3Nhc3NpbmF0aW9uLXN0YWdlZC1jb25zcGlyYWN5LzY4Njk4MC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB2f205561)
+[So nobody is going to pay taxes now?](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvdGF4LXJldm9sdC1pcnMvNjg2OTI2Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB95b048dc)
+[Jonathan Chait: Calling Trump a tyrant is not a call to violence.](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDQvdHJ1bXAtbGFuZ3VhZ2UtcG9saWNpbmcvNjg2OTc3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBe0cccaad)
+
+-->
+
+Won’t Get Fooled Again
+
+(Caryn Levy / PGA Tour / Getty)
+
+ 
+
+View in browser
+
+Seven years ago, during a marginally more innocent time, the Trump administration announced plans to hold the [2020 G7 summit](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAxOS8xMC90cnVtcC1kb3JhbC1nLTctcHJvZml0ZWVyaW5nLzYwMDI0NC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB90a31284) at Donald Trump’s resort in Doral, Florida. The backlash was fierce, and somehow the then–Acting White House Chief of Staff Mick Mulvaney’s dismissive attitude—[“Get over it”](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAxOS8xMC90cnVtcC0yMDIwLWdldC1vdmVyLWl0LzYwMDI2OC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBf41b7a3f)—failed to quell concerns, including among Republicans. Two days later, Trump [gave up](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAxOS8xMC90cnVtcHMtZmxpcC1mbG9wcy1nNy1zdW1taXQtc3lyaWEtYW5kLXR1cmtleS82MDA0MTgvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB45113345) and moved the event to Camp David. (In the end, it was canceled because of COVID.)
+
+Things are different in Trump’s second term. Later this year, the United States will host the G20 summit—an offshoot of the G7 that includes approximately 20 leaders of the world’s largest economies—and the president has selected Trump National Doral as the location. A few days ago, The Washington Post [reported](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDQvMjMvdHJ1bXAtcHV0aW4tZzIwLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB2d31c4be) that Trump even intends to invite Russian President Vladimir Putin, a global pariah, to the meeting. But the Doral G20 has gotten nowhere near the same amount of attention, and much less backlash.
+
+The way the two summits have been received feels like a case study in the differences between the first and second Trump presidencies. In 2019, neither the press nor the public was yet so fatigued by news and numb to outrage, as New York magazine [observed](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlY3V0LmNvbS9hcnRpY2xlL3JlYXNvbi1mb3ItdHJ1bXAtbmV3cy1wYXJhbHlzaXMtbnVtYi1yZWFjdGlvbnMuaHRtbD91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB3aa02765) this week, nor were they yet accustomed to a president using his position to openly enrich himself. (The Atlantic’s [headline](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAxOS8xMC90cnVtcC1kb3JhbC1nLTctcHJvZml0ZWVyaW5nLzYwMDI0NC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC90a31284) about the G7 announcement was “Trump’s Most Shameless Act of Profiteering.” How young we were!) The Republican Party also had more leaders who were willing to criticize the president, either publicly or privately. Finally, although Trump has never seemed especially vulnerable to shame, the president and his aides could still be swayed by sufficient embarrassment back then. The phrase shameless corruption gets used a lot, but Trump’s second term embodies it.
+
+Although the first Trump administration created a fire hose of news, the country has been going at this pace now for 10 years, and the public is getting tired. Trump’s [announcement](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vbmV3cy90cnVtcC1nMjAtc3VtbWl0LTIwMjYtZG9yYWwtcmVzb3J0LWZsb3JpZGEvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB8178a4a0) of the location for the G20 back in early September, was overshadowed by larger stories, particularly the Epstein files; days later, Charlie Kirk was assassinated, briefly blotting out all other coverage. The G20 summit may also seem less relevant than other global events, especially given that Trump is currently shaking or breaking the world order through different means. (He has also already [disinvited](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cucG9saXRpY28uY29tL25ld3MvMjAyNS8xMS8yNi90cnVtcC1zb3V0aC1hZnJpY2EtZzIwLTAwNjcwNDUyP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB4fb471f6) South Africa from the summit for largely imagined offenses against [Afrikaners](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyNS8wNi93aGl0ZS1zb3V0aC1hZnJpY2FuLWZhcm1lcnMtdmlvbGVuY2UvNjgzMjA4Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB7bd80ef8).)
+
+Perhaps most important, the idea of Trump grubbing a few dollars out of hosting a meeting at one of his properties seems positively quaint today. During the first Trump term, I covered a succession of egregious choices: Trump [refusing to financially disentangle himself](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzL2FyY2hpdmUvMjAxNy8wOC90cnVtcHMtYnVzaW5lc3MtZ2V0cy1oaW0taW4tdHJvdWJsZS81MzgzNDEvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB1b9ebfcc) from his companies; [diverting Mike Pence](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAxOS8wOS90cnVtcHMtYnJhemVuLWRvb25iZWctY29ycnVwdGlvbi1taWtlLXBlbmNlLzU5NzI5NS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB74b9ec3e) to his Irish resort for a stopover; charging the Secret Service [exorbitant rates](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyMC8wMi93aHktZG9lcy1iaWxsaW9uYWlyZS1jaGFyZ2Utc2VjcmV0LXNlcnZpY2UtNjUwLW5pZ2h0LzYwNjI1My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBccf16518) to stay at Mar-a-Lago while protecting him; and [making his hotel in Washington, D.C.](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzL2FyY2hpdmUvMjAxOC8wMi90aGUtcnVsZXMtYXJlLXRoZXJlLXRvLXByb3RlY3QteW91LW5vdC1odXJ0LXlvdS81NTQ0ODYvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB34df0758), a physical affront to the Constitution’s [emoluments clause](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzL2FyY2hpdmUvMjAxNy8wMS90cnVtcHMtZXRoaWNzLXRyYWluLXdyZWNrLzUxMzQ0Ni8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB5cdaf259).
+
+To say that these actions now look like nickel-and-diming is not to forgive them but to acknowledge the much larger scale on which Trump and his family are working now. The president’s government is signing off on big payouts to former aides, including [Michael Flynn](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMy8yNS91cy9wb2xpdGljcy9taWNoYWVsLWZseW5uLWRvai1zZXR0bGVtZW50LXRydW1wLmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB5ce10fb0) ($1.25 million for a case in which Flynn pleaded guilty) and Carter Page (another $1.25 million, even though courts twice dismissed his lawsuit). The government has not yet made deals with people convicted for their involvement in the January 6, 2021, riot, but their lawyers are hopeful. Trump has handed out clemency to a slew of people who have donated money to his campaign or his other efforts, which looks a great deal like selling pardons.
+
+Trump’s family business, the Trump Organization, has signed lucrative deals in cities around the world where his administration is also conducting foreign policy. His son-in-law Jared Kushner, too, is [making business deals](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDQvamFyZWQta3VzaG5lci1ldGhpY3MvNjg2ODA4Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB24926169) in some of the same countries with which he is negotiating on behalf of the president, even though he has no government role. Trump’s media company has jumped into cryptocurrency and prediction markets, a clear conflict of interest given the federal government’s role in setting crypto policy. The New York Times recently [reported](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNC8xOS91cy9wb2xpdGljcy90cnVtcC1zeXJpYS1raGF5eWF0Lmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB74662d1c) on how a Syrian billionaire had sought to get sanctions removed on his country with a charm offensive that included an offer to open a Trump-branded golf course. He was egged on by a Republican member of Congress. (The sanctions have been removed, but the Trump Organization says that no deal to build a golf course is in the offing.)
+
+Last summer, David Kirkpatrick of The New Yorker attempted to quantify how much Trump and his immediate family had made off the presidency and came up with a rough figure of [$3.4 billion](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI1LzA4LzE4L3RoZS1udW1iZXI_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBdf166865). By late January, Kirkpatrick [estimated](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzL2EtcmVwb3J0ZXItYXQtbGFyZ2UvdHJ1bXBzLXByb2ZpdGVlcmluZy1oaXRzLWZvdXItYmlsbGlvbi1kb2xsYXJzP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBcbe20a8b) that the total was up to $4 billion. And it will continue to grow. Trump is even [suing his own government](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDIvdHJ1bXAtaXJzLWxhd3N1aXQtdGF4cGF5ZXItZG9sbGFycy82ODYwMDEvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB56a556f7), hoping to get the Justice Department—led for now by his former personal attorney—to pay him $230 million for investigating him, and the IRS to pay him $10 billion for mishandling his tax information.
+
+I worry that summarizing so many examples so briefly only contributes to the same fatigue that has enabled them. If one death is a tragedy and 1 million deaths are a statistic, perhaps it is also true that charging the Secret Service thousands of dollars on hotel rooms is corruption, but raking in billions is simply a new paradigm. Yet these examples pop up regularly. The Trump administration has realized that its profiteering no longer produces the same public fury it once did, that nearly all Republican officeholders will stay quiet, and that it can grit out or ignore any residual shame. The result is on a dollar basis, and perhaps on any basis, the most corrupt administration in American history.
+
+Related:
+
+[America has never seen corruption like Trump’s.](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzL2FyY2hpdmUvMjAyNS8wNy90cnVtcC1jb3JydXB0aW9uLWZvcmVpZ24tcmVnaW1lcy82ODM0ODcvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBb9a062dc)
+[The Trump presidency’s world-historical heist](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyNS8wNS90cnVtcC1nb2xkZW4tYWdlLWNvcnJ1cHRpb24vNjgyOTM1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB1126f1c7)
+
+Today’s News
+
+The [United Arab Emirates said that it will leave OPEC](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNC8yOC93b3JsZC9taWRkbGVlYXN0L3VhZS1vcGVjLmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBa8630591) after decades in the oil cartel, citing a desire for more flexibility over its oil production and exports. The announcement comes as the war with Iran continues to disrupt global energy markets and oil shipments through the Strait of Hormuz.
+In a rare address to Congress, [King Charles III emphasized the “truly unique” relationship between the United Kingdom and the United States](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vcG9saXRpY3MvdHJ1bXAtYWRtaW5pc3RyYXRpb24va2luZy1jaGFybGVzLXJlYWZmaXJtLXVzLXVrLXJlbGF0aW9uc2hpcC1yYXJlLWFkZHJlc3MtY29uZ3Jlc3MtcmNuYTM0MTI4Nj91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB762a2dac), calling it “one of the most consequential alliances in human history.” His speech came amid tensions over President Trump’s war against Iran, though Charles avoided directly mentioning the conflict.
+The Justice Department [secured a second indictment of former FBI Director James Comey](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cuY25uLmNvbS8yMDI2LzA0LzI4L3BvbGl0aWNzL2p1c3RpY2UtZGVwYXJ0bWVudC1pbmRpY3RzLWV4LWZiaS1kaXJlY3Rvci1qYW1lcy1jb21leS1hZ2Fpbj91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB752f2ce2) over a social-media post of seashells forming “86 47.” Members of the Trump administration have argued that the message could be understood as a threat to the president. Comey, who deleted the post and said that he did not realize the numbers could be interpreted as violent, has denied any intent to cause harm.
+More From The Atlantic
+
+[Alexandra Petri: A ballroom would have solved this.](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDQvd2h5LXdlLW5lZWQtYmFsbHJvb20vNjg2OTc5Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBc987ee88)
+[Anthropic’s little brother](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wNC9vcGVuYWktaW1pdGF0aW5nLWFudGhyb3BpYy82ODY5NzUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB02dd927f)
+[A mediocre public-school education for just $40,000 a pupil](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvbmV3LXlvcmstY2l0eS1zY2hvb2xzLWJ1ZGdldC82ODY5NzEvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB7ae39535)
+[Americans once understood birthright citizenship.](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvbmV3c3BhcGVycy1oaXN0b3J5LWJpcnRocmlnaHQtY2l0aXplbnNoaXAvNjg2OTQ2Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBa9a405aa)
+[MAHA’s perfect villain](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzA0L21haGEtZ2x5cGhvc2F0ZS1yYWxseS82ODY5NzIvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBbe795228)
+
+-->
+
+Evening Read
+
+(Alex Davidson / Getty)
+
+ 
+
+[Is It the Shoes?](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzA0L21hcmF0aG9uLTItaG91cnMtc2FiYXN0aWFuLXNhd2UtcnVubmluZy1sb25kb24vNjg2OTc0Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcCce506cc1)
+
+By [Alex Hutchinson](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9hbGV4LWh1dGNoaW5zb24vP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB0afacbd4)
+
+To understand the significance of someone running a marathon in less than two hours, you also need to understand that, until recently, the notion of this actually happening was truly, utterly absurd. Sure, a physiologist named Michael Joyner had floated the idea that such a feat might be humanly possible in [a journal paper](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly9wdWJtZWQubmNiaS5ubG0ubmloLmdvdi8yMDIyNTU5Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB6f67b230) way back in 1991. But his peers laughed off the idea, and not much changed over the succeeding decades. In Runner’s World in 2014, I predicted that it would happen in 2075. Frankly, even that forecast seemed overly optimistic to me, but I figured I’d be dead by then, so no one would be able to call me on it.
+
+Well, I was wrong. Yesterday morning, the two-hour marathon barrier finally went down.
+
+[Read the full article.](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC8yMDI2LzA0L21hcmF0aG9uLTItaG91cnMtc2FiYXN0aWFuLXNhd2UtcnVubmluZy1sb25kb24vNjg2OTc0Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcDce506cc1)
+
+Culture Break
+
+(© 2026 Lee Friedlander)
+
+ 
+
+Take a look. Lee Friedlander, a 91-year-old photographer, has been taking pictures since the late 1940s. In a photo essay, Hua Hsu explores [Friedlander’s view of America](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lLzIwMjYvMDYvbGVlLWZyaWVkbGFuZGVyLXBob3RvZ3JhcGh5LWFtZXJpY2EvNjg2OTM0Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB9538e94c).
+
+Read. A [new book](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly9ib29rc2hvcC5vcmcvcC9ib29rcy9tYWtlLXlvdXItaG9tZS1pbi10aGlzLWx1bWlub3VzLWRhcmstbXlzdGljaXNtLWFydC1hbmQtdGhlLXBhdGgtb2YtdW5rbm93aW5nLWFzc29jaWF0ZS1wcm9mZXNzb3ItamFtZXMtay1hLXNtaXRoL2FmNDg0MDlkNThkNjE4Yjc_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB79d4a7b4) explores how contemporary art [can offer glimpses of the divine](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2N1bHR1cmUvMjAyNi8wNC9tb2Rlcm4tYXJ0LWNocmlzdGlhbi1jb250ZW1wbGF0aW9uLWdvZC82ODY5NzYvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB33513552), Luis Parrales writes.
+
+[Play our daily crossword.](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ZyZWUtZGFpbHktY3Jvc3N3b3JkLXB1enpsZS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBc7eae14d)
+
+[Drew Goins](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kcmV3LWdvaW5zLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC76b2b420)
+
+Senior editor
+
+The World Bank got the Asian Tigers all wrong. Don’t be like the World Bank. (Your full set of trivia [is here](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RyaXZpYS8yMDI2LzA0LzI4LWhvbmcta29uZy13b3JsZC1iYW5rLWFnaW5nLzY4Njk2OC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB97d053ef).)
+
+The “Four Asian Tigers” refers to a group of economies known for rapid growth beginning in the 1960s: Hong Kong, South Korea, Taiwan, and what city-state that is now a global financial center?
+
+— From Rogé Karma’s article on the World Bank’s rethinking of industrial policy
+
+Did someone forward you this email? Sign up here.
+
+[Explore all of our newsletters here.](https://link.theatlantic.com/click/29767897.0/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDIyMTEyMQ/61813432e16c7128e42f4628B52865c35)
+
+[Sign up for Inside the Trump Presidency](https://link.theatlantic.com/click/45435075.1110081/aHR0cDovL3d3dy50aGVhdGxhbnRpYy5jb20vbmV3c2xldHRlcnMvc2lnbi11cC90cnVtcHMtcmV0dXJuLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB204cb7b1), a newsletter in which Atlantic writers help you understand America in the second Trump term.
+
+Rafaela Jinich contributed to this newsletter.
+
+When you buy a book using a link in this newsletter, we receive a commission. Thank you for supporting The Atlantic.
+
+Most Popular on The Atlantic
+
+[So Nobody Is Going to Pay Taxes Now?](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvdGF4LXJldm9sdC1pcnMvNjg2OTI2Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC95b048dc)
+[What We Learn About Trump in His Rare Moments of Self-Reflection](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDQvdHJ1bXAtd2hjZC1zaG9vdGluZy82ODY5NjUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBe67af092)
+[The Pentagon May Not Be Telling Trump the Full Picture About the War](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDQvaXJhbi13YXItdmFuY2UtaGVnc2V0aC10cnVtcC82ODY5MDUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI4JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB758c6dcd)
+[The Ballroom Truthers Have a Theory](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wNC90cnVtcC1hc3Nhc3NpbmF0aW9uLXN0YWdlZC1jb25zcGlyYWN5LzY4Njk4MC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjgmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC2f205561)
+[Calling Trump a Tyrant Is Not a Call to Violence](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDQvdHJ1bXAtbGFuZ3VhZ2UtcG9saWNpbmcvNjg2OTc3Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyOCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcCe0cccaad)
+
+Truth. Insight. Ideas.
+
+Get unlimited access to rigorous, fact-checked reporting from journalists who still believe the truth matters. Subscribe for less than $2 a week.
+
+[Subscribe](https://link.theatlantic.com/click/45435075.1110081/aHR0cHM6Ly9hY2NvdW50cy50aGVhdGxhbnRpYy5jb20vcHJvZHVjdHMvP3V0bV9jb250ZW50PXByb3NwZWN0c19pbmNsdWRlJnV0bV9tZWRpdW09Y3ImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4yNiZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC615e105c)
+
+This email was sent to wschenk@gmail.com
+
+You've signed up to receive newsletters from The Atlantic. If you wish to unsubscribe from The Atlantic newsletters, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcr1txf.nsjl/17e4d0c2).
+
+To update your email preferences, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcr1txf.nsjl/17e4d0c2).
+
+The Atlantic Monthly Group LLC &middot; 610 Water Street, SW &middot; Washington, DC 20024

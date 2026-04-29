@@ -1,0 +1,158 @@
+---
+id: 19dd10da1b83c62d
+newsletter: the-atlantic-daily
+newsletter_name: "The Atlantic Daily"
+week: 18
+subject: "The shooting is not a reason to speedrun Trump’s ballroom"
+date: Mon, 27 Apr 2026 18:25:43 -0400 (EDT)
+---
+
+# The shooting is not a reason to speedrun Trump’s ballroom
+
+**From:** The Atlantic Daily <newsletters@theatlantic.com>
+**Date:** Mon, 27 Apr 2026 18:25:43 -0400 (EDT)
+
+---
+
+The shooting is not a reason to speedrun Trump’s ballroom
+
+96
+
+Plus: The Pentagon may not be telling Trump the full picture about the war.
+Monday, April 27, 2026
+
+-->
+
+ 
+
+[David A. Graham](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kYXZpZC1hLWdyYWhhbS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcCfe6ff0fa)
+
+Staff writer
+
+President Trump says this weekend’s attempted shooting means that his White House ballroom must be built immediately. On the contrary, the incident really makes the case for deliberation and care.
+
+First, here are four new stories from The Atlantic:
+
+[The Pentagon may not be telling Trump the full picture about the war.](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDQvaXJhbi13YXItdmFuY2UtaGVnc2V0aC10cnVtcC82ODY5MDUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB1a39793e)
+[A dark new litmus test for power in Washington](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDQvdHJ1bXAtYXNzYXNzaW5hdGlvbi1hdHRlbXB0LXdoY2QvNjg2OTU4Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB1c9bba13)
+[Can we make events like the White House Correspondents’ Dinner safer?](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvc2FmZXR5LXNlY3VyaXR5LXdoY2QtcHJldmVudGlvbi82ODY5NjkvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBef9f6a28)
+[Peter Wehner: The American pope vs. the American president](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvcG9wZS1sZW8tdHJ1bXAtaXJhbi82ODY5NjQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBaf741e97)
+
+-->
+
+Slow Dance
+
+(Brendan Smialowski / AFP / Getty)
+
+ 
+
+View in browser
+
+Within hours after an attempted [shooting at the White House Correspondents’ Dinner](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDQvYS1zaG9vdGluZy1hdC10aGUtd2hpdGUtaG91c2UtY29ycmVzcG9uZGVudHMtZGlubmVyLzY4Njk1My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBc8a29ccf) on Saturday, President Trump declared that the incident showed the need to build a ballroom at the White House without delay. “We need the ballroom,” he told reporters in a press conference. Yesterday morning, he reiterated the argument on Truth Social, [adding](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly90cnV0aHNvY2lhbC5jb20vQHJlYWxEb25hbGRUcnVtcC9wb3N0cy8xMTY0NzEwNzQ5MjgzMTAxMTk_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB034ff528), “Nothing should be allowed to interfere with with [sic] its construction, which is on budget and substantially ahead of schedule!!!”
+
+Many allies leaped to agree. The commentator Meghan McCain [wrote](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly94LmNvbS9NZWdoYW5NY0NhaW4vc3RhdHVzLzIwNDgyMTg2MDcyNDM0MjQyMDc_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB49f357e9) on X, “I don’t want to hear one more fucking criticism of Trump’s new ballroom at the White House.” Senator John Fetterman of Pennsylvania, a titular Democrat, cited “Trump Derangement Syndrome” to [say](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly94LmNvbS9TZW5GZXR0ZXJtYW5QQS9zdGF0dXMvMjA0ODM5MDAzMDU2MTgxMjkwMj9sYW5nPWVuJnV0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB613d8f88), “After witnessing last night, drop the TDS and build the White House ballroom for events exactly like these.” And Acting Attorney General Todd Blanche [fired off a letter](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly94LmNvbS9EQUdUb2RkQmxhbmNoZS9zdGF0dXMvMjA0ODQ4NDI3MzcyMDYwNzAwNT91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBba9154b9) to the attorney for the plaintiff in a federal lawsuit challenging the construction, saying that the Justice Department would move to dismiss the case if it wasn’t dropped by 9 a.m. this morning. (It was not.)
+
+None of this makes any sense. A ballroom at the White House is not a solution to violence at an outside event hosted by the press. Moreover, if the ballroom is worth building, it is worth building the right way—and the administration shouldn’t have any trouble doing so. If anything, the safe outcome of the chaotic events Saturday show why following process and procedure is so essential in government.
+
+Trump has long been interested in a White House ballroom—the Obama adviser David Axelrod has recounted gently rebuffing Trump’s offer to build one in 2010—but last fall, he abruptly demolished the existing East Wing of the White House, having [promised](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDMvdHJ1bXAtY3JlYXRpbmctY3Jpc2lzLzY4NjUzOS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB69c7d78c) not to “interfere with the current building.” He then began construction of an enormous ballroom, funded with private donations. The National Trust for Historic Preservation sued, arguing that Trump had failed to file correct plans and environmental assessments, and that he was usurping Congress’s authority over the White House grounds and federal property. (Indeed, a New York Times [analysis](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vaW50ZXJhY3RpdmUvMjAyNi8wMy8yOS91cHNob3Qvd2hpdGUtaG91c2UtYmFsbHJvb20uaHRtbD91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB8c256299) found architectural flaws such as staircases that don’t lead anywhere.) So far, to Trump’s dismay, the plaintiff has won some victories; a federal judge repeatedly scolded government lawyers and halted work. Earlier this month, however, an appeals court allowed construction to [proceed for now](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNC8xOC91cy9wb2xpdGljcy90cnVtcC1iYWxscm9vbS1hcHBlYWxzLWNvdXJ0Lmh0bWw_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBcc70835d).
+
+The idea that a White House ballroom would have prevented the frightening event doesn’t really add up. Saturday’s dinner was organized by the White House Correspondents’ Association, an independent group that represents reporters who cover the presidency, not by the White House—and Trump was a guest, not the host. For the annual dinner to occur at the White House itself would be a huge—okay, an even huger—embarrassment and conflict of interest. And that would be true even during a typical presidency, to say nothing of one that has systematically [attacked the freedom of the press](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyNS8wMy90cnVtcHMtcHJlc3MtZnJlZWRvbS1odW5nYXJ5LW9yYmFuLzY4MjA2MC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB2eecb4f5), sought to [disempower the WHCA](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzL2FyY2hpdmUvMjAyNS8wMi9wcmVzcy1wb29sLXRydW1wLXdoaXRlLWhvdXNlLzY4MTg2OD91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBa2be9962), and [banished some of its members](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzL2FyY2hpdmUvMjAyNS8wNy9kb25hbGQtdHJ1bXAtY2FtcGFpZ24tbWVkaWEvNjgzNjAwLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB2a1a1845). (As another example, Trump [snapped](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RYblFOUzNFYzhCLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB6ee6cbf4) at CBS News’s Norah O’Donnell yesterday for asking entirely predictable and normal questions about the shooting, showing that Saturday’s shared danger didn’t create any lasting comity between the president and the press.)
+
+The ballroom might not be the worst idea, but if so, building it shouldn’t require cutting any corners. “We have always acknowledged the utility of a larger meeting space at the White House,” Carol Quillen, the president and CEO of the National Trust, said in a statement today. “Building it lawfully requires the approval of Congress, which the Administration could seek at any time.” If the case is good, the administration should have a relatively easy time getting the requisite approvals and persuading Congress not only to sign off on the idea but to allocate funding for it—especially with Republicans in control of both chambers. It shouldn’t require secretive demolitions and minimal transparency. And if the federal lawsuit challenging the construction is as “frivolous” as Blanche claims, then the Justice Department should have a relatively easy time defeating it in court.
+
+Everyone loves to hate red tape, but the truth is that the process required in government can be very valuable. One reason that an assassination attempt against Trump in 2024 came within millimeters of success is that the Secret Service [failed to follow its own best practices](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cuc2VjcmV0c2VydmljZS5nb3YvbmV3c3Jvb20vcmVsZWFzZXMvMjAyNS8wNy91cy1zZWNyZXQtc2VydmljZS1vbmUteWVhci11cGRhdGUtZm9sbG93aW5nLWp1bHktMTMtMjAyNC1hdHRlbXB0ZWQ_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBf62d1121). By contrast, as my colleague Shane Harris [reports](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDQvd2hjZC1zZWN1cml0eS10cnVtcC1zaG9vdGVyLzY4Njk1NS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB84e9b558), the response on Saturday was far more effective because law-enforcement agencies seem to have executed well on their procedures.
+
+At the same moment that Trump was holding up the shooting as a reason to build the ballroom, online influencers were spreading conspiracy theories about the incident being “[staged](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L3N0YWdlZC1jb25zcGlyYWN5LXRoZW9yaWVzLWFyZS1ldmVyeXdoZXJlLWZvbGxvd2luZy13aGl0ZS1ob3VzZS1jb3JyZXNwb25kZW50cy1kaW5uZXItc2hvb3RpbmcvP3V0bV9zb3VyY2U9c3ByZWFkJnV0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBa58a3e4a).” I saw social-media posts likening it to the 1933 Reichstag fire, which the Nazi government used to justify consolidation of power and which some people believe to have been an inside job; they warned that Trump would use the shooting to repress political opponents and plow through guardrails. Much simpler and more likely explanations for Saturday’s shooting are available than a false flag: Trump is a deeply despised president; political polarization and tension [are very high](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lL2FyY2hpdmUvMjAyNC8wOS90cnVtcC1idXRsZXItYXNzYXNzaW5hdGlvbi1hdHRlbXB0LXBhLXJhbGx5LzY3OTE1My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB1638d5f2); and [acquiring guns is extremely easy](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzL2FyY2hpdmUvMjAyNS8wOS9jaGFybGllLWtpcmstc2hvdC1hc3Nhc3NpbmF0aW9uLzY4NDE3MC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB2ccf5901) in the United States.
+
+If the only abuse of executive power to emerge from the moment is the administration demanding to be allowed to start construction, that will be good news for civil liberties and for the country as a whole, but that also doesn’t mean that Trump should get his way. If a ballroom is necessary, the nation deserves one that’s carefully planned and executed rather than a hastily designed colossus with stairs to nowhere.
+
+Related:
+
+[The most frightening shooters are the smart ones.](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvbW9zdC1mcmlnaHRlbmluZy1zaG9vdGVycy1hcmUtc21hcnQtb25lcy82ODY5NjMvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB0431f99f)
+[Donald Trump, demolition man](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDEvd2hpdGUtaG91c2UtZWFzdC13aW5nLWRlbW9saXRpb24tdHJ1bXAvNjg1Nzk1Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB131e9929)
+
+Today’s News
+
+Authorities say that Cole Tomas Allen, a 31-year-old from California, was [allegedly targeting Trump-administration officials](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy91cy1uZXdzL2xpdmUtYmxvZy9saXZlLXVwZGF0ZXMtY29ycmVzcG9uZGVudHMtZGlubmVyLXNob290aW5nLXN1c3BlY3QtdHJ1bXAtd3JpdGluZy1yY25hMzQyMjQ5P3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB30bf4539) when he opened fire in the hotel where the White House Correspondents’ Dinner was held on Saturday, according to a message he sent to family members shortly before the attack. He was charged today with attempting to assassinate President Trump.
+Iran [has offered to stop attacks in the Strait of Hormuz](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cud3NqLmNvbS9saXZlY292ZXJhZ2UvaXJhbi13YXItc3RyYWl0LW9mLWhvcm11ei0yMDI2L2NhcmQvaXJhbi1vZmZlcnMtZGVhbC10aGF0LXdvdWxkLWxpZnQtaG9ybXV6LWJsb2NrYWRlLWFuZC1zaGVsdmUtbnVjbGVhci10YWxrcy1iNUpIcmJBWU02c1JpWWJIekYxYz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB8fcdb463) if the U.S. ends its blockade of Iranian ports, pauses nuclear negotiations, and fully ends the war, according to officials. Iran’s foreign minister met with Russian President Vladimir Putin, and Trump said in an interview yesterday that he is [not planning to send U.S. representatives to Pakistan for peace talks](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cud3NqLmNvbS9saXZlY292ZXJhZ2UvaXJhbi13YXItc3RyYWl0LW9mLWhvcm11ei0yMDI2L2NhcmQvdHJ1bXAtc2F5cy1pcmFuLXBlYWNlLXRhbGtzLWNhbi1oYXBwZW4tYnktcGhvbmUtaWdKVTRiN3F1SkZwZW5CdFdGTko_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB4af5b3eb) but that Iran “can come to us or they can call us” if the country wants negotiations to continue.
+King Charles III and Queen Camilla arrived in Washington today for a four-day U.S. visit [amid tensions between the Trump administration and Britain](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNC8yNy93b3JsZC9ldXJvcGUva2luZy1jaGFybGVzLXVzLXZpc2l0LXVrLXJlbGF0aW9ucy5odG1sP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBe091f789) over the war with Iran. Charles is set to meet privately with Trump at the White House tomorrow.
+Dispatches
+
+The Wonder Reader: Rafaela Jinich explores stories on the [strange comfort of a rewatch](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLzIwMjYvMDQvY29tZm9ydC1vZi1yZXdhdGNoLWZhbWlsaWFyLWZhdm9yaXRlcy82ODY5NDQvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB1cb85b6c).
+[Explore all of our newsletters here.](https://link.theatlantic.com/click/29767897.0/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25ld3NsZXR0ZXJzLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDIyMTEyMQ/61813432e16c7128e42f4628B52865c35)
+
+More From The Atlantic
+
+[The age of American Caesarism](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvdHJ1bXAtY2Flc2FyLWV4ZWN1dGl2ZS1wb3dlci82ODY4NDYvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB4993934f)
+[The Correspondents’ Dinner was a security success.](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDQvd2hjZC1zZWN1cml0eS10cnVtcC1zaG9vdGVyLzY4Njk1NS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC84e9b558)
+[A lesson for guarding the presidential line of succession](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDQvd2NoZC1zaG9vdGluZy10cnVtcC1zdWNjZXNzaW9uLzY4Njk2MC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB7b38d3e6)
+[Tom Nichols: We cannot harden the world against every attacker.](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvd2hjZC1zaG9vdGVyLWhhcmRlbi10cmFpbnMtaG90ZWxzLWJhbGxyb29tLzY4Njk1Ny8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB07402ce1)
+[David Frum: MAGA’s strange quiet after the shooting](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvd2hjZC1zaG9vdGVyLXRydW1wLWJhbGxyb29tLW1hZ2EtcmVhY3Rpb24vNjg2OTU2Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcB547eb4c2)
+
+-->
+
+Evening Read
+
+(Illustration by Alisa Gao / The Atlantic. Source: Getty.)
+
+ 
+
+[What Happens If Trump Seizes AI Companies](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wNC9haS1uYXRpb25hbGl6YXRpb24tdHJ1bXAtaGVnc2V0aC1hbnRocm9waWMtb3BlbmFpLzY4Njk0My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcC5531f413)
+
+By [Matteo Wong](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9tYXR0ZW8td29uZy8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB4ae69655), [Lila Shroff](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9saWxhLXNocm9mZi8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBea7f2dd5)
+
+AI companies are beginning to entertain the possibility that they could cease to exist. This notion was, until recently, more theoretical: A couple of years ago, an ex-OpenAI employee named Leopold Aschenbrenner wrote a lengthy memo speculating that the U.S. government might soon take control of the industry. By 2026 or 2027, Aschenbrenner wrote, an “obvious question” will be circling through the Pentagon and Congress: Do we need a government-led program for artificial general intelligence—an [AGI](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wMi9kby15b3UtZmVlbC1hZ2kteWV0LzY4NTg0NS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB1086b5bf) Manhattan Project? He predicted that Washington would decide to go all in on such an effort.
+
+[Read the full article.](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wNC9haS1uYXRpb25hbGl6YXRpb24tdHJ1bXAtaGVnc2V0aC1hbnRocm9waWMtb3BlbmFpLzY4Njk0My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcD5531f413)
+
+Culture Break
+
+(Illustration by The Atlantic. Source: Getty.)
+
+ 
+
+Read. A new history of the Red Scare prompts the question: Does literature still have enough influence [to bring down the powerful](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2Jvb2tzLzIwMjYvMDQvc2hha2VzcGVhcmUtYnJvdWdodC1kb3duLW1jY2FydGh5LW1hcmpvcmllLWdhcmJlci1ib29rLXJldmlldy82ODY5NTEvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcB5990daeb)? Charlie Tyson explores.
+
+Slow down. Is hurry the great enemy of spiritual life? Pastor John Mark Comer has won a massive audience by encouraging his followers to [free themselves from the gnawing sense that there is always more to do](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lLzIwMjYvMDUvam9obi1tYXJrLWNvbWVyLXNwaXJpdHVhbC1wcmFjdGljZXMvNjg2NTg2Lz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBbfa9260a), Nancy Walecki writes.
+
+[Play our daily crossword.](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2ZyZWUtZGFpbHktY3Jvc3N3b3JkLXB1enpsZS8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB3a0f2d1a)
+
+[Drew Goins](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2F1dGhvci9kcmV3LWdvaW5zLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcC851b05dd)
+
+Senior editor
+
+Brain running on empty? Fill ’er up here with today’s first Atlantic Trivia question. (Find the rest [here](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RyaXZpYS8yMDI2LzA0LzI3LWdhcy1wcmljZXMtZnJlZWRtYW4ta2FzaG1pci1pcmFuLzY4NjkyNy8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcBb0e89f33).)
+
+What fraction visible at basically every U.S. gas station originated as a parsimonious response to a 1932 one-penny gas tax?
+
+— From Ian Bogost’s essay on the romance of the gas-station sign
+
+Did someone forward you this email? Sign up here.
+
+[Sign up for Inside the Trump Presidency](https://link.theatlantic.com/click/45404478.878363/aHR0cDovL3d3dy50aGVhdGxhbnRpYy5jb20vbmV3c2xldHRlcnMvc2lnbi11cC90cnVtcHMtcmV0dXJuLz91dG1fY2FtcGFpZ249YXRsYW50aWMtZGFpbHktbmV3c2xldHRlciZ1dG1fY29udGVudD0yMDI2MDQyNyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcBfa8a1129), a newsletter in which Atlantic writers help you understand America in the second Trump term.
+
+Rafaela Jinich contributed to this newsletter.
+
+When you buy a book using a link in this newsletter, we receive a commission. Thank you for supporting The Atlantic.
+
+Most Popular on The Atlantic
+
+[The Pentagon May Not Be Telling Trump the Full Picture About the War](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL25hdGlvbmFsLXNlY3VyaXR5LzIwMjYvMDQvaXJhbi13YXItdmFuY2UtaGVnc2V0aC10cnVtcC82ODY5MDUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC1a39793e)
+[What We Learn About Trump in His Rare Moments of Self-Reflection](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3BvbGl0aWNzLzIwMjYvMDQvdHJ1bXAtd2hjZC1zaG9vdGluZy82ODY5NjUvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcBef3cf3b8)
+[The Age of American Caesarism](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2lkZWFzLzIwMjYvMDQvdHJ1bXAtY2Flc2FyLWV4ZWN1dGl2ZS1wb3dlci82ODY4NDYvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwNDI3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9NjY4ZDEzNzExMmI3OTcxMDQxMDliN2Jj/668d137112b797104109b7bcC4993934f)
+[What I Learned About Billionaires at Jeff Bezos’s Private Retreat](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lLzIwMjYvMDUvYmlsbGlvbmFpcmUtY29uc2VxdWVuY2UtZnJlZS1yZWFsaXR5LzY4NjU4OC8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcB8a4f7665)
+[What Happens If Trump Seizes AI Companies](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL3RlY2hub2xvZ3kvMjAyNi8wNC9haS1uYXRpb25hbGl6YXRpb24tdHJ1bXAtaGVnc2V0aC1hbnRocm9waWMtb3BlbmFpLzY4Njk0My8_dXRtX2NhbXBhaWduPWF0bGFudGljLWRhaWx5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9MjAyNjA0MjcmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmbGN0Zz02NjhkMTM3MTEyYjc5NzEwNDEwOWI3YmM/668d137112b797104109b7bcE5531f413)
+
+Truth. Insight. Ideas.
+
+Get unlimited access to rigorous, fact-checked reporting from journalists who still believe the truth matters. Subscribe for less than $2 a week.
+
+[Subscribe](https://link.theatlantic.com/click/45404478.878363/aHR0cHM6Ly9hY2NvdW50cy50aGVhdGxhbnRpYy5jb20vcHJvZHVjdHMvP3V0bV9jb250ZW50PXByb3NwZWN0c19pbmNsdWRlJnV0bV9tZWRpdW09Y3ImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4yNiZsY3RnPTY2OGQxMzcxMTJiNzk3MTA0MTA5YjdiYw/668d137112b797104109b7bcCd1eeab21)
+
+This email was sent to wschenk@gmail.com
+
+You've signed up to receive newsletters from The Atlantic. If you wish to unsubscribe from The Atlantic newsletters, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcr16bi.itqz/d0559b80).
+
+To update your email preferences, [click here](https://link.theatlantic.com/oc/668d137112b797104109b7bcr16bi.itqz/d0559b80).
+
+The Atlantic Monthly Group LLC &middot; 610 Water Street, SW &middot; Washington, DC 20024

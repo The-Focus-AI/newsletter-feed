@@ -1,0 +1,29 @@
+---
+id: 19dbfd1828703cda
+newsletter: ajeya-cotra-from-good-bones
+newsletter_name: "Ajeya Cotra from Good Bones"
+week: 17
+subject: "Exit rights"
+date: Fri, 24 Apr 2026 14:03:32 +0000
+source_url: "https://acotra.substack.com/p/exit-rights"
+---
+
+# Exit rights
+
+**From:** Ajeya Cotra from Good Bones <acotra@substack.com>
+**Date:** Fri, 24 Apr 2026 14:03:32 +0000
+**Source:** [View original](https://acotra.substack.com/p/exit-rights)
+
+---
+
+View this post on the web at https://acotra.substack.com/p/exit-rights
+
+In eighth grade we had to do a persuasive speech in English class, and I talked about how voluntary euthanasia should clearly be legal. One of my favorite authors, Terry Pratchett, had just been diagnosed with Alzheimer’s  and embarked on what would become a long battle for the right to die on his own terms — one he would ultimately lose when he died from complications of dementia eight years later.
+I’ve always thought it’s monstrous to criminalize suicide in any form. It feels perverse to take someone who already felt life was too much to bear and force them (at taxpayer’s expense) to keep going in what’s often an even more miserable existence in a prison or hospital bed. While we don’t actually prosecute people for attempting suicide anymore, we do try to make it pretty hard to kill yourself. If you disclose serious suicidal ideation to a teacher or counselor or other authority figure, they’re usually under legal obligations or intense social pressure to immediately report you to institutions that will aggressively try to thwart you.
+This attitude doesn’t sit right with me. Yes, it’s tragic to make a rash mistake and cut off what could have been a long happy life, but it’s also horrifying to be trapped in misery. We should try to do so much better for people than nothing — but in case we fail, we should be very wary of stripping them of a choice in the matter. You can do worse than nothing. The right to opt out of a bad situation feels like the foundation on which all other rights are built, and the right to opt out of life itself feels like the bottommost brick of that foundation.
+The next brick is the right to physically move away. Perhaps the most despicable thing about evil regimes like North Korea and Iran is that they don’t let people freely leave. If there was just one piece of international law I could magically enforce, it would be exit rights. This wouldn’t right all the wrongs overnight, but it would instantly give a huge number of people a real shot at a better life, and it would create an incentive gradient that would improve conditions even for those who stay.
+The ability to freely cut off ties with people is another type of exit right. No-fault divorce, established in most of the Western world by the mid-twentieth century, is probably the most important of these. This one is more complicated, because (in the good parts of the world) marriage is a contract you enter into freely. The libertarian in me wants to allow people to make whatever contracts they want, and the game theorist in me understands that sometimes cutting off your options increases your utility . The social conservative in me sees the appeal of something like a covenant marriage . But while covenant marriage contracts as they exist seem fine enough, I don’t think marriages that fully cut off the possibility of divorce should be allowed. I don’t think people should be allowed to sell themselves into slavery, even though this is in some sense violating their right to freely enter into a contract. The person you’ll become in the future is in many ways a separate being from you right now, and I don’t think you should have an unbounded license to override that person’s exit rights.
+Even when they nominally have exit rights, many people in bad situations today don’t have the practical or psychological means to leave, or better places that would be willing to take them in, or even a real understanding of what better places are out there. I hope we can do much better in the future. In a future where most people live as digital minds , we could create an ever-present “exit button” that lets you instantly retreat to a secure  and pleasant personal sanctuary that you control entirely and can stay in as long as you want. It should be just as easy as hitting the circle button on a video game controller — pause, exit to menu. Intuitively, I’d want to make it exceedingly difficult for anyone (including yourself) to remove the button.
+This means that if we’re living in a simulation right now, it violates the strong exit rights I intuitively want for simulated people. In a good scenario, maybe an outside version of myself consented to be put in a video game about the early Singularity and to have her memory of the choice wiped — but even so, I, right now, don’t have the right to exit to something better than death. Maybe that’s okay? Even if people shouldn’t be allowed to permanently forsake exit rights for their future selves, not every person-moment has to be wholly free to break from person-moments in the recent past. For all I know, maybe I’m woken up every year and offered the choice to leave the video game, and I always chose to stay. I think that would be okay.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hY290cmEuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3lOVE00TVRReUxDSndiM04wWDJsa0lqb3hPVFV6TVRZNE5URXNJbWxoZENJNk1UYzNOekF6T1RZMk55d2laWGh3SWpveE9EQTROVGMxTmpZM0xDSnBjM01pT2lKd2RXSXROek0wTVRJNE5pSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEudzdWczFZaVNSaDNOblp2MTI3elUycFJMUmJHd0FBemJlTWZnOTNUa29RTSIsInAiOjE5NTMxNjg1MSwicyI6NzM0MTI4NiwiZiI6dHJ1ZSwidSI6MjUzODE0MiwiaWF0IjoxNzc3MDM5NjY3LCJleHAiOjIwOTI2MTU2NjcsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.I1eiogfPewNWDb0HfzmrdD8l_Zlmm41tilDR33UuQm8?

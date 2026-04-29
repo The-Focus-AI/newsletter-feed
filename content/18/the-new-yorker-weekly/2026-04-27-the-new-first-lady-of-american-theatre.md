@@ -1,0 +1,149 @@
+---
+id: 19dd1623e643f11b
+newsletter: the-new-yorker-weekly
+newsletter_name: "The New Yorker Weekly"
+week: 18
+subject: "The New First Lady of American Theatre"
+date: Mon, 27 Apr 2026 19:59:29 -0400 (EDT)
+source_url: "https://link.newyorker.com/view/5bea16dd3f92a40469736b16r16rw.8f9e/43ded480"
+---
+
+# The New First Lady of American Theatre
+
+**From:** The New Yorker Weekly <newyorker@newsletter.newyorker.com>
+**Date:** Mon, 27 Apr 2026 19:59:29 -0400 (EDT)
+**Source:** [View original](https://link.newyorker.com/view/5bea16dd3f92a40469736b16r16rw.8f9e/43ded480)
+
+---
+
+The New Yorker Weekly Newsletter
+
+Michael Schulman on Laurie Metcalf&#x2019;s third act. Plus, an attack at the White House Correspondents&#x2019; dinner; and the quest to solve the mysteries of a message in a bottle.
+
+[
+View in browser
+](https://link.newyorker.com/view/5bea16dd3f92a40469736b16r16rw.8f9e/43ded480)
+|
+[
+Update your preferences
+](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyL21hbmFnZT9zaWQ9TldKbFlURTJaR1F6WmpreVlUUXdORFk1TnpNMllqRTImdXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDQyNzI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16B73f12e2c)
+
+The New Yorker&#x2019;s award-winning journalism is made possible by our subscribers. [Become one today &#xBB;](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS92Mi9vZmZlcnMvbnlyX25ld3NsZXR0ZXJfY21fdW5pdD9zb3VyY2U9RW1haWxfMF9FRFRfTllSX05FV1NMRVRURVJfMF9JTkxJTkVfQ1RBXzAmdXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDQyNzI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16Bf2783e8d)
+
+In today&#x2019;s edition: Laurie Metcalf&#x2019;s third act. Plus, an attack at the White House Correspondents&#x2019; dinner; and the quest to solve the mysteries of a message in a bottle. [Jump to a complete list of what&#x2019;s in this week&#x2019;s issue](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Bd79dd2e2).
+
+Michael Schulman
+
+A staff writer covering arts and culture
+
+Like most anyone who turned on a TV between 1988 and 1997, I first came to know Laurie Metcalf as Aunt Jackie, the rudderless, rubber-faced character she played on the sitcom &#x201C;Roseanne.&#x201D; Metcalf won three Emmy Awards for the role. But her career has been expansive. In the seventies, she was a charter member of the storied Chicago theatre company Steppenwolf, and she has a long list of credits in movies (&#x201C;JFK,&#x201D; &#x201C;Toy Story&#x201D;) and television (&#x201C;Getting On,&#x201D; &#x201C;The Big Bang Theory&#x201D;). But what made me want to profile her, [for this week&#x2019;s issue](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzA1LzA0L2xhdXJpZS1tZXRjYWxmLXByb2ZpbGU_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDQyNzI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16C5d4c6c8a), is her emergence as a leading lady of the Broadway stage. In 2017 and 2018, she won back-to-back Tony Awards, for &#x201C;A Doll&#x2019;s House, Part 2&#x201D; and &#x201C;Three Tall Women,&#x201D; and she&#x2019;s currently on Broadway in an acclaimed revival of &#x201C;Death of a Salesman,&#x201D; playing Linda Loman opposite Nathan Lane. As I reported the Profile, Metcalf invited me into her process: I sat in on rehearsals as she unpacked her counterintuitive take on the character, often played as a doting housewife. &#x201C;The thing I remember is her being described as a doormat,&#x201D; Metcalf told me. &#x201C;I immediately thought of that as a challenge. Does she have to be? And, if she isn&#x2019;t, what is she?&#x201D;
+
+But taking stock of Metcalf&#x2019;s extraordinary career brought us to an uncomfortable subject: her collaboration with the high-powered producer Scott Rudin, who retreated from show business in 2021, amid allegations that he had bullied his staff. He returned to Broadway last fall, with &#x201C;Little Bear Ridge Road,&#x201D; a play starring Metcalf, and is behind this star-studded &#x201C;Salesman.&#x201D; Rudin, more than anyone, is responsible for Metcalf&#x2019;s triumphant third act; both her Tony Awards, as well as her Oscar nomination for &#x201C;Lady Bird,&#x201D; arose from Rudin projects. He spoke to me about her ability to play &#x201C;women who would normally be overlooked but somehow elbow their way to the front of your perception.&#x201D; When I asked Metcalf about her decision to work with him again, clearing the path for his comeback, her response had as much conflicted emotion as you&#x2019;d find in one of her characters. In recent years, we&#x2019;ve seen the return of several &#x201C;cancelled&#x201D; men, raising thorny questions about accountability and rehabilitation. Metcalf&#x2019;s ongoing partnership with Rudin&#x2014;which has yielded spectacular artistic results&#x2014;throws those questions into sharp relief.
+
+[Read or listen to the story](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzA1LzA0L2xhdXJpZS1tZXRjYWxmLXByb2ZpbGU_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDQyNzI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16D5d4c6c8a)
+
+More from the Issue
+
+Cover by Tomer Hanuka
+
+Trump&#x2019;s pardon economy
+
+Ruth Marcus on [the new business of getting clemency](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzA1LzA0L2RvbmFsZC10cnVtcHMtcGFyZG9uLWVjb25vbXk_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDQyNzI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16B3c140fcf)
+
+Lee Zeldin&#x2019;s unmaking of the E.P.A.
+
+Elizabeth Kolbert on [the man who&#x2019;s turning the agency into a corporate lapdog](https://link.newyorker.com/click/45405068.393026/aHR0cDovL25ld3lvcmtlci5jb20vbWFnYXppbmUvMjAyNi8wNS8wNC9jYW4tdGhlLWVwYS1zdXJ2aXZlLWxlZS16ZWxkaW4_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDQyNzI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16B2c5e60c1)
+
+Message in a bottle
+
+Lauren Collins joins [a quest to find a seafaring note&#x2014;and to track down its author](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzA1LzA0L3NpZ25lZC1zZWFsZWQtZGVsaXZlcmVkP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXRueSZ1dG1fbWFpbGluZz1UTllfV2Vla2x5XzA0MjcyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPXRueV93ZWVrbHlfZGlnZXN0JmJ4aWQ9NWJlYTE2ZGQzZjkyYTQwNDY5NzM2YjE2JmNuZGlkPTIyNzY5NjEyJmhhc2hhPWNlZTY4ZWY0OWUxZTA3ZGRhNDcxZGJjNzJhMjA1N2M2Jmhhc2hiPWVjZDkyYjU3ZGE0ODkzNTQ4ZGZlMTA2NTZiZDk0ZDJhN2ZlNzI5YzMmaGFzaGM9NzI1NTZjZDNmNWVkYzM2MDhlNTFmMWYyZDMwNGVjNzE4MDYzMzNlOGNjMTg4OGYzNjQ2OTcyODRkMzgyOGI3ZCZlc3JjPW1lcmdlZnJvbV8xNDUxNjk/5bea16dd3f92a40469736b16B486ec8eb)
+
+Plus: Hannah Goldfield on [the Sqirl redemption arc](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzA1LzA0L3RoZS1zcWlybC1yZWRlbXB0aW9uLWFyYz91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B29671d6a); Hilton Als on [Marcel Duchamp](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI2LzA1LzA0L21hcmNlbC1kdWNoYW1wLWFydC1yZXZpZXctbW9tYT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Bbbc7d687); and more.
+
+[Explore the issue](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Cd79dd2e2)
+
+In Case You Missed It
+
+Dispatch
+Inside the White House Correspondents&#x2019; Dinner as Gunshots Rang Out
+
+I thought a caterer might have dropped a stack of plates, but then I heard shouts of &#x201C;Shots fired!&#x201D;
+
+By Antonia Hitchens
+
+The Lede
+What Nicol&#xE1;s Maduro&#x2019;s Life Is Like in a Notorious Brooklyn Jail
+
+The President of Venezuela has reportedly been stuck in a unit for high-profile inmates, known for housing rappers and tech moguls, while his country forms an uneasy relationship with Trump.
+
+By Diego Lasarte
+
+The Lede
+LIV Golf Is Dying of Boredom
+
+Once you got past the Saudi-backed league&#x2019;s business drama, what you were left with was watching sensationally wealthy, morally compromised middle-aged men go to work.
+
+By Zach Helfand
+
+Dept. of Design
+Donald Trump&#x2019;s Triumphal Arch and the Architecture of Autocracy
+
+When asked by a reporter whom the arch would be for, Trump said, &#x201C;Me.&#x201D;
+
+By Adam Gopnik
+
+Letter from Ukraine
+A Chernobyl Widow&#x2019;s Tragedy, Forty Years Later
+
+Nataliia Khodymchuk lived in memory of her late husband, the first worker to die at the nuclear reactor, until she fell victim to a Russian attack.
+
+By Lizzie Johnson
+
+Our Columnists
+
+Letter from Trump&#x2019;s Washington
+Trump and the Iran Deal That Wasn&#x2019;t
+
+It&#x2019;s tough to reach an agreement with a President whose word is not his bond.
+
+By Susan B. Glasser
+
+The Financial Page
+The Lessons from Jerome Powell&#x2019;s Defiance of Donald Trump
+
+An independent Fed needs an independent leader. Is Kevin Warsh up to the job?
+
+By John Cassidy
+
+Quote of the Week
+
+&#x201C;At a certain level, attaining celebrity requires a body.&#x201D;
+
+&#x2014; T. M. Brown on the possibilities&#x2014;and limits&#x2014;of the A.I. influencer
+
+Podcasts
+
+The New Yorker Radio Hour: Senator Rand Paul on his effort to restrain the President&#x2019;s actions in Iran, and how he would campaign against other G.O.P. Presidential candidates in 2028. [Listen and follow &#xBB;](https://link.newyorker.com/external/45405068.393026/aHR0cDovL3N3YXAuZm0vbC90bnktcmFkaW9ob3VyLXJFZkkwckV5P3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXRueSZ1dG1fbWFpbGluZz1UTllfV2Vla2x5XzA0MjcyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPXRueV93ZWVrbHlfZGlnZXN0JmJ4aWQ9NWJlYTE2ZGQzZjkyYTQwNDY5NzM2YjE2JmNuZGlkPTIyNzY5NjEyJmhhc2hhPWNlZTY4ZWY0OWUxZTA3ZGRhNDcxZGJjNzJhMjA1N2M2Jmhhc2hiPWVjZDkyYjU3ZGE0ODkzNTQ4ZGZlMTA2NTZiZDk0ZDJhN2ZlNzI5YzMmaGFzaGM9NzI1NTZjZDNmNWVkYzM2MDhlNTFmMWYyZDMwNGVjNzE4MDYzMzNlOGNjMTg4OGYzNjQ2OTcyODRkMzgyOGI3ZCZlc3JjPW1lcmdlZnJvbV8xNDUxNjk/5bea16dd3f92a40469736b16B8ff5308a)
+
+&#x201C;Blood Relatives,&#x201D; from In the Dark: A six-part series that asks whether one of the U.K.&#x2019;s most famous murder cases ended with a wrongful conviction. [Listen and follow &#xBB;](https://link.newyorker.com/external/45405068.393026/aHR0cDovL3N3YXAuZm0vbC90bnktaXRkLXlXTDdyNT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Bd908b708)
+
+Cartoon by Liana Finck
+
+&#x201C;I peed on them.&#x201D;
+
+[See the cartoons from this week&#x2019;s issue](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9nYWxsZXJ5L2NhcnRvb25zLWZyb20tdGhlLW1heS00LTIwMjYtaXNzdWU_dXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDQyNzI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16B5995cea0)
+
+P.S. Even good cooks can struggle when it comes to baking. Our food writer Helen Rosner offers a tip: [the problem might be your oven](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9jdWx0dXJlL3RoZS1mb29kLXNjZW5lL2hlbGVuLWhlbHAtbWUtaG93LXRvLXJlY2FsaWJyYXRlLXlvdXIta2l0Y2hlbj91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Bc07b7ea2). &#x1F35E;
+
+Get more New Yorker in your inbox.
+
+Was this forwarded to you? [Sign up to get the weekly newsletter](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyL3dlZWtseT91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16Bde920af8). Or [explore more newsletters](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyP3V0bV9zb3VyY2U9bmwmdXRtX2JyYW5kPXRueSZ1dG1fbWFpbGluZz1UTllfV2Vla2x5XzA0MjcyNiZ1dG1fY2FtcGFpZ249YXVkLWRldiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPXRueV93ZWVrbHlfZGlnZXN0JmJ4aWQ9NWJlYTE2ZGQzZjkyYTQwNDY5NzM2YjE2JmNuZGlkPTIyNzY5NjEyJmhhc2hhPWNlZTY4ZWY0OWUxZTA3ZGRhNDcxZGJjNzJhMjA1N2M2Jmhhc2hiPWVjZDkyYjU3ZGE0ODkzNTQ4ZGZlMTA2NTZiZDk0ZDJhN2ZlNzI5YzMmaGFzaGM9NzI1NTZjZDNmNWVkYzM2MDhlNTFmMWYyZDMwNGVjNzE4MDYzMzNlOGNjMTg4OGYzNjQ2OTcyODRkMzgyOGI3ZCZlc3JjPW1lcmdlZnJvbV8xNDUxNjk/5bea16dd3f92a40469736b16Be0af6730) on books, science, food, politics, and more.
+
+You&#x2019;re receiving this e-mail because you signed up for the weekly newsletter from The New Yorker.
+
+[Manage your preferences](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyL21hbmFnZT9zaWQ9TldKbFlURTJaR1F6WmpreVlUUXdORFk1TnpNMllqRTImdXRtX3NvdXJjZT1ubCZ1dG1fYnJhbmQ9dG55JnV0bV9tYWlsaW5nPVROWV9XZWVrbHlfMDQyNzI2JnV0bV9jYW1wYWlnbj1hdWQtZGV2JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09dG55X3dlZWtseV9kaWdlc3QmYnhpZD01YmVhMTZkZDNmOTJhNDA0Njk3MzZiMTYmY25kaWQ9MjI3Njk2MTImaGFzaGE9Y2VlNjhlZjQ5ZTFlMDdkZGE0NzFkYmM3MmEyMDU3YzYmaGFzaGI9ZWNkOTJiNTdkYTQ4OTM1NDhkZmUxMDY1NmJkOTRkMmE3ZmU3MjljMyZoYXNoYz03MjU1NmNkM2Y1ZWRjMzYwOGU1MWYxZjJkMzA0ZWM3MTgwNjMzM2U4Y2MxODg4ZjM2NDY5NzI4NGQzODI4YjdkJmVzcmM9bWVyZ2Vmcm9tXzE0NTE2OQ/5bea16dd3f92a40469736b16C73f12e2c) |
+[View our Privacy Policy](https://link.condenast.com/click/45405068.393026/aHR0cDovL3d3dy5jb25kZW5hc3QuY29tL3ByaXZhY3ktcG9saWN5Lz91dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5I3ByaXZhY3lwb2xpY3k/5bea16dd3f92a40469736b16B60b67101) |
+[Unsubscribe](https://link.newyorker.com/click/45405068.393026/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9uZXdzbGV0dGVyL3Vuc3Vic2NyaWJlP25ld3NsZXR0ZXJJZD0yNDg4NDAmZW1haWw9d3NjaGVuayU0MGdtYWlsLmNvbSZ1dG1fc291cmNlPW5sJnV0bV9icmFuZD10bnkmdXRtX21haWxpbmc9VE5ZX1dlZWtseV8wNDI3MjYmdXRtX2NhbXBhaWduPWF1ZC1kZXYmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT10bnlfd2Vla2x5X2RpZ2VzdCZieGlkPTViZWExNmRkM2Y5MmE0MDQ2OTczNmIxNiZjbmRpZD0yMjc2OTYxMiZoYXNoYT1jZWU2OGVmNDllMWUwN2RkYTQ3MWRiYzcyYTIwNTdjNiZoYXNoYj1lY2Q5MmI1N2RhNDg5MzU0OGRmZTEwNjU2YmQ5NGQyYTdmZTcyOWMzJmhhc2hjPTcyNTU2Y2QzZjVlZGMzNjA4ZTUxZjFmMmQzMDRlYzcxODA2MzMzZThjYzE4ODhmMzY0Njk3Mjg0ZDM4MjhiN2QmZXNyYz1tZXJnZWZyb21fMTQ1MTY5/5bea16dd3f92a40469736b16B5ced37dd)
+
+Copyright &#xA9; Cond&#xE9; Nast 2026. One World Trade Center, New York, NY 10007. All rights
+reserved.
